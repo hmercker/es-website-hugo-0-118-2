@@ -1,13 +1,13 @@
 ---
-title: "Messages Contemporains par ordre chronologique"
-menu_title: "Messages Contemporains par ordre chronologique"
+title: "Mensajes contemporáneos en orden cronológico"
+menu_title: "Mensajes contemporáneos en orden cronológico"
 description: ""
 date: 2017-11-26 15:43:52+00:00
 draft: False
 hidden: False
-weight: 330
+weight:
 ---
-## Messages Contemporains par ordre chronologique
+## Mensajes contemporáneos en orden cronológico
 
 | **Année**
 |---

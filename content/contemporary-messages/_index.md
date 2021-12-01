@@ -1,13 +1,12 @@
 ---
-title: "Messages Contemporains"
-menu_title: "Messages Contemporains"
+title: "Mensajes contemporáneos"
+menu_title: "Mensajes contemporáneos"
 description: ""
 date: 2020-06-26 15:43:52+00:00
 draft: False
 hidden: False
-weight: 60
+weight:
 ---
-# Messages Contemporains
+# Mensajes contemporáneos
 
-1. [Contemporary messages by date order](/contemporary-messages/contemporary-messages-by-date-order/)
-2. [Messages Contemporains selon le médium de réception](/contemporary-messages/contemporary-messages-per-medium/)
+1. [Mensajes contemporáneos por orden de fecha](/contemporary-messages/contemporary-messages-by-date-order/)
