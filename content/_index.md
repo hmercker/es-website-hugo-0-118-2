@@ -1,32 +1,32 @@
 ---
-title: "Le chemin vers la vérité de l'amour éternel"
-menu_title: "Le chemin vers la vérité de l'amour éternel"
+title: "El camino hacia la verdad del amor eterno"
+menu_title: "El camino hacia la verdad del amor eterno"
 description: ""
 date: 2020-06-06 07:23:19+00:00
 draft: False
 hidden: False
 weight:
 ---
-## Un voyage spirituel - Spanish
+## Un viaje espiritual
 
-### Le chemin vers la vérité de l'amour éternel
+### El camino hacia la verdad del amor eterno
 
-Tôt ou tard, chacun d'entre nous se lance à la recherche de la vérité, de l'amour, d'une connexion de l'âme avec le Divin. Ce site web est dédié à ceux qui sont à la recherche de la vérité - pour comprendre le sens de la vie, pour trouver l'harmonie et la paix, pour comprendre ce qui se passe quand nous mourons, pour suivre l'élan intérieur de la recherche de Dieu, la recherche de quelque chose qui nous mettra en harmonie avec ce que nous avons appris au fil des ans à travers les différentes voies spirituelles, les religions établies et autres.
+Tarde o temprano, cada uno de nosotros se embarca en la búsqueda de la verdad, del amor, de la conexión del alma con lo divino. Este sitio web está dedicado a aquellos que buscan la verdad - para entender el significado de la vida, para encontrar la armonía y la paz, para entender lo que sucede cuando morimos, para seguir el impulso interno de la búsqueda de Dios, la búsqueda de algo que nos llevará a la armonía con lo que hemos aprendido a lo largo de los años a través de los diferentes caminos espirituales, religiones establecidas y otros.
 
-Ce qui est présenté dans les pages suivantes est à la disposition de tout chercheur où le désir d'amour du cœur ne se consume jamais, où la faim de vérité et de sagesse est toujours présente, où la soif des eaux de la paix et de la félicité éternelles n'est jamais étanchée. C'est là que se révèle un chemin qui mène aux sources éternelles de l'amour, l'amour éternel de Dieu. Il en ressort les vérités que Jésus a vécues et révélées à l'humanité. Par le biais de messages célestes, ces vérités ont été redonnées à l'humanité et, par gratitude, nous les partageons avec tout le monde.
+Lo que se presenta en las siguientes páginas está disponible para cualquier buscador donde el deseo de amor del corazón nunca se consume, donde el hambre de verdad y sabiduría está siempre presente, donde la sed de las aguas de la paz y la dicha eternas nunca se apaga. Es aquí donde se revela un camino que conduce a las fuentes eternas del amor, el amor eterno de Dios. De ahí surgen las verdades que Jesús vivió y reveló a la humanidad. A través de los mensajes celestiales, estas verdades han sido devueltas a la humanidad y, por gratitud, las compartimos con todos.
 
-Sur ce site, vous trouverez des réponses à de nombreuses questions d'ordre spirituel. Par exemple, ces questions fréquemment posées trouvent une réponse complète :
+En este sitio encontrará respuestas a muchas preguntas espirituales. Por ejemplo, estas preguntas frecuentes tienen una respuesta completa:
 
-1. Que nous arrive-t-il après la mort ? Vivons-nous ou dormons-nous, comment vivons-nous, communiquons-nous et nous déplaçons-nous ? Que faisons-nous la plupart du temps ?
+1. ¿Qué nos pasa después de la muerte? ¿Vivimos o dormimos, cómo vivimos, nos comunicamos y nos movemos? ¿Qué hacemos la mayor parte del tiempo?
 
-2. Pouvons-nous ressentir l'amour de Dieu ?
+2. ¿Podemos sentir el amor de Dios?
 
-3. Nous sommes l'âme. Comment évoluons-nous dans nos perceptions de l'âme ? En quoi consiste la transformation de l'âme ?
+3. Somos el alma. ¿Cómo evolucionamos en nuestra percepción del alma? ¿Qué es la transformación del alma?
 
-4. Réincarnation - vrai ou faux ?
+4. Reencarnación: ¿cierto o falso?
 
-5. Vivons-nous à l'aube d'une nouvelle ère de lumière ? Que savons-nous des changements de la terre ?
+5. ¿Estamos viviendo el amanecer de una nueva era de luz? ¿Qué sabemos de los cambios en la tierra?
 
-De nombreux sujets sont abordés, par exemple le sens des paraboles de Jésus, les lois spirituelles, et bien d’autres encore.
+Se tratan muchos temas, como el significado de las parábolas de Jesús, las leyes espirituales y mucho más.
 
-Chacun est libre d'intégrer les vérités présentées dans sa vie, indépendamment de son origine culturelle ou de sa situation dans la vie. Que les pages qui suivent vous apportent une grande joie sur le chemin de votre âme, et la réalisation profonde que nous - chacun d'entre nous - sommes tendrement aimés.
+Todo el mundo es libre de integrar las verdades presentadas en su vida, independientemente de su origen cultural o situación vital. Que las siguientes páginas te aporten una gran alegría en el viaje de tu alma y la profunda constatación de que todos y cada uno de nosotros somos muy queridos.

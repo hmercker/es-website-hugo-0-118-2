@@ -1,13 +1,13 @@
 ---
-title: "Messages Divers"
-menu_title: "Messages Divers"
+title: "Mensajes varios"
+menu_title: "Mensajes varios"
 description: ""
 date: 2020-06-28 02:18:11+11:00
 draft: False
 hidden: False
 weight: 120
 ---
-## Messages Divers
+## Mensajes varios
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---
