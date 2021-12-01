@@ -9,5 +9,5 @@ weight: 150
 ---
 ## Les années perdues de Jésus
 
-**Auteur** | **Titre du message** | **Date du message**
+**Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---

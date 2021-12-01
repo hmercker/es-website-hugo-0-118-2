@@ -9,5 +9,5 @@ weight: 80
 ---
 ## Messages après la mort de Padgett
 
-**Auteur** | **Titre du message** | **Date du message**
+**Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---

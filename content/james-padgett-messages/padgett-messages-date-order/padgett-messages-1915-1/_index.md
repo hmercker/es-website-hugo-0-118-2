@@ -1,13 +1,13 @@
 ---
-title: "Par ordre Chronologique 1915 - Première Partie"
-menu_title: "Par ordre Chronologique 1915 - Première Partie"
+title: "Por orden cronológico 1915 - Primera parte"
+menu_title: "Por orden cronológico 1915 - Primera parte"
 description: ""
 date: 2020-06-28 15:43:52+00:00
 draft: False
 hidden: True
 weight:
 ---
-### Par ordre Chronologique 1915 - Première Partie
+### Por orden cronológico 1915 - Primera parte
 
-**Auteur** | **Titre du message** | **Date du message**  
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---

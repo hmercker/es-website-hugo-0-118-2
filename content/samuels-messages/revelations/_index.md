@@ -9,5 +9,5 @@ weight: 100
 ---
 ## Révélations
 
-**Auteur** | **Titre du message** | **Date du message**
+**Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---

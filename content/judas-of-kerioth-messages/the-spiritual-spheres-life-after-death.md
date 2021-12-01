@@ -9,5 +9,5 @@ weight: 170
 ---
 ## Les Sphères Spirituelles - la vie après la mort
 
-**Auteur** | **Titre du message** | **Date du message**
+**Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---

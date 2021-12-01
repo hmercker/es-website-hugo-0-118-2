@@ -1,33 +1,33 @@
 ---
-title: "Les messages de James Padgett par ordre Chronologique"
-menu_title: "Les messages de James Padgett par ordre Chronologique"
+title: "Mensajes de James Padgett en orden cronológico"
+menu_title: "Mensajes de James Padgett en orden cronológico"
 description: ""
 date: 2017-11-26 15:43:52+00:00
 draft: False
 hidden: False
 weight: 30
 ---
-## Les messages de James Padgett par ordre Chronologique
+## Mensajes de James Padgett en orden cronológico
 
-Originellement et historiquement, le premier éditeur des messages de James Padgett, le Dr Stone, n’a pas chosi une publication chronologique des messages reçus par James Padgett. Ne disposant que de très faibles revenus et ne sachant pas s’il aurait la possibilité de publier l’intégralité des messages, Le Dr Stone a donc décidé de regrouper, pour une première edition, les messages les plus importants et de les classer par thèmes.
+Originalmente e históricamente, el primer editor de los mensajes de James Padgett, el Dr. Stone, no eligió una publicación cronológica de los mensajes recibidos por James Padgett. Con muy pocos ingresos y sin saber si podría publicar todos los mensajes, el Dr. Stone decidió agrupar los más importantes para una primera edición y clasificarlos por temas.
 
-Alors que l’ensemble des messages a été édité, il est intéressant de découvrir, au fil des années, les messages reçus et d’observer comment Jésus et ses disciples ont progressivement révélé à James Padgett les enseignements fondamentaux tells qu’ils ont été révélés il y a 2000 ans. A ce sujet, il est important d’observer que, dès son second message, Jésus a tenu à affirmer que, contrairement aux enseignements des églises Chrétiennes Orthodoxes, il n’était pas Dieu. Dans ce même message, Jésus affirme également que, en ce qui concerne sa naissance et son existence physique, il ne fut qu’un être humain et qu’il n’est aucunement né de l’Esprit Saint,au sens entretenu par les églises orthodoxes. Il est intéressant de noter comment James Padgett a évolué dans sa reception de ces messages alors que, venant, d’un univers méthodiste traditionnel il n’était aucunement preparé à la communication avec l’au-delà.
+Como se ha editado el conjunto de mensajes, es interesante descubrir, a lo largo de los años, los mensajes recibidos y observar cómo Jesús y sus discípulos fueron revelando a James Padgett las enseñanzas fundamentales tal y como fueron reveladas hace 2000 años. A este respecto, es importante señalar que, en su segundo mensaje, Jesús se empeñó en afirmar que, en contra de las enseñanzas de las iglesias cristianas ortodoxas, él no era Dios. En el mismo mensaje, Jesús también afirmó que, en lo que respecta a su nacimiento y existencia física, sólo era un ser humano y que de ninguna manera había nacido del Espíritu Santo en el sentido mantenido por las iglesias ortodoxas. Es interesante observar cómo James Padgett evolucionó en la recepción de estos mensajes cuando, al provenir de una formación metodista tradicional, no estaba en absoluto preparado para la comunicación con el más allá.
 
-| **Année**
+| **Año**
 |---
 | [1914](/james-padgett-messages/padgett-messages-date-order/padgett-messages-1914/) |
-| [1915 - Première Partie](/james-padgett-messages/padgett-messages-date-order/padgett-messages-1915-1/) |
-| [1915 - Deuxième Partie](/james-padgett-messages/padgett-messages-date-order/padgett-messages-1915-2/) |
+| [1915 - Primera parte](/james-padgett-messages/padgett-messages-date-order/padgett-messages-1915-1/) |
+| [1915 - Segunda parte](/james-padgett-messages/padgett-messages-date-order/padgett-messages-1915-2/) |
 | [1916](/james-padgett-messages/padgett-messages-date-order/padgett-messages-1916/) |
 | [1917](/james-padgett-messages/padgett-messages-date-order/padgett-messages-1917/) |
 | [1918](/james-padgett-messages/padgett-messages-date-order/padgett-messages-1918/) |
 | [1919](/james-padgett-messages/padgett-messages-date-order/padgett-messages-1919/) |
 | [1920-1922](/james-padgett-messages/padgett-messages-date-order/padgett-messages-1920-1922/) |
 
-Commentaire:
+Comentario:
 
-Alors que le monde entier traverse actuellement une crise économique, sanitaire et sociale dont la portée et les conséquences ne nous sont que partiellement connues, il convient plus que jamais que l’humanité se place sous la protection et la guidance de Dieu. Lorsque l’on invoque les attributs Divins, le premier attribut auquel nous pensons c’est l’AMOUR. Certes cet attribut est fondamental et suprême, bien qu’il soit très mal compris. Cependant il est « secondé » par un autre attribut, lui aussi, fondamental : l’HUMILITE. Et ces deux attributs sont difficiles à acquérir et à maîtriser.
+En un momento en que el mundo entero atraviesa una crisis económica, sanitaria y social, cuyo alcance y consecuencias sólo conocemos parcialmente, es más oportuno que nunca que la humanidad se ponga bajo la protección y guía de Dios. Cuando invocamos los atributos divinos, el primer atributo en el que pensamos es el AMOR. Ciertamente, este atributo es fundamental y supremo, aunque es muy malinterpretado. Sin embargo, está "secundado" por otro atributo, también fundamental: la HUMILDAD. Y ambos atributos son difíciles de adquirir y dominar.
 
-Il est vraiment essentiel de prendre en considération ce message d’Amour de Dieu : nous ne sommes pas seuls. Dieu désire exprimer Son Amour à chacun de nous. Libre à nous cependant d’accepter ou de refuser cette offre à laisser notre âme à être transformée par Son Amour. En aucun  cas Dieu nous demande de participer à un culte ou de bénéficier des sacrements d’une église particulière. Bien entendu, Dieu n’émet aucune objection à cette attitude si tel est notre souhait. Mais il est essentiel de dépasser le stade d’une simple tradition et d’ouvrir notre âme et notre cœur à la réception de cet Amour.
+Es realmente esencial considerar este mensaje del Amor de Dios: no estamos solos. Dios desea expresar su amor a cada uno de nosotros. Sin embargo, somos libres de aceptar o rechazar esta oferta para dejar que nuestra alma sea transformada por Su Amor. En ningún caso Dios nos pide que participemos en un culto o que nos beneficiemos de los sacramentos de una iglesia concreta. Por supuesto, Dios no se opone a esta actitud si así lo deseamos. Pero es esencial que superemos la etapa de la mera tradición y abramos nuestras almas y corazones para recibir este Amor.
 
-Tel est et tel a toujours été l’unique plan de Dieu à travers tous les âges. Il est fort probable que de très anciennes civilisations, même si elles ne semblent pas avoir été aussi technologiquement avancées que notre société moderne, semblent avoir disposé d’une connaissance intérieure permettant de vivre autrement. Et c’est à cette redécouverte que Dieu nous invite aujourd’hui à travers les messages communiqués à James Padgett au cours des premières années du vingtième siècle. Les dernières découvertes scientifiques vont d’ailleurs dans ce sens parce qu’elles énoncent qu’au niveau atomique, les différents constituants de la matière semblent non localisés. Les physiciens quantiques nous expliquent que nous sommes donc tous reliés par une énergie qui n’est autre que l’Énergie Divine.
+Este es y ha sido siempre el único plan de Dios en todas las épocas. Es muy probable que las civilizaciones antiguas, aunque no parecen haber sido tan avanzadas tecnológicamente como nuestra sociedad moderna, parecen haber tenido el conocimiento interno para vivir de otra manera. Y es a este redescubrimiento al que Dios nos invita hoy a través de los mensajes comunicados a James Padgett durante los primeros años del siglo XX. Los últimos descubrimientos científicos coinciden con esto porque afirman que, a nivel atómico, los diferentes constituyentes de la materia parecen no estar localizados. Los físicos cuánticos explican que todos estamos conectados por una energía que no es otra que la Energía Divina.

@@ -9,5 +9,5 @@ weight: 180
 ---
 ## Messages sur la Spiritualité en général
 
-**Auteur** | **Titre du message** | **Date du message**
+**Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---

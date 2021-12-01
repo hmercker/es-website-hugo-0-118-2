@@ -9,5 +9,5 @@ weight: 160
 ---
 ## Le ministère public de Jésus
 
-**Auteur** | **Titre du message** | **Date du message**
+**Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---

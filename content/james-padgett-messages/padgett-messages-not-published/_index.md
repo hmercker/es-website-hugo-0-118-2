@@ -1,13 +1,13 @@
 ---
-title: "Messages de James Padgett non publiés"
-menu_title: "Messages de James Padgett non publiés"
+title: "Mensajes inéditos de James Padgett"
+menu_title: "Mensajes inéditos de James Padgett"
 description: ""
 date: 2020-06-28 15:43:52+00:00
 draft: False
 hidden: False
 weight: 60
 ---
-## Messages de James Padgett non publiés
+## Mensajes inéditos de James Padgett
 
-**Auteur** | **Titre du message** | **Date du message**
+**Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---

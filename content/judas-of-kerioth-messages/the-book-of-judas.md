@@ -9,5 +9,5 @@ weight: 130
 ---
 ## Consultation du livre de Judas
 
-**Auteur** | **Titre du message** | **Date du message**
+**Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---

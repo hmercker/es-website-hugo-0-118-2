@@ -1,13 +1,13 @@
 ---
-title: "Messages Contemporains de Jésus"
-menu_title: "Messages Contemporains de Jésus"
+title: "Mensajes contemporáneos de Jesús"
+menu_title: "Mensajes contemporáneos de Jesús"
 description: ""
 date: 2020-06-28 15:43:52+00:00
 draft: False
 hidden: False
 weight: 230
 ---
-## Messages Contemporains de Jésus
+## Mensajes contemporáneos de Jesús
 
-**Auteur** | **Titre du message** | **Date du message**  
+**Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---

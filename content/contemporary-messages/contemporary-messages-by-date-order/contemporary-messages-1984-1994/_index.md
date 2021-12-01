@@ -9,5 +9,5 @@ weight:
 ---
 ### Mensajes Contemporáneos 1984-1994
 
-**Auteur** | **Titre du message** | **Date du message**  
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---

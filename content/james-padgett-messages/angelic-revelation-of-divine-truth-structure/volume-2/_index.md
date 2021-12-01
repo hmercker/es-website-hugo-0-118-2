@@ -9,5 +9,5 @@ weight: 2
 ---
 ### Volume 2
 
-**Page** | **Auteur** | **Titre du message** | **Date du message**  
+**Página** | **Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---|---
