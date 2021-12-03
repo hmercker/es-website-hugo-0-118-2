@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "es-ES"
-title = "elcamino de la verdad"
+title = "el camino de la verdad"
 theme = "newbirth"
 enableRobotsTXT = true
 googleAnalytics = "UA-xxxxx-1"
