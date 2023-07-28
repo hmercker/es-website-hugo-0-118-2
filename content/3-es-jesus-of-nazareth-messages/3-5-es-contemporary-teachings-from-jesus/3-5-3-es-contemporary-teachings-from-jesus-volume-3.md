@@ -9,5 +9,7 @@ weight:
 ---
 ### Enseñanzas contemporáneas de Jesús Volumen 3
 
+el texto seguirá
+
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---

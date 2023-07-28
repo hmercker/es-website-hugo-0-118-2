@@ -4,7 +4,7 @@ menu_title: "Enseñanzas contemporáneas de Jesús"
 description: "Enseñanzas contemporáneas de Jesús"
 date: 2023-07-26 15:43:52+00:00
 draft: False
-hidden: True
+hidden: False
 weight: 50
 ---
 ## Enseñanzas contemporáneas de Jesús

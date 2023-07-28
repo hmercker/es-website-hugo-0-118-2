@@ -9,5 +9,7 @@ weight:
 ---
 ### Enseñanzas Contemporáneas de Jesús Volumen 2
 
+el texto seguirá
+
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
