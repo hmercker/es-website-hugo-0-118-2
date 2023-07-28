@@ -4,7 +4,7 @@ menu_title: "Mensajes contemporáneos"
 description: ""
 date: 2020-06-26 15:43:52+00:00
 draft: False
-hidden: True
+hidden: False
 weight: 40
 ---
 # Mensajes contemporáneos
