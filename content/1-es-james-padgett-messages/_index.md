@@ -18,4 +18,4 @@ weight: 10
 7. [El Génesis revisitado](/1-es-james-padgett-messages/1-7-es-genesis-revisited/)
 8. [Los mensajes de James Padgett y la Biblia](/1-es-james-padgett-messages/1-8-es-what-do-the-messages-say-about-the-bible/)
 9. [El testimonio del Dr. Leslie Rippon Stone](/1-es-james-padgett-messages/1-9-es-the-testimony-of-dr-leslie-rippon-stone/)
-10. [Quién era James Edward Padgett](/1-es-james-padgett-messages/1-10-es-who-was-james-edward-padgett/)
+10. [¿ Quién era James Edward Padgett ?](/1-es-james-padgett-messages/1-10-es-who-was-james-edward-padgett/)

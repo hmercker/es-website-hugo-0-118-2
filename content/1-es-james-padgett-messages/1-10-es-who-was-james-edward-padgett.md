@@ -1,13 +1,13 @@
 ---
-title: "Quién era James Edward Padgett"
-menu_title: "Quién era James Edward Padgett"
-description: "Quién era James Edward Padgett"
+title: "¿ Quién era James Edward Padgett ?"
+menu_title: "¿ Quién era James Edward Padgett ?"
+description: "¿ Quién era James Edward Padgett ?"
 date: 2023-07-26 06:25:48+00:80
 draft: False
 hidden: False
 weight: 100
 ---
-## Quién era James Edward Padgett
+## ¿ Quién era James Edward Padgett ?
 
 ![Title](/1-es-james-padgett-messages/James-Padgett-200x300.jpg)
 
