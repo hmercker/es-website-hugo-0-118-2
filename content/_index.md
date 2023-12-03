@@ -32,3 +32,7 @@ Se abordan muchos otros temas, por ejemplo, el significado de las parábolas de 
 Estas Revelaciones están disponibles para todo el mundo a fin de incorporarlas en su vida, independientemente de su origen cultural o de su posición en la vida. Que las siguientes páginas te aporten una gran alegría en el camino de tu alma, y la profunda comprensión de que nosotros - cada uno de nosotros - somos muy queridos por nuestro Padre Celestial.
 
 El sitio web elcaminodelaverdad.es no forma parte ni pretende servir a ninguna actividad institución, movimiento o confesión religiosa.  Este sitio web tiene como único objetivo ayudar al Creador del Universo, Dios, a redimir a la humanidad y revelar la importancia de rezar por el Amor Divino.
+
+<p style="text-align: center;">
+<script type="text/javascript" src="//counter.websiteout.net/js/5/6/0/1"></script>
+</p>
