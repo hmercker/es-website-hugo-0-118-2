@@ -11,7 +11,7 @@ weight: 70
 
 *El editor original de Los Mensajes de Padgett.*
 
-![stone](/static/portraits/es-leslie-r-stone.jpg)
+![stone](/portraits/es-leslie-r-stone.jpg)
 
 Este testimonio es el resultado de las muchas consultas que han surgido a raíz de la publicación de los volúmenes I y II de *Mensajes de Jesús y de los Celestiales*, los cuales imprimí por primera vez en 1940 <sup id="a1">[1](#f1)</sup>,  y que desde entonces han pasado por tres ediciones. Con la publicación de esta cuarta edición del volumen I estoy integrando todas esas preguntas de lectores interesados en un nuevo testimonio, lo cual mostrará cómo fue que el Sr. Padgett pudo realizar la labor de recibir estos notables mensajes. Así doy cuenta de cómo conocí al Sr. Padgett y de mis razones para creer que él realmente era capaz de recibir mensajes no sólo del mundo de los espíritus, sino de los espíritus más elevados de los Mundos Celestiales, cuyo Líder es Jesús de Nazaret.
 
