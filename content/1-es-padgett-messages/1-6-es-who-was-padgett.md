@@ -5,7 +5,7 @@ description: "¿ Quién era James Edward Padgett ?"
 date: 2024-02-01 06:25:48+00:80
 draft: False
 hidden: False
-weight: 100
+weight: 60
 ---
 ## ¿ Quién era James Edward Padgett ?
 
