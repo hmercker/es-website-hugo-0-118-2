@@ -7,4 +7,4 @@ draft: False
 hidden: True
 weight:
 ---
-## ¿Qué dicen los mensajes acerca de la Biblia?
+#### ¿Qué dicen los mensajes acerca de la Biblia?

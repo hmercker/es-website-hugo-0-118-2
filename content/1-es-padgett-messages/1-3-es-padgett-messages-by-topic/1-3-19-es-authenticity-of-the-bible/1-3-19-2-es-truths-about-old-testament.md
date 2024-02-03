@@ -7,4 +7,4 @@ draft: False
 hidden: True
 weight:
 ---
-## Verdades concernientes al Antiguo Testamento
+#### Verdades concernientes al Antiguo Testamento

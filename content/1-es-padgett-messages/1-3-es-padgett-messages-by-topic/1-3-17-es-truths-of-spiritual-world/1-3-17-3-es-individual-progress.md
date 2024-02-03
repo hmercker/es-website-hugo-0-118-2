@@ -7,4 +7,4 @@ draft: False
 hidden: True
 weight:
 ---
-## La progresión individual
+#### La progresión individual

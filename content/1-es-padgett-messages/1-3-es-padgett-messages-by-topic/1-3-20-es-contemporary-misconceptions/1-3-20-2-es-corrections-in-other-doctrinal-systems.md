@@ -7,4 +7,4 @@ draft: False
 hidden: True
 weight:
 ---
-## Correcciones a otros sistemas doctrinales
+#### Correcciones a otros sistemas doctrinales

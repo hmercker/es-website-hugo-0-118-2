@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-## El alma del hombre
+### El alma del hombre
 
 1. [El alma del hombre](/1-es-padgett-messages/1-3-es-padgett-messages-by-topic/1-3-8-es-soul-of-man/1-3-8-1-es-soul-of-man/)
 2. [La encarnación del alma](/1-es-padgett-messages/1-3-es-padgett-messages-by-topic/1-3-8-es-soul-of-man/1-3-8-2-es-incarnation-of-the-soul-pad/)

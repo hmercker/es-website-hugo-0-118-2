@@ -16,14 +16,14 @@ Como se ha editado el conjunto de mensajes, es interesante descubrir, a lo largo
 | **Año**
 |---
 | [1914](/1-es-padgett-messages/1-4-es-padgett-messages-by-date/1-4-1-es-padgett-messages-1914/)
-| [1915 - Primera parte](/1-es-padgett-padgett-messages/1-4-es-messages-by-date/1-4-2-es-padgett-messages-1915-1/)
-| [1915 - Segunda parte](/1-es-padgett-padgett-messages/1-4-es-messages-by-date/1-4-3-es-padgett-messages-1915-2/)
+| [1915 - Primera parte](/1-es-padgett-messages/1-4-es-padgett-messages-by-date/1-4-2-es-padgett-messages-1915-1)
+| [1915 - Segunda parte](/1-es-padgett-messages/1-4-es-padgett-messages-by-date/1-4-3-es-padgett-messages-1915-2/)
 | [1916](/1-es-padgett-messages/1-4-es-padgett-messages-by-date/1-4-4-es-padgett-messages-1916/)
 | [1917](/1-es-padgett-messages/1-4-es-padgett-messages-by-date/1-4-5-es-padgett-messages-1917/)
 | [1918](/1-es-padgett-messages/1-4-es-padgett-messages-by-date/1-4-6-es-padgett-messages-1918/)
 | [1919](/1-es-padgett-messages/1-4-es-padgett-messages-by-date/1-4-7-es-padgett-messages-1919/)
 | [1920-1922](/1-es-padgett-messages/1-4-es-padgett-messages-by-date/1-4-8-es-padgett-messages-1920-1922/)
-| [Mensajes de James E. Padgett después de 1922](/1-es-padgett-padgett-messages/1-4-es-messages-by-date/1-4-9-es-padgett-messages-after-1922/)
+| [Mensajes de James E. Padgett después de 1922](/1-es-padgett-messages/1-4-es-padgett-messages-by-date/1-4-9-es-padgett-messages-after-1922/)
 | [Mensajes de James E. Padgett sin fecha](/1-es-padgett-messages/1-4-es-padgett-messages-by-date/1-4-10-es-padgett-messages-undated/)
 
 **Comentario:**

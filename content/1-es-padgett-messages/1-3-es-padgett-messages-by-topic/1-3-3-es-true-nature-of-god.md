@@ -7,4 +7,4 @@ draft: False
 hidden: True
 weight:
 ---
-## La verdadera naturaleza de Dios, el Padre Celestial
+### La verdadera naturaleza de Dios, el Padre Celestial

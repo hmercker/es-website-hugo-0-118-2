@@ -7,4 +7,4 @@ draft: False
 hidden: True
 weight:
 ---
-## Verdades concernientes al Nuevo Testamento
+#### Verdades concernientes al Nuevo Testamento

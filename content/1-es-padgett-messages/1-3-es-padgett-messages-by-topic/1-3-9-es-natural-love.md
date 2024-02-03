@@ -7,4 +7,4 @@ draft: False
 hidden: True
 weight:
 ---
-## El amor natural de la humanidad
+### El amor natural de la humanidad

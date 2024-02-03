@@ -7,4 +7,4 @@ draft: False
 hidden: True
 weight:
 ---
-## La continuidad de la vida después de la muerte
+### La continuidad de la vida después de la muerte

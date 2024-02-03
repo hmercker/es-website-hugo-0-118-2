@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-## La autenticidad de la Biblia
+### La autenticidad de la Biblia
 
 1. [¿Qué dicen los mensajes acerca de la Biblia?](/1-es-padgett-messages/1-3-es-padgett-messages-by-topic/1-3-19-es-authenticity-of-the-bible/1-3-19-1-es-what-do-messages-say-about-bible/)
 2. [Verdades concernientes al Antiguo Testamento](/1-es-padgett-messages/1-3-es-padgett-messages-by-topic/1-3-19-es-authenticity-of-the-bible/1-3-19-2-es-truths-about-old-testament/)

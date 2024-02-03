@@ -7,4 +7,4 @@ draft: False
 hidden: True
 weight:
 ---
-## La ley de Compensación y el perdón
+#### La ley de Compensación y el perdón
