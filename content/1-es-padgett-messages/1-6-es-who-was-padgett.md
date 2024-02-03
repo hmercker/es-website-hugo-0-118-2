@@ -13,7 +13,7 @@ weight: 100
 
 James Edward Padgett nació el 25 de agosto de 1852 en Washington, DC. Asistió al Instituto de la Academia Politécnica en New Market, Virginia, y en 1880 fue admitido en el colegio de abogados. A partir de entonces, ejerció la abogacía en la capital de la nación durante cuarenta y tres años hasta su fallecimiento en 1923. Padgett no era espiritista sino metodista y enseñaba en la escuela dominical en la Iglesia Metodista Trinity en 5th St. y Seward Place, NE en Washington. No tenía experiencia previa con fenómenos psíquicos; su concepción de la doctrina religiosa era simplemente la de la Iglesia protestante.
 
-![Title](/static/portraits/es-james-padgett.jpg)
+![Title](.../static/portraits/es-james-padgett.jpg)
 
 Después del fallecimiento de su esposa, se mostró reacio a asistir a su primera sesión, pero debido a su anhelo por [Helen](/1-es-padgett-messages/1-6-1-1-es-helen-padgetts-spiritual-progression/) y ante la insistencia de sus amigos, accedió a investigar la posibilidad de contactar con ella. Durante la sesión celebrada en la casa de la Sra. Maltby, ella describió a Helen perfectamente y le dijo a Padgett que su esposa quería ponerse en contacto con él y que acudiría a él desde su hogar espiritual. La médium reconoció que esto estaría dentro de la capacidad psíquica de Padgett para vincularse con Helen y registrar sus pensamientos. Su soledad lo motivó a seguir las instrucciones de la señora Maltby e intentar esta empresa poco ortodoxa.
 
