@@ -9,7 +9,5 @@ weight:
 ---
 ### Mensajes Contemporáneos de Jesús 1960 a 1999
 
-el texto seguirá
-
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
