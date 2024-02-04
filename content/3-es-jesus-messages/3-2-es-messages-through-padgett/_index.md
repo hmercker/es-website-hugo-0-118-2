@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 20
 ---
-## Mensajes de Jesús a través de James E. Padgett
+### Mensajes de Jesús a través de James E. Padgett
 
 | **Año**
 |---

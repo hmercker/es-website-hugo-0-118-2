@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 50
 ---
-## Enseñanzas contemporáneas de Jesús
+### Enseñanzas contemporáneas de Jesús
 
 1. [Enseñanzas Contemporáneas de Jesús - Volumen 1](/3-es-jesus-messages/3-5-es-jesus-cont-teachings/3-5-1-es-jesus-teachings-volume-1/)
 2. [Enseñanzas Contemporáneas de Jesús - Volumen 2](/3-es-jesus-messages/3-5-es-jesus-cont-teachings/3-5-2-es-jesus-teachings-volume-2/)

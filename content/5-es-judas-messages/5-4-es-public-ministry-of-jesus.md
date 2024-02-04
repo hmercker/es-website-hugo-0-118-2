@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 40
 ---
-## El ministerio público de Jesús
+### El ministerio público de Jesús
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---

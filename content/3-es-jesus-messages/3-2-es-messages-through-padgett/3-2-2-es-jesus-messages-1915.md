@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-### Mensajes de Jesús a través de James E Padgett 1915
+#### Mensajes de Jesús a través de James E Padgett 1915
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---

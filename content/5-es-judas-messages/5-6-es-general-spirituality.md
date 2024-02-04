@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 60
 ---
-## Espiritualidad general
+### Espiritualidad general
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---

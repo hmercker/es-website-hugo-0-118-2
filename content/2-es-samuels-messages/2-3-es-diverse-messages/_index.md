@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 30
 ---
-## Mensajes diversos del Dr. Daniel G Samuels
+### Mensajes diversos del Dr. Daniel G Samuels
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---

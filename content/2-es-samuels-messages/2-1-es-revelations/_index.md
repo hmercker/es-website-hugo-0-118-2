@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 10
 ---
-## Revelaciones de Jesús sobre el Nuevo Testamento
+### Revelaciones de Jesús sobre el Nuevo Testamento
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---

@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 30
 ---
-## Mensajes de miembros fallecidos de la Comunidad Amor Divino
+### Mensajes de miembros fallecidos de la Comunidad Amor Divino
 
 **Persona** | **Fecha de nacimiento**
 ---|---

@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 70
 ---
-## Retratos de los Apóstoles
+### Retratos de los Apóstoles
 
 ![judas](/portraits/es-judas.jpg) | ![andrew](/portraits/es-andrew.jpg) | ![joseph](/portraits/es-joseph.jpg)  
 ---|---|---  

@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 20
 ---
-## Sermones sobre el Antiguo Testamento por Jesús
+### Sermones sobre el Antiguo Testamento por Jesús
 
 Entregados por Jesús de Nazaret a través de Dr. Daniel G. Samuels.
 

@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-### Enseñanzas Contemporáneas de Jesús - Volumen 2
+#### Enseñanzas Contemporáneas de Jesús - Volumen 2
 
 el texto seguirá
 

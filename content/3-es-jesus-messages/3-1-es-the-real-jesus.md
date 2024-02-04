@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 10
 ---
-## El verdadero Jesús de Nazaret
+### El verdadero Jesús de Nazaret
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---

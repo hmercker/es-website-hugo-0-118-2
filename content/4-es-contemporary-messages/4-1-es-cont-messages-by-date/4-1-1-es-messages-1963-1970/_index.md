@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-### Mensajes Contemporáneos de los años 1963 a 1970
+#### Mensajes Contemporáneos de los años 1963 a 1970
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---

@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-### Enseñanzas Contemporáneas de Jesús - Volumen 1
+#### Enseñanzas Contemporáneas de Jesús - Volumen 1
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---

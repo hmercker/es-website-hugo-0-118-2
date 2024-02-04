@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 80
 ---
-## Comentarios sobre los desafíos de la mediumnidad
+### Comentarios sobre los desafíos de la mediumnidad
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---

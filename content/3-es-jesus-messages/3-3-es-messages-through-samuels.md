@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 30
 ---
-## Mensajes de Jesús a través del Dr. Daniel G. Samuels
+### Mensajes de Jesús a través del Dr. Daniel G. Samuels
 
 el texto seguirá
 

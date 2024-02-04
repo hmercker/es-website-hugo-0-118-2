@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 50
 ---
-## Las esferas espirituales y la vida después de la muerte
+### Las esferas espirituales y la vida después de la muerte
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---

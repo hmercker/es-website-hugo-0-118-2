@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 40
 ---
-## ¿Quién era el Dr. Daniel G. Samuels?
+### ¿Quién era el Dr. Daniel G. Samuels?
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---

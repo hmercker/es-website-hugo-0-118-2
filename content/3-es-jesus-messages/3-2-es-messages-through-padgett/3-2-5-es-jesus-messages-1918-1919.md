@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-### Mensajes de Jesús a través de James E Padgett 1918 a 1919
+#### Mensajes de Jesús a través de James E Padgett 1918 a 1919
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
