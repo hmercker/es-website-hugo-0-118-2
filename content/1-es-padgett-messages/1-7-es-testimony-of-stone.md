@@ -75,10 +75,8 @@ Los mensajes se sucedieron, ora de Helen, ora de Ann Rollins y, sobre todo, de J
 
 El Maestro escribió el 5 de octubre de 1914, afirmando que había elegido a Padgett para realizar su trabajo de difundir las Verdades del Padre a la humanidad –cito la última parte:
 
-> …Ve al Señor en oración y Él quitará de tu alma todo lo que tiende a contaminarla y hacerla ajena a Él. Él es quien la limpiará del pecado y del error.
-<br>
-<br>
-> Sólo las enseñanzas que yo os daré os contarán las Verdades de mi Padre. No dejéis que vuestro corazón se turbe ni se desanime, porque yo estoy con vosotros siempre y os ayudaré en cada momento de necesidad. Sólo creed que yo soy el Jesús de las Escrituras y que no estaréis mucho tiempo fuera del Reino. Eres mi elegido en la tierra para proclamar mis buenas nuevas de vida y amor. Sé fiel a ti mismo y a tu Dios y Él te bendecirá abundantemente. Guardad Sus Mandamientos y seréis muy felices, y pronto recibiréis el contentamiento que Él da a Sus verdaderos hijos. Acude a Él en todos tus problemas y encontrarás descanso y paz. Pronto estarás en condiciones de dejar en paz las cosas de este mundo, ya que te necesito para mi servicio.
+> …Ve al Señor en oración y Él quitará de tu alma todo lo que tiende a contaminarla y hacerla ajena a Él. Él es quien la limpiará del pecado y del error.<br />
+Sólo las enseñanzas que yo os daré os contarán las Verdades de mi Padre. No dejéis que vuestro corazón se turbe ni se desanime, porque yo estoy con vosotros siempre y os ayudaré en cada momento de necesidad. Sólo creed que yo soy el Jesús de las Escrituras y que no estaréis mucho tiempo fuera del Reino. Eres mi elegido en la tierra para proclamar mis buenas nuevas de vida y amor. Sé fiel a ti mismo y a tu Dios y Él te bendecirá abundantemente. Guardad Sus Mandamientos y seréis muy felices, y pronto recibiréis el contentamiento que Él da a Sus verdaderos hijos. Acude a Él en todos tus problemas y encontrarás descanso y paz. Pronto estarás en condiciones de dejar en paz las cosas de este mundo, ya que te necesito para mi servicio.
 <br>
 <br>
 > Con todo mi amor y bendiciones, y las del Espíritu Santo, yo soy, Jesús.
@@ -145,4 +143,4 @@ Dr. Leslie R. Stone
 Ver un mensaje actual del [Dr. Stone](/4-es-contemporary-messages/4-1-es-cont-messages-by-date/4-1-26-es-messages-2022/es-2022-1-10-1-jw-leslie-stone/) y un mensaje anterior está aquí: [Leslie Stone está muy arriba](/4-es-contemporary-messages/4-1-es-cont-messages-by-date/4-1-9-es-messages-2005/es-2005-11-7-2-fab-leslie-stone/).
 <small>
 
-[^1]: Este título no se utilizó hasta 1956 y, de hecho, el primer volumen se publicó en 1941.[↩](#a1)
+[^1]: Este título no se utilizó hasta 1956 y, de hecho, el primer volumen se publicó en 1941.
