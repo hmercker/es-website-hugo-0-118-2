@@ -3622,7 +3622,7 @@ button.bg-dark:focus {
     margin-left: auto !important; } }
 
 .text-justify {
-  text-align: justify !important; }
+  text-align: center !important; }
 
 .text-nowrap {
   white-space: nowrap !important; }
