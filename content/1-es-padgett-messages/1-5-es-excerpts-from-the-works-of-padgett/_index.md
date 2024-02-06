@@ -8,3 +8,13 @@ hidden: False
 weight: 50
 ---
 ## Extractos de las Obras de Padgett
+
+| **Año**
+|---
+| [1914](/1-es-padgett-messages/1-5-es-excerpts-from-the-works-of-padgett/1-5-1-es-padgett-excerpts-1914/)
+| [1915](/1-es-padgett-messages/1-5-es-excerpts-from-the-works-of-padgett/1-5-2-es-padgett-excerpts-1915/)
+| [1916](/1-es-padgett-messages/1-5-es-excerpts-from-the-works-of-padgett/1-5-3-es-padgett-excerpts-1916/)
+| [1917](/1-es-padgett-messages/1-5-es-excerpts-from-the-works-of-padgett/1-5-4-es-padgett-excerpts-1917/)
+| [1918](/1-es-padgett-messages/1-5-es-excerpts-from-the-works-of-padgett/1-5-5-es-padgett-excerpts-1918/)
+| [1919](/1-es-padgett-messages/1-5-es-excerpts-from-the-works-of-padgett/1-5-6-es-padgett-excerpts-1919/)
+| [1920](/1-es-padgett-messages/1-5-es-excerpts-from-the-works-of-padgett/1-5-7-es-padgett-excerpts-1920/)
