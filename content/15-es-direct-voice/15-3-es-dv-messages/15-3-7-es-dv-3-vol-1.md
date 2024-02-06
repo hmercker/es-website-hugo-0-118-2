@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 #### Mensajes de voz directos - Proyecto 3 - Volumen 1
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

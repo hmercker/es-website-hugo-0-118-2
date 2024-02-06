@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 #### Comunicaciones desde otros planetas 2024
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

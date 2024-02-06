@@ -7,4 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-### Comunicaciones desde otros planetas 2022
+#### Comunicaciones desde otros planetas 2022
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

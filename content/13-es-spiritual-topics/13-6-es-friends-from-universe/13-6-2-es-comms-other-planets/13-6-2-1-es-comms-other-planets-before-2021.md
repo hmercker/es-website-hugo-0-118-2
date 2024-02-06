@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 #### Comunicaciones desde otros planetas antes de 2021
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---
