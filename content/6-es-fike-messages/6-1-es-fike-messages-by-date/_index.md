@@ -9,7 +9,7 @@ weight: 10
 ---
 ### Mensajes de Al Fike por Orden de Fecha
 
-| **Année**
+| **Año**
 |---
 | [2024](/6-es-fike-messages/6-1-es-fike-messages-by-date/6-1-12-es-fike-messages-2024/)
 | [2023](/6-es-fike-messages/6-1-es-fike-messages-by-date/6-1-11-es-fike-messages-2023/)

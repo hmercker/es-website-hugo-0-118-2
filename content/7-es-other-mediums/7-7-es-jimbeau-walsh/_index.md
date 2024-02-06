@@ -9,7 +9,7 @@ weight: 70
 ---
 ### Jimbeau Walsh
 
-| **Année**
+| **Año**
 |---
 | [2024](/7-es-other-mediums/7-7-es-jimbeau-walsh/7-7-6-es-jimbeau-walsh-2024/)
 | [2023](/7-es-other-mediums/7-7-es-jimbeau-walsh/7-7-5-es-jimbeau-walsh-2023/)

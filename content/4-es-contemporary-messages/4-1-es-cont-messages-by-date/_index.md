@@ -9,7 +9,7 @@ weight: 10
 ---
 ## Mensajes contemporáneos en orden cronológico
 
-| **Année**
+| **Años**
 |---
 | [2024](/4-es-contemporary-messages/4-1-es-cont-messages-by-date/4-1-28-es-messages-2024/)
 | [2023](/4-es-contemporary-messages/4-1-es-cont-messages-by-date/4-1-27-es-messages-2023/)
