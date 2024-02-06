@@ -18,4 +18,4 @@ weight: 110
 | [Cambios en la Tierra](/12-es-topical-subjects/12-5-es-earth-changes/)
 | [Las parábolas de Jesús](/12-es-topical-subjects/12-6-es-parables-of-jesus/)
 | [El undécimo mandamiento](/12-es-topical-subjects/12-7-es-eleventh-commandment/)
-| [La Trinidad](/12-es-topical-subjects/12-8-es-trinity/)
+| [La Trinidad](/9-es-divine-love-path/9-2-es-gods-soul/9-2-2-es-trinity/)

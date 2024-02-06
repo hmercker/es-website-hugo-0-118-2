@@ -35,6 +35,6 @@ La Sábana Santa ha sido ampliamente estudiada y existen pruebas científicas de
 
 ![pilate](/portraits/es-pilate.jpg) |  ![machiventa](/portraits/es-machiventa.jpg) |
 ---|---|---  
-[Pilato]() | Melquisedek |
+[Pilato](************) | Melquisedek |
 
 *Los derechos de autor de estas imágenes pertenecen a Geoff Cutler 2013.*

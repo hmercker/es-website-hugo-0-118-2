@@ -7,4 +7,4 @@ draft: False
 hidden: False
 weight: 80
 ---
-### La Trinidad
+### [La Trinidad](/9-es-divine-love-path/9-2-es-gods-soul/9-2-2-es-trinity/)
