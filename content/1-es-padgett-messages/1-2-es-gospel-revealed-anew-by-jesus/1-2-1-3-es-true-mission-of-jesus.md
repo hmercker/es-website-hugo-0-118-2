@@ -20,7 +20,7 @@ weight:
 
 <a id="first-heading"></a>
 
-##### I. Jesús y su relación con Dios
+#### I. Jesús y su relación con Dios
 
 Independientemente de lo que uno pueda creer sobre la fuente de “Los Mensajes de Jesús y los Celestiales”, los contenidos son tan nuevos y revolucionarios, pero tan convincentes por su lógica y sublime simplicidad, que se debe acometer un estudio serio de ellos para comprender su significado y el desafío que entrañan. En estos mensajes Jesús de Nazaret se presenta como el Maestro de lo que él llama los Mundos Celestiales, en donde sólo aquellos espíritus poseedores del Nuevo Nacimiento a través de la oración al Padre en pos de Su Divino Amor pueden habitar, en luz y felicidad, siendo conscientes de su inmortalidad a través de su unificación con Él en la naturaleza del alma.
 
@@ -56,7 +56,7 @@ Es la razón, afirma, por la que María no le reconoció al principio y pensó q
 
 <a id="second-heading"></a>
 
-##### II. DIOS Y EL ALMA HUMANA
+#### II. DIOS Y EL ALMA HUMANA
 
 En cuanto a quién y qué es Dios, me atrevo a decir que nunca la Biblia, ni el Antiguo ni el Nuevo Testamento, le ha dado al hombre una comprensión de la Deidad y Sus atributos en la extensión y profundidad que aparece en los mensajes firmados por Jesús y por los Celestiales. Según estos espíritus elevados, el hombre está aunado con el Padre en la medida en que su amor abunda en su alma. Dios es Alma, compuesta de Su mayor atributo, el Amor Divino, que es Su propia naturaleza y esencia, seguido de la Misericordia, la Bondad, el Poder, la Omnisciencia y la Voluntad, y siendo la Mente, tan adorada por la humanidad, sólo un aspecto de este Ser.
 
