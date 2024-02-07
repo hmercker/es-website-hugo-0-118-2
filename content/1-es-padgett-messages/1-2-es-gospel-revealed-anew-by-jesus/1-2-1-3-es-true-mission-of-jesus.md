@@ -13,10 +13,10 @@ weight:
 
 Índice:
 
-1. [Jesús y su relación con Dios](#first-heading)
-2. [Dios y el Alma humana](#second-heading)
-3. El problema del Pecado
-4. La redención del pecado
+[Jesús y su relación con Dios](#first-heading)
+[Dios y el Alma humana](#second-heading)
+[El problema del Pecado](#third-heading)
+[La redención del pecado](#fourth-heading)
 
 <a id="first-heading"></a>
 
@@ -56,7 +56,7 @@ Es la razón, afirma, por la que María no le reconoció al principio y pensó q
 
 <a id="second-heading"></a>
 
-#### II. DIOS Y EL ALMA HUMANA
+#### Dios y el Alma humana
 
 En cuanto a quién y qué es Dios, me atrevo a decir que nunca la Biblia, ni el Antiguo ni el Nuevo Testamento, le ha dado al hombre una comprensión de la Deidad y Sus atributos en la extensión y profundidad que aparece en los mensajes firmados por Jesús y por los Celestiales. Según estos espíritus elevados, el hombre está aunado con el Padre en la medida en que su amor abunda en su alma. Dios es Alma, compuesta de Su mayor atributo, el Amor Divino, que es Su propia naturaleza y esencia, seguido de la Misericordia, la Bondad, el Poder, la Omnisciencia y la Voluntad, y siendo la Mente, tan adorada por la humanidad, sólo un aspecto de este Ser.
 
@@ -84,7 +84,9 @@ El hombre fue provisto de un alma humana que, con su apéndice especial, la ment
 
 Es a través de las percepciones del alma como el hombre supo instintivamente que estaba vinculado a su Creador, a quien debía reverenciar y obedecer. El hombre, dice Jesús, puede conocer y conoce a Dios únicamente debido a que posee un alma, y nunca podrá conocer a Dios si lo busca intelectualmente y sólo con su mente. La duda y la especulación son producto de la mente, pero la fe es producto del alma y sabemos que Dios existe a través de las percepciones de nuestra alma, de modo que podemos crear el vínculo espiritual con Dios a través de la oración. No es una oración mental, sino una oración que surge del alma del hombre: ferviente, sincera, llena de anhelo, fe y amor.
 
-III. EL PROBLEMA DEL PECADO
+<a id="third-heading"></a>
+
+III. El problema del Pecado
 
 Cuando los primeros progenitores, o aquellos a quienes representan, poseyeron las almas que Dios les había dado, estas almas eran a imagen de Dios, pero no tenían nada de la esencia de Dios en ellas. Sin embargo, se les dio la oportunidad de obtener la naturaleza de Dios a través de la oración por Su Amor, que al entrar en el alma humana mediante la agencia del Espíritu Santo, transforma esa alma, de la imagen de Dios, en la esencia de Dios.
 
@@ -96,7 +98,9 @@ La muerte en la carne, nos asegura Jesús, es simplemente un incidente en el pro
 
 Algunos de los mejores mensajes de esta colección son los de los profetas del Antiguo Testamento, como Elías, Samuel, Moisés y Daniel, quienes nos hablan de sus esfuerzos por alejar a sus compatriotas del pecado y el error en la conducta de sus vidas y adoptar estándares de vida éticos, y tratando de dar efecto a sus sermones recurriendo a amenazas de castigo que impondría un Dios enojado e iracundo. Explican que Su Amor no estaba disponible para ellos ni lo conocían como una realidad, y que concebían a Dios como un capataz severo, vengativo y celoso “de Su nombre”. Su concepto más elevado del judaísmo, que adorna las páginas más exaltadas del Antiguo Testamento, era la fe intensa en Dios, la rectitud y la obediencia a sus leyes. También recorre las Escrituras el tema del nuevo corazón: la promesa del Amor del Padre, que en la consumación de los tiempos será concedido a los judíos primero y después a toda la humanidad, pero este es un tema que, hasta donde yo sé, nunca ha recibido un tratamiento adecuado en el estudio de la religión hebrea.
 
-IV. REDENCIÓN DEL PECADO
+<a id="fourth-heading"></a>
+
+IV. La redención del pecado
 
 Al piadoso hebreo del Antiguo Testamento le parecía que su maldad, como nación y como individuos, era la causa de sus desastres nacionales y que sus éxitos eran el resultado de su fidelidad al Pacto entre Dios y los Patriarcas. Los profetas enfatizaron la necesidad, en tiempos de tensión nacional, de evitar alianzas con otros países y de poner su confianza en la protección de Dios. No prestar atención a las advertencias de los profetas condujo a calamidades como en los días de Jeremías, cuando el desacato de sus consejos provocó el cautiverio en Babilonia. Nuevamente, en la hora más dolorosa de la historia de Judea, cuando el pueblo estaba siendo provocado casi más allá de lo soportable a una rebelión sangrienta contra la poderosa Roma, un Profeta salido de Nazaret vino con un mensaje de paz y tolerancia, sólo para ser rechazado por aquellos en el poder; Judea fue aplastada y sus gentes –los que quedaron– se dispersaron por toda la faz del globo. A aquellos de nosotros que sabemos que el Padre Celestial es nuestro Dios de Amor, no nos resulta posible creer que Él provocó la horrible destrucción de los hebreos en la revuelta del 67-70 d.C. Pero sí creemos que el estado de las almas de los hombres era tal que abrazaron la ira y la violencia de la guerra en lugar del amor y la paciencia, y que esta condición del alma hacía inevitables las terribles consecuencias que siguieron.
 
