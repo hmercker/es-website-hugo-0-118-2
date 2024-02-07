@@ -1,13 +1,13 @@
 ---
-title: "Extractos de las Obras de Padgett"
-menu_title: "Extractos de las Obras de Padgett"
-description: "Extractos de las Obras de Padgett"
+title: "Extractos de la obra de James E. Padgett"
+menu_title: "Extractos de la obra de James E. Padgett"
+description: "Extractos de la obra de James E. Padgett"
 date: 2024-02-01 15:43:52+00:00
 draft: False
 hidden: False
 weight: 50
 ---
-## Extractos de las Obras de Padgett
+## Extractos de la obra de James E. Padgett
 
 | **Año**
 |---

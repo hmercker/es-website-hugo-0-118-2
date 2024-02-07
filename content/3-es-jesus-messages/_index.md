@@ -14,3 +14,4 @@ weight: 30
 3. [Mensajes de Jesús a través del Dr. Daniel G. Samuels](/3-es-jesus-messages/3-3-es-messages-through-samuels/)
 4. [Mensajes contemporáneos de Jesús](/3-es-jesus-messages/3-4-es-jesus-cont-messages/)
 5. [Enseñanzas contemporáneas de Jesús](/3-es-jesus-messages/3-5-es-jesus-cont-teachings/)
+6. [¿Por qué vino Jesús aquí?](/3-es-jesus-messages/3-6-es-any-point-in-jesus-coming-here/)

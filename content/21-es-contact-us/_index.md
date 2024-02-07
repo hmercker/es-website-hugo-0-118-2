@@ -1,6 +1,6 @@
 ---
-title: "Formulaire de contact"
-menu_title: "Formulaire de contact"
+title: "Formulario de contacto"
+menu_title: "Formulario de contacto"
 description: ""
 date: 2024-02-01 12:33:17+00:00
 draft: False
@@ -9,4 +9,4 @@ weight: 200
 type: contact
 layout: contact
 ---
-## Formulaire de contact
+## Formulario de contacto

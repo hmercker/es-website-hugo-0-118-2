@@ -20,3 +20,4 @@ weight: 20
 | [¿Qué significa la afirmación de nacer de nuevo?](/13-es-spiritual-topics/13-2-es-qa-on-spiritual-topics/13-2-7-es-meaning-of-statement-to-be-born-again/)
 | [¿Por qué no siento la presencia del amor de Dios?](/13-es-spiritual-topics/13-2-es-qa-on-spiritual-topics/13-2-8-es-why-do-i-not-feel-the-presence-of-gods-love/)
 | [¿Cuáles son los deseos y apetitos animales que no están en armonía con el amor de Dios?](/13-es-spiritual-topics/13-2-es-qa-on-spiritual-topics/13-2-9-es-animal-desires-appetites-not-in-harmony-with-gods-love/)
+| [¿Por qué existe tanta maldad en este mundo?](/13-es-spiritual-topics/13-2-es-qa-on-spiritual-topics/13-2-10-es-why-is-there-so-much-evil-in-world/)

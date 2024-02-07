@@ -9,7 +9,5 @@ weight: 30
 ---
 ### Mensajes de Jesús a través del Dr. Daniel G. Samuels
 
-el texto seguirá
-
 **Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---

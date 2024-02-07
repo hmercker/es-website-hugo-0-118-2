@@ -19,3 +19,4 @@ weight: 110
 | [Las parábolas de Jesús](/12-es-topical-subjects/12-6-es-parables-of-jesus/)
 | [El undécimo mandamiento](/12-es-topical-subjects/12-7-es-eleventh-commandment/)
 | [La Trinidad](/9-es-divine-love-path/9-2-es-gods-soul/9-2-2-es-trinity/)
+| [Esferas, dimensiones y ascensión](/12-es-topical-subjects/12-9-es-spheres-dimensions-ascension/)
