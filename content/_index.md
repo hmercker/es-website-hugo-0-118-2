@@ -19,7 +19,7 @@ Todo buscador es bienvenido a estas páginas en las que late un deseo de amor qu
 
 1. [¿Qué nos pasa tras la muerte?](/11-es-life-after-death/) ¿Estamos vivos? ¿Estamos dormidos? ¿Cómo vivimos? ¿Nos movemos y comunicamos? ¿Qué hacemos la mayor parte del tiempo?
 
-2. ¿Es posible saber –[lo que se dice realmente saber](/9-es-divine-love-path/9-4-es-divine-love/9-4-3-es-experiencing-gods-love/) – que Dios existe?
+2. ¿Es posible saber – [lo que se dice realmente saber](/9-es-divine-love-path/9-4-es-divine-love/9-4-3-es-experiencing-gods-love/) – que Dios existe?
 
 3. Muchas religiones parecen tener un núcleo o hilo en común. ¿Es este hilo o núcleo – [el amor](/9-es-divine-love-path/9-4-es-divine-love/9-4-2-es-gift-of-divine-love/) – realmente lo más importante?
 
@@ -27,11 +27,11 @@ Todo buscador es bienvenido a estas páginas en las que late un deseo de amor qu
 
 5. Claramente [no todos viven según la regla de oro.](/11-es-life-after-death/11-2-es-what-happens-after-death/) ¿Produce ésto alguna diferencia en cómo experimentan la vida después de la muerte?
 
-6. ¿Existe [un infierno eterno](/11-es-life-after-death/11-4-es-hells-judgements-forgiveness-resurrection/)como el que postula el cristianismo convencional?
+6. ¿Existe [un infierno eterno](/11-es-life-after-death/11-4-es-hells-judgements-forgiveness-resurrection/) como el que postula el cristianismo convencional?
 
-7. ¿Existe un [gran día de resurrección]()?
+7. ¿Existe un [gran día de Resurrección]()?
 
-8. [¿Es verdad la reencarnación?](/11-es-life-after-death/11-6-es-reincarnation-true-or-false/), porque si lo es, mucho de lo que las iglesias cristianas ortodoxas enseñan no podría ser verdad.
+8. [¿Es verdad la reencarnación?](/11-es-life-after-death/11-6-es-reincarnation-true-or-false/), porque si lo es, mucho de lo que las iglesias cristianas convencionales enseñan no podría ser verdad.
 
 9. [¿Por qué existe tanta maldad en este mundo?](/13-es-spiritual-topics/13-2-es-qa-on-spiritual-topics/13-2-10-es-why-is-there-so-much-evil-in-world/)
 
@@ -41,11 +41,11 @@ Todo buscador es bienvenido a estas páginas en las que late un deseo de amor qu
 
 12. [¿Qué sabemos sobre los cambios en la Tierra?](/12-es-topical-subjects/12-5-es-earth-changes/)
 
-En este sitio web se abordan además muchos otros temas, como por ejemplo el significado de las parábolas de Jesús, las leyes espirituales y mucho, mucho más. Y a fin de incorporar en tu vida lo que aquí se ofrece, tu origen cultural o tu posición en la vida son variables totalmente irrelevantes.
+En este sitio web se abordan además muchos otros temas, como por ejemplo el significado de las parábolas de Jesús, las leyes espirituales y mucho, mucho más. Y a fin de incorporar en tu vida lo que aquí se ofrece, tu origen cultural o tu posición en la sociedad son variables totalmente irrelevantes.
 
 Que estas páginas te aporten alegría en tu camino y muy profunda comprensión de hasta qué punto nos ama, a todos y a cada uno de nosotros, nuestro Padre Celestial.
 
-Este sitio web –elcaminodelaverdad.es– ni forma parte ni pretende servir a ninguna actividad de institución, movimiento o confesión religiosa alguna.Su único objetivo es dar a conocer la importancia de rezar para obtener el Amor Divino y contribuir a redimir a la humanidad.
+Este sitio web –elcaminodelaverdad.es– ni forma parte ni pretende servir a ninguna actividad de institución, movimiento o confesión religiosa alguna. Su único objetivo es dar a conocer la importancia de rezar para obtener el Amor Divino y contribuir a redimir a la humanidad.
 
 <p style="text-align: center;">
 <script type="text/javascript" src="//counter.websiteout.net/js/5/6/0/1"></script>
