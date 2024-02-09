@@ -24,5 +24,5 @@ weight: 20
 | [La Red de Luz](/6-es-fike-messages/6-2-es-fike-messages-by-topic/6-2-11-es-network-of-light/)
 | [Mensajes Orientadores e Inspiradores](/6-es-fike-messages/6-2-es-fike-messages-by-topic/6-2-12-es-guiding-and-inspiring-messages/)
 | [Guía y Mediumnidad](/6-es-fike-messages/6-2-es-fike-messages-by-topic/6-2-13-es-guidance-and-mediumship/)
-| [Preguntas y respuestas](/6-es-fike-messages/6-2-es-fike-messages-by-topic/6-2-14-es-q&a/)
+| [Preguntas y respuestas](/6-es-fike-messages/6-2-es-fike-messages-by-topic/6-2-14-es-qa/)
 | [Otros](/6-es-fike-messages/6-2-es-fike-messages-by-topic/6-2-15-es-other/)
