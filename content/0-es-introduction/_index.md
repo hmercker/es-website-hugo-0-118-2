@@ -57,7 +57,7 @@ Jesús también escribe a través de Kathryn Stokes en 1996:
 <br>
 > Ahora es uno de los ángeles Celestiales que trabaja entre los hombres y mujeres de la tierra, especialmente los que buscan conocer la verdad, los que aman a Dios y quieren que se haga Su Voluntad en sus vidas. Todos nosotros tenemos a muchas personas con las que trabajamos de vez en cuando; y nuestro trabajo es gratificante cuando vemos los resultados de nuestras influencias llevadas a cabo día a día. - [Jesús, 15 de mayo de 1996](https://new-birth.net/contemporary-messages/messages-sorted-year/messages-1984-2000/jesus-on-mr-padgetts-selection-ks-15-may-1996/************************)
 
-Lee más sobre James Padgett [aquí](/1-es-padgett-messages/).
+Lee más sobre James Padgett [aquí](/1-es-padgett-messages/1-6-es-who-was-padgett/).
 
 Las enseñanzas resumidas [aquí](/1-es-padgett-messages/1-1-es-summary-of-padgett-teachings/).
 
