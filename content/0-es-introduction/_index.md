@@ -17,7 +17,7 @@ Después de él se han recibido otros mensajes a través de otros médiums, los 
 
 ¿Por qué fue James E. Padgett el instrumento elegido para entregar estas preciosas revelaciones de la Verdad Divina? James Padgett fue el primer mortal a través del cual Jesús pudo transmitir nuevamente sus enseñanzas con éxito. Jesús dice:
 
-> Has dicho con verdad que mi nueva revelación de las verdades del alma es lo que la humanidad necesita en este tiempo, y lo que los hombres estarán en condiciones de aceptar como las verdades reales del amor de Dios y de Sus leyes. Mi venir a ti es realmente mi segunda venida a la tierra, y el resultado de mi venir de esta manera satisfará y cumplirá todas las promesas de las Escrituras en cuanto a mi segunda venida. - [Jesús, 2 de diciembre de 1915](***************)
+> Has dicho con verdad que mi nueva revelación de las verdades del alma es lo que la humanidad necesita en este tiempo, y lo que los hombres estarán en condiciones de aceptar como las verdades reales del amor de Dios y de Sus leyes. Mi venir a ti es realmente mi segunda venida a la tierra, y el resultado de mi venir de esta manera satisfará y cumplirá todas las promesas de las Escrituras en cuanto a mi segunda venida. - [Jesús, 2 de diciembre de 1915](url to be put in)
 
 Jesús además escribe sobre por qué eligió al Sr. Padgett para su Segunda Venida:
 
