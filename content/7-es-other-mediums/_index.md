@@ -18,6 +18,6 @@ weight: 70
 | [Helge Mercker](/7-es-other-mediums/7-5-es-helge-mercker/)
 | [Jane Gartshore](/7-es-other-mediums/7-6-es-jane-gartshore/)
 | [Jimbeau Walsh](/7-es-other-mediums/7-7-es-jimbeau-walsh/)
-| [Kathryn Strokes](/7-es-other-mediums/7-8-es-kathryn-strokes/)
+| [Kathryn Stokes](/7-es-other-mediums/7-8-es-kathryn-stokes/)
 | [Maureen Cardoso](/7-es-other-mediums/7-9-es-maureen-cardoso/)
 | [Elisabeth Mack](/7-es-other-mediums/7-10-es-elisabeth-mack/)
