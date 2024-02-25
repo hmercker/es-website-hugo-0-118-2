@@ -14,7 +14,6 @@ weight: 70
 | [Amada Reza](/7-es-other-mediums/7-1-es-amada-reza/)
 | [David Lampron](/7-es-other-mediums/7-2-es-david-lampron/)
 | [Child of God](/7-es-other-mediums/7-3-es-child-of-god/)
-| [FAB](/7-es-other-mediums/7-4-es-fab/)
 | [Helge Mercker](/7-es-other-mediums/7-5-es-helge-mercker/)
 | [Jane Gartshore](/7-es-other-mediums/7-6-es-jane-gartshore/)
 | [Jimbeau Walsh](/7-es-other-mediums/7-7-es-jimbeau-walsh/)
