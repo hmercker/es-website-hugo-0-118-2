@@ -13,9 +13,9 @@ weight:
 
 Índice:
 
-[Jesús y su relación con Dios](#first-heading)
-[Dios y el Alma humana](#second-heading)
-[El problema del Pecado](#third-heading)
+[Jesús y su relación con Dios](#first-heading)  
+[Dios y el Alma humana](#second-heading)  
+[El problema del Pecado](#third-heading)  
 [La redención del pecado](#fourth-heading)
 
 <a id="first-heading"></a>

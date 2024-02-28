@@ -13,6 +13,6 @@ Este es un índice de esta publicación, que fue publicada por [Foundation Churc
 
 **Página** | **Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---|---
- | Dr. Leslie R. Stone | [Presentación a James E. Padgett](/1-es-padgett-messages/1-2-es-gospel-revealed-anew-by-jesus/1-2-1-1-es-introduction-to-padgett/) | 
-I | Dr. Leslie R. Stone | [El Testimonio del Dr. Stone](/1-es-padgett-messages/1-7-es-testimony-of-stone/) |
-XVII | Dr. Leslie R. Stone | [La Verdadera Misión de Jesús](/1-es-padgett-messages/1-2-es-gospel-revealed-anew-by-jesus/1-2-1-3-es-true-mission-of-jesus/) |
+ | Dr. Leslie R. Stone | [Presentación a James E. Padgett](/1-es-padgett-messages/1-2-es-gospel-revealed-anew-by-jesus/1-2-1-1-es-introduction-to-padgett/) | -
+I | Dr. Leslie R. Stone | [El Testimonio del Dr. Stone](/1-es-padgett-messages/1-7-es-testimony-of-stone/) | -
+XVII | Dr. Leslie R. Stone | [La Verdadera Misión de Jesús](/1-es-padgett-messages/1-2-es-gospel-revealed-anew-by-jesus/1-2-1-3-es-true-mission-of-jesus/) | -
