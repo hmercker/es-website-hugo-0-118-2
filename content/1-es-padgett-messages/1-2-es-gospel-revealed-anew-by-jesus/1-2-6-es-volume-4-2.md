@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-#### Volumen 4 - páginas 192 a 381
+#### Volumen 4, Parte 2 - páginas 192 a 381
 
 **Página** | **Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---|---

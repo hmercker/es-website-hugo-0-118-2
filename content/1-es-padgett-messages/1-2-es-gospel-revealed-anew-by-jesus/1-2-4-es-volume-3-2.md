@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-#### Volumen 3 - páginas 213 a 404
+#### Volumen 3, Parte 2 - páginas 213 a 404
 
 **Página** | **Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---|---
