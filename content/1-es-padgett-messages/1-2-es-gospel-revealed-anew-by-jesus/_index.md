@@ -23,5 +23,3 @@ Volumen 4 | [páginas 1 a 191](/1-es-padgett-messages/1-2-es-gospel-revealed-ane
 Volumen 4 | [páginas 192 a 381](/1-es-padgett-messages/1-2-es-gospel-revealed-anew-by-jesus/1-2-6-es-volume-4-2/)
 Vol 1 - 4 | [Mensajes de Padgett en formato pdf - descargables](/1-es-padgett-messages/1-2-es-gospel-revealed-anew-by-jesus/1-2-7-es-padgett-messages-in-pdf/)
 Vol 1 - 4 | [Mensajes de Padgett en formato libro - descargable](/1-es-padgett-messages/1-2-es-gospel-revealed-anew-by-jesus/1-2-8-es-padgett-messages-as-book/)
-
-[true mission of jesus](/1-es-padgett-messages/1-2-es-gospel-revealed-anew-by-jesus/1-2-1-3-es-true-mission-of-jesus/)

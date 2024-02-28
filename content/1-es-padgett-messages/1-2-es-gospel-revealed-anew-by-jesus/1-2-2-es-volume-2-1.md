@@ -13,3 +13,5 @@ Este es un índice de esta publicación, publicada por Foundation Church of the 
 
 **Página** | **Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---|---
+II | James E. Padgett | [El testimonio de James E Padgett](/1-es-padgett-messages/1-2-es-gospel-revealed-anew-by-jesus/1-2-2-1-es-testemony-of-padgett/) | -
+IV | Dr. Leslie R. Stone | [Introducción](/1-es-padgett-messages/1-2-es-gospel-revealed-anew-by-jesus/1-2-2-2-es-introduction-volume-2/) | -
