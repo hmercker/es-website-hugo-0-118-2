@@ -20,7 +20,7 @@ weight:
 
 <a id="first-heading"></a>
 
-#### I. Jesús y su relación con Dios
+#### Jesús y su relación con Dios
 
 Independientemente de lo que uno pueda creer sobre la fuente de “Los Mensajes de Jesús y los Celestiales”, los contenidos son tan nuevos y revolucionarios, pero tan convincentes por su lógica y sublime simplicidad, que se debe acometer un estudio serio de ellos para comprender su significado y el desafío que entrañan. En estos mensajes Jesús de Nazaret se presenta como el Maestro de lo que él llama los Mundos Celestiales, en donde sólo aquellos espíritus poseedores del Nuevo Nacimiento a través de la oración al Padre en pos de Su Divino Amor pueden habitar, en luz y felicidad, siendo conscientes de su inmortalidad a través de su unificación con Él en la naturaleza del alma.
 
@@ -86,7 +86,7 @@ Es a través de las percepciones del alma como el hombre supo instintivamente qu
 
 <a id="third-heading"></a>
 
-III. El problema del Pecado
+#### El problema del Pecado
 
 Cuando los primeros progenitores, o aquellos a quienes representan, poseyeron las almas que Dios les había dado, estas almas eran a imagen de Dios, pero no tenían nada de la esencia de Dios en ellas. Sin embargo, se les dio la oportunidad de obtener la naturaleza de Dios a través de la oración por Su Amor, que al entrar en el alma humana mediante la agencia del Espíritu Santo, transforma esa alma, de la imagen de Dios, en la esencia de Dios.
 
@@ -100,7 +100,7 @@ Algunos de los mejores mensajes de esta colección son los de los profetas del A
 
 <a id="fourth-heading"></a>
 
-IV. La redención del pecado
+#### La redención del pecado
 
 Al piadoso hebreo del Antiguo Testamento le parecía que su maldad, como nación y como individuos, era la causa de sus desastres nacionales y que sus éxitos eran el resultado de su fidelidad al Pacto entre Dios y los Patriarcas. Los profetas enfatizaron la necesidad, en tiempos de tensión nacional, de evitar alianzas con otros países y de poner su confianza en la protección de Dios. No prestar atención a las advertencias de los profetas condujo a calamidades como en los días de Jeremías, cuando el desacato de sus consejos provocó el cautiverio en Babilonia. Nuevamente, en la hora más dolorosa de la historia de Judea, cuando el pueblo estaba siendo provocado casi más allá de lo soportable a una rebelión sangrienta contra la poderosa Roma, un Profeta salido de Nazaret vino con un mensaje de paz y tolerancia, sólo para ser rechazado por aquellos en el poder; Judea fue aplastada y sus gentes –los que quedaron– se dispersaron por toda la faz del globo. A aquellos de nosotros que sabemos que el Padre Celestial es nuestro Dios de Amor, no nos resulta posible creer que Él provocó la horrible destrucción de los hebreos en la revuelta del 67-70 d.C. Pero sí creemos que el estado de las almas de los hombres era tal que abrazaron la ira y la violencia de la guerra en lugar del amor y la paciencia, y que esta condición del alma hacía inevitables las terribles consecuencias que siguieron.
 
