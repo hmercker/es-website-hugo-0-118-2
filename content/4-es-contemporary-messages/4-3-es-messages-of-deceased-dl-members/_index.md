@@ -13,7 +13,7 @@ weight: 30
 ---|---
 [Alec Gaunt](/4-es-contemporary-messages/4-3-es-messages-of-deceased-dl-members/4-3-1-es-alec-gaunt/) |
 [Eileen Caddy](/4-es-contemporary-messages/4-3-es-messages-of-deceased-dl-members/4-3-8-es-eileen-caddy/) |
-[Care Derby Walsh](/4-es-contemporary-messages/4-3-es-messages-of-deceased-dl-members/4-3-4-es-care-derby-walsh/) |
+[Care Darby Walsh](/4-es-contemporary-messages/4-3-es-messages-of-deceased-dl-members/4-3-4-es-care-derby-walsh/) |
 [Vicky Forest](/4-es-contemporary-messages/4-3-es-messages-of-deceased-dl-members/4-3-5-es-vicky-forest/) |
 [Hans Henning Mercker](/4-es-contemporary-messages/4-3-es-messages-of-deceased-dl-members/4-3-7-es-hans-henning-mercker/) | Marzo 2018
 [Barbara Davies](/4-es-contemporary-messages/4-3-es-messages-of-deceased-dl-members/4-3-2-es-barbara-davies/) | 2020
