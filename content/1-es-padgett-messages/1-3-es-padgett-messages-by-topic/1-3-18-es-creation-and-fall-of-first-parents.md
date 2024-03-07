@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### La creación y caída de nuestros primeros progenitores
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

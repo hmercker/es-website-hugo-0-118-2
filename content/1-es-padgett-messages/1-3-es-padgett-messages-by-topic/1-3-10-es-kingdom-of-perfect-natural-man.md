@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### El Reino del hombre natural perfecto—los Cielos Espirituales
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

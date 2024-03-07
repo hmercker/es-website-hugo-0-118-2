@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 #### Verdades concernientes al Nuevo Testamento
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

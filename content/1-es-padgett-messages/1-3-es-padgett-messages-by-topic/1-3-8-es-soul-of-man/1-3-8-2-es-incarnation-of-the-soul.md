@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 #### La encarnación del alma
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

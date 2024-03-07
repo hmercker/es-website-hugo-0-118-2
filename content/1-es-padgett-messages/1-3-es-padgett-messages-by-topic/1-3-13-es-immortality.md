@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### La inmortalidad
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

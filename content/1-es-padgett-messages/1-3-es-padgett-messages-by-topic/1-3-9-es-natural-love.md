@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### El amor natural de la humanidad
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### El verdadero Reino del Cielo que Jesús enseñó en la tierra - el Reino Celestial
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

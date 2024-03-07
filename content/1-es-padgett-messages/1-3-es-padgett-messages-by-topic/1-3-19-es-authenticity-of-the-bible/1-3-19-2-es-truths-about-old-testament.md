@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 #### Verdades concernientes al Antiguo Testamento
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 #### Las Esferas de progresión
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

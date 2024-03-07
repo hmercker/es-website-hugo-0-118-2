@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### El pecado y el error
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 #### La progresión individual
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

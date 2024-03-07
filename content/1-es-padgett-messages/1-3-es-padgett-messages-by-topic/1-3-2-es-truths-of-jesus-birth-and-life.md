@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### Las verdades en torno al nacimiento y la vida de Jesús de Nazaret
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

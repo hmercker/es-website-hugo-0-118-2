@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 #### La ley de Compensación y el perdón
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

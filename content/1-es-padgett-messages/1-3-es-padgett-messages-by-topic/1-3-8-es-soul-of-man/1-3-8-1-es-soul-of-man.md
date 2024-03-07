@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 #### El alma del hombre
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

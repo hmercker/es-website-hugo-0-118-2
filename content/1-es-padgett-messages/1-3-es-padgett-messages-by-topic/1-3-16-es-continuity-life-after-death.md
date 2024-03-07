@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### La continuidad de la vida después de la muerte
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

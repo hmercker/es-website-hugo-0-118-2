@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 ### La verdadera expiación
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

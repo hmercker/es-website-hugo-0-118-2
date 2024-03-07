@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 #### Las leyes de Conexión y Comunicación entre los espíritus y los mortales
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---
