@@ -444,7 +444,7 @@ Jesús ha explicado que el gran hecho convincente de la crucifixión es que, si 
 Porque es el Amor Divino el que da la vida eterna, y no cualquier ritual misterioso de supuestamente comer su cuerpo y beber su sangre mediante el uso simbólico de pan y vino, como se practica entre algunas organizaciones religiosas.
 
 A través del Sr. Padgett, Juan, el apóstol, ha asegurado a todos los mortales que aman a Jesús y anhelan su presencia que, tarde o temprano, según lo permitan las leyes de sus limitaciones, él estará con ellos y les consolará y ayudará si le permiten establecer la relación. Esto es lo que significa que él está a la puerta y llamando. Cuando la puerta se abre, se establece la relación y entonces su amor e influencia se sentirán. En las siguientes entrañables palabras, [Juan escribió](/1-es-padgett-messages/1-4-es-padgett-messages-by-date/1-4-5-es-padgett-messages-1917/es-1917-6-3-1-jep-st-john/):
- 
+
 > …Así pues, que todos los mortales amen a Jesús con el fervor y la totalidad de su alma, y que anhelen su amor; pero al hacerlo, que no olviden ni dejen de saber que, al amar así, para llegar a ser como Jesús, deben buscar el más grande Amor del Padre y entregarle a Él todos los anhelos y deseos de sus almas en pos de la afluencia de este amor al seno de sus almas. Y cuanto más reciban de este gran amor divino, tanto más capaces serán de amar a su gran hermano, Jesús.
 
 Este documento, publicado por primera vez en 1990 por la [F.C.D.T.](https://fcdt.org/), fue escaneado en su totalidad en abril de 2009 y ligeramente editado en 2011 para formar este resumen web.
