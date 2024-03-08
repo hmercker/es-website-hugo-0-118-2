@@ -9,6 +9,8 @@ weight: 10
 ---
 ## Resumen de las enseñanzas sobre la Segunda Venida
 
+### Un breve resumen de las enseñanzas
+
 Las renovadas revelaciones de Jesús, según fueron recibidas a través de James Padgett, nos muestran el camino hacia Dios y hacia la vida eterna en Su Divino Reino del Cielo.
 
 De Dios somos hijos. Y en tanto que hijos de Dios, fuimos creados con el potencial de recibir en nuestras almas la esencia misma del Alma de Dios y así ser transformados, de la imagen de lo Divino, a la sustancia misma de Dios, en unidad con Él y con consciencia de nuestra inmortalidad.
@@ -23,7 +25,7 @@ Todos nosotros podemos tener las mismas experiencias y percepciones si estamos d
 
 Lo que sigue muestra un más extenso resumen de las enseñanzas de la Segunda Venida de Jesús: El difunto pastor R. B. Caddle dio una serie de conferencias que han sido editadas en forma de recapitulación y que se presentan aquí. Es algo extenso, pero tiene la virtud de darle cierta profundidad a cada tema.
 
-Otro acercamiento a lo mismo es leer lo que se presenta en [El Camino del Amor Divino](/9-es-divine-love-path/). Es extenso y va a fondo en cada asunto. [Una versión más breve está aquí](/1-es-padgett-messages/1-1-1-1-nl-what-do-divine-love-christians-belief/).
+Otro acercamiento a lo mismo es leer lo que se presenta en [El Camino del Amor Divino](/9-es-divine-love-path/). Es extenso y va a fondo en cada asunto.
 
 ### La vida y enseñanzas de Jesús de Nazaret
 
