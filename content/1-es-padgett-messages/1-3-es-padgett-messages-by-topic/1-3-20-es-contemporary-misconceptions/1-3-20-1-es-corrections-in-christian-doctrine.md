@@ -8,3 +8,6 @@ hidden: True
 weight:
 ---
 #### Correcciones a la doctrina cristiana convencional
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---
