@@ -3,9 +3,9 @@ title: "Mensajes del Dr. Daniel G Samuels"
 menu_title: "Mensajes del Dr. Daniel G Samuels"
 description: "Mensajes del Dr. Daniel G Samuels"
 date: 2023-07-26 02:18:11+11:00
-draft: False
+draft: True
 hidden: True
-weight:
+weight: 20
 ---
 ## Mensajes del Dr. Daniel G Samuels
 
