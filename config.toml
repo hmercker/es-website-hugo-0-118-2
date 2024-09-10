@@ -39,4 +39,4 @@ delimiter = ""
     meta_og_description = ""
     meta_og_site_name = "elcamino de la verdad"
 
-ignoreFiles = ["2-es-samuels-messages"]
+[ignoreFiles] = "2-es-samuels-messages"
