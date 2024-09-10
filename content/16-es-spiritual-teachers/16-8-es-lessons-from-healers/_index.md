@@ -4,7 +4,7 @@ menu_title: "Lecciones de los curanderos"
 description: "Lecciones de los curanderos"
 date: 2024-02-01 15:43:52+00:00
 draft: False
-hidden: False
+hidden: True
 weight: 80
 ---
 ### Lecciones de los curanderos

@@ -4,7 +4,7 @@ menu_title: "Maestro Josefo"
 description: "Maestro Josefo"
 date: 2024-02-01 06:00:01+00:14
 draft: False
-hidden: False
+hidden: True
 weight: 30
 ---
 ### Maestro Josefo

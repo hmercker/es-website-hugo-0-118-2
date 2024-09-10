@@ -4,7 +4,7 @@ menu_title: "Mensajes de miembros fallecidos de la Comunidad Amor Divino"
 description: "Mensajes de miembros fallecidos de la Comunidad Amor Divino"
 date: 2024-02-01 15:43:52+00:00
 draft: False
-hidden: False
+hidden: True
 weight: 30
 ---
 ### Mensajes de miembros fallecidos de la Comunidad Amor Divino

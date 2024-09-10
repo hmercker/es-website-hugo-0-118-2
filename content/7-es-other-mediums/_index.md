@@ -4,7 +4,7 @@ menu_title: "Mensajes de otros Médiums"
 description: "Mensajes de otros Médiums"
 date: 2024-02-01 15:43:52+00:00
 draft: False
-hidden: False
+hidden: True
 weight: 70
 ---
 ## Mensajes de otros Médiums

@@ -4,7 +4,7 @@ menu_title: "La historia de las comunidades del Amor Divino"
 description: "La historia de las comunidades del Amor Divino"
 date: 2024-02-01 15:43:52+00:00
 draft: False
-hidden: False
+hidden: True
 weight: 40
 ---
 ### La historia de las comunidades del Amor Divino

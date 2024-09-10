@@ -4,7 +4,7 @@ menu_title: "Mensajes en la voz directa"
 description: "Mensajes en la voz directa"
 date: 2024-02-01 15:43:52+00:00
 draft: False
-hidden: False
+hidden: True
 weight: 30
 ---
 ### Mensajes en la voz directa
