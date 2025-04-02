@@ -5,15 +5,11 @@ description: "Mensajes de Judas de Kerioth"
 date: 2024-02-01 15:43:52+00:00
 draft: False
 hidden: True
-weight: 50
+weight: 40
 ---
 ## Mensajes de Judas de Kerioth
 
-1. [Mensajes de Judas ordenados por fecha](/5-es-judas-messages/5-1-es-cont-judas-messages-by-date/)
-2. [El libro de Judas de Keriot](/5-es-judas-messages/5-2-es-book-of-judas/)
-3. [Los años perdidos de Jesús](/5-es-judas-messages/5-3-es-lost-years-of-jesus/)
-4. [El ministerio público de Jesús](/5-es-judas-messages/5-4-es-public-ministry-of-jesus/)
-5. [Las esferas espirituales y la vida después de la muerte](/5-es-judas-messages/5-5-es-spirith-spheres-life-after-death/)
-6. [Espiritualidad general](/5-es-judas-messages/5-6-es-general-spirituality/)
-7. [Retratos de los Apóstoles](/5-es-judas-messages/5-7-es-portraits-of-apostles/)
-8. [Comentarios sobre los desafíos de la mediumnidad](/5-es-judas-messages/5-8-es-challenges-of-mediumship/)
+1. [El libro de Judas de Keriot](/3-es-judas/3-1-es-judas-book/)
+2. [Mensajes de Judas ordenados por fecha](/3-es-judas/3-2-es-judas-mess/)
+3. [Retratos de los Apóstoles](/3-es-judas/3-3-es-portraits-apostles/)
+
