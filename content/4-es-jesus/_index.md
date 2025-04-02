@@ -1,17 +1,16 @@
 ---
-title: "Mensajes de Jesús de Nazaret"
-menu_title: "Mensajes de Jesús de Nazaret"
-description: "Mensajes de Jesús de Nazaret"
-date: 2024-02-01 15:43:52+00:00
+title: "Jesús de Nazaret"
+menu_title: "Jesús de Nazaret"
+description: "Jesús de Nazaret"
+date: 2025-04-02 15:43:52+00:00
 draft: False
 hidden: False
-weight: 30
+weight: 40
 ---
-## Mensajes de Jesús de Nazaret
+## Jesús de Nazaret
 
-1. [El verdadero Jesús de Nazaret](/3-es-jesus-messages/3-1-es-the-real-jesus/)
-2. [Mensajes de Jesús a través de James E. Padgett](/3-es-jesus-messages/3-2-es-messages-through-padgett/)
-3. [Mensajes de Jesús a través del Dr. Daniel G. Samuels](/3-es-jesus-messages/3-3-es-messages-through-samuels/)
-4. [Mensajes contemporáneos de Jesús](/3-es-jesus-messages/3-4-es-jesus-cont-messages/)
-5. [Enseñanzas contemporáneas de Jesús](/3-es-jesus-messages/3-5-es-jesus-cont-teachings/)
-6. [¿Por qué vino Jesús aquí?](/3-es-jesus-messages/3-6-es-any-point-in-jesus-coming-here/)
+1. [Biografía](/4-es-jesus/4-1-es-jesus-biogr/)
+2. [Mensajes a través de James E. Padgett](/4-es-jesus/4-2-es-jesus-mess-via-jep/)
+3. [Mensajes a través de Dr Daniel G Samuels](/4-es-jesus/4-3-es-jesus-mess-via-dgs/)
+4. [Enseñanzas contemporáneas a través de Albert Fike](/4-es-jesus/4-4-es-jesus-teach-via-af/)
+5. [Mensajes contemporáneos de Jesús](/4-es-jesus/4-5-es-jesus-mess-cont/)

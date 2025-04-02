@@ -4,7 +4,7 @@ menu_title: "James E. Padgett"
 description: "James E. Padgett"
 date: 2025-03-31 02:18:11+11:00
 draft: False
-hidden: True
+hidden: False
 weight: 10
 ---
 ## James E. Padgett

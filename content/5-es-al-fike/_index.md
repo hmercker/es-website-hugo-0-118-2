@@ -1,14 +1,19 @@
 ---
-title: "Mensajes a través de Al Fike"
-menu_title: "Mensajes a través de Al Fike"
-description: "Mensajes a través de Al Fike"
-date: 2024-02-01 15:43:52+00:00
+title: "Albert Fike"
+menu_title: "Albert Fike"
+description: "Albert Fike"
+date: 2025-04-02 15:43:52+00:00
 draft: False
-hidden: True
-weight: 60
+hidden: False
+weight: 50
 ---
-## Mensajes a través de Al Fike
+## Albert Fike
 
-1. [Mensajes de Al Fike por Orden de Fecha](/6-es-fike-messages/6-1-es-fike-messages-by-date/)
-2. [Mensajes de Al Fike ordenados por Tema](/6-es-fike-messages/6-2-es-fike-messages-by-topic/)
-3. [La Mediumnidad en la comunidad del Amor Divino](/6-es-fike-messages/6-3-es-mediumship-in-dl-community/)
+ | <div style="text-align: center;"> **Año**</div> | 
+---|---|---
+<div style="text-align: center;">[2025](/5-es-al-fike/5-1-es-af-mess-2025/)</div> | <div style="text-align: center;">[2024](/5-es-al-fike/5-1-es-af-mess-2024/)</div> | <div style="text-align: center;">[2023](/5-es-al-fike/5-1-es-af-mess-2023/)</div>
+<div style="text-align: center;">[2022](/5-es-al-fike/5-1-es-af-mess-2022/)</div> | <div style="text-align: center;">[2021](/5-es-al-fike/5-1-es-af-mess-2021/)</div> | <div style="text-align: center;">[2020](/5-es-al-fike/5-1-es-af-mess-2020/)</div>
+<div style="text-align: center;">[2019](/5-es-al-fike/5-1-es-af-mess-2019/)</div> | <div style="text-align: center;">[2018](/5-es-al-fike/5-1-es-af-mess-2018/)</div> | <div style="text-align: center;">[2017](/5-es-al-fike/5-1-es-af-mess-2017/)</div>
+<div style="text-align: center;">[2016](/5-es-al-fike/5-1-es-af-mess-2016/)</div> | <div style="text-align: center;">[2015](/5-es-al-fike/5-1-es-af-mess-2015/)</div> | <div style="text-align: center;">[2014](/5-es-al-fike/5-1-es-af-mess-2014/)</div>
+<div style="text-align: center;">[2013](/5-es-al-fike/5-1-es-af-mess-2013/)</div> | |
+| | |
