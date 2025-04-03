@@ -4,7 +4,7 @@ menu_title: "Retratos de los Apóstoles"
 description: "Retratos de los Apóstoles"
 date: 2024-02-01 15:43:52+00:00
 draft: False
-hidden: True
+hidden: False
 weight: 30
 ---
 ### Retratos de los Apóstoles

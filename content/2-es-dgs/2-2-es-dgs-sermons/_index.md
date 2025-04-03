@@ -4,7 +4,7 @@ menu_title: "Sermones sobre el Antiguo Testamento por Jesús"
 description: "Sermones sobre el Antiguo Testamento por Jesús"
 date: 2024-02-01 02:18:11+11:00
 draft: False
-hidden: True
+hidden: False
 weight: 20
 ---
 ### Sermones sobre el Antiguo Testamento por Jesús

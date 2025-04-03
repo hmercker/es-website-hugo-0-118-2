@@ -4,7 +4,7 @@ menu_title: "Revelaciones de Jesús sobre el Nuevo Testamento"
 description: "Revelaciones de Jesús sobre el Nuevo Testamento"
 date: 2024-02-01 02:18:11+11:00
 draft: False
-hidden: True
+hidden: False
 weight: 10
 ---
 ### Revelaciones de Jesús sobre el Nuevo Testamento
