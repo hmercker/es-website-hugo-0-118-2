@@ -1,14 +1,14 @@
 ---
 title: "Mensajes contemporáneos"
 menu_title: "Mensajes contemporáneos"
-description: ""
-date: 2024-02-01 15:43:52+00:00
+description: "Mensajes contemporáneos"
+date: 2025-04-03 15:43:52+00:00
 draft: False
-hidden: True
-weight: 40
+hidden: False
+weight: 60
 ---
 ## Mensajes contemporáneos
 
-1. [Mensajes contemporáneos por orden de fecha](/4-es-contemporary-messages/4-1-es-cont-messages-by-date/)
-2. [Mensajes Contemporáneos de Figuras Espirituales religiosas](/4-es-contemporary-messages/4-2-es-messages-of-religious-spirit-figures/)
-3. [Mensajes de miembros fallecidos de la Comunidad Amor Divino](/4-es-contemporary-messages/4-3-es-messages-of-deceased-dl-members/)
+1. [Mensajes en orden cronológico](/6-es-cont-mess/6-1-es-cont-mess-date/)
+2. [Mensajes ordenados por Medio](/6-es-cont-mess/6-2-es-mess-by-med/)
+3. [Amigos que ya no están comparten](/6-es-cont-mess/6-3-es-dep-friends/)
