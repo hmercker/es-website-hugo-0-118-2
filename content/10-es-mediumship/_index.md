@@ -1,13 +1,13 @@
 ---
-title: ""
+title: "Mediumnidad"
 menu_title: ""
-description: ""
+description: "Mediumnidad"
 date: 2025-04-04 15:43:52+00:00
 draft: False
 hidden: False
-weight: 90
+weight: 100
 ---
-## La Comunidad del Amor Divino
+## Mediumnidad
 
 | **Tema**
 |---
