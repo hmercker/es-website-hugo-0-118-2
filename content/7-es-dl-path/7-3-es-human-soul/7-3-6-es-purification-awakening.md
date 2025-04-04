@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "Despertar y la Purificación"
 menu_title: ""
-description: ""
+description: "Despertar y la Purificación"
 date: 2024-02-01 15:43:52+00:00
 draft: False
 hidden: True
 weight:
 ---
-### 
+### Despertar y la Purificación

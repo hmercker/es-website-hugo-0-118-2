@@ -9,7 +9,7 @@ weight: 70
 ---
 ## El Camino del Amor Divino
 
-|
+| **Tema**
 |---
 | [Introducción](/7-es-dl-path/7-1-es-dl-intro/)
 | [Naturaleza de Dios](/7-es-dl-path/7-2-es-dl-nat-of-god/)
@@ -19,4 +19,3 @@ weight: 70
 | [Fe](/7-es-dl-path/7-6-es-faith/)
 | [Nuevo nacimiento e inmortalidad](/7-es-dl-path/7-7-es-newb-immort/)
 | [El Cielo Celestial](/7-es-dl-path/7-8-es-celestial-heav/)
-|
