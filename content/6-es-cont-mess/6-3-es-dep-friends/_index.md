@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 30
 ---
-## Amigos que ya no están comparten
+### Amigos que ya no están comparten
 
 **Persona** | **Fecha de nacimiento**
 ---|---

@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-#### El cuento de Judas
+##### El cuento de Judas
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---

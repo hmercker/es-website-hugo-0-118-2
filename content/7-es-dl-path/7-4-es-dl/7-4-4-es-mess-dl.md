@@ -7,4 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-### Mensajes sobre el amor divino
+#### Mensajes sobre el amor divino
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

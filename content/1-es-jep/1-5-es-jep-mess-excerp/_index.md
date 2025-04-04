@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 50
 ---
-## Extractos de la obra de James E. Padgett
+### Extractos de la obra de James E. Padgett
 
  | <div style="text-align: center;"> **Año**</div> | 
 ---|---|---

@@ -7,4 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-### Mensajes sobre la fe
+#### Mensajes sobre la fe
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

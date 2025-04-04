@@ -7,4 +7,4 @@ draft: False
 hidden: True
 weight:
 ---
-#### La mente y los pensamientos
+##### La mente y los pensamientos

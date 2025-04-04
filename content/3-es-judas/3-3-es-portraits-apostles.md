@@ -25,13 +25,13 @@ Un retrato aparentemente realista de Jesús se puede encontrar [aquí](http://ww
 
 La Sábana Santa ha sido ampliamente estudiada y existen pruebas científicas de que es auténtica.  Por lo tanto, también lo hemos incluido en esta lista.
 
-## La Sábana Santa de Turín
+#### La Sábana Santa de Turín
 
 ![turin-face](/portraits/es-turin-face.jpg)
 
 *Los derechos de autor de esta imagen pertenecen a la persona que la creó.*
 
-## Otras personalidades
+#### Otras personalidades
 
 ![pilate](/portraits/es-pilate.jpg) |  ![machiventa](/portraits/es-machiventa.jpg) |
 ---|---|---  

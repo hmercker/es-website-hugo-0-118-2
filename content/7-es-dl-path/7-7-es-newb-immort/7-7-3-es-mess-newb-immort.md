@@ -7,4 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-### Mensajes sobre el nuevo nacimiento y la inmortalidad
+#### Mensajes sobre el nuevo nacimiento y la inmortalidad
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

@@ -12,6 +12,6 @@ weight: 50
 | **Tema**
 |---
 | [Introducción](/7-es-dl-path/7-5-es-prayer/7-5-1-es-intro/)
-| [¿Cómo funciona Prayer?](/7-es-dl-path/7-5-es-prayer/7-5-2-es-how-pray-works/)
+| [¿Cómo funciona la oración?](/7-es-dl-path/7-5-es-prayer/7-5-2-es-how-pray-works/)
 | [Mensajes sobre la oración](/7-es-dl-path/7-5-es-prayer/7-5-3-es-mess-pray/)
 | [Orar sin cesar](/7-es-dl-path/7-5-es-prayer/7-5-4-es-pray-noneceas/)

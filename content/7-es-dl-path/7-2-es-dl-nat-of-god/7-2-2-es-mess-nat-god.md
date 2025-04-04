@@ -7,4 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-### Mensajes sobre la naturaleza de Dios
+#### Mensajes sobre la naturaleza de Dios
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

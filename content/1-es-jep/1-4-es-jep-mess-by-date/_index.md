@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 40
 ---
-## Mensajes de James E. Padgett en orden cronológico
+### Mensajes de James E. Padgett en orden cronológico
 
 Originalmente e históricamente, el primer editor de los mensajes de James Padgett, el Dr. Stone, no eligió una publicación cronológica de los mensajes recibidos por James Padgett. Con muy pocos ingresos y sin saber si podría publicar todos los mensajes, el Dr. Stone decidió agrupar los más importantes para una primera edición y clasificarlos por temas.
 

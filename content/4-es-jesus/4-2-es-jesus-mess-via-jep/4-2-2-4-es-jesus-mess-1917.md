@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-#### Mensajes de Jesús durante el año 1917
+##### Mensajes de Jesús durante el año 1917
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---

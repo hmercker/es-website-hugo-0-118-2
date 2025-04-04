@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 20
 ---
-## Mensajes a través de James E. Padgett
+### Mensajes a través de James E. Padgett
 
 | **Tema**
 |---

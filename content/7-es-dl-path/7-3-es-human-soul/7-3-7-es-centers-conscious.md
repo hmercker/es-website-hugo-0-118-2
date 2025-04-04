@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-### Los tres Centros de la Conciencia
+#### Los tres Centros de la Conciencia
 
 | **Tema**
 |---

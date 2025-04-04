@@ -7,4 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-### Mensajes sobre la oración
+#### Mensajes sobre la oración
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

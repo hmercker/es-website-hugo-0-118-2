@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 30
 ---
-## El Verdadero Evangelio revelado de nuevo por Jesús
+### El Verdadero Evangelio revelado de nuevo por Jesús
 
 James Padgett recibió mensajes de Jesús, de numerosos espíritus celestiales y de otros seres espirituales durante el período comprendido entre 1914 y su muerte en 1923. Estos mensajes conformaron una publicación de cuatro volúmenes titulada “El verdadero Evangelio transmitido por Jesús”. Los cuatro volúmenes de mensajes se publicaron entre los años 1941 (el primer volumen) y 1972 (el cuarto). El cuarto y último tomo fue completado por el reverendo Paul Gibson tras la muerte del Dr. Stone.
 

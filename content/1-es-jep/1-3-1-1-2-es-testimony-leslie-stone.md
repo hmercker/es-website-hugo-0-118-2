@@ -1,13 +1,13 @@
 ---
 title: "El testimonio del Dr. Leslie Rippon Stone"
-menu_title: "El testimonio del Dr. Leslie Rippon Stone"
+menu_title: ""
 description: "El testimonio del Dr. Leslie Rippon Stone"
 date: 2024-02-01 15:43:52+00:00
 draft: False
-hidden: False
-weight: 70
+hidden: True
+weight:
 ---
-## El testimonio del Dr. Leslie Rippon Stone
+### El testimonio del Dr. Leslie Rippon Stone
 
 *El editor original de Los Mensajes de Padgett.*
 

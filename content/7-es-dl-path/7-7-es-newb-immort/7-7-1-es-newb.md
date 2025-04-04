@@ -1,10 +1,10 @@
 ---
-title: "Nuevo Nacimiento"
+title: "Nuevo nacimiento"
 menu_title: ""
-description: "Nuevo Nacimiento"
+description: "Nuevo nacimiento"
 date: 2024-02-01 15:43:52+00:00
 draft: False
 hidden: True
 weight:
 ---
-### Nuevo Nacimiento
+#### Nuevo nacimiento

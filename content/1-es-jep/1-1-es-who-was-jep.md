@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 10
 ---
-## ¿ Quién era James Edward Padgett ?
+### ¿ Quién era James Edward Padgett ?
 
 *Por [Alan Ross](http://www.jamesepadgett.com/biography-of-james-e-padgett.html).*
 

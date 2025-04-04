@@ -1,22 +1,16 @@
 ---
-title: "Mensajes de otros Médiums"
-menu_title: "Mensajes de otros Médiums"
-description: "Mensajes de otros Médiums"
-date: 2024-02-01 15:43:52+00:00
+title: "La Comunidad del Amor Divino"
+menu_title: "La Comunidad del Amor Divino"
+description: "La Comunidad del Amor Divino"
+date: 2025-04-04 15:43:52+00:00
 draft: False
-hidden: True
-weight: 70
+hidden: False
+weight: 80
 ---
-## Mensajes de otros Médiums
+## La Comunidad del Amor Divino
 
-| **Medio**
+| **Tema**
 |---
-| [Amada Reza](/7-es-other-mediums/7-1-es-amada-reza/)
-| [David Lampron](/7-es-other-mediums/7-2-es-david-lampron/)
-| [Child of God](/7-es-other-mediums/7-3-es-child-of-god/)
-| [Helge Mercker](/7-es-other-mediums/7-5-es-helge-mercker/)
-| [Jane Gartshore](/7-es-other-mediums/7-6-es-jane-gartshore/)
-| [Jimbeau Walsh](/7-es-other-mediums/7-7-es-jimbeau-walsh/)
-| [Kathryn Stokes](/7-es-other-mediums/7-8-es-kathryn-stokes/)
-| [Maureen Cardoso](/7-es-other-mediums/7-9-es-maureen-cardoso/)
-| [Elisabeth Mack](/7-es-other-mediums/7-10-es-elisabeth-mack/)
+| [Práctica diaria y directrices](/8-es-dl-comty/8-1-es-daily-prac-guidl/)
+| [Preguntas y respuestas](/8-es-dl-comty/8-2-es-q&a/)
+| [Comunidad](/8-es-dl-comty/8-3-es-comty/)
