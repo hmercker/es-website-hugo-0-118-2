@@ -9,8 +9,6 @@ weight: 20
 ---
 ## Mensajes a través de James E. Padgett
 
-|
 |---
 | [Jesús de Nazaret selecciona a James E. Padgett](/4-es-jesus/4-2-es-jesus-mess-via-jep/4-2-1-es-jesus-selects-jep/)
 | [Mensajes recibidos de Jesús](/4-es-jesus/4-2-es-jesus-mess-via-jep/4-2-2-es-jesus-mess/)
-|
