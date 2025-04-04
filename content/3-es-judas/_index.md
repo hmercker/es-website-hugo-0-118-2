@@ -9,7 +9,8 @@ weight: 30
 ---
 ## Judas de Kerioth
 
-1. [El libro de Judas de Keriot](/3-es-judas/3-1-es-judas-book/)
-2. [Mensajes de Judas ordenados por fecha](/3-es-judas/3-2-es-judas-mess/)
-3. [Retratos de los Apóstoles](/3-es-judas/3-3-es-portraits-apostles/)
-
+|
+|---
+[El libro de Judas de Keriot](/3-es-judas/3-1-es-judas-book/)
+[Mensajes de Judas ordenados por fecha](/3-es-judas/3-2-es-judas-mess/)
+[Retratos de los Apóstoles](/3-es-judas/3-3-es-portraits-apostles/)
