@@ -9,7 +9,7 @@ weight: 40
 ---
 ### Enseñanzas contemporáneas a través de Albert Fike
 
-|
+| **Volumen**
 |---
 | [Enseñanzas contemporáneas de Jesús - Volumen 1](/4-es-jesus/4-4-es-jesus-teach-via-af/4-4-1-es-jesus-cont-teach-vol1/)
 | [Enseñanzas Contemporáneas de Jesús - Volumen 2](/4-es-jesus/4-4-es-jesus-teach-via-af/4-4-2-es-jesus-cont-teach-vol2/)

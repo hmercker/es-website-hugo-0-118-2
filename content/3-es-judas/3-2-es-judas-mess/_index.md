@@ -11,5 +11,5 @@ weight: 20
 
  | <div style="text-align: center;"> **Año**</div> | 
 ---|---|---
-<div style="text-align: center;">[2025](/3-es-judas/3-2-es-judas-mess/3-2-6-es-judas-mess-2025/)</div> | <div style="text-align: center;">[2021 - 2024](/3-es-judas/3-2-es-judas-mess/3-2-5-es-judas-mess-2021-2024/)</div> | <div style="text-align: center;">[2012 - 2020](//3-es-judas/3-2-es-judas-mess/3-2-4-es-judas-mess-2012-2020/)</div>
+<div style="text-align: center;">[2025](/3-es-judas/3-2-es-judas-mess/3-2-6-es-judas-mess-2025/)</div> | <div style="text-align: center;">[2021 - 2024](/3-es-judas/3-2-es-judas-mess/3-2-5-es-judas-mess-2021-2024/)</div> | <div style="text-align: center;">[2012 - 2020](/3-es-judas/3-2-es-judas-mess/3-2-4-es-judas-mess-2012-2020/)</div>
 <div style="text-align: center;">[2003](/3-es-judas/3-2-es-judas-mess/3-2-3-es-judas-mess-2003/)</div> | <div style="text-align: center;">[2002](/3-es-judas/3-2-es-judas-mess/3-2-2-es-judas-mess-2002/)</div> | <div style="text-align: center;">[1970 - 2001](/3-es-judas/3-2-es-judas-mess/3-2-1-es-judas-mess-1970-2001/)</div>

@@ -9,6 +9,8 @@ weight: 60
 ---
 ## Mensajes contemporáneos
 
-1. [Mensajes en orden cronológico](/6-es-cont-mess/6-1-es-cont-mess-date/)
-2. [Mensajes ordenados por Medio](/6-es-cont-mess/6-2-es-mess-by-med/)
-3. [Amigos que ya no están comparten](/6-es-cont-mess/6-3-es-dep-friends/)
+| **Tema**
+|---
+| [Mensajes en orden cronológico](/6-es-cont-mess/6-1-es-cont-mess-date/)
+| [Mensajes ordenados por Medio](/6-es-cont-mess/6-2-es-mess-by-med/)
+| [Amigos que ya no están comparten](/6-es-cont-mess/6-3-es-dep-friends/)

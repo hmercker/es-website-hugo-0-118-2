@@ -16,4 +16,3 @@ weight: 50
 <div style="text-align: center;">[2019](/5-es-al-fike/5-7-es-af-mess-2019/)</div> | <div style="text-align: center;">[2018](/5-es-al-fike/5-6-es-af-mess-2018/)</div> | <div style="text-align: center;">[2017](/5-es-al-fike/5-5-es-af-mess-2017/)</div>
 <div style="text-align: center;">[2016](/5-es-al-fike/5-4-es-af-mess-2016/)</div> | <div style="text-align: center;">[2015](/5-es-al-fike/5-3-es-af-mess-2015/)</div> | <div style="text-align: center;">[2014](/5-es-al-fike/5-2-es-af-mess-2014/)</div>
 <div style="text-align: center;">[2013](/5-es-al-fike/5-1-es-af-mess-2013/)</div> | |
-| | |
