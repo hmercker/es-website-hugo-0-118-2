@@ -9,7 +9,7 @@ weight: 20
 ---
 ## Mensajes ordenados por Medio
 
-| ***Medio**
+| **Medio**
 |---
 | [Cardoso, Maureen](/6-es-cont-mess/6-2-es-mess-by-med/6-2-1-es-mc/)
 | [Child of God](/6-es-cont-mess/6-2-es-mess-by-med/6-2-2-es-cog/)
