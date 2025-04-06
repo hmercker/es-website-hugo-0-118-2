@@ -22,4 +22,4 @@ weight: 50
 | [Aborto e interrupción del embarazo](/9-es-var-top/9-5-es-life-after-death/9-5-9-es-abort/)
 | [Bebés y niños en el mundo de los espíritus](/9-es-var-top/9-5-es-life-after-death/9-5-10-es-babies-children/)
 | [Mascotas y animales en el mundo espiritual](/9-es-var-top/9-5-es-life-after-death/9-5-11-es-pets-animal/)
-| [a vida en el mundo de los espíritus](/9-es-var-top/9-5-es-life-after-death/9-5-12-es-life-spirit/)
+| [La vida en el mundo de los espíritus](/9-es-var-top/9-5-es-life-after-death/9-5-12-es-life-spirit/)
