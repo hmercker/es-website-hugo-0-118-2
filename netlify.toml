@@ -2,6 +2,11 @@
   publish = "public"
   command = "hugo -b $URL"
 
+[build]
+  base = "es-website"
+  publish = "public"
+  command = "hugo --b SURL"
+
 [context.deploy-preview]
   command = "hugo -b $DEPLOY_URL"
 
