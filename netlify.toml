@@ -25,6 +25,6 @@
   HUGO_EXTENDED = "true"
 
 [[redirects]]
-  from = "*/es-website/es-al-fike/*"
+  from = "*/es-website/content/es-al-fike/*"
   to = "/404"
   status = 404
