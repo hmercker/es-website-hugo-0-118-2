@@ -18,6 +18,6 @@
   HUGO_VERSION = "0.51"
 
 [[redirects]]
-  from = "/content/5-es-al-fike/*"
+  from = "../5-es-al-fike/*"
   to = "/404"
   status = 404
