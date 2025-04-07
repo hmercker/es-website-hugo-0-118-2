@@ -2,27 +2,29 @@
   publish = "public"
   command = "hugo -b $URL"
 
-[build]
-  base = "es-website"
-  publish = "public"
-  command = "hugo --b SURL"
+[build.environment]
+  HUGO_VERSION = "0.145.0"
+  HUGO_EXTENDED = "true"
 
 [context.deploy-preview]
-  command = "hugo -b $DEPLOY_URL"
+  command = "hugo --b $DEPLOY_URL"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.51"
+  HUGO_VERSION = "0.145.0"
+  HUGO_EXTENDED = "true"
 
 [context.production.environment]
-  HUGO_VERSION = "0.51"
+  HUGO_VERSION = "0.145.0"
+  HUGO_EXTENDED = "true"
 
 [context.branch-deploy]
-  command = "hugo -b $DEPLOY_PRIME_URL"
+  command = "hugo --b $DEPLOY_PREVIEW"
 
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.51"
+  HUGO_VERSION = "0.145.0"
+  HUGO_EXTENDED = "TRUE"
 
 [[redirects]]
-  from = "../5-es-al-fike/*"
+  from = "/*/es-al-fike/*"
   to = "/404"
   status = 404
