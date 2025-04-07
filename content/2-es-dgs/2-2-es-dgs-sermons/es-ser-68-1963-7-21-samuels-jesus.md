@@ -2,7 +2,7 @@
 title: "Sermón 68: El Segundo Isaías predicó la vindicación de su pueblo"
 menu_title: ""
 description: "Sermón 68: El Segundo Isaías predicó la vindicación de su pueblo"
-date: 2023-09-01 06:00:01+00:68
+date: 2023-09-01 06:00:01+00:00
 draft: False
 hidden: True
 weight:

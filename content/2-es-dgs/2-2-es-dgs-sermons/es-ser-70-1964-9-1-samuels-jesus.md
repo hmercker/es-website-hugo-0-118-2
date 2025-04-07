@@ -2,7 +2,7 @@
 title: "Sermón 70: Jesús utilizó las líneas iniciales del Tercer Isaías, cuando habló en Nazaret"
 menu_title: ""
 description: "Sermón 70: Jesús utilizó las líneas iniciales del Tercer Isaías, cuando habló en Nazaret"
-date: 2023-09-01 06:00:01+00:70
+date: 2023-09-01 06:00:01+00:00
 draft: False
 hidden: True
 weight:

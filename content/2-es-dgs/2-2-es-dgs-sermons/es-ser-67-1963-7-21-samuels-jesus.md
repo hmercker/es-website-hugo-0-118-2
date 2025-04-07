@@ -2,7 +2,7 @@
 title: "Sermón 67: Muchos Cristianos consideran estos sermones como proféticos"
 menu_title: ""
 description: "Sermón 67: Muchos Cristianos consideran estos sermones como proféticos"
-date: 2023-09-01 06:00:01+00:67
+date: 2023-09-01 06:00:01+00:00
 draft: False
 hidden: True
 weight:

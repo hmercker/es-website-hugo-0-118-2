@@ -2,7 +2,7 @@
 title: "Sermón 75: Zacarías recibe una orden de Dios Mismo"
 menu_title: ""
 description: "Sermón 75: Zacarías recibe una orden de Dios Mismo"
-date: 2023-09-01 06:00:01+00:75
+date: 2023-09-01 06:00:01+00:00
 draft: False
 hidden: True
 weight:

@@ -2,7 +2,7 @@
 title: "Sermón 62: Isaías, el mensajero de buenas nuevas"
 menu_title: ""
 description: "Sermón 62: Isaías, el mensajero de buenas nuevas"
-date: 2023-09-01 06:00:01+00:62
+date: 2023-09-01 06:00:01+00:00
 draft: False
 hidden: True
 weight:

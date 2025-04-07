@@ -2,7 +2,7 @@
 title: "¿ Quién era James E. Padgett ?"
 menu_title: "¿ Quién era James E. Padgett ?"
 description: "¿ Quién era James E. Padgett ?"
-date: 2025-03-31 06:25:48+00:80
+date: 2025-03-31 06:25:48+00:00
 draft: False
 hidden: False
 weight: 10

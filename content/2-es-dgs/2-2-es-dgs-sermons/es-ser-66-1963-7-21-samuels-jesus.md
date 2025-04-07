@@ -2,7 +2,7 @@
 title: "Sermón 66: Jesús explica aún más los cantos de Isaías"
 menu_title: ""
 description: "Sermón 66: Jesús explica aún más los cantos de Isaías"
-date: 2023-09-01 06:00:01+00:66
+date: 2023-09-01 06:00:01+00:00
 draft: False
 hidden: True
 weight:

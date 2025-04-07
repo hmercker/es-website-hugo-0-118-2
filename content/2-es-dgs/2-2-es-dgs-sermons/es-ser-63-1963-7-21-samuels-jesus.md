@@ -2,7 +2,7 @@
 title: "Sermón 63: El Segundo Isaías — El profeta del exilio"
 menu_title: ""
 description: "Sermón 63: El Segundo Isaías — El profeta del exilio"
-date: 2023-09-01 06:00:01+00:63
+date: 2023-09-01 06:00:01+00:00
 draft: False
 hidden: True
 weight:
