@@ -2,7 +2,7 @@
 title: "Mensajes de James E. Padgett en orden cronológico"
 menu_title: "Mensajes de James E. Padgett en orden cronológico"
 description: "Mensajes de James E. Padgett en orden cronológico"
-date: 2025-03-31 15:43:52+00:00
+date: 2025-03-31 00:00:00+00:00
 draft: False
 hidden: False
 weight: 40

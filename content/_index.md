@@ -1,8 +1,8 @@
 ---
 title: "El Camino Hacia la Verdad del Amor Eterno"
 menu_title: "El Camino Hacia la Verdad del Amor Eterno"
-description: ""
-date: 2020-06-06 07:23:19+00:00
+description: "El Camino Hacia la Verdad del Amor Eterno"
+date: 2020-06-06 00:00:00+00:00
 draft: False
 hidden: False
 weight:
