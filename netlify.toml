@@ -3,25 +3,25 @@
   command = "hugo -b $URL"
 
 [build.environment]
-  HUGO_VERSION = "0.82.0"
+  HUGO_VERSION = "0.51"
   HUGO_EXTENDED = "true"
 
 [context.deploy-preview]
   command = "hugo -b $DEPLOY_URL"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.82.0"
+  HUGO_VERSION = "0.51"
   HUGO_EXTENDED = "true"
 
 [context.production.environment]
-  HUGO_VERSION = "0.82.0"
+  HUGO_VERSION = "0.51"
   HUGO_EXTENDED = "true"
 
 [context.branch-deploy]
   command = "hugo -b $DEPLOY_PREVIEW"
 
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.82.0"
+  HUGO_VERSION = "0.51"
   HUGO_EXTENDED = "true"
 
 [[redirects]]
