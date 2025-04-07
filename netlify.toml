@@ -23,8 +23,3 @@
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.51"
   HUGO_EXTENDED = "true"
-
-[[redirects]]
-  from = "*/diewahrheit/es-website/content/5-es-al-fike/*"
-  to = "/404"
-  status = 404
