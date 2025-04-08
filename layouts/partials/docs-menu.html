@@ -1,6 +1,6 @@
 
 <ul>
-    {{ $currentNode := . }}
+  {{ $currentNode := . }}
   {{ range where .Site.Home.Sections "Draft" "ne" true }}
     {{ template "menu" dict "sect" . "currentNode" $currentNode}}
   {{ end }}
@@ -8,6 +8,7 @@
   
   {{define "menu"}}
     {{ $showhidden := false }}
+    {{ $spansand := "" }}
     {{ $currentNode := .currentnode }}
     {{ with .sect }}
       {{ if .IsSection }}
