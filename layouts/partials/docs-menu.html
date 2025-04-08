@@ -1,11 +1,12 @@
+{{$currentNode := .}}
 <ul>
   {{ range where .Site.Home.Sections "Draft" "ne" true }}
-    {{ template "menu" dict "sect" . "currentNode" $currentNode}}
+    {{ template "menu" dict "sect" . "currentnode" $currentNode}}
   {{ end }}
   </ul>
   
   {{define "menu"}}
-    {{ $currentNode := .currentNode }}
+    {{ $currentNode := .currentnode }}
     {{ with .sect }}
       {{ if .IsSection }}
         <li class="section{{ if .IsAncestor $currentNode }} active-trail{{ end }}">
@@ -22,7 +23,7 @@
               {{ range $pages.ByWeight }}
                 {{ if and .Params.hidden (not $showhidden) }}
                 {{ else }}
-                  {{ template "menu" dict "sect" . "currentNode" $currentNode}}
+                  {{ template "menu" dict "sect" . "currentnode" $currentNode}}
                 {{ end }}
               {{ end }}
             </ul>
