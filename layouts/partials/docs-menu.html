@@ -1,5 +1,6 @@
 
 <ul>
+  {{ $showhidden := false }}
   {{ $currentNode := . }}
   {{ range where .Site.Home.Sections "Draft" "ne" true }}
     {{ template "menu" dict "sect" . "currentNode" $currentNode}}
