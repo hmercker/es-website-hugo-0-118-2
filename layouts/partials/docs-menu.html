@@ -1,13 +1,13 @@
 
 <ul>
-  {{ $showhidden := false }}
-  {{ $currentNode := . }}
+    {{ $currentNode := . }}
   {{ range where .Site.Home.Sections "Draft" "ne" true }}
     {{ template "menu" dict "sect" . "currentNode" $currentNode}}
   {{ end }}
   </ul>
   
   {{define "menu"}}
+    {{ $showhidden := false }}
     {{ $currentNode := .currentnode }}
     {{ with .sect }}
       {{ if .IsSection }}
