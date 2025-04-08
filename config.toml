@@ -30,6 +30,7 @@ delimiter = ""
     weight = 1
 
 [params]
+  excludeDrafts = true
   [params.homepage_meta_tags]
     meta_description = ""
     meta_og_title = "Un viaje espiritual"
@@ -38,3 +39,4 @@ delimiter = ""
     meta_og_image = "https://elcaminodelaverdad.es/images/social.png"
     meta_og_description = ""
     meta_og_site_name = "elcamino de la verdad"
+
