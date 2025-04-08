@@ -1,16 +1,17 @@
-
 <ul>
   {{ $currentNode := . }}
   {{ range where .Site.Home.Sections "Draft" "ne" true }}
-    {{ template "menu" dict "sect" . "currentNode" $currentNode}}
+    {{ $sect := . }}
+    {{ template "menu" (slice $sect $currentNode) }}
   {{ end }}
   </ul>
   
   {{define "menu"}}
     {{ $showhidden := false }}
     {{ $spansand := "" }}
-    {{ $currentNode := .currentnode }}
-    {{ with .sect }}
+    {{ $sect := index . 0 }}
+    {{ $currentNode := index . 1 }}
+    {{ with $sect }}
       {{ if .IsSection }}
         <li class="section{{ if .IsAncestor $currentNode }} active-trail{{ end }}">
           <a href="{{ .URL }}">{{ .Title | truncate 50 }}</a>
@@ -26,7 +27,7 @@
               {{ range $pages.ByWeight }}
                 {{ if and .Params.hidden (not $showhidden) }}
                 {{ else }}
-                  {{ template "menu" dict "sect" . "currentNode" $currentNode}}
+                  {{ template "menu" (slice . $currentNode) }}
                 {{ end }}
               {{ end }}
             </ul>
@@ -34,8 +35,8 @@
         </li>
       {{ else }}
         <li class="{{ if eq .UniqueID $currentNode.UniqueID }}active{{ end }}">
-          <a href="{{ .URL }}"{{ if ne .URL $spansand }}>{{ .Title | truncate 45 }}</a>{{ else }}>{{ .Title | truncate 45 }}</span>{{ end }}
+          <a href="{{ .URL }}">{{ .Title | truncate 45 }}</a>
         </li>
       {{ end }}
     {{ end }}
-  {{/define}}
+  {{ end }}
