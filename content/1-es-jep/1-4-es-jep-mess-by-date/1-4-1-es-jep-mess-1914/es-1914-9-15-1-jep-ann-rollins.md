@@ -9,4 +9,6 @@ weight:
 ---
 ### La abuela del Sr. Padgett escribe que el Nuevo Nacimiento es el fluir del Espíritu de Dios en el alma
 
-Anne Rollins - recibido por James Padgett op 15 de septiembre de 1914, Washington, DC, EE.UU..
+Anne Rollins - recibido por James Padgett el 15 de septiembre de 1914, Washington, DC, EE.UU.
+
+

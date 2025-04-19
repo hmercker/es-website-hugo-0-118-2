@@ -9,4 +9,6 @@ weight:
 ---
 ### Ann Rollins afirma que Jesús escribió
 
-Anne Rollins - recibido por James Padgett op 25 de diciembre de 1914, Washington, DC, EE.UU..
+Anne Rollins - recibido por James Padgett el 25 de diciembre de 1914, Washington, DC, EE.UU.
+
+

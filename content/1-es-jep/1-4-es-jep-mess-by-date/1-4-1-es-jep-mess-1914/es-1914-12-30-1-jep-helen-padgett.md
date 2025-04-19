@@ -9,6 +9,6 @@ weight:
 ---
 ### Primer mensaje recibido de Helen, esposa del Sr. Padgett, para el Dr. Stone
 
-Helen Padgett - recibido por James Padgett op 30 de diciembre de 1914, Washington, DC, EE.UU.
+Helen Padgett - recibido por James Padgett el 30 de diciembre de 1914, Washington, DC, EE.UU.
 
 

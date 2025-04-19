@@ -9,4 +9,6 @@ weight:
 ---
 ### Y Helen afirma
 
-Helen Padgett - recibido por James Padgett op 12 de diciembre de 1914, Washington, DC, EE.UU..
+Helen Padgett - recibido por James Padgett el 12 de diciembre de 1914, Washington, DC, EE.UU.
+
+

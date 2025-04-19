@@ -9,6 +9,6 @@ weight:
 ---
 ### El padre del señor Padgett habla de los registros de almas gemelas
 
-John H Padgett - recibido por James Padgett op 31 de diciembre de 1914, Washington, DC, EE.UU.
+John H Padgett - recibido por James Padgett el 31 de diciembre de 1914, Washington, DC, EE.UU.
 
 

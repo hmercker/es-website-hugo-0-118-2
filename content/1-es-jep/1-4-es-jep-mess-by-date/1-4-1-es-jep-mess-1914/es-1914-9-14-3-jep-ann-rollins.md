@@ -9,4 +9,6 @@ weight:
 ---
 ### La abuela del Sr. Padgett, un Espíritu Celestial, también le asegura que fue verdaderamente el Jesús de las Escrituras el que le habló y escribió el sábado
 
-Anne Rollins - recibido por James Padgett op 14 de septiembre de 1914, Washington, DC, EE.UU..
+Anne Rollins - recibido por James Padgett el 14 de septiembre de 1914, Washington, DC, EE.UU.
+
+

@@ -9,4 +9,6 @@ weight:
 ---
 ### Helen relata su temprano desarrollo espiritual hasta la Tercera Esfera con la ayuda del Sr. Padgett
 
-Helen Padgett - recibido por James Padgett op 16 de noviembre de 1914, Washington, DC, EE.UU..
+Helen Padgett - recibido por James Padgett el 16 de noviembre de 1914, Washington, DC, EE.UU.
+
+

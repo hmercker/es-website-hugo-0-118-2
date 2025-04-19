@@ -1,0 +1,12 @@
+---
+title: "Ingersoll lamenta no haber conocido la Verdad cuando estaba en la tierra"
+menu_title: ""
+description: "Ingersoll lamenta no haber conocido la Verdad cuando estaba en la tierra"
+date: 2025-04-01 06:00:00+00:00
+draft: False
+hidden: True
+weight:
+---
+### Ingersoll lamenta no haber conocido la Verdad cuando estaba en la tierra
+
+Robert Ingersoll - recibido por James Padgett el 1 de octubre de 1915, Washington, DC, EE.UU.

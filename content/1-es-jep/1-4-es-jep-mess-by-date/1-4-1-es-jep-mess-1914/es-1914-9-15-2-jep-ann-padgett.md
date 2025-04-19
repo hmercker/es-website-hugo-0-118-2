@@ -9,4 +9,6 @@ weight:
 ---
 ### La madre del Sr. Padgett habla de su alma gemela y del amor que siente por su hijo
 
-Anne Padgett - recibido por James Padgett op 15 de septiembre de 1914, Washington, DC, EE.UU..
+Anne Padgett - recibido por James Padgett el 15 de septiembre de 1914, Washington, DC, EE.UU.
+
+

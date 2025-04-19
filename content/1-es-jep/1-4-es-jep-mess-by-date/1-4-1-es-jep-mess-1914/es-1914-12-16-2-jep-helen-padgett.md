@@ -9,4 +9,6 @@ weight:
 ---
 ### Helen confirma que el Sr. Riddle ha empezado a rezar como le sugirió el Sr. Padgett para poder progresar hacia la luz
 
-Helen Padgett - recibido por James Padgett op 16 de diciembre de 1914, Washington, DC, EE.UU..
+Helen Padgett - recibido por James Padgett el 16 de diciembre de 1914, Washington, DC, EE.UU.
+
+

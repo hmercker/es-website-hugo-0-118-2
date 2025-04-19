@@ -9,4 +9,6 @@ weight:
 ---
 ### Un mensaje temprano de Jesús para permitirle al Sr. Padgett alcanzar una condición espiritual antes de que se escribieran las Verdades importantes
 
-Jesús - recibido por James Padgett op 5 de octubre de 1914, Washington, DC, EE.UU..
+Jesús - recibido por James Padgett el 5 de octubre de 1914, Washington, DC, EE.UU.
+
+

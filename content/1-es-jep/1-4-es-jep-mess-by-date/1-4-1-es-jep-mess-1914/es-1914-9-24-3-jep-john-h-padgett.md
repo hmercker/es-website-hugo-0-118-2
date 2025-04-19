@@ -9,4 +9,6 @@ weight:
 ---
 ### Una nota confirmatoria del padre de Padgett
 
-John H Padgett - recibido por James Padgett op 24 de septiembre de 1914, Washington, DC, EE.UU..
+John H Padgett - recibido por James Padgett el 24 de septiembre de 1914, Washington, DC, EE.UU.
+
+

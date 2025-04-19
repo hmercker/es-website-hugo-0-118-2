@@ -9,4 +9,6 @@ weight:
 ---
 ### Una nota de aliento de Ann Rollins
 
-Anne Rollins - recibido por James Padgett op 12 de septiembre de 1914, Washington, DC, EE.UU..
+Anne Rollins - recibido por James Padgett el 12 de septiembre de 1914, Washington, DC, EE.UU.
+
+

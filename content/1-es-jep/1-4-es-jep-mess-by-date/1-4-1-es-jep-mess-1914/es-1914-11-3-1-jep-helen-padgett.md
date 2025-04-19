@@ -9,4 +9,6 @@ weight:
 ---
 ### En uno de sus primeros mensajes, Helen escribió que el Sr. Padgett estaba demasiado absorto en sus asuntos comerciales y no dedicaba suficiente tiempo a orar al Padre para recibir el don del espíritu
 
-Helen Padgett - recibido por James Padgett op 3 de noviembre de 1914, Washington, DC, EE.UU..
+Helen Padgett - recibido por James Padgett el 3 de noviembre de 1914, Washington, DC, EE.UU.
+
+

@@ -9,4 +9,6 @@ weight:
 ---
 ### Jesús selecciona al Dr. Stone
 
-Jesús - recibido por James Padgett op 14 de octubre de 1914, Washington, DC, EE.UU..
+Jesús - recibido por James Padgett el 14 de octubre de 1914, Washington, DC, EE.UU.
+
+

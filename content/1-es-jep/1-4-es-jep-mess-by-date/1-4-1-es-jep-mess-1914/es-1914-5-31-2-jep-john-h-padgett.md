@@ -9,4 +9,6 @@ weight:
 ---
 ### John H. Padgett (padre) coincide con la sugerencia hecha de formar un grupo para proteger a su hijo en su investigación espiritual a través de escrituras automáticas
 
-John H Padgett - recibido por James Padgett op 31 de mayo de 1914, Washington, DC, EE.UU..
+John H Padgett - recibido por James Padgett el 31 de mayo de 1914, Washington, DC, EE.UU.
+
+

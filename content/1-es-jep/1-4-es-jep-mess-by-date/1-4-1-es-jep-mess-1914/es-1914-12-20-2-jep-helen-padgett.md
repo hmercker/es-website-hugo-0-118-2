@@ -9,4 +9,6 @@ weight:
 ---
 ### El Sr. Padgett pasó el día con sus amigos, el juez Syrick y el coronel Woods, y Helen escribe que ambos creen en el espiritismo
 
-Helen Padgett - recibido por James Padgett op 20 de diciembre de 1914, Washington, DC, EE.UU..
+Helen Padgett - recibido por James Padgett el 20 de diciembre de 1914, Washington, DC, EE.UU.
+
+

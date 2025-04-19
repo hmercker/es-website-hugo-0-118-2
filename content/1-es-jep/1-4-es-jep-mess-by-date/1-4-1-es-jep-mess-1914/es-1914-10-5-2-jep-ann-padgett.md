@@ -9,4 +9,6 @@ weight:
 ---
 ### Exhortación de la madre del señor Padgett
 
-Anne Padgett - recibido por James Padgett op 5 de octubre de 1914, Washington, DC, EE.UU..
+Anne Padgett - recibido por James Padgett el 5 de octubre de 1914, Washington, DC, EE.UU.
+
+

@@ -9,4 +9,6 @@ weight:
 ---
 ### Riddle estaba tan arraigado a sus pensamientos religiosos que creía que no necesitaba ayuda de nadie en el mundo de los espíritus
 
-Albert Riddle - recibido por James Padgett op 16 de diciembre de 1914, Washington, DC, EE.UU..
+Albert Riddle - recibido por James Padgett el 16 de diciembre de 1914, Washington, DC, EE.UU.
+
+

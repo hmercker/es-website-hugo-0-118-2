@@ -9,4 +9,6 @@ weight:
 ---
 ### La importancia de obtener el Amor Divino en el alma
 
-Anne Rollins - recibido por James Padgett op 12 de diciembre de 1914, Washington, DC, EE.UU..
+Anne Rollins - recibido por James Padgett el 12 de diciembre de 1914, Washington, DC, EE.UU.
+
+

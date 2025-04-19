@@ -9,4 +9,6 @@ weight:
 ---
 ### Jesús quiere que el mundo siga sus enseñanzas
 
-Jesús - recibido por James Padgett op 12 de septiembre de 1914, Washington, DC, EE.UU..
+Jesús - recibido por James Padgett el 12 de septiembre de 1914, Washington, DC, EE.UU.
+
+

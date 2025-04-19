@@ -9,4 +9,6 @@ weight:
 ---
 ### El Sr. Padgett hacía preguntas a los escritores espirituales y en esta temprana la pregunta formulada está escrita en su conversación con Estrella Brillante
 
-Estrella Brillante - recibido por James Padgett op 24 de septiembre de 1914, Washington, DC, EE.UU..
+Estrella Brillante - recibido por James Padgett el 24 de septiembre de 1914, Washington, DC, EE.UU.
+
+

@@ -9,4 +9,6 @@ weight:
 ---
 ### El Maestro está ansioso de que la humanidad deje de adorarlo como a Dios
 
-Jesús - recibido por James Padgett op 25 de diciembre de 1914, Washington, DC, EE.UU..
+Jesús - recibido por James Padgett el 25 de diciembre de 1914, Washington, DC, EE.UU.
+
+

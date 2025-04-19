@@ -9,4 +9,6 @@ weight:
 ---
 ### Helen confirma el esfuerzo hecho por el Sr. Padgett para llevar a la Luz del Padre a sus dos amigos ahora en el mundo espiritual
 
-Helen Padgett - recibido por James Padgett op 31 de diciembre de 1914, Washington, DC, EE.UU.
+Helen Padgett - recibido por James Padgett el 31 de diciembre de 1914, Washington, DC, EE.UU.
+
+

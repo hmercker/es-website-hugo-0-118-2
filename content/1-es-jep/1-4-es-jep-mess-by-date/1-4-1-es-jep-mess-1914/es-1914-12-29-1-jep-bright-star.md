@@ -9,4 +9,6 @@ weight:
 ---
 ### El Sr. Padgett conoció a Estrella Brillante en una sesión y ahora la está ayudando a progresar espiritualmente, y ella dice que la escritura automática es superior a las sesiones espiritistas de voz independiente
 
-Estrella Brillante  - recibido por James Padgett op 29 de diciembre de 1914, Washington, DC, EE.UU..
+Estrella Brillante  - recibido por James Padgett el 29 de diciembre de 1914, Washington, DC, EE.UU.
+
+

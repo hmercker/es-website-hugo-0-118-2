@@ -9,4 +9,6 @@ weight:
 ---
 ### La abuela (Ann Rollins) dice que el amor del Padre por el Sr. Padgett le ayudará en sus problemas materiales
 
-Anne Rollins - recibido por James Padgett op 5 de diciembre de 1914, Washington, DC, EE.UU..
+Anne Rollins - recibido por James Padgett el 5 de diciembre de 1914, Washington, DC, EE.UU.
+
+

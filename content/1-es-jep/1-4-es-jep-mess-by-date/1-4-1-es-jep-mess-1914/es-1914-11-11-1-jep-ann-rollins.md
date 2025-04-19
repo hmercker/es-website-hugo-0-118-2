@@ -9,4 +9,6 @@ weight:
 ---
 ### Ann Rollins le responde a muchas preguntas sobre el Espíritu Santo y el Padre Celestial
 
-Anne Rollins - recibido por James Padgett op 11 de noviembre de 1914, Washington, DC, EE.UU..
+Anne Rollins - recibido por James Padgett el 11 de noviembre de 1914, Washington, DC, EE.UU.
+
+

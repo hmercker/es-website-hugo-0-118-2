@@ -9,4 +9,6 @@ weight:
 ---
 ### Primer esfuerzo de Jesús por entregar un mensaje formal - pero el señor Padgett no estaba del todo en condiciones de recibirlo
 
-Jesús - recibido por James Padgett op 17 de diciembre de 1914, Washington, DC, EE.UU..
+Jesús - recibido por James Padgett el 17 de diciembre de 1914, Washington, DC, EE.UU.
+
+

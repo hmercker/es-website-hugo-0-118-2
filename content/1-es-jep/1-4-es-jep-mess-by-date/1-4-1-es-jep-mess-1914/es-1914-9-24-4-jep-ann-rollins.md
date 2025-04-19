@@ -9,4 +9,6 @@ weight:
 ---
 ### Y Ann Rollins
 
-Anne Rollins - recibido por James Padgett op 24 de septiembre de 1914, Washington, DC, EE.UU..
+Anne Rollins - recibido por James Padgett el 24 de septiembre de 1914, Washington, DC, EE.UU.
+
+

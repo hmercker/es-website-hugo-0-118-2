@@ -9,7 +9,7 @@ weight:
 ---
 ### Aquí el Maestro, en un temprano escrito, habla de quién era realmente
 
-Jesús - recibido por James Padgett op 28 de septiembre de 1914, Washington, DC, EE.UU.
+Jesús - recibido por James Padgett el 28 de septiembre de 1914, Washington, DC, EE.UU.
 
 Estoy aquí, Jesús.
 

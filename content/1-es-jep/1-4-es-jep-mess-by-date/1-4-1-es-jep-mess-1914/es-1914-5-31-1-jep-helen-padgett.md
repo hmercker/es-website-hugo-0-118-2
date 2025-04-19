@@ -9,6 +9,6 @@ weight:
 ---
 ### Primer mensaje conservado de Helen, la esposa del Sr. Padgett
 
-Helen Padgett - recibido por James Padgett op 31 de mayo de 1914, Washington, DC, EE.UU.
+Helen Padgett - recibido por James Padgett el 31 de mayo de 1914, Washington, DC, EE.UU.
 
 

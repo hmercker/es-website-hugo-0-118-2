@@ -9,4 +9,6 @@ weight:
 ---
 ### La abuela del Sr. Padgett, en uno de los primeros mensajes, describe su casa en Séptima Esfera
 
-Anne Rollins - recibido por James Padgett op 28 de septiembre de 1914, Washington, DC, EE.UU..
+Anne Rollins - recibido por James Padgett el 28 de septiembre de 1914, Washington, DC, EE.UU.
+
+

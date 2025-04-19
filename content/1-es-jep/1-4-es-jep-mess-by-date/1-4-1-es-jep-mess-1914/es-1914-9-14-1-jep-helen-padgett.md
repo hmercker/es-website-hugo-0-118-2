@@ -9,4 +9,6 @@ weight:
 ---
 ### Helen le asegura al Sr. Padgett que verdaderamente fue Jesús quien escribió el sábado por la noche
 
-Helen Padgett - recibido por James Padgett op 14 de septiembre de 1914, Washington, DC, EE.UU..
+Helen Padgett - recibido por James Padgett el 14 de septiembre de 1914, Washington, DC, EE.UU.
+
+

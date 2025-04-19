@@ -9,4 +9,6 @@ weight:
 ---
 ### La madre del Sr. Padgett dice que su padre ha encontrado a su alma gemela y le habla de su progreso espiritual
 
-Anne Padgett - recibido por James Padgett op 20 de diciembre de 1914, Washington, DC, EE.UU..
+Anne Padgett - recibido por James Padgett el 20 de diciembre de 1914, Washington, DC, EE.UU.
+
+

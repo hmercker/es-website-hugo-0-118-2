@@ -9,4 +9,6 @@ weight:
 ---
 ### Y lo mismo hace Helen
 
-Helen Padgett - recibido por James Padgett op 25 de diciembre de 1914, Washington, DC, EE.UU..
+Helen Padgett - recibido por James Padgett el 25 de diciembre de 1914, Washington, DC, EE.UU.
+
+

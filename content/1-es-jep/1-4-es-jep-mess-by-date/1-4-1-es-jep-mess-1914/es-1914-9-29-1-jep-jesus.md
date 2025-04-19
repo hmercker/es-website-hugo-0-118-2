@@ -9,4 +9,6 @@ weight:
 ---
 ### El Amor Divino está contactando con cada hombre
 
-Jesús - recibido por James Padgett op 29 de septiembre de 1914, Washington, DC, EE.UU..
+Jesús - recibido por James Padgett el 29 de septiembre de 1914, Washington, DC, EE.UU.
+
+

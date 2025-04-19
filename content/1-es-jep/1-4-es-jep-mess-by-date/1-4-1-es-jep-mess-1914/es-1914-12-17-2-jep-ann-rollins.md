@@ -9,4 +9,6 @@ weight:
 ---
 ### La abuela del Sr. Padgett confirma que fue Jesús quien acaba de escribir y le asegura el gran amor que Jesús tuvo hacia él
 
-Anne Rollins - recibido por James Padgett op 17 de diciembre de 1914, Washington, DC, EE.UU..
+Anne Rollins - recibido por James Padgett el 17 de diciembre de 1914, Washington, DC, EE.UU.
+
+

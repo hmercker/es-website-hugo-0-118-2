@@ -9,4 +9,6 @@ weight:
 ---
 ### La madre del Sr. Padgett dice que la Sra. Mary Baker Eddy ve el error en sus enseñanzas y vive en la misma esfera que ella
 
-Anne Padgett - recibido por James Padgett op 5 de diciembre de 1914, Washington, DC, EE.UU..
+Anne Padgett - recibido por James Padgett el 5 de diciembre de 1914, Washington, DC, EE.UU.
+
+

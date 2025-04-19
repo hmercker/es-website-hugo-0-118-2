@@ -9,4 +9,6 @@ weight:
 ---
 ### La experiencia de la Sra. Helen Padgett al dejar su cuerpo e ir al mundo de los espíritus
 
-Helen Padgett - recibido por James Padgett op 9 de diciembre de 1914, Washington, DC, EE.UU..
+Helen Padgett - recibido por James Padgett el 9 de diciembre de 1914, Washington, DC, EE.UU.
+
+

@@ -9,4 +9,6 @@ weight:
 ---
 ### Helen describe su hogar en la tercera esfera espiritual
 
-Helen Padgett - recibido por James Padgett op 30 de noviembre de 1914, Washington, DC, EE.UU..
+Helen Padgett - recibido por James Padgett el 30 de noviembre de 1914, Washington, DC, EE.UU.
+
+
