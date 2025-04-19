@@ -7,6 +7,6 @@ draft: False
 hidden: True
 weight:
 ---
-### Jesús escuchó el discurso del orador sobre el "Drama de San Pablo"
+### Jesús escuchó el discurso del orador sobre el 'Drama de San Pablo'
 
 Jesús - recibido por James Padgett el 5 de diciembre de 1915, Washington, DC, EE.UU.
