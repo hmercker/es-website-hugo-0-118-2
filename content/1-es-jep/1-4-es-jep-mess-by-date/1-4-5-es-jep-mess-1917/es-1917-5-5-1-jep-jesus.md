@@ -91,4 +91,3 @@ Tu hermano y amigo, Jesús.
 [^2]: En este sitio web los términos Reino de Dios y Reino Celestial se utilizan como sinónimos. Se refieren a un Reino al que sólo se puede llegar concluyendo el proceso de renacer del espíritu.
 
 [^3]: Aquí el citado texto de Pedro: 5 Por esto mismo, poned toda diligencia en añadir a vuestra fe virtud; a la virtud, conocimiento; 6 al conocimiento, dominio propio; al dominio propio, paciencia; a la paciencia, piedad; 7 a la piedad, afecto fraternal; y al afecto fraternal, amor.
-</small>
