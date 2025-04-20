@@ -86,12 +86,9 @@ Buenas noches y que Dios te bendiga.
 Tu hermano y amigo, Jesús.
 <small>
 
-[^1]: El libro impreso (El verdadero evangelio revelado nuevamente por Jesús, volumen 1) tiene el siguiente texto adicional que no existe en el autógrafo original ni en el posterior texto escrito a mano realizado por James Padgett. Se debe suponer que el Dr. Stone, el editor original, añadió estas palabras: 
-
-*, o el camino hacia el hombre perfecto.*
-
-Sin embargo, esto realmente confunde al lector, porque la Sexta Esfera –que es el destino del hombre natural perfecto– no se llama “El Reino de Dios”.
+[^1]: El libro impreso (El verdadero evangelio revelado nuevamente por Jesús, volumen 1) tiene el siguiente texto adicional que no existe en el autógrafo original ni en el posterior texto escrito a mano realizado por James Padgett. Se debe suponer que el Dr. Stone, el editor original, añadió estas palabras: *, o el camino hacia el hombre perfecto.* Sin embargo, esto realmente confunde al lector, porque la Sexta Esfera –que es el destino del hombre natural perfecto– no se llama “El Reino de Dios”.
 
 [^2]: En este sitio web los términos Reino de Dios y Reino Celestial se utilizan como sinónimos. Se refieren a un Reino al que sólo se puede llegar concluyendo el proceso de renacer del espíritu.
 
 [^3]: Aquí el citado texto de Pedro: 5 Por esto mismo, poned toda diligencia en añadir a vuestra fe virtud; a la virtud, conocimiento; 6 al conocimiento, dominio propio; al dominio propio, paciencia; a la paciencia, piedad; 7 a la piedad, afecto fraternal; y al afecto fraternal, amor.
+</small>
