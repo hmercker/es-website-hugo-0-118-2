@@ -46,10 +46,4 @@ Bueno, llevo mucho tiempo escribiendo y estás algo cansado. Recuerda mi consejo
 Con mi amor y bendición, yo soy, tu hermano y amigo, Jesús.
 <small>
 
-[^1]: Jesús se refiere aquí a tres mensajes de Juan, todos sobre la compenetración y la comunicación. Estos son:
-
-[Cómo y cuándo Dios responde a la oración. Las leyes de la Compenetración y la Comunicación](/1-es-jep/1-4-es-jep-mess-by-date/1-4-5-es-jep-mess-1917/es-1917-11-2-1-jep-st-john/)
-
-[Leyes de la Compenetración, continuación](/1-es-jep/1-4-es-jep-mess-by-date/1-4-6-es-jep-mess-1918/es-1918-1-4-1-jep-st-john/)
-
-[Leyes de la Compenetración y comunicación, continuación](/1-es-jep/1-4-es-jep-mess-by-date/1-4-6-es-jep-mess-1918/es-1918-10-22-1-jep-st-john/)
+[^1]: Jesús se refiere aquí a tres mensajes de Juan, todos sobre la compenetración y la comunicación. Estos son: [Cómo y cuándo Dios responde a la oración. Las leyes de la Compenetración y la Comunicación](/1-es-jep/1-4-es-jep-mess-by-date/1-4-5-es-jep-mess-1917/es-1917-11-2-1-jep-st-john/), [Leyes de la Compenetración, continuación](/1-es-jep/1-4-es-jep-mess-by-date/1-4-6-es-jep-mess-1918/es-1918-1-4-1-jep-st-john/) , [Leyes de la Compenetración y comunicación, continuación](/1-es-jep/1-4-es-jep-mess-by-date/1-4-6-es-jep-mess-1918/es-1918-10-22-1-jep-st-john/)

@@ -10,3 +10,31 @@ weight:
 ### Jesús prosigue con su descripción de su nacimiento y vida hasta el momento de su ministerio público
 
 Jesús - recibido por James Padgett el 8 de junio de 1915, Washington, DC, EE.UU.
+
+Estoy aquí, Jesús.
+
+[Continuaré mi carta](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-6-7-1-jep-jesus/) sobre mi nacimiento y mi trabajo, según la comencé la pasada noche.
+
+Cuando me convencí de haber sido elegido por mi Padre para realizar Su obra de declarar al mundo el otorgamiento de Su gran don del amor divino que estaba en Su naturaleza, y que constituía el principio predominante de esa naturaleza, comencé mi ministerio y seguí trabajando por la redención de la humanidad, en la tierra, hasta mi muerte en la cruz. Entonces no era tan perfecto como lo soy ahora, y mi conocimiento de las verdades del Padre no era tan grande como lo es ahora.
+
+Que sepan los hombres, no obstante, que lo que enseñé era verdad, incluso aunque no enseñé toda la verdad, y descubrirán que soy el verdadero hijo de mi Padre y el mensajero especial por mediación del cual estas grandes verdades habían de ser enseñadas a la humanidad.
+
+Cuando estuve en la tierra no estaba tan lleno del amor del Padre como lo estoy ahora, y no tenía el poder de hacer sentir a los hombres que este amor es lo único que los reconciliará con el Padre y les aunará con Él, tal como ahora lo tengo. Por esto los hombres deben creer en que les estoy comunicando las verdades reales que les mostrarán el camino hacia el amor del Padre y hacia su propia salvación.
+
+Tienes en tu mente el deseo de saber cómo fue que los sabios (los Reyes Magos) vinieron a mí con sus ofrendas y adoración, cuando yo no fui especialmente creado por Dios para convertirme en Su hijo y representante en la tierra.
+
+Bueno; los sabios vinieron, pero su venida no fue debida a algún conocimiento que tuvieran de que yo era un niño divinamente creado, o de que yo no era un niño natural, sino porque eran astrólogos y en ese entonces vieron una estrella nueva y brillante en los cielos, lo que para ellos significaba que algún acontecimiento importante había tenido lugar; y siendo estudiantes del Antiguo Testamento, en el que se hacía referencia a tal estrella como precursora del nacimiento de un salvador, concluyeron que esa estrella era la prevista y, siendo mi nacimiento humilde, tal como esperaban que fuese el que las Escrituras apuntaban, en consecuencia infirieron que yo era el Cristo del que hablaban. Pero fuera de este conocimiento en tanto que astrólogos y del de las Escrituras, no tenían conocimiento de que yo era el Cristo que había de nacer; y cuando se afirma que tenían alguna información de Dios o de Sus ángeles respecto a que yo era el Cristo, esa afirmación no es cierta.
+
+Esto lo sé porque desde que llegué al mundo de los espíritus he conocido a esos hombres, he hablado con ellos y me han dicho lo que escribo. Así pues, aunque yo era el Cristo al que se refiere la Biblia, es decir, en las profecías del Antiguo Testamento, esos sabios no tenían de ese hecho ningún otro conocimiento que el que te he dicho.
+
+Sé que fui enviado por el Padre para realizar la misión que realicé, y que en el principio estaba previsto que fuera ungido como el Cristo, pero esto yo no lo supe hasta después de que me hice hombre y se me dijera entonces cuál era mi misión mediante el ángel y mi propia voz interior.
+
+Mi madre, mi padre o mis hermanos no lo sabían, e incluso después de haber proclamado mi misión y haber mostrado los maravillosos poderes que me habían sido dados, no creyeron en mi misión, sino que pensaron que yo estaba fuera de mí, es decir, como decís, loco con la creencia de que yo era el elegido de mi Padre. La propia Biblia muestra que ésta era su condición mental.
+
+Así pues, si bien soy el Cristo de la Biblia y el instrumento elegido del Padre para dar a conocer las grandes verdades que he proclamado y que proclamaré a través de ti, aun así no soy el hijo unigénito de Dios en el sentido en el que habitualmente se acepta. Y mucho menos soy Dios. Como he dicho, hay un solo Dios, y yo soy simplemente Su hijo y educador enviado al mundo para anunciar a la humanidad el ofrecimiento del don de la inmortalidad y la manera en que los hombres pueden obtenerlo.
+
+Versaré más acerca de mí mismo a medida que avancemos en nuestros escritos. Que nadie crea que yo nací de la Virgen María, o que fui engendrado por el Espíritu Santo, o que soy Dios, porque todas estas cosas no son verdad.
+
+Voy a parar por el momento, y con todo mi amor y bendiciones, y las bendiciones del Padre, te diré buenas noches.
+
+Tu amigo y hermano, Jesús.
