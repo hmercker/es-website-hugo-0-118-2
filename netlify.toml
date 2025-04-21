@@ -1,7 +1,7 @@
 [build]
   publish = "public"
   command = "hugo --gc --minify -b $URL"
-  command = "sass themes/newbirth/assets/scss/newbirth.scss themes/newbirth/assets/css/newbirth.css && hugo"
+  command = "sass themes/newbirth/assets/scss/newbirth.scss static/css/newbirth.css && hugo"
   publish = "public"
 
 
