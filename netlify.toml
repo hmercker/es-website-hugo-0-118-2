@@ -1,5 +1,5 @@
 [build]
-  command = "sass themes/newbirth/assets/scss/newbirth.scss static/css/newbirth.css && hugo --gc --minify -b $URL"
+  command = "node_modules/.bin/sass themes/newbirth/assets/scss/newbirth.scss static/css/newbirth.css && hugo --gc --minify -b $URL"
   publish = "public"
   environment = { NODE_VERSION = "18" }
 
