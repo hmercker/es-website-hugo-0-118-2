@@ -1,8 +1,7 @@
 [build]
-  command = "node_modules/.bin/sass themes/newbirth/assets/scss/newbirth.scss static/css/newbirth.css && hugo --gc --minify -b $URL"
+  command = "mkdir -p static/css && node_modules/.bin/sass themes/newbirth/assets/scss/newbirth.scss:static/css/newbirth.css && hugo --gc --minify -b $URL"
   publish = "public"
   environment = { NODE_VERSION = "18", HUGO_VERSION = "0.51" }
-
 
 [context.deploy-preview]
   command = "hugo -b $DEPLOY_URL"
