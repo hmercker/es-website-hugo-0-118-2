@@ -1,0 +1,13 @@
+{{ if .Page.HasFootnotes }}
+<div class="footnotes">
+    <hr>
+    <ol>
+    {{ range $index, $note := .Page.Footnotes }}
+        <li id="fn:{{ add $index 1 }}">
+            {{ $note.Content }}
+            <a class="footnote-return" href="#fnref:{{ add $index 1 }}"></a>
+        </li>
+    {{ end }}
+    </ol>
+</div>
+{{ end }}

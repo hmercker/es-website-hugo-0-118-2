@@ -5228,6 +5228,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
 ===============================================================================================*/
 /* 2.1 HEADER
 ------------------------------------------------------------------------------------------------ */
+@use "_bootstrap-variables" as *;
 #header {
   width: 100%;
   position: relative;
@@ -5588,7 +5589,7 @@ blockquote .author {
   margin-top: 5px;
   text-align: right; }
 
-/* 2.4 FOOTER
+/* 2.4 FOOTER & return link of footnote
 ------------------------------------------------------------------------------------------------ */
 #footer {
   margin-top: 20px;
@@ -5598,6 +5599,23 @@ blockquote .author {
   font-size: 16px;
   text-align: center;
   background: rgba(0, 0, 0, 0.1); }
+
+.footnote-return {
+  text-decoration: none;
+  /* remove underline */
+  font-size: 0;
+  font-weight: bold;
+  color: #007acc;
+  /* Custom color */ }
+
+.footnote-return::before {
+  content: "\21A9";
+  /* your desired symbol */
+  color: #007bff;
+  /* optional: style the sysmbol color */
+  font-size: 1em;
+  /* ensire the symbol is visible */
+  font-weight: bold; }
 
 /* 3. MISCELLANEOUS
 -----------------------------------------------------------------------------------------------
