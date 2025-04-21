@@ -5604,7 +5604,7 @@ div.footnotes a.footnote-return {
   text-decoration: none;
   font-size: 16px;
   font-weight: bold;
-  color: #007acc;
+  color: #f8fcfb;
   display: inline-block; }
 
 div.footnotes a.footnote-return::before {
