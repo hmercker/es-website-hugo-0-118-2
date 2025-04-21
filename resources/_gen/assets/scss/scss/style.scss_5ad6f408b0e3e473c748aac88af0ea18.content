@@ -5600,22 +5600,19 @@ blockquote .author {
   text-align: center;
   background: rgba(0, 0, 0, 0.1); }
 
-.footnote-return {
+div.footnotes a.footnote-return {
   text-decoration: none;
-  /* remove underline */
   font-size: 0;
   font-weight: bold;
   color: #007acc;
-  /* Custom color */ }
+  display: inline-block; }
 
-.footnote-return::before {
+div.footnotes a.footnote-return::before {
   content: "\21A9";
-  /* your desired symbol */
   color: #007bff;
-  /* optional: style the sysmbol color */
   font-size: 1em;
-  /* ensire the symbol is visible */
-  font-weight: bold; }
+  font-weight: bold;
+  font-family: Arial, sans-serif; }
 
 /* 3. MISCELLANEOUS
 -----------------------------------------------------------------------------------------------
