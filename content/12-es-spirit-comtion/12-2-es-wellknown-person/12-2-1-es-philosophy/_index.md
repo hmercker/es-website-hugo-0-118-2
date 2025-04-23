@@ -7,9 +7,9 @@ draft: False
 hidden: True
 weight:
 ---
-## Filosofía
+### Filosofía
 
- | <div style="text-align: center;"> **Personalidad**</div> | 
+ <div style="text-align: center;"> **Personalidad**</div> | | 
 ---|---|---
 <div style="text-align: center;">[Aquino, Tomás](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-1-es-philosophy/12-2-1-1-es-aquinasthomas/)</div> | <div style="text-align: center;">[Aristóteles](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-1-es-philosophy/12-2-1-2-es-aristotle/)</div> | <div style="text-align: center;">[Bacon, Francis](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-1-es-philosophy/12-2-1-3-es-baconfrancis/)</div>
 <div style="text-align: center;">[Carlyle, Thomas](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-1-es-philosophy/12-2-1-4-es-carlylethomas/)</div> | <div style="text-align: center;">[Comte, Auguste](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-1-es-philosophy/12-2-1-5-es-comteauguste/)</div> | <div style="text-align: center;">[Descartes, René](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-1-es-philosophy/12-2-1-6-es-descartesrené/)</div>
