@@ -13,7 +13,7 @@ San Lucas - recibido por James Padgett el 22 de julio de 1917, Washington, DC, E
 
 Aquí estoy, San Lucas, autor del que fue el Tercer Evangelio. Bueno; deseo escribir unas líneas sobre el tema contenido en el libro que estabas leyendo esta noche. Me refiero al libro que trata sobre la *“Creación y caída del hombre”*.
 
-Bien; el hombre que escribió el libro está tratando de reconciliar la doctrina bíblica de la creación y caída del hombre con la doctrina científica de la evolución e intentando mostrar que esos dos puntos de vista sobre el tema no son antagónicos, y que si se entienden adecuadamente se puede usar el uno para apoyar al otro. Pero en esto no ha tenido éxito ni podrá tenerlo, y por esta razón –si no hubiera otras–, y es que el hombre no evolucionó de la bestia o el animal inferior, sino que fue siempre hombre, criatura de Dios, perfecto en su creación y enteramente natural. [^1]
+Bien; el hombre que escribió el libro está tratando de reconciliar la doctrina bíblica de la creación y caída del hombre con la doctrina científica de la evolución e intentando mostrar que esos dos puntos de vista sobre el tema no son antagónicos, y que si se entienden adecuadamente se puede usar el uno para apoyar al otro. Pero en esto no ha tenido éxito ni podrá tenerlo, y por esta razón –si no hubiera otras–, y es que el hombre no evolucionó de la bestia o el animal inferior, sino que fue siempre hombre, criatura de Dios, perfecto en su creación y enteramente natural.
 
 No había nada de sobrenatural en él, y nunca poseyó ninguna naturaleza de superhombre de la que cayó en el momento de su desobediencia. Él nunca ha sido nada más ni nada menos que la creación perfecta de su Hacedor, aunque haya degenerado en sus cualidades y en el ejercicio de su voluntad.
 
@@ -43,13 +43,14 @@ Tu hermano en Cristo, Lucas.
 <small>
 
 
-[^1]: Se canalizaron seis mensajes sobre el tema de la creación de la especie humana. Los otros cinco son:
+Se canalizaron seis mensajes sobre el tema de la creación de la especie humana. Los otros cinco son:
 
-    **Autor** | **Título del mensaje** | **Fecha del mensaje**  
-    ---|---|---
-    Aman | [Amán, el primer progenitor, revela su tentación y su caída](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-29-1-jep-aman/) | 29 de agosto de 1915
-    Aman | [Aman hace una corrección](/1-es-jep/1-4-es-jep-mess-by-date/1-4-3-es-jep-mess-1915-2/es-1915-9-7-1-jep-aman/) | 7 de septiembre de 1915
-    
-    [Aman](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-29-1-jep-aman/), [Aman](/1-es-jep/1-4-es-jep-mess-by-date/1-4-3-es-jep-mess-1915-2/es-1915-9-7-1-jep-aman/), [Amon](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-30-2-jep-amon/), [John](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-30-3-jep-st-john/) y [Jesús](/1-es-jep/1-4-es-jep-mess-by-date/1-4-4-es-jep-mess-1916/es-1916-1-15-1-jep-jesus/). 
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---
+Aman | [Amán, el primer progenitor, revela su tentación y su caída](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-29-1-jep-aman/) | 29 de agosto de 1915
+Aman | [Aman hace una corrección](/1-es-jep/1-4-es-jep-mess-by-date/1-4-3-es-jep-mess-1915-2/es-1915-9-7-1-jep-aman/) | 7 de septiembre de 1915
+Amon | [Amón, madre de toda la creación humana, brinda su experiencia. Su tentación y desobediencia](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-30-2-jep-amon/) | 30 de agosto de 1915
+San Juan | [Juan afirma que Amán y Amón, los Primeros Progenitores, realmente se comunicaron a través del Sr. Padgett](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-30-3-jep-st-john/) | 30 de agosto de 1915
+Jesús | [La relación del hombre con la creación del mundo y el origen de la vida](/1-es-jep/1-4-es-jep-mess-by-date/1-4-4-es-jep-mess-1916/es-1916-1-15-1-jep-jesus/) | 15 de enero de 1916
 
-    Este tema es complejo y [se trata en una sección aparte](/9-es-var-top/9-4-es-life-earth-planets/9-4-2-es-creation-evolution/).
+Este tema es complejo y [se trata en una sección aparte](/9-es-var-top/9-4-es-life-earth-planets/9-4-2-es-creation-evolution/).
