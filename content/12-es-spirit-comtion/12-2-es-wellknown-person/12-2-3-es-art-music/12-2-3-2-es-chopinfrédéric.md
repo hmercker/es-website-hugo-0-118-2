@@ -17,7 +17,7 @@ weight:
 
 <small>*Fuente: [Wikipedia]()*</small>
 
-#### Mensajes de 
+#### Mensajes de Chopin
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
