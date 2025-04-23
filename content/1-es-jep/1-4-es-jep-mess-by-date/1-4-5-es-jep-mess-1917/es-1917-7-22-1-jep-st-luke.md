@@ -47,7 +47,7 @@ Se canalizaron seis mensajes sobre el tema de la creación de la especie humana.
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
-Aman | [Amán, el primer progenitor, revela su tentación y su caída](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-29-1-jep-aman/) | 29 de agosto de 1915
+<small>Aman</small> | <small>[Amán, el primer progenitor, revela su tentación y su caída](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-29-1-jep-aman/)</small> | <small>29 de agosto de 1915</small>
 Aman | [Aman hace una corrección](/1-es-jep/1-4-es-jep-mess-by-date/1-4-3-es-jep-mess-1915-2/es-1915-9-7-1-jep-aman/) | 7 de septiembre de 1915
 Amon | [Amón, madre de toda la creación humana, brinda su experiencia. Su tentación y desobediencia](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-30-2-jep-amon/) | 30 de agosto de 1915
 San Juan | [Juan afirma que Amán y Amón, los Primeros Progenitores, realmente se comunicaron a través del Sr. Padgett](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-30-3-jep-st-john/) | 30 de agosto de 1915
