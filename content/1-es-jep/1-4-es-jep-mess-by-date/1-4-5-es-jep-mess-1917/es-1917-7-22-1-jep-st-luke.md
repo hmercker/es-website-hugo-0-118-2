@@ -45,12 +45,12 @@ Tu hermano en Cristo, Lucas.
 
 Se canalizaron seis mensajes sobre el tema de la creación de la especie humana. Los otros cinco son:
 
-**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+**<small>Autor</small>** | **<small>Título del mensaj</small>e** | **<small>Fecha del mensaje</small>**  
 ---|---|---
 <small>Aman</small> | <small>[Amán, el primer progenitor, revela su tentación y su caída](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-29-1-jep-aman/)</small> | <small>29 de agosto de 1915</small>
-Aman | [Aman hace una corrección](/1-es-jep/1-4-es-jep-mess-by-date/1-4-3-es-jep-mess-1915-2/es-1915-9-7-1-jep-aman/) | 7 de septiembre de 1915
-Amon | [Amón, madre de toda la creación humana, brinda su experiencia. Su tentación y desobediencia](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-30-2-jep-amon/) | 30 de agosto de 1915
-San Juan | [Juan afirma que Amán y Amón, los Primeros Progenitores, realmente se comunicaron a través del Sr. Padgett](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-30-3-jep-st-john/) | 30 de agosto de 1915
-Jesús | [La relación del hombre con la creación del mundo y el origen de la vida](/1-es-jep/1-4-es-jep-mess-by-date/1-4-4-es-jep-mess-1916/es-1916-1-15-1-jep-jesus/) | 15 de enero de 1916
+<small>Aman</small> | <small>[Aman hace una corrección](/1-es-jep/1-4-es-jep-mess-by-date/1-4-3-es-jep-mess-1915-2/es-1915-9-7-1-jep-aman/)</small> | <small>7 de septiembre de 1915</small>
+<small>Amon</small> | <small>[Amón, madre de toda la creación humana, brinda su experiencia. Su tentación y desobediencia](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-30-2-jep-amon/)</small> | <small>30 de agosto de 1915</small>
+<small>San Juan</small> | <small>[Juan afirma que Amán y Amón, los Primeros Progenitores, realmente se comunicaron a través del Sr. Padgett](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-30-3-jep-st-john/)</small> | <small>30 de agosto de 1915</small>
+<small>Jesús</small> | <small>[La relación del hombre con la creación del mundo y el origen de la vida](/1-es-jep/1-4-es-jep-mess-by-date/1-4-4-es-jep-mess-1916/es-1916-1-15-1-jep-jesus/)</small> | <small>15 de enero de 1916</small>
 
 Este tema es complejo y [se trata en una sección aparte](/9-es-var-top/9-4-es-life-earth-planets/9-4-2-es-creation-evolution/).
