@@ -9,4 +9,14 @@ weight:
 ---
 ### Metodismo: George Whitefield 
 
+<p style="text-align: center"><img src="/portraits/"></p>
+<small>**</small>
 
+
+
+<small>*Fuente: [Wikipedia]()*</small>
+
+#### Mensajes de 
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---

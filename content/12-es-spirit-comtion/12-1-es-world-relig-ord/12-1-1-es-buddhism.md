@@ -8,6 +8,3 @@ hidden: True
 weight:
 ---
 ### [Budismo](/12-es-spirit-comtion/12-1-es-world-relig-ord/12-1-1-1-es-buddha/)
-
-
-
