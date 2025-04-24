@@ -23,3 +23,4 @@ weight: 50
 | [Bebés y niños en el mundo de los espíritus](/9-es-var-top/9-5-es-life-after-death/9-5-10-es-babies-children/)
 | [Mascotas y animales en el mundo espiritual](/9-es-var-top/9-5-es-life-after-death/9-5-11-es-pets-animal/)
 | [La vida en el mundo de los espíritus](/9-es-var-top/9-5-es-life-after-death/9-5-12-es-life-spirit/)
+| [Pensamientos y formas de pensamiento](/9-es-var-top/9-5-es-life-after-death/9-5-13-es-thoughts/)

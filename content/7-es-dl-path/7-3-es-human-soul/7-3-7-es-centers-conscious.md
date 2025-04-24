@@ -14,3 +14,4 @@ weight:
 | [Conciencia del alma](/7-es-dl-path/7-3-es-human-soul/7-3-7-1-es-soul-consc/)
 | [Alma, espiritual y material Mente](/7-es-dl-path/7-3-es-human-soul/7-3-7-2-es-soul-spir-mat-mind/)
 | [La mente y los pensamientos](/7-es-dl-path/7-3-es-human-soul/7-3-7-3-es-mind-thougths/)
+| [Pensamientos y formas de pensamiento](/7-es-dl-path/7-3-es-human-soul/7-3-7-4-es-thoughtforms/)

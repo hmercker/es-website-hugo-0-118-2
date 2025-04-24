@@ -11,3 +11,4 @@ weight:
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
+Thomas Paine | [Una charla sobre el medio y la guerra](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-11-es-cont-mess-2007/es-2007-3-16-2-fab-thomas-paine/) | 16 marzo 2007

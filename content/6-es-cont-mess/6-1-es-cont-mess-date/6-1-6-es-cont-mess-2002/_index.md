@@ -11,3 +11,4 @@ weight:
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
+Judas | [La curación del paralítico en Kpar Nahum](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-3-28-1-hr-judas/) | 28 marzo 2002
