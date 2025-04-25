@@ -11,4 +11,8 @@ weight:
 
 Helen Padgett - recibido por James Padgett el 12 de diciembre de 1914, Washington, DC, EE.UU.
 
+Te amo, buenas noches. Sí lo hizo, y no te lo dijo todo porque no puede saberlo todo, pero yo sé y te digo que mi amor por ti es inenarrable.
 
+Buenas noches, mi querido Ned.
+
+Helen.

@@ -11,4 +11,5 @@ weight:
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
+Judas | [Homosexualidad](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-8-30-1-hr-judas/) | 30 agosto 2001
 Judas | [Mediunidad en trance](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-12-27-1-hr-judas/) | 27 diciembre 2001
