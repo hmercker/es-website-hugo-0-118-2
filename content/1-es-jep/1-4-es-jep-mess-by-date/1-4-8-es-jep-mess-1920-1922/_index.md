@@ -18,8 +18,8 @@ Helen Padgett & Mary Kennedy | [Helen y Mary escriben sobre su amor por sus alma
 Albert Riddle | [El cielo es tanto un lugar como un estado del alma](/1-es-jep/1-4-es-jep-mess-by-date/1-4-8-es-jep-mess-1920-1922/es-1920-2-27-1-jep-ag-riddle/) | 27 de febrero de 1920
 Jesús | [Jesús explica la gran importancia de estar en condiciones de recibir las muchas verdades que aún están por escribirse mientras el Sr. Padgett todavía esté aquí](/1-es-jep/1-4-es-jep-mess-by-date/1-4-8-es-jep-mess-1920-1922/es-1920-3-7-1-jep-jesus/) | 07 de marzo de 1920
 Helen Padgett | [Jesús está muy ansioso por revelar la Verdad que conoce por el bien de la humanidad](/1-es-jep/1-4-es-jep-mess-by-date/1-4-8-es-jep-mess-1920-1922/es-1920-3-7-2-jep-helen-padgett/) | 07 de marzo de 1920
-Dr Channing | [Comentarios de un Ministro](/1-es-jep/1-4-es-jep-mess-by-date/1-4-8-es-jep-mess-1920-1922/es-1920-3-21-1-jep-dr-channing/) | 21 de marzo de 1920
-Jesús | [Comentario sobre un predicador, la individualización y  la encarnación del alma](/1-es-jep/1-4-es-jep-mess-by-date/1-4-8-es-jep-mess-1920-1922/es-1920-3-21-2-jep-jesus/) | 21 de marzo de 1920
+Jesús | [Comentario sobre un predicador, la individualización y  la encarnación del alma](/1-es-jep/1-4-es-jep-mess-by-date/1-4-8-es-jep-mess-1920-1922/es-1920-3-21-1-jep-jesus/) | 21 de marzo de 1920
+Dr Channing | [Comentarios de un Ministro](/1-es-jep/1-4-es-jep-mess-by-date/1-4-8-es-jep-mess-1920-1922/es-1920-3-21-2-jep-dr-channing/) | 21 de marzo de 1920
 Mary Kennedy | [Mary está muy feliz de que el Dr. Stone ahora tenga una fotografía de ella](/1-es-jep/1-4-es-jep-mess-by-date/1-4-8-es-jep-mess-1920-1922/es-1920-3-24-2-jep-mary-kennedy/) | 24 de marzo de 1920
 Jesús | [La Verdad Divina debe ser declarada a toda la humanidad](/1-es-jep/1-4-es-jep-mess-by-date/1-4-8-es-jep-mess-1920-1922/es-1920-5-2-1-jep-jesus/) | 02 de mayo de 1920
 Helen Padgett | [Helen insta al Sr. Padgett a permanecer en una condición de Amor por el bien del trabajo que debe realizar](/1-es-jep/1-4-es-jep-mess-by-date/1-4-8-es-jep-mess-1920-1922/es-1920-5-2-3-jep-helen-padgett/) | 02 de mayo de 1920

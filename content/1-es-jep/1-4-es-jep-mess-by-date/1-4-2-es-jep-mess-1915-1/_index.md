@@ -124,7 +124,7 @@ William Richards | [Richards describe su vida en el mundo espiritual](/1-es-jep/
 San Juan | [Juan corrobora que Jesús escribe a través del Sr. Padgett](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-6-27-1-jep-st-john/) | 27 de junio de 1915
 San Pablo | [San Pablo explica su aguijón en la carne y su experiencia en el camino a Damasco](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-6-27-2-jep-st-paul/) | 27 de junio de 1915
 Salomón | [La posición de Salomón en las Esferas Celestiales](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-6-27-3-jep-solomon/) | 27 de junio de 1915
-Helen Padgett | [Helen se refiere a la escritura de Juan y Pablo y Salomón](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-6-28-1-jep-helen-padgett/) | 28 de junio de 1915
+Helen Padgett | [Helen alude a los escritos de Juan, Pablo y Salomón](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-6-28-1-jep-helen-padgett/) | 28 de junio de 1915
 Jesús | [Jesús nunca estuvo en la India ni en Grecia estudiando sus filosofías, como algunos afirman](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-6-29-1-jep-jesus/) | 29 de junio de 1915
 Saleeba | [Saleeba progresa y pronto estará por encima de la tercera esfera](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-7-5-1-jep-saleeba/) | 5 de julio de 1915
 Henry Ward Beecher | [La inmortalidad](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-7-5-2-jep-henry-ward-beecher/) | 5 de julio de 1915
