@@ -40,17 +40,5 @@ weight:
 ---|---
 <div style="text-align: center;">[Jefferson, Thomas](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-2-es-politics/12-2-2-13-es-jeffersonthomas/)</div> | <div style="text-align: center;">[Johnson, Andrew](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-2-es-politics/12-2-2-15-es-johnsonandrew/)</div>
 <div style="text-align: center;">[Kennedy, John Fitzgerald](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-2-es-politics/12-2-2-16-es-kennedyjohnfitzgerald/)</div> | <div style="text-align: center;">[Lincoln, Abraham](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-2-es-politics/12-2-2-20-es-lincolnabraham/)</div>
-<div style="text-align: center;">[McKinley, William](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-2-es-politics/12-2-2-23-es-mckinleywilliam/)</div> | <div style="text-align: center;">[
-Washington, George](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-2-es-politics/12-2-2-34-es-washingtongeorge/)</div>
-
-
-
-
-
-
-
-
-
-
-
-
+<div style="text-align: center;">[McKinley, William](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-2-es-politics/12-2-2-23-es-mckinleywilliam/)</div> | <div style="text-align: center;">[Washington, George](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-2-es-politics/12-2-2-34-es-washingtongeorge/)</div>
+<div style="text-align: center;">[Grant, Ulysses S](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-2-es-politics/12-2-2-36-es-grantulyssess/)</div> | 
