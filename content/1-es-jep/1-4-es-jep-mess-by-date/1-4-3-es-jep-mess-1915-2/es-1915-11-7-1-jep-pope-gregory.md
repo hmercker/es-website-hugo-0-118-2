@@ -9,7 +9,7 @@ weight:
 ---
 ### Un ex Papa de los primeros tiempos del catolicismo ha llegado ahora a las Esferas Celestiales y destaca la importancia de la religión del alma
 
-El Papa Gregorio - recibido por James Padgett el 7 de noviembre de 1915, Washington, DC, EE.UU.
+[El Papa Gregorio](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-5-es-religion/12-2-5-12-es-popegregory/) - recibido por James Padgett el 7 de noviembre de 1915, Washington, DC, EE.UU.
 
 Estoy aquí, Gregorio.
 
