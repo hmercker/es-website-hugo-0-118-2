@@ -9,4 +9,4 @@ weight:
 ---
 ### El segundo mensaje después de la muerte de Padgett
 
-James Padgett - recibido por FALSE el 21 de abril de 1923FALSE.
+James Padgett - recibido por Eugene Morgan el 21 de abril de 1923, Washington, DC, EE.UU.

@@ -9,4 +9,4 @@ weight:
 ---
 ### Comentarios sobre el trabajo con espíritus oscuros
 
-San Lucas - recibido por FALSE el 23 de enero de 1935FALSE.
+San Lucas - recibido por Eugene Morgan el 23 de enero de 1935, Washington, DC, EE.UU.
