@@ -53,3 +53,5 @@ Tu hermano en Cristo, Juan.
 <small>
 
 Este mensaje es una combinación de dos que se publican en el Volumen I, página 293 y en el Volumen III, página 194. Para [más detalles consulta esta página](/1-es-jep/1-3-es-jesus-true-gosp/1-3-9-es-jep-mess-duplicates/).
+
+Un resumen completo de las esferas que el hombre puede alcanzar tras la muerte [se ofrece en esta página](https://new-birth.net/life-after-death/getting-the-hell-out-of-here-what-happens-after-you-die/). También está disponible [aquí como folleto de 46 páginas en formatos pdf, e-book e impreso]( https://new-birth.net/other-stuff/books-we-love/books-on-life-after-death/#gh).

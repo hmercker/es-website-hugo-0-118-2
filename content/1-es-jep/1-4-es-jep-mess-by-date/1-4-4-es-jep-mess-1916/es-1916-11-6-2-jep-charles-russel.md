@@ -9,7 +9,7 @@ weight:
 ---
 ### El pastor Russell escribe sobre su paso al mundo espiritual
 
-Charles Russel - recibido por James Padgett el 6 de noviembre de 1916, Washington, DC, EE.UU.
+[Charles Russel](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-5-es-religion/12-2-5-14-es-russellcharlestaze/) - recibido por James Padgett el 6 de noviembre de 1916, Washington, DC, EE.UU.
 
 Estoy aquí, pastor Russell.
 
