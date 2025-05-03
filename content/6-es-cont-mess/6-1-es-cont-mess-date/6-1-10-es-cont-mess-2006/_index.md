@@ -11,3 +11,4 @@ weight:
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
+Jesús | [La ubicación de Dios](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-10-es-cont-mess-2006/es-2006-10-21-2-fab-jesus/) | 21 octubre 2006
