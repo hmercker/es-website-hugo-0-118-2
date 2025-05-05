@@ -9,7 +9,7 @@ weight:
 ---
 ### Swedenborg escribe sobre los infiernos
 
-Emmanuel Swedenborg - recibido por James Padgett el 17 de diciembre de 1915, Washington, DC, EE.UU.
+[Emmanuel Swedenborg](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-1-es-philosophy/12-2-1-16-es-swedenborgemanuel/) - recibido por James Padgett el 17 de diciembre de 1915, Washington, DC, EE.UU.
 
 Déjame escribir unas líneas, porque deseo escribirte algunas verdades sobre lo que tú y tu amigo estabais discutiendo; es decir, ¿existen infiernos como los que se describen en los mensajes contenidos en el libro (“Inmortalidad” del Dr. Peeble) que has estado leyendo esta noche?
 
