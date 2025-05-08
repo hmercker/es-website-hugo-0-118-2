@@ -13,7 +13,7 @@ Helen Padgett - recibido por James Padgett el 3 de abril de 1915, Washington, DC
 
 Estoy aquí, Helen.
 
-Bueno, ¿no explicó el Maestro lo que significa el alma perdida de una manera que queda muy claro? Me alegra mucho de que le hayas preguntado y hayas recibido la respuesta que recibiste.
+Bueno, ¿no explicó el Maestro lo que significa [el alma perdida](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-4-3-1-jep-jesus/) de una manera que queda muy claro? Me alegra mucho de que le hayas preguntado y hayas recibido la respuesta que recibiste.
 
 Él es el único Jesús de la Biblia y aciertas cuando dices que crees que lo es. No dejes que lo que digan los hombres te haga dudar de este hecho, porque es un hecho. Él es el hijo más grande de su Padre, y cuando lo tienes como amigo eres verdaderamente rico. Así que, mi querido Ned, sigue creyendo en él, presta atención a sus enseñanzas y síguelas.
 
