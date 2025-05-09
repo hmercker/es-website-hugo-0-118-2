@@ -37,7 +37,7 @@ Has recibido muchos mensajes que describen el plan del Padre para la salvación 
 
 Soy creyente en estas verdades, un seguidor del Maestro y habitante de los Mundos Celestiales; pero quiero decir que estas verdades no llegaron a mí como parte de mi fe hasta después de muchos largos años de vida en el mundo de los espíritus, y que algunos de esos años los viví en oscuridad y sufrimiento. Así que te diré buenas noches y me suscribiré como tu hermano en Cristo, Elohiam.
 <small>
- 
+
 Este mensaje es una combinación de dos que se publican en el Volumen I, página 361 y en el Volumen III, página 224. Para más detalles [consulta esta página](/1-es-jep/1-3-es-jesus-true-gosp/1-3-9-es-jep-mess-duplicates/).
 
 [^1]: Este nombre también podría haber sido, más correctamente, "Euliam".
