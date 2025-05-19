@@ -11,8 +11,6 @@ weight:
 
 Albert Riddle - recibido por James Padgett el 22 de marzo de 1915, Washington, DC, EE.UU.
 
-tt. - Washington D.C.
-
 Estoy aquí, tu antiguo socio.
 
 [Recibiste una carta de Garfield](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-3-22-1-jep-james-garfield/). Estaba tan ansioso por escribir que pensé que no haría ningún daño dejarle intentarlo; y me alegro de haberlo hecho, porque lo que le dijiste le ha impresionado mucho y creo que le llevará a buscar información sobre el tema del Nuevo Nacimiento. Es un espíritu intelectual maravilloso y ha progresado en gran medida en la investigación de las leyes espirituales. De modo que, en conjunto, el hecho de que te escriba no perjudicará a nuestro grupo.

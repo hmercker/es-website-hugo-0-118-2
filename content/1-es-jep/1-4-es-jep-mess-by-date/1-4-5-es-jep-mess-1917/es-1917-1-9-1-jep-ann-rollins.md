@@ -1,12 +1,34 @@
 ---
-title: "Ann Rollins, cuando estaba en la tierra, era ciega y sorda, pero no era infeliz, y el secreto era que en su alma tenía el Amor del Padre"
+title: "Anne Rollins, cuando estaba en la tierra, era ciega y sorda, pero no era infeliz, y el secreto era que en su alma tenía el Amor del Padre"
 menu_title: ""
-description: "Ann Rollins, cuando estaba en la tierra, era ciega y sorda, pero no era infeliz, y el secreto era que en su alma tenía el Amor del Padre"
+description: "Anne Rollins, cuando estaba en la tierra, era ciega y sorda, pero no era infeliz, y el secreto era que en su alma tenía el Amor del Padre"
 date: 2025-04-01 06:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
-### Ann Rollins, cuando estaba en la tierra, era ciega y sorda, pero no era infeliz, y el secreto era que en su alma tenía el Amor del Padre
+### Anne Rollins, cuando estaba en la tierra, era ciega y sorda, pero no era infeliz, y el secreto era que en su alma tenía el Amor del Padre
 
 Anne Rollins - recibido por James Padgett el 9 de enero de 1917, Washington, DC, EE.UU.
+
+Estoy aquí, tu abuela.
+
+Bueno, mi querido hijo, ha pasado algún tiempo desde que te escribí y siento que debo decirte algunas palabras, ya que te hallas en un estado que necesita algo de aliento y apoyo. Te amo, como ya sabes y, aunque no te he escrito últimamente, he estado mucho tiempo contigo, custodiándote y tratando de influir en ti con mi amor y mis poderes para traerte pensamientos espirituales y anhelos del alma.
+
+Ahora quiero contarte algunas cosas que pueden ayudarte en tus momentos de preocupación. Cuando estuve en la tierra, como sabes, yo estaba casi ciega y sorda, y en un estado que, como lo más natural, me habría hecho preocuparme y ser infeliz, pero no me preocupaba ni era infeliz; y el secreto era que yo tenía en mi alma el Amor del Padre, y era tan real para mí que en mi alma ninguna duda de su existencia llegó jamás a causarme infelicidad. Y ese Amor, yo lo sé y te lo aseguro, es el mismo Amor que ahora inunda todo mi ser y me da la dicha que ahora poseo. Recuerdo que no tenía muchas cosas materiales que me preocuparan, porque tú cuidabas de mi bienestar material y siempre fuiste bondadoso y amoroso conmigo, y sin embargo, si no hubiera sido por el Amor del que hablo, puedo fácilmente ver que debía haberme sentido muy infeliz y preocupada, porque mi inclinación natural era preocuparme cuando las cosas no salían bien, como decíamos.
+
+Y por eso te digo, por experiencia real, que todas tus preocupaciones –y con esto me refiero a tus fuentes de preocupación– pueden ser eliminadas de tu ser consciente si tan sólo buscas y obtienes este Amor de Dios el Padre, lo cual ciertamente puedes hacer. Es sorprendente lo eficaz que es para hacer desaparecer las preocupaciones y los problemas. Como sabrás, éstos son en gran medida asunto de la mente y, aunque en cierto sentido son reales, es la mente –o su condición– la causa real de la plasmación de las preocupaciones.
+
+Y considera por un momento el hecho –y sé que estarás de acuerdo conmigo en que es un hecho– de que entregarse a esas preocupaciones no elimina ni en lo más mínimo las causas materiales de la preocupación, y de ninguna manera trae alivio de los problemas. No importa cuánto permitas que tu mente se regodee en esas cosas ni cuán intensamente te preocupes, la causa, la causa material, permanece. Podrás decir –y es natural que lo hagas– que es bastante fácil aconsejarte que no debes dejar que esas cosas inconvenientes te causen preocupación, pero que cuando entras en la experiencia práctica y sufres por esas condiciones no resulta así de fácil deshacerse del efecto de los problemas en la mente. Bueno; hay mucho de verdad en eso, pero así y todo, este Amor del que te hablo, cuando palpita en el alma, hará que incluso ese esfuerzo sea fácil de realizar.
+
+La filosofía del fenómeno, si se la puede llamar así, es que este Amor es de una tan real esencia sustancial que toma control de la mente y elimina la consciencia de la realidad de las causas de la preocupación. Ahora bien; no quiero que se entienda que intento transmitir la idea de que estas causas materiales no son reales, porque no soy una Científica Cristiana hasta ese punto, pero lo que sí quiero decir es que, a pesar de la existencia real de esas causas, los efectos de este Amor –y la fe que lo acompaña– sobre la mente, que es la verdadera fuente de la preocupación, son tales que el olvido de esas causas de preocupación reemplaza a ese constante entregarse a los pensamientos de su existencia y a las desdichadas consecuencias que de ellos deben fluir.
+
+La causa en sí no se elimina, pero por de pronto, la consciencia de su existencia queda disipada, y para la mente así influenciada por el Amor, esas causas son como si no existieran. Por descontado que existen y que se enfrentan a ti hasta cierto punto, pero comprobarás que no son tan abrumadoras e insuperables como te lo parecerían caso de que este Amor estuviera ausente del alma, y su influencia ausente de la mente. Y además de esto, el Amor y la fe crean una confianza en el poder del Padre y en Su voluntad de ayudar que engendra coraje; un coraje que permite al poseedor de esta confianza sobremontar esas causas de preocupación, cosa que de otro modo no podría hacer.
+
+Lo que he dicho puede llamarse la filosofía del funcionamiento de este Amor en su efectiva destrucción de la preocupación. Pero el gran hecho es que el Padre, muy en verdad, sí que ayuda a quien se halla en condiciones de ser poseído por este Amor. Su Amor es real, y Su ayuda es real, y el efecto de Su Amor y ayuda es convertir las aludidas causas en cosas irreales en lo que respecta a la felicidad del objeto de Su ayuda. Y como una verdad –tal como lo demuestra la experiencia de los mortales– te digo que una muy grande proporción de las preocupaciones y problemas que acosan y generan tanta infelicidad a los mortales, son cosas de la imaginación, y nunca se materializan.
+
+Así pues, mi querido hijo, trata de comprender lo que he escrito y aplícalo a tu propio estado, y descubrirás que tus preocupaciones no son tan grandes como ahora crees. Sé exactamente lo que te espera, pero como te han dicho otros que te han escrito, en poco tiempo te sentirás aliviado, y el sol volverá a brillar en tu consciencia de existencia, y llegarás a estar en una condición mucho mejor para hacer tu trabajo, tanto el de tu negocio como el del Maestro. No debes pensar ni por un momento que vayas a no ser cuidado para poder hacer y completar la labor para la que has sido elegido. Esto es tan seguro como que el sol brilla, y aunque por una temporada aún te enfrentes a algunas cosas desagradables y desalentadoras, no pasará mucho tiempo antes de que se conviertan en cosas del pasado, y estarás en condiciones de hacer este trabajo sin obstáculos ni interferencias.
+
+Así que piensa en todo lo que he dicho y trata de creer y llevar a aplicación práctica mi filosofía; y sobre todo ora al Padre en pos de un mayor aflujo de este Amor, y ten fe para prever que será tuyo, y limitado tan sólo por tus anhelos y por la sinceridad de tus aspiraciones. En fin; vendré pronto y te escribiré una larga carta sobre cierta verdad espiritual que será de tu interés. Debo parar ahora, y así, con todo mi amor y las bendiciones del Padre, te diré buenas noches.
+
+Tu amorosa abuela.

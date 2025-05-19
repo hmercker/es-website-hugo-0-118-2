@@ -13,7 +13,7 @@ Thomas Paine - recibido por James Padgett el 20 de junio de 1915, Washington, DC
 
 Estoy aquí, [Thomas Paine](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-1-es-philosophy/12-2-1-17-es-painethomas/).
 
- Cuando fallecí yo no creía en Jesús como el hijo de Dios ni como su mensajero, enviado para mostrarle al mundo que el Padre le había otorgado Su Divino Amor e Inmortalidad y enseñar el Camino para obtenerlo. Pero ahora creo plenamente en estas verdades, soy seguidor de Jesús y poseedor del Amor Divino.
+Cuando fallecí yo no creía en Jesús como el hijo de Dios ni como su mensajero, enviado para mostrarle al mundo que el Padre le había otorgado Su Divino Amor e Inmortalidad y enseñar el Camino para obtenerlo. Pero ahora creo plenamente en estas verdades, soy seguidor de Jesús y poseedor del Amor Divino.
 
 ¡Cuán diferente sería mi condición ahora si esa errónea y condenatoria doctrina enseñada por las iglesias –que no hay redención más allá de la tumba– fuese cierta! Nunca pensé que había alguna necesidad de redención, ni mientras estuve en la tierra ni tras convertirme en espíritu, sino que pensé que si hubiera un Dios, Él trataría conmigo de manera justa y me otorgaría felicidad y disfrute de la vida futura, conforme a mi idea de Su amor y misericordia.
 
