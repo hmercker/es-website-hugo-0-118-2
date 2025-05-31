@@ -15,7 +15,7 @@ Estoy aquí, Helen.
 
 Sí; te amo, y lo sabes. Ven a la cama y te dejaré sentir mis brazos en torno a tu cuello y te abrazaré y te dormiré para que te sientas mejor por la mañana.
 
-*(¿Estuviste en la reunión bahá'í?)*
+*¿Estuviste en la reunión bahá'í?*
 
 Sí, estuve. No pensé mucho en el discurso de la mujer Hindú, porque no hablaba de lo que el Amor de Dios es para las almas perdidas del hombre. No te benefició mucho, porque estabas muy solo y necesitabas que se predicara el Amor de Dios. El otro discurso fue mejor, pero no indica el camino hacia la verdad y la luz como lo hace la Biblia. Sé cristiano y ama al Dios de la Biblia y...
 

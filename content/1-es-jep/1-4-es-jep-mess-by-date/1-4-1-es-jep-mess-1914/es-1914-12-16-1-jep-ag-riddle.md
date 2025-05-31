@@ -71,4 +71,5 @@ Tu antiguo amigo, A. G. Riddle.
 <small>
 
 [^1]: Esta frase no se lee bien y se beneficiaría de una revisión del documento original, si es que puede encontrarse. Muchos de los documentos manuscritos originales aún existen, pero desgraciadamente no todos. Y en particular, creemos que los originales de los volúmenes III y IV han quedado dañados y destruidos por un mal almacenamiento.
-Mi interpretación personal de esta frase es la siguiente: *”La conciencia es una realización del ser. Nada que no exista o que no sea capaz de expresarse es consciente”*. (G.J.C.)
+
+    Mi interpretación personal de esta frase es la siguiente: *”La conciencia es una realización del ser. Nada que no exista o que no sea capaz de expresarse es consciente”*. (G.J.C.)
