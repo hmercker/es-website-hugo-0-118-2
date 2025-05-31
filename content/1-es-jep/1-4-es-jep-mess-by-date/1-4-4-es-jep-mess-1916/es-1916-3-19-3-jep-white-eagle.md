@@ -10,3 +10,7 @@ weight:
 ### Águila Blanca no permitiría que un espíritu oscuro escribiera
 
 Águila Blanca - recibido por James Padgett el 19 de marzo de 1916, Washington, DC, EE.UU.
+
+Aquí estoy, Águila Blanca.
+
+Lipscomb intentó escribir y no le dejé porque estaba borracho y sé que tú no querías que escribiera.

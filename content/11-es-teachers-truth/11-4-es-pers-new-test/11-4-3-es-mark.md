@@ -9,6 +9,8 @@ weight:
 ---
 ### (Juan) Marcos
 
+Juan Marcos es nombrado en los Hechos de los Apóstoles como asistente que acompañaba a Pablo y Bernabé en sus viajes misioneros. Tradicionalmente se le considera idéntico al evangelista Marcos, el escritor tradicional del Evangelio de Marcos. (Fuente Wikipedia)
+
 #### Mensajes de (Juan) Marcos
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  

@@ -8,7 +8,7 @@ hidden: True
 weight:
 ---
 ### La progresión espiritual de Helen Padgett
-.02
+
 En este conjunto de mensajes, Helen Padgett cuenta su progresión espiritual. Si un espíritu puede pasar de lo más bajo, a convertirse en un espíritu "bautizado" en menos de un año, ¿por qué querría alguien reencarnarse? Murió en febrero de 1914, y volvió a nacer (correctamente, no como se cree actualmente en la Tierra) el 3 de marzo de 1915. Hay que decir que se trata de un progreso espiritual extremadamente rápido, y que contó con la ayuda de su abuela.
 
 Nuestra firme conclusión sigue siendo que los únicos espíritus que se comunican sobre vidas pasadas son los que están limitados en su comprensión y limitados en su propia progresión espiritual. Una de las cosas que da credibilidad a algunos espíritus es que se mueven entre mundos espirituales a medida que progresan. Pero ciertamente no renacen. Por otra parte, el hecho de convertirse en "uno con Dios", necesario para salir de las Esferas Espirituales y entrar en el Reino Celestial, es aparentemente muy significativo, y no es algo que uno pueda pasar por alto.

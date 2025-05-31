@@ -21,7 +21,7 @@ Juan el Bautista  | [Ha llegado el momento de que las Verdades sean dadas a cono
 Mary Kennedy | [Después de un tiempo, este es el segundo mensaje escrito por Mary Kennedy](/1-es-jep/1-4-es-jep-mess-by-date/1-4-3-es-jep-mess-1915-2/es-1915-9-7-4-jep-mary-kennedy/) | 7 de septiembre de 1915
 Anne Rollins | [Ann Rollins responde a la pregunta del Sr. Padgett sobre el bautismo](/1-es-jep/1-4-es-jep-mess-by-date/1-4-3-es-jep-mess-1915-2/es-1915-9-9-1-jep-ann-rollins/) | 9 de septiembre de 1915
 Jesús | [Jesús niega que él sea Dios o que su sangre lave los pecados de los hombres](/1-es-jep/1-4-es-jep-mess-by-date/1-4-3-es-jep-mess-1915-2/es-1915-9-12-1-jep-jesus/) | 12 de septiembre de 1915
-Josafat | [El Josafat del Antiguo Testamento explica su estatus mientras vivía en la tierra](/1-es-jep/1-4-es-jep-mess-by-date/1-4-3-es-jep-mess-1915-2/es-1915-9-12-2-jep-jehosephat/) | 12 de septiembre de 1915
+Josafat | [El Josafat del Antiguo Testamento explica su estatus mientras vivía en la tierra](/1-es-jep/1-4-es-jep-mess-by-date/1-4-3-es-jep-mess-1915-2/es-1915-9-12-2-jep-jehosaphat/) | 12 de septiembre de 1915
 San Juan | [ Niega la expiación vicaria - si los hombres tuvieran fe como los Apóstoles, hoy ocurrirían sanaciones y los llamados milagros](/1-es-jep/1-4-es-jep-mess-by-date/1-4-3-es-jep-mess-1915-2/es-1915-9-12-3-jep-st-john/) | 12 de septiembre de 1915
 Samuel | [Samuel escribe que no hay ninguna razón por la cual el Sr. Padgett no pueda obtener el Amor Divino del Padre](/1-es-jep/1-4-es-jep-mess-by-date/1-4-3-es-jep-mess-1915-2/es-1915-9-13-1-jep-samuel/) | 13 de septiembre de 1915
 Lot | [También Lot está intentando ayudar al señor Padgett](/1-es-jep/1-4-es-jep-mess-by-date/1-4-3-es-jep-mess-1915-2/es-1915-9-13-2-jep-lot/) | 13 de septiembre de 1915

@@ -12,3 +12,4 @@ weight:
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
 Abraham Lincoln | [Abraham Lincoln y la guerra](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-9-es-cont-mess-2005/es-2005-6-30-1-fab-abraham-lincoln/) | 30 junio 2005
+Buddha | [El Buda es muy feliz](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-9-es-cont-mess-2005/es-2005-11-7-1-fab-buddha/) | 7 noviembre 2005

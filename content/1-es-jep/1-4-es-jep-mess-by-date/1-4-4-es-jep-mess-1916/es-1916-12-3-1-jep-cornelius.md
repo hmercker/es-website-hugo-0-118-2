@@ -9,7 +9,7 @@ weight:
 ---
 ### Cornelius elogia la oración dada a la humanidad por el Maestro
 
-Cornelius - recibido por James Padgett el 3 de diciembre de 1916, Washington, DC, EE.UU.
+[Cornelius](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-2-es-politics/12-2-2-5-es-corneliusthecenturion/) - recibido por James Padgett el 3 de diciembre de 1916, Washington, DC, EE.UU.
 
 Estoy aquí, Cornelius.
 

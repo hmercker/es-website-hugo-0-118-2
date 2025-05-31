@@ -10,3 +10,9 @@ weight:
 ### Águila Blanca, un guía, da al Sr. Padgett tratamientos curativos cada vez que lo necesita tras una larga sesión de escritura
 
 Águila blanca - recibido por James Padgett el sin fecha, Washington, DC, EE.UU.
+
+Aquí estoy, Águila Blanca.
+
+Eres un buen hombre, pero por lo que veo no te gusta mi tratamiento. Déjame intentarlo esta noche cuando dejes de escribir.
+
+Águila Blanca.

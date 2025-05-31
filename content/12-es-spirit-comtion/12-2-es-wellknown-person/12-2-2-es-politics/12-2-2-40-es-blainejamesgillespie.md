@@ -1,13 +1,13 @@
 ---
-title: "Ignacio de Loyola"
+title: "Blaine, James Gillespie"
 menu_title: ""
-description: "Ignacio de Loyola"
+description: "Blaine, James Gillespie"
 date: 2025-04-01 06:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
-### Ignacio de Loyola
+### Blaine, James Gillespie
 
 
 <p style="text-align: center"><img src="/portraits/"></p>
@@ -20,7 +20,7 @@ James Gillespie Blaine (31 de enero de 1830 - 27 de enero de 1893) fue un estadi
 
 <small>*Fuente: [Wikipedia]()*</small>
 
-#### Mensajes de Cleveland, Stephen Grover
+#### Mensajes de Blaine, James Gillespie
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
