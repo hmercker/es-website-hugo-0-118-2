@@ -15,7 +15,7 @@ Estoy aquí, tu abuela.
 
 Sí, estoy aquí y deseo decirte que no debes dejar que lo que te dije anoche te desanime, porque sólo estaba tratando de hacerte saber que no debes olvidarte de orar a Dios en pos de Su Bendición. No estabas en condiciones de entender del todo lo que escribí. Sólo estabas en una estado de duda acerca de qué era lo que debías hacer para sentir la influencia de aquello que yo quería decir.
 
-*Pregunta y respuesta:*
+*(Pregunta y respuesta:)*
 
 Sí, así es, y no debes adorarle así. No sólo se equivocaron en ese particular, sino que no entendieron que Jesús no quiere ser adorado de esa manera. Pueden seguirle en sus enseñanzas y en su ejemplo, pero deben adorar sólo a Dios. Puedes ayudarles a ver la Verdad, y debes intentar hacerlo.
 

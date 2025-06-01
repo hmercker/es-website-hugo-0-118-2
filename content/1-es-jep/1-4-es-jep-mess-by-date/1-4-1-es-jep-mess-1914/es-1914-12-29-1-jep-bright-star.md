@@ -30,6 +30,7 @@ Sí, puedes orar por mí como te dije y darme tus mejores pensamientos. Quiero a
 Dile al señor Colburn que anoche estuve en su casa alrededor de las seis y traté de impresionarle con mi presencia, pero no pude. Él es alguien que es muy querido para mí y quiero que él también busque el Amor, así que díselo. Y cuando vuelvas a su casa trata de conseguir las voces, porque creo que pronto os llegarán a todos.
 
 Sí, lo hago; tu padre estaba allí y pronunció su nombre, y el Sr. Colburn respondió y tu padre le dijo que tu tío William quería darte un mensaje. De hecho, tu padre también estaba allí.
+
 Para hablar contigo no hace falta que vayan allí allí. ¿Qué se puede comparar con la manera en que se comunican contigo? Eres una de las personas más favorecidas que conozco en la forma de recibir comunicaciones. Las voces independientes no transmiten mensajes semejantes a los que tú recibes, ni pueden, porque incluso si los espíritus que hablan fueran capaces de expresarse de la manera en que escriben aquellos que se comunican contigo, aún así no habría suficiente vigor para soportar comunicaciones tan extensas. Preferiría tener el poder de la escritura automática, como se la llama, antes que cualquier otro que yo conozca. Sí que podemos decir algunas cosas reconfortantes, pero no podemos tener comunicaciones largas.
 
 En efecto; ella es una médium honesta, o no me sentaría con ella. Así que puedes estar seguro de ello. Tú sí que me amas como tal, y tu oración ha llenado mi alma de felicidad. Así que debo irme, pero volveré pronto, y muy buenas noches.

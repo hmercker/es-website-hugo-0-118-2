@@ -17,7 +17,7 @@ Lo hago, con todo mi corazón. Lo estaba, y estaba muy feliz. No debes estar inf
 
 [Sí, el Maestro estuvo contigo el sábado noche](/1-es-jep/1-4-es-jep-mess-by-date/1-4-1-es-jep-mess-1914/es-1914-9-12-1-jep-jesus/) y él es el único que puede ayudarte a sentir el amor de Dios como tú lo sentiste.
 
-*La siguiente pregunta se refiere al Sr. Colburn, quien dijo que podría ser una suplantación falsa.*
+*(La siguiente pregunta se refiere al Sr. Colburn, quien dijo que podría ser una suplantación falsa.)*
 
 Sí, y escuché lo que se dijo: no tiene razón al decir que no conozco a Jesús cuando viene entre nosotros. Es tan luminoso, con el amor de Dios y el espíritu de la rectitud en su entero ser, que todos sabemos que él es el verdadero Cristo. No dejes que exista en tu mente ninguna duda de que quien te escribió no fue Jesús; él era el verdadero Jesús de la Biblia.
 
@@ -35,7 +35,7 @@ Sí; estoy progresando muy rápidamente y pronto estaré en la tercera esfera. N
 
 No; yo te esperaré y juntos iremos a los más altos planos del amor y de la luz. Siempre estaremos unidos como marido y mujer.
 
-*Padgett preguntó: ¿amaba ella mucho a sus hijos?*
+*(Padgett preguntó: ¿amaba ella mucho a sus hijos?)*
 
 Sí los amo, y estoy con ellos muy frecuentemente, pero ellos son los compañeros del amor de otros. Hallarán su felicidad en la compañía de esos otros, y no me van a necesitar al cabo de un breve tiempo, excepto por que les ayudaré a sentir que su madre les cuida y les ama como una madre. No dejes que sus vidas sean parte de la tuya en demasía, ya que no eres tú ese que Dios decretó que debería estar con ellos como su verdadero amor para siempre. Deja que tu amor por ellos sólo les ayude a aprender que deben vivir rectamente y amar a su Dios.
 

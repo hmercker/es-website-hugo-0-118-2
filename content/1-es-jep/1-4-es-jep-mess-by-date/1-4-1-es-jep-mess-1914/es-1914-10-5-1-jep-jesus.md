@@ -29,7 +29,7 @@ Eres mi elegido en la tierra para proclamar mis buenas nuevas de vida y amor. S�
 
 Guarda sus mandamientos y serás muy feliz, y pronto recibirás el contentamiento que Él da a sus auténticos hijos. Recurre a Él en todos tus problemas, y hallarás descanso y paz.
 
-*¿Preguntas desconocidas?*
+*(¿Preguntas desconocidas?)*
 
 Sí; en muy poco tiempo podrás dedicar toda tu atención a mis objetivos y a tu trabajo. Pronto estarás en condiciones de dejar en paz las cosas de este mundo, ya que te necesito para mi servicio. Déjame decirte que conseguirás tu hogar tal como deseas y tendrás todo tu entorno en armonía para recibir mis mensajes. Y estarás con tu hija, para mantenerte feliz y libre de preocupaciones.
 

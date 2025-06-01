@@ -15,7 +15,7 @@ Estoy aquí, tu padre.
 
 Estoy muy feliz y me alegro de que tú también parezcas estarlo.
 
-*Pregunta y respuesta:*
+*(Pregunta y respuesta:)*
 
 Sí; debido a tu experiencia de la otra noche al amar a Helen y ella a ti. Ciertamente estabas lleno de amor y debes sentirte perfectamente feliz por haber tenido tal demostración de amor y la constatación de la presencia real y sensible de tu esposa, porque te digo que ella estaba contigo y tan llena de su amor por ti que todos nos maravillamos de su amor. Es un espíritu que parece no tener límite en su amor hacia ti; no muchos espíritus parecen tener tanta abundancia de amor como ella por ti. Así que debes considerarte un hombre muy bendecido por tener tal esposa y alma gemela.
 
@@ -86,7 +86,7 @@ Sí; ciertamente que, en base a lo que les dijiste, les has dado a estos caballe
 Tu padre, John H. Padgett.
 <small>
 
-[^1]: Aquí el Sr. Padgett de hecho usó la palabra “experimento” y no “experiencia”. Pero en un mensaje del 20 de octubre de 2012 a Nicholas y Zara [^2], Jesús se refiere a la palabra "experimento" usada en este mensaje, diciendo: *"(...) el uso de la palabra 'experimento' no es correcto. 'El gran experimento' no es la expresión adecuada para describir el Amor Divino. El Amor Divino se experimenta, y esta experiencia se basa esencialmente en la armonía, y la armonía no es un experimento. Este es un buen momento para reformular este término. (...) Ningún experimento tiene lugar en el alma o en el cuerpo espiritual por obra del Amor Divino (...). La palabra 'experiencia' es la palabra correcta para reemplazar la palabra 'experimento'."*
+[^1]: Aquí el Sr. Padgett de hecho usó la palabra *“experimento”* y no *“experiencia”*. Pero en un mensaje del 20 de octubre de 2012 a Nicholas y Zara [^2], Jesús se refiere a la palabra "experimento" usada en este mensaje, diciendo: *"(...) el uso de la palabra *'experimento'* no es correcto. *'El gran experimento'* no es la expresión adecuada para describir el Amor Divino. El Amor Divino se experimenta, y esta experiencia se basa esencialmente en la armonía, y la armonía no es un experimento. Este es un buen momento para reformular este término. (...) Ningún experimento tiene lugar en el alma o en el cuerpo espiritual por obra del Amor Divino (...). La palabra 'experiencia' es la palabra correcta para reemplazar la palabra 'experimento'."*
 
 [^2]: Incluido en el libro *“El Universo Divino - El libro del amor”* bajo el número 103 en la página 133 (ISBN 978-1-304-69299-3).
 

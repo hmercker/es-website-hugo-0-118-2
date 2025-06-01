@@ -17,7 +17,7 @@ Eres mi amigo y discípulo. Tú estás en mí y yo en ti, y nosotros estamos en 
 
 Mi reino no es de este mundo y vosotros no sois de este mundo; estáis en mí, como dije a mis discípulos de antaño. Sólo creedme y guardad mis mandamientos, y yo os amaré hasta el fin, y el Padre os amará.
 
-*(pregunta)*
+*(Pregunta)*
 
 Quiero decir que debéis amar a toda la humanidad, y tratar de mostrarles el camino hacia el Amor de Dios.
 

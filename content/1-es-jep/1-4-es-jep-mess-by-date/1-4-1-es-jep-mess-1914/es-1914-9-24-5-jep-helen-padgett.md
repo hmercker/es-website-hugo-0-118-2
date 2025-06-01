@@ -11,6 +11,4 @@ weight:
 
 Helen Padgett - recibido por James Padgett el 24 de septiembre de 1914, Washington, DC, EE.UU.
 
-Buenas noches – Te amo,
-
-Helen
+Buenas noches – Te amo, Helen.

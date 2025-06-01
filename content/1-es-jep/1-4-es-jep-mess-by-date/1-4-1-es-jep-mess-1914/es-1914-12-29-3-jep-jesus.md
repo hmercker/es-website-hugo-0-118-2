@@ -10,5 +10,3 @@ weight:
 ### Un saludo rápido de Jesús
 
 Jesús - recibido por James Padgett el 29 de enero de 1914, Washington, DC, EE.UU.
-
-

@@ -13,7 +13,7 @@ John H Padgett - recibido por James Padgett el 24 de septiembre de 1914, Washing
 
 Estoy aquí, tu Padre.
 
-*Pregunta: ¿quién escribió esta última vez?*
+*(Pregunta: ¿quién escribió esta última vez?)*
 
 [Jesús - el Jesús de la Biblia](/1-es-jep/1-4-es-jep-mess-by-date/1-4-1-es-jep-mess-1914/es-1914-9-24-2-jep-jesus/). Él ha estado contigo, y eres tú quien debe sentir que ha sido muy favorecido. Tienes que creer que fue él. No era un impostor; era el verdadero Jesús. Ningún impostor podría haber escrito igual que él.
 

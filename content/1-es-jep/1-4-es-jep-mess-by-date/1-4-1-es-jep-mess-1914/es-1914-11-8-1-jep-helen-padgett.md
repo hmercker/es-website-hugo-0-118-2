@@ -17,7 +17,7 @@ Sí, estuve, y los servicios te beneficiaron, aunque no disfrutaste de todas las
 
 No oraste a Dios como deberías haberlo hecho. Era Él en quien deberías haber pensado más.
 
-*Pregunta y respuesta:*
+*(Pregunta y respuesta:)*
 
 Sí, lo sé, pero ellos sólo estaban intentando sentir la presencia de Dios y el Espíritu Santo. No obtuviste el beneficio completo del servicio. Sí, así es, pero no debes dejar que esa idea te impida adorar a Dios, ya que Él no quiere que nadie le adore de otra manera que no sea en Espíritu y en Verdad.
 
@@ -27,7 +27,7 @@ Por supuesto, Jesús es con quien debes mantener una relación santa, así que n
 
 Su sangre no te salva, ni su muerte, pero su amor y enseñanzas sí que te salvan del pecado y de la muerte. Él no va a dejarte sentir que no es tu amigo, a menos que te alejes de él para conseguir el amor de la tierra, mediante cosas y placeres.
 
-*Pregunta y respuesta:*
+*(Pregunta y respuesta:)*
 
 Sí, pero no estabas orando al Padre como debías haberlo hecho. No dejes que el pensamiento de que vas a escribir para él te impida orar al Padre, o no avanzarás en tu vida espiritual. No estás en condiciones de escribir más esta noche; de otro modo escribiría en plenitud sobre lo que deberías saber, y más adelante lo haré. Pronto sabrás exactamente a qué me refiero. Ve a la cama y descansa.
 

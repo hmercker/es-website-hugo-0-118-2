@@ -45,7 +45,7 @@ Bueno; estoy especialmente dotada con el poder de encontrar las almas gemelas de
 
 Sí; podrían encontrarse y no darse cuenta de que son almas gemelas. No entiendo cómo es esto, pero sé por observación que es así. Algunos espíritus están tan carentes del poder de observación que cuando sus almas gemelas acuden a ellos no las reconocen hasta que ha transcurrido cierto tiempo. Recuerdo un caso en el que un espíritu brillante del tercer plano se acercó a su alma gemela en el plano terrestre y trató de hacerle entender que ella era su alma gemela, pero no pudo lograrlo hasta después de mucho tiempo, cuando al fin despertó al hecho de que debería tener un alma gemela asignada a él, pero incluso entonces ella tuvo que decirle que su alma gemela era ella. Él no parecía tener ningún anhelo por una pareja. Estaba tan absorto en las cosas de la tierra que no pensaba en almas gemelas ni en nada por el estilo. Así que ya ves que los espíritus que entienden que tienen almas gemelas están mucho mejor dispuestos de cara a obtener la felicidad que los que no tienen conocimiento de ese hecho.
 
-*Pregunta: ¿Quién encontrará mi alma gemela para mí?*
+*(Pregunta: ¿Quién encontrará mi alma gemela para mí?)*
 
 Cuando llegue ese momento no necesitarás que nadie encuentre a tu alma gemela, porque ella estará justo en los portales del mundo espiritual con los brazos abiertos y su corazón tan lleno de amor por ti que tú mismo sabrás quién es tu alma gemela sin tener que pedirle a nadie que la encuentre por ti.
 

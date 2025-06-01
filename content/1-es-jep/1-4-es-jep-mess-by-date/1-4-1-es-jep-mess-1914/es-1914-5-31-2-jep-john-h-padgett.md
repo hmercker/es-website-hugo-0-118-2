@@ -17,7 +17,7 @@ Sí, lo soy. Y trataré de decirte lo que debes hacer para formar un grupo de tr
 
 Déjame decirte quiénes deberían formar parte de la banda: tu abuela, tu madre, Helen, el profesor Salyards, el Sr. Riddle y yo; estos bastan para ayudarte en la investigación del espiritismo.
 
-*¿Se unirán?*
+*(¿Se unirán?)*
 
 Sí; les haré venir y puedes preguntarles.
 
@@ -27,7 +27,7 @@ Sí; les haré venir y puedes preguntarles.
 
 *Prof. Salyards:* Sí, soy yo; y seré uno del grupo que te ayudará. Serás mi portavoz al escribir al mundo los pensamientos que deseo dar a conocer sobre temas que son de interés para la humanidad. Mantente bien y pronto te dejaré escribir mis ideas sobre esta vida y de lo que hallo que es la auténtica verdad del Amor de Dios y el amor de la especie humana.
 
-*Le pide que escriba un verso.*
+*(Le pide que escriba un verso.)*
 
 Sí. Pero esta noche no estoy en condiciones, porque estás demasiado débil para escribir mucho más. Sí; mostraré mi rostro en la fotografía y entonces sabrás que soy uno de tu grupo.
 

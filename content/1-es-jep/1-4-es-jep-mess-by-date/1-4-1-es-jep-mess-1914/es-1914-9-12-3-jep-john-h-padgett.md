@@ -15,7 +15,7 @@ Sí, estoy aquí, tu padre.
 
 [Si es cierto](/1-es-jep/1-4-es-jep-mess-by-date/1-4-1-es-jep-mess-1914/es-1914-9-12-1-jep-jesus/). Él estuvo contigo y pronto aprenderás mucho más de él, ya que él dice que te enseñará la Verdad, la Luz y el Camino. Ama a Dios y guarda Sus mandamientos. Deja que tu corazón esté abierto a las Divinas enseñanzas del Maestro. Él no te mostrará todo el amor que te tiene, pero te hará sentir que es tu amoroso amigo y salvador.
 
-*¿Por qué vino a mí?*
+*(¿Por qué vino a mí?)*
 
 Porque él te ama y cree que puedes ser de algún beneficio para el mundo.
 

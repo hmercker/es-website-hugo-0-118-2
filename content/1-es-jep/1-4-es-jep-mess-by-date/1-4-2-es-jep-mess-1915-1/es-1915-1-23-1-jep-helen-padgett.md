@@ -34,6 +34,7 @@ Debo parar ahora, así que di adiós; y descansa en la creencia de que no import
 La señora Padgett escribe además: Bueno, ella le ama con un amor muy puro y firme, no tan demostrativo como el amor de Rose por el juez (el juez Syrick), pero sí tan profundo y puro. Ella es un espíritu encantador y lleno del Amor de su Padre, digna de todo el amor que cualquier hombre pueda darle. Le tengo mucho cariño y la veo mucho. Ella es muy gentil, amorosa y tierna, y muy amada por muchos espíritus a quienes ha dado consuelo y ayuda.
 
 Helen.
+<small>
 
-**PD:** Este mensaje inició al Dr. Stone en el camino de orar con toda la intensidad de los anhelos de su alma, dirigiéndose al Padre para llenar su alma con Su Amor Divino. Y como él mismo ha escrito, sintió este Amor con su cálida irradiación ardiendo en su alma en respuesta a la oración.
+**P.D.:** Este mensaje inició al Dr. Stone en el camino de orar con toda la intensidad de los anhelos de su alma, dirigiéndose al Padre para llenar su alma con Su Amor Divino. Y como él mismo ha escrito, sintió este Amor con su cálida irradiación ardiendo en su alma en respuesta a la oración.
 Rev. John Paul Gibson.

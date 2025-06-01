@@ -15,7 +15,7 @@ Aquí estoy, Helen.
 
 Ciertamente le causaste impresión al [Sr. Riddle](/1-es-jep/1-4-es-jep-mess-by-date/1-4-1-es-jep-mess-1914/es-1914-12-16-1-jep-ag-riddle/), pues ahora está intentando rezar como le sugeriste que hiciera. Pero no debes dejar que tu amor por él te impida sentir que todos queremos que reces también por nosotros, pues pareces tener tanta fe que nos asombramos de ti.
 
-*Pregunta.*
+*(Pregunta.)*
 
 No, eso no, pero nosotros también necesitamos tus oraciones, así que no nos olvides. No soy nada egoísta en este asunto, pero también quiero que me ayudes.
 
