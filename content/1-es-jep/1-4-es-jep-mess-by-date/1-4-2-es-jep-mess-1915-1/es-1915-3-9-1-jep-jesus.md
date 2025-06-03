@@ -21,7 +21,7 @@ Ahora te diré lo que significa este Amor Divino para todos los que lo han recib
 
 Así que no pienses que con que un hombre simplemente llegue a ser estupendo en su conocimiento en un sentido intelectual está capacitado para vivir en esas esferas superiores, porque no lo está; únicamente el gran desarrollo del alma, mediante la obtención del Amor Divino en el seno de su alma, le capacitará para vivir allí.
 
-*(pregunta)*
+*(Pregunta)*
 
 Juan nunca dijo que a través de mí fueron creadas todas las cosas que fueron creadas, ni que yo, como Dios, vine a la tierra y llegué a ser un morador en la carne. Eso es un error y una falsificación, porque yo nunca fui Dios, ni jamás creé parte alguna del universo. Yo fui sólo un espíritu de Dios, enviado por Él para poner de manifiesto la salvación del hombre y mostrarle el único camino hacia el Hogar Celestial que Dios tiene reservado para aquellos que reciben el Nuevo Nacimiento.
 
@@ -29,7 +29,7 @@ Bien; yo vivo en todas las esferas, pero mi hogar está en una esfera que está 
 
 Aquellos que recibieron plenamente este Amor Divino a través de la fe y la oración están en las Esferas Celestiales, pero no aquellos que aún no han obtenido este Amor en el grado mencionado. Sí, Pablo está, y también Pedro, Juan, Santiago y varios otros.
 
-*(pregunta)*
+*(Pregunta)*
 
 Quise decir que iría a las Esferas Celestiales, donde ahora estoy, y prepararía esas mansiones, lo cual ya he hecho. Y de los espíritus y los mortales depende únicamente el convertirse en habitantes de ellas.
 

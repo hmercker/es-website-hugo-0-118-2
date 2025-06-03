@@ -33,6 +33,6 @@ Pospongamos la redacción porque nuestra compenetración no es la adecuada. Vend
 Con todo mi amor, soy tu hermano y amigo, Jesús.
 <small>
 
-[^1]: N.d.T.: Puede resultar útil examinar la etimología de la palabra “sugestión”, cuyos componentes léxicos son: sub-, gestus, -tión. Significa la acción o el efecto (-tión) de llevar a cabo algo (gestus) por debajo (sub-), o sea, inducir a escondidas un acto.
+[^1]: **N.d.T.:** Puede resultar útil examinar la etimología de la palabra “sugestión”, cuyos componentes léxicos son: sub-, gestus, -tión. Significa la acción o el efecto (-tión) de llevar a cabo algo (gestus) por debajo (sub-), o sea, inducir a escondidas un acto.
 
-[^2]: N.d.T.: La clásica –y anodina– traducción de *“spirits of evil”* es *“los espíritus del mal”*. Al traducir *“los espíritus de lo malo”* –que es igual de correcto– aparece un matiz: Tal como se nos explica en otros mensajes, se trata de espíritus que obtienen placer ocasionando lo que perjudica a otros y lo que, por ello, merece calificarse como malo o como un mal. En cualquier caso, *“los espíritus del mal”* son igualmente hijos de Dios y por tanto, poseedores de su propio libre albedrío.
+[^2]: **N.d.T.:** La clásica –y anodina– traducción de *“spirits of evil”* es *“los espíritus del mal”*. Al traducir *“los espíritus de lo malo”* –que es igual de correcto– aparece un matiz: Tal como se nos explica en otros mensajes, se trata de espíritus que obtienen placer ocasionando lo que perjudica a otros y lo que, por ello, merece calificarse como malo o como un mal. En cualquier caso, *“los espíritus del mal”* son igualmente hijos de Dios y por tanto, poseedores de su propio libre albedrío.

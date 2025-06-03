@@ -28,4 +28,4 @@ Ahora me detendré y diré buenas noches.
 Sem.
 <small>
 
-N.d.T.: Sem se cita en la Biblia como uno de los tres hijos de Noé y hermano de Cam y Jafet. Según la tradición judía sus descendientes son por igual los judíos y los árabes, o sea, los pueblos semitas. Toda guerra es en esencia fratricida, pero la del medio oriente –si cabe– aún lo es más por lo ya dicho.
+**N.d.T.:** Sem se cita en la Biblia como uno de los tres hijos de Noé y hermano de Cam y Jafet. Según la tradición judía sus descendientes son por igual los judíos y los árabes, o sea, los pueblos semitas. Toda guerra es en esencia fratricida, pero la del medio oriente –si cabe– aún lo es más por lo ya dicho.

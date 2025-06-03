@@ -18,6 +18,7 @@ Estamos todos aquí y por fin me hallo donde tantas veces deseé estar. Y cuando
 ¿Alguna vez se concibió tanta belleza y felicidad como la mía ahora? Mi alma gemela está conmigo y dice que me espera una mansión alegre y que dentro de poco la ocuparemos. Estoy en un lugar hermoso, pero todavía no he preguntado su ubicación. Puesto que muchos buscan el control, ahora debo detenerme.
 
 James E. Padgett.
+
 Estoy aquí, James E. Padgett.
 
 Bueno Morgan, aquí estoy de nuevo. Debo decir que nada de lo que he concebido se compara con la maravillosa belleza de mi hogar, tal como sabes. Estamos haciendo, por así decir, un gran esfuerzo para progresar. Me refiero a aquellos que están en el mismo plano que yo. Cuando entré en esta vida salieron a mi encuentro muchos miles de espíritus que dijeron que les había ayudado, y no puedes concebir la felicidad que me trajo ese conocimiento. Debemos proseguir este trabajo, ya que mi venida aquí sólo cambia mi ubicación. Estoy intentando conseguir más Amor Divino con todos los poderes de mi ser. Por supuesto, deseo esto para mí, pero también lo deseo para estar mejor cualificado a fin de convertirme en miembro de tu grupo y participar en el trabajo más plenamente de lo que ahora nos es posible.

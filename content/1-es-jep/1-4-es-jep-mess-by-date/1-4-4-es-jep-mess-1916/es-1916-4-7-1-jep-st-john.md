@@ -27,7 +27,6 @@ Deseo escribir un poco esta noche sobre un tema que puede resultar de interés p
 
 5.	Una vez que ese conocimiento se vuelva tuyo habrás resuelto el problema de qué es verdad y qué no lo es. Y cuando hayas resuelto esto te convertirás en un hombre que, cuando exprese su conocimiento de la verdad, hablará como alguien que tiene autoridad.
 
-
 Tal fue el proceso por el cual Jesús llegó a ser el poseedor y auténtico expositor de las grandes verdades espirituales que nunca antes habían sido conocidas y declaradas por ningún hombre.
 
 Por supuesto, estos varios pasos que conducen a este gran conocimiento de la verdad deben darse gradualmente y con aumentada confianza. En todo esto, la ayuda y la influencia del Padre son necesarias, y esa ayuda e influencia vienen sólo en respuesta a una sincera y aspirante oración del alma.

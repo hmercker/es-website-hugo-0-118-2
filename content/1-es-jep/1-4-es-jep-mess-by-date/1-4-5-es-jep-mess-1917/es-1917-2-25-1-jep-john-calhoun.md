@@ -9,7 +9,7 @@ weight:
 ---
 ### John C. Calhoun sigue trabajando para su país
 
-John Calhoun - recibido por James Padgett el 25 de febrero de 1917, Washington, DC, EE.UU.
+[John C. Calhoun](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-2-es-politics/12-2-2-37-es-calhounjohncaldwell/) - recibido por James Padgett el 25 de febrero de 1917, Washington, DC, EE.UU.
 
 Soy John C. Calhoun.
 
@@ -36,8 +36,3 @@ Por supuesto que, normalmente, esto puede ser loable, pero en las circunstancias
 Bueno, he escrito más de lo que pretendía y, dándote las gracias, te diré buenas noches.
 
 Tu amigo, John C. Calhoun.
-<small>
-
-[^1]: La nulificación, en la historia constitucional de los Estados Unidos, es una teoría legal según la cual cualquier Estado de la Unión tiene derecho a anular o invalidar cualquier ley federal que considere inconstitucional con respecto a la Constitución de los Estados Unidos (a diferencia de la propia constitución del Estado). Existen teorías similares de que cualquier funcionario, jurado o individuo puede hacer lo mismo. La teoría de la nulificación estatal nunca ha sido confirmada legalmente por los tribunales federales, aunque sí la nulificación mediante un jurado.
-
-La teoría de la nulificación se basa en la opinión de que los Estados formaron la Unión mediante un acuerdo (o "pacto") entre los Estados y que, como creadores del gobierno federal, los Estados tienen la autoridad final para determinar los límites del poder de ese gobierno federal. Según esta teoría, son los Estados, y no los tribunales federales, los intérpretes últimos del alcance del poder del gobierno federal. Conforme a esta teoría, los Estados pueden rechazar o anular leyes federales que consideren que están más allá de los poderes constitucionales del gobierno federal. La relacionada idea de “interposición” es una teoría de que un Estado tiene el derecho, y el deber, de "interponerse" toda vez que el gobierno federal promulgue leyes que el Estado considere inconstitucionales. Thomas Jefferson y James Madison expusieron las teorías de nulificación e interposición en las Resoluciones de Kentucky y Virginia de 1798. Fuente: Wikipedia.

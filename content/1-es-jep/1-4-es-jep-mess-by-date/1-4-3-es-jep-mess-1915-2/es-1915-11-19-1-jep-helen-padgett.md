@@ -28,4 +28,4 @@ No debo escribir más ahora, ya que no estás en condiciones de escribir más.
 Tu propia verdadera y amorosa, Helen
 <small>
 
-[^1]: N.d.T.: Sabbath (de shavat = “cesar” o “desistir”), es un día de santidad y descanso observado por los judíos desde la puesta del sol del viernes hasta el anochecer del día siguiente.
+[^1]: **N.d.T.:** Sabbath (de shavat = “cesar” o “desistir”), es un día de santidad y descanso observado por los judíos desde la puesta del sol del viernes hasta el anochecer del día siguiente.

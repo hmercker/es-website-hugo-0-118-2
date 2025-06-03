@@ -20,4 +20,4 @@ Esas personas son aquellas que no creen en Jesús como una persona histórica y 
 Tu hermano en Cristo, Josefo.
 <small>
 
-[El verdadero Jesús](/4-es-jesus/4-1-es-jesus-biogr/)
+[El verdadero Jesús](/4-es-jesus/4-1-es-jesus-biogr/).

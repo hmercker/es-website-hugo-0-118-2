@@ -56,6 +56,6 @@ He terminado y siento que has recibido mi mensaje como pretendía y estoy satisf
 Tu hermano y amigo, Jesús.
 <small>
 
-N.d.T: En este párrafo “...cuando acudan al Padre en fe” podría traducirse como “con confianza”.
+**N.d.T:** En este párrafo “...cuando acudan al Padre en fe” podría traducirse como “con confianza”.
 
 [^1]: Esas son las palabras contenidas en [la Oración](/1-es-jep/1-4-es-jep-mess-by-date/1-4-4-es-jep-mess-1916/es-1916-12-2-1-jep-jesus/).

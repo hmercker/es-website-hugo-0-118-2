@@ -26,7 +26,7 @@ Sí, ahora veo unos espíritus alegres y una que dice ser la señora Stone viene
 Madre Plummer, esposa de Nathan Plummer.
 <small>
 
-P.D. El Dr. Leslie R. Stone ha escrito que tanto el Sr. como la Sra. Plummer han progresado hacia una vida espiritual más elevada como resultado de la ayuda que recibió el Sr. Plummer y que ambos obtuvieron el Amor Divino.
+**P.D.:** El Dr. Leslie R. Stone ha escrito que tanto el Sr. como la Sra. Plummer han progresado hacia una vida espiritual más elevada como resultado de la ayuda que recibió el Sr. Plummer y que ambos obtuvieron el Amor Divino.
 
 La Sra. Plummer recibió ayuda de la Sra. Stone y, como esto sucedió hace 44 años, estoy seguro de que ella también recibió el Amor Divino del Padre para permitirles a ambos vivir en los Mundos Celestiales.
 

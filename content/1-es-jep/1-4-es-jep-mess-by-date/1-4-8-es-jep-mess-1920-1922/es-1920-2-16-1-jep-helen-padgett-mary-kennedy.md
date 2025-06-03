@@ -17,7 +17,7 @@ Bueno, querido, el Maestro no continuará con sus mensajes esta noche debido a q
 
 Por supuesto, me refiero a Mary, y ella está que tiembla de emoción –como diríais vosotros los mortales– ante la perspectiva de escribirle al Doctor; y por eso le dejaré venir y escribir, pero debes tener cuidado y no dejarle escribir demasiado, porque lo que tiene que decir requeriría que, para recibirlo, escribieras durante el resto de la velada.
 
-*Ahora escribe Mary.*
+*(Ahora escribe Mary.)*
 
 Aquí estoy. Mary. Bueno; estoy aquí y quiero decir muchas cosas, pero como Helen te ha advertido, no invadiré por mucho tiempo; y Helen fue injusta conmigo cuando dijo que yo querría escribir toda la noche. Soy lo más considerada posible contigo y, mal que le pese a mi oportunidad, soy consciente de tu capacidad.
 
@@ -33,7 +33,7 @@ Me gustaría escribir de muchas cosas que existen aquí con tanta realidad y gra
 
 Buenas noches; te doy gracias, y con mi amor hacia él y la seguridad de que le cuido y empatizo con él en todas sus preocupaciones terrenales, me suscribiré, su amantísima Mary.
 
-*Ahora escribe Helen.*
+*(Ahora escribe Helen.)*
 
 Bueno querido, ella ha escrito y dice que se siente mucho mejor, y yo sé que así es, porque se la ve muy feliz y agradecida por el privilegio. Estoy con Mary en sus expresiones de amor, esperanza y certeza, y debes creer que estas cosas de las que ella ha hablado serán tuyas cuando vengas a unirte a nosotros. Y es que, cariño, ¡no puedes apreciar lo que todo esto significa para ti y para nosotros! Estamos verdaderamente agradecidas al Padre por el privilegio de saber que tenemos en la tierra un alma gemela, la muy necesaria parte de nosotras mismas con la que podemos hablar y comunicar los más íntimos sentimientos de nuestras almas.
 

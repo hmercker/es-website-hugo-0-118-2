@@ -38,6 +38,7 @@ No existe tal cosa como la auto-evolución, o ese desarrollo que surge del no ay
 No obstante en toda esta obra de creación están operando leyes de desintegración y aparente retroceso, así como leyes de construcción y avance positivos; y además, esas primeras leyes no operan por casualidad, sino por diseño, exactamente igual que la última clase de leyes. El Creador de Todo sabe cuándo, con el propósito de producir la criatura perfecta –ya sea hombre, animal, vegetal o mineral– habrán de operar las leyes de decadencia y retroceso, así como las leyes de avance y de incrementada efectividad, y Él nunca comete un error al poner en operación estas leyes, ni nunca declara como resultado de Su obra: *"No es bueno".*
 
 Tal como ha sido dicho, mil años son como un día para Dios, y aunque durante muchos largos años pueda parecerle al hombre que hay retroceso y demora en llevar a la perfección a una criatura de las obras del Creador, sin embargo ese retroceso aparente no es un hecho tal, sino sólo un rumbo o método adoptado para lograr la más elevada o mayor perfección. Sé que es difícil explicar estos funcionamientos de la creación a la mente terrena y finita, pero puedes captar alguna idea de lo que deseo dar a conocer.
+
 El hombre, en su creación, no fue el crecimiento lento, como lo fueron algunas de las otras creaciones de Dios, sino que fue desde y en el principio hecho perfecto, con excepción de las cualidades de Divinidad e Inmortalidad. Él no se desarrolló a partir de una criatura inferior, tal como algunos de vuestros científicos han proclamado, mediante el lento proceso de evolución –y ésta, una auto-evolución resultante de cualidades inherentes que fueron desarrolladas por la experiencia– sino que fue creado el hombre perfecto.
 
 Me detendré por el momento.
@@ -51,7 +52,7 @@ Se canalizaron seis mensajes sobre el tema de la creación de la especie humana.
 ---|---|---
 <small>Aman</small> | <small>[Amán, el primer progenitor, revela su tentación y su caída](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-29-1-jep-aman/)</small> | <small>29 de agosto de 1915</small>
 <small>Aman</small> | <small>[Aman hace una corrección](/1-es-jep/1-4-es-jep-mess-by-date/1-4-3-es-jep-mess-1915-2/es-1915-9-7-1-jep-aman/)</small> | <small>7 de septiembre de 1915</small>
-<small>Amon</small> | <small>[Amón, madre de toda la creación humana, brinda su experiencia. Su tentación y desobediencia](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-30-2-jep-amon/)</small> | <small>30 de agosto de 1915</small>
+<small>Amón</small> | <small>[Amón, madre de toda la creación humana, brinda su experiencia. Su tentación y desobediencia](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-30-2-jep-amon/)</small> | <small>30 de agosto de 1915</small>
 <small>San Juan</small> | <small>[Juan afirma que Amán y Amón, los Primeros Progenitores, realmente se comunicaron a través del Sr. Padgett](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-30-3-jep-st-john/)</small> | <small>30 de agosto de 1915</small>
 <small>Jesús</small> | <small>[La relación del hombre con la creación del mundo y el origen de la vida](/1-es-jep/1-4-es-jep-mess-by-date/1-4-4-es-jep-mess-1916/es-1916-1-15-1-jep-jesus/)</small> | <small>15 de enero de 1916</small>
 

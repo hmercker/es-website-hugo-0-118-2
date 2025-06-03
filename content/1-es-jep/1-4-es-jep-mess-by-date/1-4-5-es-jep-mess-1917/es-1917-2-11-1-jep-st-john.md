@@ -35,7 +35,7 @@ Me gustaría escribir más esta noche, pero estás cansado y no deberías ser ll
 
 Tu hermano en Cristo.
 
-Juan
+Juan.
 <small>
 
 Este mensaje es una combinación de dos que se publican en el Volumen I, página 306 y en el Volumen III, página 328. Para más detalles [consulta esta página](/1-es-jep/1-3-es-jesus-true-gosp/1-3-9-es-jep-mess-duplicates/).

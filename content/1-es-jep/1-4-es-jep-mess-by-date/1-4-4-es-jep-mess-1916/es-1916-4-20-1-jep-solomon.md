@@ -24,7 +24,7 @@ Podría escribir durante mucho tiempo aún, pero no debo hacerlo porque estás c
 Tu hermano en Cristo, Salomón.
 <small>
 
-Nota: Joseph B apunta que una lectura atenta de lo que Salomón dice aquí indica que el título no debería ser *“la más grande cosa”*, sino *“la más grande verdad”*. Si bien esto puede parecer un asunto menor, creo que es significativo. La existencia del Amor Divino ¿acaso no es *“la Verdad más grande”*?
+**Nota:** Joseph B apunta que una lectura atenta de lo que Salomón dice aquí indica que el título no debería ser *“la más grande cosa”*, sino *“la más grande verdad”*. Si bien esto puede parecer un asunto menor, creo que es significativo. La existencia del Amor Divino ¿acaso no es *“la Verdad más grande”*?
 
 [^1]: Aquí el Sr. Padgett de hecho usó la palabra “experimento” y no “experiencia”. Pero en un mensaje del 20 de octubre de 2012 a Nicholas y Zara [^2], Jesús se refiere a la palabra "experimento" usada en este mensaje, diciendo: *"(...) el uso de la palabra 'experimento' no es correcto. 'El gran experimento' no es la expresión adecuada para describir el Amor Divino. El Amor Divino se experimenta, y esta experiencia se basa esencialmente en la armonía, y la armonía no es un experimento. Este es un buen momento para reformular este término. (...) Ningún experimento tiene lugar en el alma o en el cuerpo espiritual por obra del Amor Divino (...). La palabra 'experiencia' es la palabra correcta para reemplazar la palabra 'experimento'."*
 

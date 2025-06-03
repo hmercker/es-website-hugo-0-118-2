@@ -21,4 +21,4 @@ Creed que vuestra experiencia de esta noche es verdadera y que puede ser vuestra
 
 Debo decir buenas noches, y que Dios os bendiga con toda Su influencia Divina.
 
-Soy vuestro hermano en Cristo, A.G.Riddle
+Soy vuestro hermano en Cristo, A.G.Riddle.

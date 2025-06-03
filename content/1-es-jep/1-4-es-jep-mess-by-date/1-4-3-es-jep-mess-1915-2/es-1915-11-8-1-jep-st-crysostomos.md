@@ -19,4 +19,4 @@ Sé que muchos espíritus te ayudarán y que un poder maravilloso será ejercido
 
 No escribiré más esta noche, pero pronto acudiré a ti y te escribiré un mensaje extenso sobre una verdad importante.
 
-Así, agradeciéndote por tu amabilidad, soy tu  hermano en Cristo, San Crisóstomo
+Así, agradeciéndote por tu amabilidad, soy tu  hermano en Cristo, San Crisóstomo.

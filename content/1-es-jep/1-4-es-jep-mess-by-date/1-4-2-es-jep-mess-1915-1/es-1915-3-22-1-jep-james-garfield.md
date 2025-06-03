@@ -25,7 +25,7 @@ Y bien; puede que tengas razón; yo puedo estar equivocado. Le preguntaré a Rid
 
 He conocido a algunos de ellos (el grupo del Sr. Padgett) y todos son muy hermosos y felices, especialmente tu esposa. Ella es un espíritu maravillosamente hermoso y muy cariñoso y amable. He conversado con ella varias veces y me ha hablado del maravilloso amor del Padre, como ella lo llama; pero pensé que era sólo una entusiasta y una creyente en alguna doctrina que los jóvenes podrían creer fácilmente y hacerla realidad mediante su fe.
 
-*Pregunta y respuesta.*
+*(Pregunta y respuesta.)*
 
 No, pero lo haré. Pediré una entrevista con tu abuela, y no tengo ninguna duda de que me la concederá. La escucharé, como dices.
 

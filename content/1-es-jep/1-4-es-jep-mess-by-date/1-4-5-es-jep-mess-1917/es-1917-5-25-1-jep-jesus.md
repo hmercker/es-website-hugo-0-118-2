@@ -58,6 +58,6 @@ Con mi amor y bendiciones te diré, buenas noches.
 Tu hermano y amigo, Jesús.
 <small>
 
-N.d.T.: En este contexto se aplica mejor el adicional sentido del término: Conjunto de creencias o doctrinas que atribuyen a la divinidad la figura o las cualidades del ser humano.
+**N.d.T.:** En este contexto se aplica mejor el adicional sentido del término: Conjunto de creencias o doctrinas que atribuyen a la divinidad la figura o las cualidades del ser humano.
 
 [^1]: Antropomorfismo es la atribución de motivación, características o comportamiento humanos a objetos inanimados, animales o fenómenos naturales.

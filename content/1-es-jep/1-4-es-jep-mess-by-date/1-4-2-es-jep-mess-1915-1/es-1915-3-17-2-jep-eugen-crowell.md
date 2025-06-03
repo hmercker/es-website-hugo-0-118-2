@@ -29,7 +29,7 @@ Sí, así es. Creí que habías escrito Eugene. No puedo ver lo que has escrito 
 
 Eugene Crowell - ese es mi nombre. Escribir Edward no era lo que yo pretendía.
 
-Sí, en 1886, en San Francisco, California. Esto es verdad, y encontrarás un relato de mi tránsito en los periódicos del 7 de junio de 1886, en los periódicos de San Francisco. Examínalo tú mismo y verás que lo que digo es cierto.[^2]
+Sí, en 1886, en San Francisco, California. Esto es verdad, y encontrarás un relato de mi tránsito en los periódicos del 7 de junio de 1886, en los periódicos de San Francisco. Examínalo tú mismo y verás que lo que digo es cierto. [^2]
 
 En fin, diré buenas noches.
 

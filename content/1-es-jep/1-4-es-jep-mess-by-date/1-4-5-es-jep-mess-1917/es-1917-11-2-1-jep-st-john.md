@@ -29,7 +29,7 @@ El hombre tiene su libre albedrío y, como te hemos escrito, ese nunca es contro
 
 Puedes esperar una resolución de la lucha más temprana de lo que algunos hombres ahora creen posible, pero antes de que llegue ese fin, muchos mortales se convertirán en espíritus y encontrarán sus hogares, algunos en las esferas más oscuras y otros en las de luz y amor, aunque todos son hijos de Dios y no serán abandonados por Él en la gran eternidad.
 
-*(pregunta)*
+*(Pregunta.)*
 
 Bueno, tú no has estado en esa condición mental que nos ha permitido establecer la necesaria relación contigo. Debemos tener una mente llena de pensamientos sobre las cosas más elevadas de la verdad, aunque no usemos esos pensamientos. Nuestros pensamientos son todos espirituales, y nuestras verdades sólo pueden ser recibidas por la mente en una condición espiritual, y tú, últimamente, no has tenido tanto de esa mente espiritual como antes. Nuestro contacto no ha sido tan estrecho y nuestra compenetración, necesaria para permitirnos expresar a través de tu mente estas verdades espirituales, no ha sido tan perfecta. Y cuando digo mente me refiero simplemente a los órganos del cerebro influenciados por los pensamientos de la mente; porque te diré lo que tal vez no sepas, que estos órganos componentes del cerebro no siempre y bajo todas las condiciones son receptivos al mismo control por parte de las mentes de los espíritus. Es posible que recibas a través de tu cerebro un mensaje largo y profundo de cosas pertenecientes a lo que puedes llamar lo material y, sin embargo, en condiciones similares de esos órganos, no puedas recibir mensajes de las verdades superiores; y las condiciones de estos órganos cerebrales son causadas por la condición del alma en posesión de las cosas espirituales.
 

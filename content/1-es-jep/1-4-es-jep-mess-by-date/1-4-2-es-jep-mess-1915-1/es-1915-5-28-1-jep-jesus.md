@@ -41,7 +41,7 @@ Cuando la Biblia habla de aquellos hombres de la antigüedad que fueron profetas
 
 Como he dicho, mi muerte o sacrificio por la sangre, como se enfatiza en los credos y en el culto de las iglesias, no contribuyó en lo más mínimo a lograr la restauración de este gran favor de Dios para con el hombre. Fueron simplemente el resultado de las condiciones de las creencias de los hombres en la nación judía, que no estaban dispuestos a tolerar mis declaraciones de la verdad. Mi muerte, etc., no apaciguó ninguna ira de Dios hacia los hombres; sino que por Su Gran Amor hacia Sus criaturas, Él otorgó este don o privilegio del alma que el hombre había perdido por la desobediencia de Adán.
 
-*(pregunta)*
+*(Pregunta)*
 
 (La de Adán) Fue la desobediencia de creer que no dependía de Dios en lo que respecta a la cualidad o potencialidad del alma que le hacía posible participar de la naturaleza Divina de Dios. El árbol del bien y del mal simplemente representaba el conocimiento que Dios se había reservado sobre la existencia de aquello que, si Adán lo hubiera conocido, le habría sometido a tentaciones que habrían destruido esta cualidad del alma de la que he hablado. Y cuando Adán comió del fruto de este árbol –es decir, cuando desobedeció a Dios y buscó el conocimiento de aquellas cosas que le sometían a las tentaciones que podían hacer que dejara de ser enteramente bueno– Dios retiró de Adán la potencialidad de convertirse en uno con Él e inmortal. Fue un castigo directo por la desobediencia, y el resultado fue que el hombre quedó como mero hombre, ya sea como mortal o como espíritu.
 

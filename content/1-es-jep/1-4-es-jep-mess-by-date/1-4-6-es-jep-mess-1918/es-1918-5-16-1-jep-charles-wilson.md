@@ -34,4 +34,4 @@ Así pues, te doy gracias.
 Yo era Charles T. Wilson y me llamaban Wash.
 <small>
 
-[^1]: (N.d.T.) Entiéndase no como un término despectivo, sino relativo a diferentes enfermedades mentales o deficiencias del funcionamiento cerebral.
+[^1]: **N.d.T.:** Entiéndase no como un término despectivo, sino relativo a diferentes enfermedades mentales o deficiencias del funcionamiento cerebral.

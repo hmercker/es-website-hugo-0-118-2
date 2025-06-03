@@ -15,7 +15,7 @@ Estoy aquí, Jesús.
 
 Tenía la intención de terminar mi discurso esta noche, pero ya es demasiado tarde y tendré que posponerlo.
 
-*(pregunta)*
+*(Pregunta.)*
 
 Bueno, hay casos en los que se derivan tales resultados, y no es sorprendente que así sea, porque estos médiums que entregan sus propias facultades, voluntades y poderes morales encontrarán que los espíritus toman control de ellos; y estos espíritus no dudan en utilizar a esos médiums para todos y cada uno de los fines que puedan desear, y estos deseos son mayormente perjudiciales y nocivos para los médiums, tanto moral como espiritualmente.
 
@@ -23,7 +23,7 @@ En tales casos de control del espíritu, los médiums someten absolutamente sus 
 
 El ejercicio de tu fase de mediumnidad no te hará daño, y no debes temer los resultados. De hecho, es necesario que tus facultades mentales se vivifiquen y se amplíen para que puedas hacer la labor, y cuanto mayor desarrollo tengas, más capacitado estarás para hacer nuestro trabajo de una manera más satisfactoria.
 
-*(pregunta)*
+*(Pregunta.)*
 
 Conozco la sustancia del libro que has estado leyendo y la falsedad de esas especulaciones que afirman la doctrina de la reencarnación. No existe tal cosa como la segunda encarnación del alma en la forma humana, ni ningún regreso a la tierra con el propósito de mejorar la condición del alma. Así que trata de estar en condiciones, y continuaremos escribiendo mis mensajes.
 

@@ -30,7 +30,7 @@ Vendré pronto y probaré la experiencia otra vez, y supongo que otra vez más, 
 Tu amorosa hermana, Mary.
 <small>
 
-P.D.: El día después de recibir del Sr. Padgett la información de que Helen y mi alma gemela [Mary iban a intentar sacarme del cuerpo](/1-es-jep/1-4-es-jep-mess-by-date/1-4-4-es-jep-mess-1916/es-1916-11-25-2-jep-helen-padgett/), tal como habían escrito unas tres semanas antes, sentí una maravillosa influencia de amor que pareció apoderarse de todo mi ser; duró tres días y me hizo sentir muy feliz.
+**P.D.:** El día después de recibir del Sr. Padgett la información de que Helen y mi alma gemela [Mary iban a intentar sacarme del cuerpo](/1-es-jep/1-4-es-jep-mess-by-date/1-4-4-es-jep-mess-1916/es-1916-11-25-2-jep-helen-padgett/), tal como habían escrito unas tres semanas antes, sentí una maravillosa influencia de amor que pareció apoderarse de todo mi ser; duró tres días y me hizo sentir muy feliz.
 
 El Sr. Padgett tuvo una experiencia similar tras ir al mundo espiritual en la tercera esfera unos meses antes de mi experiencia, y dijo que sintió mucho amor presente en su alma después del evento.
 

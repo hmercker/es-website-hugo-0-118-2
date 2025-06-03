@@ -29,7 +29,7 @@ Estamos ocupados en el estudio de cosas que pertenecen más a los asuntos espiri
 
 Sí, todos tenemos nuestras bibliotecas y nuestros hogares, como te ha contado Helen, pero, por supuesto, hay una gran diferencia en estos hogares, dependiendo de la cantidad de Amor que el espíritu tenga en su alma. Ahora vivo en una casa que es tan hermosa que no podría describírtela en el poco tiempo que escribiré esta noche; [pero pronto lo haré en detalle](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-4-27-1-jep-ann-rollins/), y entonces podrás darte cuenta del hogar que es.
 
-*(commentario del Sr. Padgett)*
+*(Commentario del Sr. Padgett)*
 
 Bueno, no creas todo lo que dice el libro que has estado leyendo debido a que se dice que está escrito por espíritus, porque, aunque así esté escrito, la información dada depende de la condición, conocimiento y creencia de estos espíritus. Algunos pueden contar la verdad exacta tal como la conciben y, así y todo, puede no ser la verdad.
 

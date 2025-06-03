@@ -15,7 +15,7 @@ Estoy aquí, tu Helen.
 
 Te escribiré un poco, si me permiten hacerlo; aunque supongo que tendré que ser muy severa con otro espíritu aquí presente que dice que quiere escribir y contaros un pequeño secreto que tiene, y que si tan sólo le permito decirlo, me amará para siempre. Así que supongo que debo dejar que ella lo diga.
 
-*Ahora escribe Mary.*
+*(Ahora escribe Mary.)*
 
 Bueno, doctor, ¿no sabes de quién hablaba Helen? No creo que lo sepas, porque cuando dije que tenía un secreto al instante dirías que no soy yo, porque no guardo secretos, sino que digo todo lo que sé, sin importar quién me escuche.
 
@@ -23,7 +23,7 @@ Sin embargo te equivocas, porque tengo un secreto y quiero decírtelo, pero sól
 
 Ahora, Helen, ya se lo he dicho, y te lo agradezco.
 
-*Ahora escribe Helen.*
+*(Ahora escribe Helen.)*
 
 Bueno, ¿no es ella un lindo amorcito? Pero tenía que decírselo o reventaría, como decís vosotros los mortales. Bueno, cariño, has escrito mucho esta noche y no te entretendré más.
 

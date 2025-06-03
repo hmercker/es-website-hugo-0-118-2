@@ -42,7 +42,6 @@ Bueno, ya he escrito suficiente por esta noche, pero como estuve contigo hoy mie
 Tu hermano en Cristo, Lucas.
 <small>
 
-
 Se canalizaron seis mensajes sobre el tema de la creación de la especie humana. Los otros cinco son:
 
 **<small>Autor</small>** | **<small>Título del mensaj</small>e** | **<small>Fecha del mensaje</small>**  

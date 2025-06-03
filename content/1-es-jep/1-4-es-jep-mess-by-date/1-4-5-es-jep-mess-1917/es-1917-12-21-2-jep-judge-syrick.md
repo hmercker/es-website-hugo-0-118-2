@@ -32,4 +32,4 @@ Syrick.
 
 [^1]: Eugene Morgan fue el médium seleccionado por Jesús para ayudar a los espíritus oscuros.
 
-[^2]: N.d.T.: El término “ensacerdotado” no existe en castellano. Pretende sugerir la idea de ‘persona totalmente enrolada o subsumida en el papel de sacerdote o guía espiritual para con los demás’, y creo que es una buena manera de traducir el inglés “priest-ridden”.
+[^2]: **N.d.T.:** El término “ensacerdotado” no existe en castellano. Pretende sugerir la idea de ‘persona totalmente enrolada o subsumida en el papel de sacerdote o guía espiritual para con los demás’, y creo que es una buena manera de traducir el inglés “priest-ridden”.

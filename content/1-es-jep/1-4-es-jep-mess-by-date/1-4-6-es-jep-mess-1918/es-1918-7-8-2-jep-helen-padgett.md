@@ -24,4 +24,5 @@ Jesús te ha escrito una [amorosa carta](/1-es-jep/1-4-es-jep-mess-by-date/1-4-6
 Así que, cariño, no te desanimes más ni dejes que tu fe en nosotros y en nuestro amor se debilite, porque te amamos más de lo que podemos decirte, y por eso queremos que seas feliz y estés libre de preocupaciones. No escribiré más por ahora, y te sugiero que te vayas pronto a la cama y duermas. Buenas noches, mi querido esposo.
 
 Tu propia verdadera y amorosa, Helen.
+
 Baby dice que la ames también, y que creas que ella te ama con todo su corazón y es feliz, y quiere que lo sepas. Buenas noches, Helen.

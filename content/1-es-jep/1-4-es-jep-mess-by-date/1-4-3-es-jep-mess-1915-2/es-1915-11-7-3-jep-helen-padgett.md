@@ -26,4 +26,4 @@ Bueno; debes recordar que el vínculo de atracción entre tu padre y él ha muer
 Pronto escribiré una carta larga, pero debo detenerme ahora. Estás cansado. Así que con todo mi amor, soy tu propia verdadera y amorosa, Helen.
 <small>
 
-[^1]: N.d.T.: “Rosebud” significa ‘pimpollo, capullo o botón de rosa’.
+[^1]: **N.d.T.:** “Rosebud” significa ‘pimpollo, capullo o botón de rosa’.

@@ -28,4 +28,4 @@ No debo escribir más, pero muchas gracias por tu amabilidad.
 Tu viejo amigo, General S. S. Henkle.
 <small>
 
-[^1]: N.d.T.: Esta alusión suena extraña en castellano, pero se debe al hecho de que para “enamorada” se usó el término “Lovesick”, que literalmente se traduciría “enferma de amor”.
+[^1]: **N.d.T.:** Esta alusión suena extraña en castellano, pero se debe al hecho de que para “enamorada” se usó el término “Lovesick”, que literalmente se traduciría “enferma de amor”.

@@ -23,4 +23,4 @@ Hubo una gran concurrencia de espíritus presentes esta noche, y muchos de los q
 
 Vuestras agrupaciones, tanto las superiores como las que están progresando, se hallaban aquí y estaban muy agradecidas de que el Padre sea tan bueno y os bendiga tanto. No escribiré más, pero como cierre repetiré: orad y creed y el amor os llegará cada vez en mayor abundancia. Con mi amor y las bendiciones del Padre, diré buenas noches.
 
-Tu hermano en Cristo, Juan
+Tu hermano en Cristo, Juan.

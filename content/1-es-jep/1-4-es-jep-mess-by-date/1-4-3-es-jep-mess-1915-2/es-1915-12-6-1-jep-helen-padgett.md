@@ -23,7 +23,7 @@ Bien; él ha resuelto el problema. No le daremos el beso sino que le haremos irs
 
 Sólo mira lo tontita que es esa pequeña enamorada. Así que ya ves que los novios espirituales y los novios mortales, cuando son mujeres, no difieren mucho. Y dice que ahora que el Rayo está abierto escribirá sólo un poquito si la ayudas, y yo viendo lo tontita que es esta niñita, y sabiendo que no será feliz a menos que pueda decirle una palabra a Leslie, le digo que adelante y que deje que el Doctor vea lo fácil y sencilla que es. Dice que no le importa lo que yo piense, y que sabe que el Doctor no la considerará tonta, sino que estará encantado de que escriba. Así que prepárate ahora para escuchar palabras de ardiente amor.
 
-*Ahora escribe Mary.*
+*(Ahora escribe Mary.)*
 
 Bueno, le diré que le amo con todo mi corazón y mi alma, y que no me importa si Helen se ríe de mí, porque le amo y tengo derecho a decírselo, y él debe creerme, porque estoy con él casi todo el tiempo y quiero que lo sepa.
 
@@ -31,7 +31,7 @@ Así que dile también que cuando él no está pensando en mí, yo estoy pensand
 
 Sé que estás cansado, pero no pude evitar escribir esto porque he estado esperando mucho tiempo para escribirle y decirle eso. Pero no traspasaré más, y diré que te lo agradezco y que le amo como sólo un alma gemela puede amar. Así que adiós.
 
-*Helen (la esposa y alma gemela del Sr. Padgett) continúa.*
+*(Helen (la esposa y alma gemela del Sr. Padgett) continúa.)*
 
 Bueno, cariño, disfruto mucho viendo a Mary expresar su amor por el Doctor porque eso la hace muy feliz, y la amo tanto que haré todo lo que esté a mi alcance para hacerla feliz.
 

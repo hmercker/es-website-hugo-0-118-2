@@ -21,11 +21,11 @@ Sólo me asocio con espíritus como yo y pasamos maravillosos momentos de disfru
 
 Así que ya verás que estoy realmente interesado en ti y deseo que en la vida terrenal sigas ese rumbo que te preparará para el desarrollo más elevado y el disfrute gradual que se puede experimentar en nuestro mundo espiritual. Tengo como asociados a muchos de los filósofos y científicos prominentes que alguna vez fueron conocidos en la tierra como líderes del pensamiento y reveladores de las grandes leyes de la naturaleza, y todos ellos piensan como te escribo ahora. Confío en que creerás que soy tu amigo y que escribo esto con la máxima buena fe y con el único deseo de dirigir tus esfuerzos en ese sentido que te conducirá a tu mayor bien cuando llegues a la vida espiritual. No creo que sea necesario escribir más esta noche.
 
-*Aquí se hizo una pregunta.*
+*(Aquí se hizo una pregunta.)*
 
 Bueno; todos estamos en lo que llaman la esfera terrestre y nos hallamos en alguna pequeña oscuridad, y también en algo de luz, y entendemos la razón de vivir en la oscuridad. Todavía no hemos logrado ese desarrollo en nuestras cualidades intelectuales que nos capacitan para los planos de gran luz porque, como sabes, el mayor conocimiento que podríamos adquirir en la tierra no es igual al mínimo conocimiento que se requiere para capacitarnos para los planos donde sólo existe la luz. Y por eso tenemos la apariencia de oscuridad, pero a medida que obtenemos un mayor desarrollo mental esa oscuridad de apariencia nos abandona y luego progresamos a las esferas de luz. Esto, como ya comprenderás, no es sino lo natural; el resultado de una ley que reconocemos como funcionando exacta e inmutablemente, tal como funcionan las demás leyes de la naturaleza.
 
-*¿Pregunta?*
+*(¿Pregunta?)*
 
 Bueno, llevo muchos años en la vida espiritual y he estado trabajando muy duro y con más entusiasmo que en la tierra para adquirir conocimiento y comprender las leyes de la naturaleza, y estoy satisfecho con mi progreso, aunque no dejaré de progresar según sé, porque nunca abandonaré mis esfuerzos por adquirir más y más conocimiento.
 

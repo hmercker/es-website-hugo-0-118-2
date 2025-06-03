@@ -27,7 +27,7 @@ No debo transgredir más tu indulgencia; sólo deseo decir que amo a mi querido 
 
 Así, amable amigo, te doy gracias y le daré paso a tu esposa para que continúe.
 
-*La Sra. Padgett continúa:*
+*(La Sra. Padgett continúa:)*
 
 Bueno, cariño, ¿no es ella una adorable y amorosa alma gemela?
 

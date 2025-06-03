@@ -13,7 +13,6 @@ Samuel - recibido por James Padgett el 21 de marzo de 1916, Washington, DC, EE.U
 
 Estoy aquí, Samuel.
 
-
 Deseo escribir brevemente sobre un tema que es de importancia para aquellos que tienen dudas sobre la realidad de la vida futura.
 
 Sé que una vasta mayoría de los mortales creen en una existencia futura y en la inmortalidad del alma, pero hay un número considerable de mortales que desconocen estos hechos o que no tienen ninguna creencia al respecto, y simplemente dicen *“no lo sé”*. Es a estas últimas personas a quienes deseo dirigirme.

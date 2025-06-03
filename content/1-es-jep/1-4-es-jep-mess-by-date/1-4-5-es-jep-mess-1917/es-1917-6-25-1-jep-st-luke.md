@@ -30,4 +30,4 @@ No escribiré más esta noche, sino que con mi amor os aconsejo a ambos que oré
 Vuestro hermano en Cristo, Lucas.
 <small>
 
-[^1]: N.d.T.: Pese a que esta palabra (ing. *“impressional”* ) no existe en el castellano formal, no resulta demasiado difícil deducir que se refiere a *“por vía de impresiones”*.
+[^1]: **N.d.T.:** Pese a que esta palabra (ing. *“impressional”* ) no existe en el castellano formal, no resulta demasiado difícil deducir que se refiere a *“por vía de impresiones”*.

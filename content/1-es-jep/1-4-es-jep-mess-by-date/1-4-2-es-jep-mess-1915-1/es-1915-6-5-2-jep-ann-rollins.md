@@ -39,7 +39,7 @@ Por supuesto, estos espíritus también pueden recibir este mayor desarrollo del
 
 Sé que puede resultarte un poco difícil comprender este asunto tal como he intentado explicarlo, pero lo que he dicho es verdad; y en el día de la tría estos espíritus se darán cuenta de ese hecho, aunque entonces será demasiado tarde para remediar su negligencia, su carencia del deseo del alma por el desarrollo del alma; desarrollo que sólo llega mediante la afluencia del Amor Divino al interior del alma con la suficiente abundancia, y que es necesario para permitirles llegar a ser habitantes del Reino Celestial.
 
-*(pregunta)*
+*(Pregunta)*
 
 Bueno, cuando un espíritu entra al mundo del espíritu, su condición de desarrollo mental, moral o espiritual determina dónde vivirá primero. En la gran mayoría de casos el primer hogar del espíritu es el plano terrestre, y en éste hay cantidad de planos (subplanos), respectivamente más altos o más bajos que otros. Así que, cuando el espíritu se encuentra en el plano terrestre, también descubre que su condición no es muy diferente de la que tenía en la tierra: (ahí donde primero vive) prevalecen las mismas ideas de bien y de mal, de creencias, de afectos y de deseos.
 

@@ -20,4 +20,4 @@ Puesto que ya has recibido mucho esta noche no escribiré más, y sólo te diré
 Tu verdadera y amorosa Helen.
 <small>
 
-[^1]: N.d.T.: Probablemente una llamada telefónica.
+[^1]: **N.d.T.:** Probablemente una llamada telefónica.

@@ -30,6 +30,6 @@ Así que cariño, piensa en mí como soy ahora, llena de este Gran y nuevo Amor 
 No escribiré más, pero diré que soy tuya ahora y por toda la eternidad, y que estoy esperando, oh, con mucha añoranza, que llegue el momento en que puedas estar conmigo. Dejaré de escribir.
 
 Tu auténtica y amorosa, Helen.
- <small>
+<small>
  
 Este mensaje es una combinación de dos que se publican en el Volumen II, página 261 y en el Volumen III, página 120. Para más detalles [consulta esta página](/1-es-jep/1-3-es-jesus-true-gosp/1-3-9-es-jep-mess-duplicates/).

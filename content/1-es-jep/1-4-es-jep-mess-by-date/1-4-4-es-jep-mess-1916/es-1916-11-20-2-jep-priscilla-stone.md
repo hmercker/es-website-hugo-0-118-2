@@ -22,4 +22,4 @@ No creo que deba escribir más esta noche porque ya has escrito bastante y agrad
 
 PD: Yo había asistido a un círculo donde había un médium muy conocido, y el médium me preguntó si me relacionaba mucho con chicas. Respondí “muy poco”. Y una señora sentada a mi izquierda dijo que quizá yo no había encontrado a mi afinidad. No di ninguna respuesta solvente, pero mi alma gemela estaba presente conmigo en ese momento y me dio la señal de su presencia, lo cual hace a menudo, y lo hace mientras escribo esta posdata, y puedo sentir su amor e influencia muy intensamente, y mi madre también me está dando la señal de su presencia, y su amor e influencia siempre me dan mucha felicidad.
 
-    Leslie R. Stone
+Leslie R. Stone

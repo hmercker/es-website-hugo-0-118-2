@@ -17,4 +17,4 @@ Bueno cariño, estás un poco cansado y no debo escribir mucho. [El espíritu qu
 
 Es un espíritu muy brillante y tiene mucho amor en su alma, y está ansioso de que su esposa e hijos crean lo que escribió. ¡Qué privilegio tienen al tener un padre así que esté con ellos y les brinde la influencia de su amor! ¡Si los mortales pudieran entender la gran fortuna que es tener a un ser querido en la tierra de los espíritus que tiene la cantidad de amor en su alma que tiene el espíritu que te escribió!
 
-Tu verdadera y amorosa Helen
+Tu verdadera y amorosa Helen.

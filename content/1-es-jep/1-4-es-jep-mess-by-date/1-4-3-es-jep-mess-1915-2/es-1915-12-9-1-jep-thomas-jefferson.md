@@ -17,5 +17,6 @@ No escribiré más en este momento, pero me gustaría volver, si te place, y esc
 
 Sí; soy un amante de Dios, y vivo en la primera Esfera Celestial, y como sabes, soy un hijo redimido de Dios e inmortal.
 
-Ahora diré con todo amor: buenas noches. 
+Ahora diré con todo amor: buenas noches.
+
 Tomás Jefferson.

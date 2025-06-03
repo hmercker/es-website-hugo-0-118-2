@@ -23,7 +23,6 @@ Algún día los mortales sabrán que el Padre escucha sus oraciones, tal como es
 
 Escribo esto para mostrar que algunos cristianos ortodoxos cometen un gran error al rezar a la Virgen María o a cualquier otro santo, en lugar de al Padre.
 
-
 No escribiré más esta noche y diré que, así como los demás espíritus que están aquí esta noche, yo os amo con el amor de un hermano que conoce la realidad de este Amor Divino.
 
 Vuestro hermano en Cristo Saúl.

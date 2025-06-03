@@ -9,7 +9,7 @@ weight:
 ---
 ### Aarón ofrece su experiencia y lo que ahora sabe acerca de la inmortalidad desde que Jesús vino y enseñó cómo se puede obtener
 
-Aaron - recibido por James Padgett el 23 de octubre de 1915, Washington, DC, EE.UU.
+Aarón - recibido por James Padgett el 23 de octubre de 1915, Washington, DC, EE.UU.
 
 Soy el espíritu de Aarón, el profeta del Antiguo Testamento y hermano de Moisés, como está escrito. Simplemente quiero decir que mientras leíste el mensaje del espíritu de [Henry Ward Beecher](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-7-5-2-jep-henry-ward-beecher/) yo también lo leí, y esa es una descripción maravillosa de lo que es la inmortalidad y de cómo se le dio por primera vez a la humanidad tras la caída de los primeros progenitores.
 
@@ -21,7 +21,7 @@ Yo viví en una época en la que no teníamos el privilegio de conseguir este Am
 
 Enseñando a los niños hebreos que había un solo Dios tuve muchas experiencias, pero en ese entonces mi concepción de Dios no era la que es ahora. Entonces pensé más en Él como un Dios de ira y celos, más que como un Dios de Amor y misericordia.
 
-*(pregunta)*
+*(Pregunta.)*
 
 En mi contienda con los magos de los faraones egipcios recibí la ayuda del mundo de los espíritus y me fueron otorgados poderes inusuales, tales como nunca los había tenido antes ni los tuve después; pero fue con el propósito de hacer que el rey dejara salir de Egipto al pueblo de Dios, según nos llamábamos. Una vez que esto se logró nunca más poseí esos poderes ni tuve ocasión de poseerlos.
 

@@ -27,7 +27,7 @@ Así que te aconsejo que no pierdas el tiempo leyendo esas escrituras, sino que 
 
 Por lo que he dicho, no deseo que se entienda que desprecio la lectura de esas escrituras por parte de personas que no tienen la oportunidad y el privilegio de escuchar las verdades que te han sido reveladas, porque en esas escrituras hay muchas verdades e ilustraciones morales que pueden ser de beneficio para esas personas; e indudablemente son esenciales para ellas en los detalles y en las circunstancias mencionadas. Así pues, mi querido esposo, sigue orando y creyendo.
 
-*Pregunta y respuesta.*
+*(Pregunta y respuesta.)*
 
 Bueno; quise decir que estas verdades no es necesario que las personas de hoy las lean, porque en el Nuevo Testamento se encuentran esas verdades morales; y aunque no es necesario, no recomendaría que la gente deje de leer el Antiguo Testamento, porque algunos pueden disfrutar de la lectura de esas verdades tal como están contenidas en él y asociadas con las circunstancias que las rodean. Pueden atraer a algunas personas y, de ser así, generar un beneficio. Nuevamente digo que no son necesarias. pero qie pueden ser útiles para algunos: no funcionan de la misma manera las mentes de todos.
 

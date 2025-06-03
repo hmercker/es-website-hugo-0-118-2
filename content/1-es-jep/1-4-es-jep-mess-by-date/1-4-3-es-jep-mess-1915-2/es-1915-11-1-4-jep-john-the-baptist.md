@@ -11,7 +11,7 @@ weight:
 
 Juan el Bautista  - recibido por James Padgett el 1 de noviembre de 1915, Washington, DC, EE.UU.
 
-Estoy aquí, Lar - - - - -.
+Estoy aquí, Lar.....
 
 Estoy aquí, Juan Bautista.
 

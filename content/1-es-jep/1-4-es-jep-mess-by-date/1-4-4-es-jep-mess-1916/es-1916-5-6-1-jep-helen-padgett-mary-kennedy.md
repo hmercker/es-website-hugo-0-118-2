@@ -17,11 +17,11 @@ Y simplemente quiero decir que he estado escuchando la conversación entre tú y
 
 Bueno, ¿quién crees que está aquí ahora cual gallinita en una plancha, con tanto miedo de no tener la ocasión de decirle al Dr. que tiene otro secreto y que él debe saberlo, diciendo: déjame decir una breve palabra? Así que supongo que tendrá que salirse con la suya.
 
-*Mary:*
+*(Mary:)*
 
 Bueno, doctor, estoy aquí, como te sorprenderá saber si has [olvidado mi última confidencia](/1-es-jep/1-4-es-jep-mess-by-date/1-4-3-es-jep-mess-1915-2/es-1915-12-29-1-jep-helen-padgett-mary-kennedy/), aunque no creo que sea así. Quiero decir que me hallo en una condición más feliz que nunca, porque ahora estoy en las Esferas Celestiales, donde sé que la felicidad es mucho mayor que nunca. Así que debes creerme cuando te digo que mi amor es mucho más abundante y que para mí eres más querido que nunca. Por tanto trata de darte cuenta de lo que quiero decir e imagina que estás conmigo, aunque sea por un rato, y entonces también serás más feliz. He dicho lo que quería y debo parar.
 
-*Helen:*
+*(Helen:)*
 
 Bueno; ella ya se siente mejor y dice que si pudiera irse a dormir, ahora dormiría mejor.
 

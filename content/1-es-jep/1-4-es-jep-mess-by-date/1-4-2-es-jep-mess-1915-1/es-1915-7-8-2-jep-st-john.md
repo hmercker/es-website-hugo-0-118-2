@@ -27,7 +27,7 @@ Bueno, Jesús es el espíritu gobernante en nuestro Reino y Su poder es supremo.
 
 Sí; tiene a muchos con él en las Esferas Celestiales, pero le están todos subordinados y le obedecen, aunque es difícil hacerte entender esto. Esta obediencia es el resultado del amor, y obediencia no transmite el significado exacto que se pretende.
 
-*(pregunta)*
+*(Pregunta)*
 
 Bueno, ese fue un pedido que le hicimos nosotros en nuestro deseo de llegar a ser importantes, pero en ese entonces no entendíamos cuál sería Su Reino. Somos iguales aquí, siempre que tengamos la misma cantidad de Amor: el Amor Divino, que es el único que determina nuestro lugar y posición.
 

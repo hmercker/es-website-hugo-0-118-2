@@ -50,4 +50,4 @@ No debo escribir más esta noche. Estoy satisfecho con la exactitud con la que h
 Con todo mi amor y bendiciones, soy tu hermano y amigo, Jesús.
 <small>
 
-N.d.T.: *“acepción de personas”*: Acción de favorecer o inclinarse a unas personas más que a otras por algún motivo o afecto particular. (Fuente: D.R.A.E.)
+**N.d.T.:** *“acepción de personas”*: Acción de favorecer o inclinarse a unas personas más que a otras por algún motivo o afecto particular. (Fuente: D.R.A.E.)

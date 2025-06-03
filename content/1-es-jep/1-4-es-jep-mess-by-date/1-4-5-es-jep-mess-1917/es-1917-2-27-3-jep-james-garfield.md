@@ -40,4 +40,4 @@ No escribiré más, así que buenas noches.
 Tu verdadero amigo, Garfield.
 <small>
 
-[^1]: N.d.T.: Recordemos que la Primera Guerra Mundial empezó el 28 de julio de 1914 y finalizó el 11 de noviembre de 1918. El presidente Woodrow Wilson, solicitó al Congreso de los Estados Unidos que declarase la guerra a Alemania el 2 de abril de 1917, poco más de un mes después de este mensaje.
+[^1]: **N.d.T.:** Recordemos que la Primera Guerra Mundial empezó el 28 de julio de 1914 y finalizó el 11 de noviembre de 1918. El presidente Woodrow Wilson, solicitó al Congreso de los Estados Unidos que declarase la guerra a Alemania el 2 de abril de 1917, poco más de un mes después de este mensaje.

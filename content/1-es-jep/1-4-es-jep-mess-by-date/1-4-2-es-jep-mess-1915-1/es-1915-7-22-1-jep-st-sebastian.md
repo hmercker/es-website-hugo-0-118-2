@@ -26,4 +26,3 @@ Así pues, seré uno de los que te sostendrán y ayudarán a transmitir estas ve
 Viví en Italia y morí allí mártir de mi fe. Como ves, yo era como los discípulos en este particular.
 
 No escribiré más esta noche pero diré que soy tu hermano en Cristo San Sebastián.
-[]

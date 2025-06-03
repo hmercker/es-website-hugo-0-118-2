@@ -15,15 +15,15 @@ Estoy aquí, Jesús.
 
 Veo que tu trabajo te ha impedido recibir mi mensaje esta noche, y aunque lo siento no me quejo, porque debes hacer tu trabajo y así estar más prontamente en condiciones de comenzar el esfuerzo de acumular ( ) para llegar a la posición que deseas y que tan necesaria es para nuestro trabajo. *(Claramente faltan palabras cruciales aquí)* Esta noche estás mejor espiritualmente, y nuestra compenetración es muy completa, y fácilmente podría escribir mi mensaje, pero estás físicamente cansado y no creo que sea prudente intentar escribir, así que lo pospondré hasta mañana por la noche, cuando espero que no haya nada que interfiera.
 
-*(comentario)*
+*(Comentario.)*
 
 Sí, esa es la idea correcta, y me esforzaré en que el mensaje sea lo más completo y lúcido posible. Sé cómo te sientes respecto al asunto, y que deseas recibir el mensaje en la mejor forma posible, y sé que así lo harás. No debes pensar que no estoy dispuesto a esperar cuando tengas que atender tu trabajo profesional, o que no estaré contigo aunque no podamos escribir, porque estoy contigo muy a menudo, tratando de ayudarte, como he dicho. Por eso debes mantener el valor, confiar en mí y tener fe en mis promesas. No escribiré más ahora, y diré que tienes mi cariño y bendiciones.
 
-*(pregunta)*
+*(Pregunta.)*
 
 Bueno, en cuanto a eso, sé que en un futuro no lejano podrás verme como dices, porque deseo que así lo hagas. Tienes el poder de la clarividencia, pero no es deseable que se desarrolle en ti en este momento ya que deseamos que todo tu poder se centre en recibir los mensajes; pero alguna noche, cuando estés orando y yo esté contigo, se te dará el poder y me verás tal como soy mientras oro contigo. Siento que esto puede fortalecer tu fe y acercarte más a mí, y yo mismo quiero que realmente me veas tal como soy. [^1] En fin, digamos buenas noches y detengámonos.
 
-*(pregunta)*
+*(Pregunta.)*
 
 Sí, lo entiendo, pero si viniera y te escribiera bajo la –como cabe que pienses– dignificada manera en que lo haría un espíritu elevado, tú no sentirías la cercanía a mí que tanto deseo que sientas, y además podrías no entender justo lo que pretendiera comunicar. Es imposible para ti acomodarte a mi condición, y por tanto yo tengo que acomodarme a la tuya. Quiero que llegues a estar tan cerca de mí como sea posible, y para que eso sea posible tengo que volverme casi tan humano como tú; de lo contrario la compenetración no podría darse entre nosotros, y yo te parecería un ser distante y nebuloso al que no podrías entender ni sentir su influencia. No; soy muy humano cuando vengo a ti.
 

@@ -28,4 +28,4 @@ Bueno, tenía la intención de escribirte una larga carta esta noche, pero como 
 Tu auténtica y amorosa Helen.
 <small>
 
-[^1]: (N.d.T.) Esta frase recuerda el apotegma *“El amor es epítome y consumación de todas las leyes”*.
+[^1]: **N.d.T.:** Esta frase recuerda el apotegma *“El amor es epítome y consumación de todas las leyes”*.

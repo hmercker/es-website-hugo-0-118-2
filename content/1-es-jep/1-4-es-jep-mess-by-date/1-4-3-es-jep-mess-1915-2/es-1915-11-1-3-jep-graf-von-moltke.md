@@ -22,4 +22,5 @@ Los alemanes seguramente saldrán victoriosos en esta gran guerra, y los frances
 No tiene sentido que escriba más sobre este asunto, porque sólo puedo repetir lo que ya he dicho; pero tú, amigo mío, grábalo en tu memoria y al final de la guerra evoca esta predicción: los alemanes serán los vencedores.
 
 Tu amigo, Von Moltke.
+
 (El viejo estratega de los ejércitos alemanes cuando Francia cayó).

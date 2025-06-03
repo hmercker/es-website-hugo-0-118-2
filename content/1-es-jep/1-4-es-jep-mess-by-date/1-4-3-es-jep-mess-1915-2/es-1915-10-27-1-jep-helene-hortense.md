@@ -9,11 +9,11 @@ weight:
 ---
 ### Hortensia, hijastra de Napoleón, conoce ahora el Camino a los Cielos Celestiales
 
-Helene Hortense - recibido por James Padgett el 27 de octubre de 1915, Washington, DC, EE.UU.
+[Helene Hortense](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-2-es-politics/12-2-2-44-es-hortensehelene/) - recibido por James Padgett el 27 de octubre de 1915, Washington, DC, EE.UU.
 
 Estoy aquí, Helene (Hortense).
 
-Yo fui hija de Josefina, la esposa de Napoleón [^1], y vengo a decirte que no estoy tan avanzada en el desarrollo del alma como quisiera, pero me estoy esforzando por obtener ese Amor Divino que, desde mi venida al mundo espiritual, me han enseñado que es necesario para obtener un hogar en las Esferas Celestiales y la inmortalidad.
+Yo fui hija de Josefina, la esposa de Napoleón, y vengo a decirte que no estoy tan avanzada en el desarrollo del alma como quisiera, pero me estoy esforzando por obtener ese Amor Divino que, desde mi venida al mundo espiritual, me han enseñado que es necesario para obtener un hogar en las Esferas Celestiales y la inmortalidad.
 
 Cuando estuve en la tierra, siendo hija de un Emperador, mis pensamientos estaban dedicados a cualquier otra cosa menos a la verdadera religión del alma, que ahora sé que es la única religión que puede salvar a un alma del pecado y del error. Mi padrastro no era un hombre espiritual, como tal vez sepas, sino que todos sus pensamientos estaban volcados en la satisfacción de su ambición y la conquista de naciones. También era un hombre que tenía mucho carácter amoroso, era intenso en sus afectos y dejaba que éstos guiaran su vida en gran medida cuando no entraban en conflicto con sus ambiciones. Él y mi madre eran verdaderos amantes y ahora son almas gemelas, pero mi madre está mucho más desarrollada que él.
 
@@ -26,6 +26,3 @@ Mi madre está conmigo y es muy feliz, y desde hace muchos años trata de induci
 Amigo mío, disculpa mi intrusión, pero durante varias semanas he visto a otros espíritus escribiéndote y deseaba mucho hacerlo, y cuando se presentó la ocasión esta noche, la aproveché y me impuse. Pero para recompensarte diré que tus discusiones y tus escritos han hecho mucho para ayudarme en mi progreso y traerme felicidad. Así que no te detendré más, sino que me suscribiré como tu amiga y simpatizante.
 
 Helene.
-<small>
-
-[1] Hortense Eugénie Cécile de Beauharnais (París, 10 de abril de 1783-Turgovia, 5 de octubre de 1837) fue reina de Holanda y madre del emperador Napoleón III de Francia. Hortensia nació en París. Era hija de Josefina de Beauharnais y de Alejandro, vizconde de Beauharnais. Después de la ejecución de su padre, su madre se casó con Napoleón Bonaparte. A petición de Napoleón, Hortensia se casó con el hermano del emperador, Luis Bonaparte. Napoleón nombró a la pareja rey y reina de Holanda. Aunque el matrimonio tuvo tres hijos, fue una pareja desgraciada que terminó separándose en 1810. - Fuente: Wikipedia.

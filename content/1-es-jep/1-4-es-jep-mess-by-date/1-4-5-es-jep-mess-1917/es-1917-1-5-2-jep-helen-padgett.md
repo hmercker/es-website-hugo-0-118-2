@@ -23,4 +23,4 @@ Estaremos contigo esta noche y podrás recibir algunos mensajes profundos de ver
 Helen.
 <small>
 
-[^1]: N.d.T.: Hilaridad: a) Expresión tranquila y plácida del gozo y satisfacción del ánimo. b) Risa y algazara que excita en una reunión lo que se ve o se oye. - Fuente: DRAE.
+[^1]: **N.d.T.:** Hilaridad: a - Expresión tranquila y plácida del gozo y satisfacción del ánimo. b - Risa y algazara que excita en una reunión lo que se ve o se oye. - Fuente: DRAE.

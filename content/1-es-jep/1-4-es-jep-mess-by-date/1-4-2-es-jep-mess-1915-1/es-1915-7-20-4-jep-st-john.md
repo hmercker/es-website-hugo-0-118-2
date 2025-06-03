@@ -22,4 +22,3 @@ Bueno; estoy interesado porque quiero que estés en condiciones adecuadas para h
 Así que ora y cree, y saldrás triunfante de todas tus zozobras. No escribiré más esta noche.
 
 Tu hermano en Cristo, Juan.
-

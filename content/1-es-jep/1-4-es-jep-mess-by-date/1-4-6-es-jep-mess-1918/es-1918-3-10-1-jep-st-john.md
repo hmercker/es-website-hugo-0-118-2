@@ -19,13 +19,13 @@ Otros espíritus están aquí esta noche, esperando a poder escribir, pero dadas
 
 Me alegro de que te sientas mucho mejor espiritual y físicamente, y siento que seguirás sintiéndote así. Así que ora más al Padre y dirige tus pensamientos a las cosas espirituales, y encontrarás una felicidad maravillosa que ni siquiera las preocupaciones de tu vida diaria podrán quitarte.
 
-*(pregunta)*
+*(Pregunta.)*
 
 No, rotundamente no, y quienes creen que alguna vez existieron mortales así están muy equivocados. Los espíritus más elevados no podemos conocer ni predecir el futuro en el sentido en que se supone que lo hicieron los videntes y profetas en los siglos sobre los cuales se escribió en el Antiguo Testamento. Ningún hombre, ya sea en la carne o en el espíritu, tiene jamás la omnisciencia del Padre, y predecir lo que sucederá en los siglos venideros es un poder que pertenece sólo al Padre.
 
 De modo que todos los intentos de aplicar las profecías contenidas en la Biblia a los sucesos o futuros sucesos de los presentes días son inútiles y sin justificación alguna. El hombre debe depender de las condiciones y los actos de este día para determinar lo que sucederá en el corto tiempo que algunos esperan que dure el mundo.
 
-*(comentario)*
+*(Comentario.)*
 
 ¡Qué actitud deben tomar ellos, cuando nosotros, que vivimos tan cerca del Padre, no podemos saberlo! Todo esto, por supuesto, se refiere a los asuntos materiales de los hombres en su vida en la tierra. En cuanto a las cosas espirituales, podemos decir cuál será el futuro de cada hombre o nación de hombres caso de que se observen o no ciertas condiciones.
 

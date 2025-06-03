@@ -20,4 +20,4 @@ Sé que mi testimonio no es necesario para convencerte de estos hechos, pero pue
 Pero te escribiré con más detalle más adelante, y espero tener la oportunidad. Así, deseándote éxito y felicidad, soy tu hermano en Cristo, San Clemente.
 <small>
 
-N.d.T.: Podría tratarse de Clemente I, considerado un santo de la Iglesia –y como santo se presenta él en este mensaje– por haber sido martirizado y arrojado al Mar Negro con un ancla al cuello, pese a lo cual el mar devolvió su cadáver a la orilla.
+**N.d.T.:** Podría tratarse de Clemente I, considerado un santo de la Iglesia –y como santo se presenta él en este mensaje– por haber sido martirizado y arrojado al Mar Negro con un ancla al cuello, pese a lo cual el mar devolvió su cadáver a la orilla.

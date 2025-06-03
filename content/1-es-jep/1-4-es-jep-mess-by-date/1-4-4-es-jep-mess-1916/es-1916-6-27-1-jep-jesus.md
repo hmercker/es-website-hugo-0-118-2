@@ -54,6 +54,6 @@ Así que con todo mi amor y bendiciones, soy
 Tu hermano y amigo, Jesús
 <small>
 
-[^1]: N.d.T.: Ésto evoca la hoy día muy usada noción de “la chispa divina en el hombre”.
+[^1]: **N.d.T.:** Ésto evoca la hoy día muy usada noción de “la chispa divina en el hombre”.
 
 [^2]: Esta precisa frase no se encuentra en la Biblia, y la coincidencia más cercana parece ser Mateo 13:33, que dice así: Les dijo otra parábola: *"El reino de los cielos es semejante a la levadura que una mujer tomó y escondió en tres medidas (39 litros) de harina, hasta que todo quedó fermentado."*

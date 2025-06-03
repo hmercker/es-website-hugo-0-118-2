@@ -42,6 +42,6 @@ Ya he escrito bastante por esta noche y me congratulo de la forma en que has rec
 Tu hermano y amigo, Jesús.
 <small>
 
-[^1]: N.d.T.: Me resulta prácticamente inevitable ver aquí un paralelismo con la parábola de la oveja perdida y finalmente encontrada.
+[^1]: **N.d.T.:** Me resulta prácticamente inevitable ver aquí un paralelismo con la parábola de la oveja perdida y finalmente encontrada.
 
 [^2]: Estos son los Cielos Espirituales del hombre perfecto, que tiene sólo el amor natural en estado puro, pero que no posee el Amor Divino que es necesario para entrar en los Mundos Celestiales.

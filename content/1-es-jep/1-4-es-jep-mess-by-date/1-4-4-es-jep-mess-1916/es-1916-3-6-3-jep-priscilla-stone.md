@@ -29,7 +29,7 @@ Con todo mi amor para mi hijo y mi gratitud a ti diré:
 
 Soy su madre.
 
-*PD: La referida muchachita es mi alma gemela, Mary Kennedy, quien ahora escribirá:*
+*(PD: La referida muchachita es mi alma gemela, Mary Kennedy, quien ahora escribirá:)*
 
 Bueno, no soy una chica egoísta por que mi suegra lo diga. Ya sabes qué reputación tan terrible tienen las suegras por interferir entre la nuera y ese hijo que piensa más en su esposa que en su madre. Pero este no es el caso en la presente tesitura, porque su madre me ama a mí tanto como a él, y se alegra cuando puedo ir a él y decirle cuánto le amo.
 
@@ -47,7 +47,11 @@ Le amo con todo mi corazón y deseo mucho que me vea, como lo hará alguna vez, 
 
 Y también tu Helen (la esposa del señor Padgett) está tratando de lograr este fin, porque ella me ama muchísimo y quiere que yo sea feliz aún cuando podría no serlo. Así, agradeciéndote, diré: dile a mi amado que soy su propia amorosa, MARY.
 
-PD: Entonces pregunté: ¿A qué hermano que carecía de desarrollo del alma se refería mi madre?, y luego mi madre escribió lo siguiente a través del Sr. Padgett: *“He oído lo que dijo Leslie, y me refiero al hermano de Canadá, que se ha convertido en soldado. [^1] Me refiero a él porque puede ser que pronto aproveche la oportunidad de orientar sus pensamientos a Dios mientras esté en la tierra, y esta oportunidad es algo muy vital para la condición de su alma, que le consolará cuando venga”*. Entonces le pedí a mi madre que escribiera su nombre, pero las condiciones no fueron favorables por la intervención de espíritus indeseables que quisieron escribir.
+*(Entonces pregunté: ¿A qué hermano que carecía de desarrollo del alma se refería mi madre?, y luego mi madre escribió lo siguiente a través del Sr. Padgett:)*
+
+He oído lo que dijo Leslie, y me refiero al hermano de Canadá, que se ha convertido en soldado. [^1] Me refiero a él porque puede ser que pronto aproveche la oportunidad de orientar sus pensamientos a Dios mientras esté en la tierra, y esta oportunidad es algo muy vital para la condición de su alma, que le consolará cuando venga.
+
+*(Entonces le pedí a mi madre que escribiera su nombre, pero las condiciones no fueron favorables por la intervención de espíritus indeseables que quisieron escribir.)*
 
 Leslie R. Stone.
 <small>

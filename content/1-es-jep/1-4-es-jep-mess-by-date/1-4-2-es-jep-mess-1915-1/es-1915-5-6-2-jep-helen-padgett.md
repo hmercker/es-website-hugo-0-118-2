@@ -19,7 +19,7 @@ Ahora está progresando y creo que muy pronto tendrá tanto de este Amor que ava
 
 Bueno, cariño, estás cansado y debes parar o podrías sentir los efectos del esfuerzo.
 
-*Pregunta del Sr. Padgett y respuesta:*
+*(Pregunta del Sr. Padgett y respuesta:)*
 
 Sí, yo estaba aquí y creo que él es lo que llamarías un tanto descolocado o fuera de lugar. Sus ideas de que él es el seis antes del seis están totalmente equivocadas. Nunca será el líder de los bahais [^1] ni de ninguna otra secta de adherentes a una religión. Es demasiado material para eso, y en cuanto a ser el hombre más grande de la nación, es que eso está mucho más allá de lo absurdo.
 

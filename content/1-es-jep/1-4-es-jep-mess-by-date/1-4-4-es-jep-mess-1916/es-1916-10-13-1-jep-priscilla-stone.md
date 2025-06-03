@@ -38,6 +38,6 @@ De Mary Kennedy - 13 de octubre de 1916
 Me escuchaste y estoy agradecida. Sólo diré que lo que dijo su madre sobre mi profundo amor por él es cierto. Sé que le he dicho muchas veces que le amo, pero quería que su madre se lo dijera también, porque él sabe y puede darse cuenta de que su madre era y es un ser real, y no puede llegar a él ninguna sombra o idea de que ella no sea un espíritu real, y pensé que si sólo le dijera que yo soy real tal como ella lo es, él me concebiría con el ojo de la fe de su alma como si fuera semejante a su madre. Esto es lo que quería decir, y estoy muy feliz de poder decirlo. Buenas noches mi querido amigo, Mary, el alma gemela del Doctor.
 <small>
 
-    De Mary Kennedy, escrito inmediatamente después de que mi querida madre escribiera, quien también le dijo al Sr. Padgett que quería escribir. El Sr. Padgett escuchó y recibió clariaudientemente esa petición de que quería escribir y el mensaje se escribió automáticamente, como de costumbre. El Sr. Padgett y yo sentimos un maravilloso amor presente.
+De Mary Kennedy, escrito inmediatamente después de que mi querida madre escribiera, quien también le dijo al Sr. Padgett que quería escribir. El Sr. Padgett escuchó y recibió clariaudientemente esa petición de que quería escribir y el mensaje se escribió automáticamente, como de costumbre. El Sr. Padgett y yo sentimos un maravilloso amor presente.
 
-    Leslie R. Stone
+Leslie R. Stone

@@ -35,7 +35,7 @@ Bien, voy a intentarlo.
 <br><br>
 > Posees el maravilloso Amor del Padre, la divinidad es tuya y tuya es la inmortalidad.
 <br><br>
-> Haz posible, así pues, que mi amor sea -
+> Haz posible, así pues, que mi amor sea.
 
 No parezco ser capaz de escribir más. Déjame intentarlo en otro momento, cuando estés en mejores condiciones. No; lo completaré la próxima vez que escriba. Ya ves que no es en verso, sino en prosa, lo cual me gusta más porque el significado puede expresarse más claramente.
 

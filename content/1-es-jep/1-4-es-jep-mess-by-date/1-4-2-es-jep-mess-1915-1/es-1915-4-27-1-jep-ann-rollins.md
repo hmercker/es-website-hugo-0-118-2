@@ -28,6 +28,6 @@ Sí, me encontré con algunos espíritus que conocí en la tierra, pero no mucho
 Bueno, no debo escribir más esta noche porque no estás en condiciones de escribir más. Así pues, con todo mi amor, que es mucho más grande que la última vez que te escribí, soy tu verdadera y amorosa abuela. (Ann Rollins)
 <small>
 
-[^1]: Esta fecha ha sido confirmada por el archivo.
+Este mensaje es una combinación de dos que se publican en el Volumen II, página 60 y en el Volumen III, página 107. Para más detalles, [consulta esta página](/1-es-jep/1-3-es-jesus-true-gosp/1-3-9-es-jep-mess-duplicates/).
 
-[^2]: Este mensaje es una combinación de dos que se publican en el Volumen II, página 60 y en el Volumen III, página 107. Para más detalles, [consulta esta página](/1-es-jep/1-3-es-jesus-true-gosp/1-3-9-es-jep-mess-duplicates/).
+[^1]: Esta fecha ha sido confirmada por el archivo.

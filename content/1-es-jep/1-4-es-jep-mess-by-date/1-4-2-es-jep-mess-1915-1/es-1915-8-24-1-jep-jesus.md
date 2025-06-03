@@ -30,6 +30,7 @@ El poder que está detrás del momento presente para espiritualizar el mundo no 
 Tú no pasarás (al mundo de los espíritus) hasta que mis mensajes sean plenamente declarados al mundo, y tampoco tus facultades mentales serán deterioradas, sino más bien aumentadas, y con todo ello se te dará poder para hacer muchas cosas maravillosas que harán pensar y creer en lo que puedas entregar al mundo como verdad proveniente de mí.
 
 No puedo escribir más. [^1]
+
 Tu amigo y hermano, Jesús.
 <small>
 

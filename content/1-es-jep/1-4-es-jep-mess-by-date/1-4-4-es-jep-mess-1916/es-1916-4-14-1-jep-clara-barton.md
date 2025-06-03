@@ -32,4 +32,4 @@ Veo aquí a varios de esos elevados espíritus, más brillantes y bellos que los
 Así, dándote gracias, te diré buenas noches.
 <small>
 
-[^1]: N.d.T.: Obviamente un vaticinio errado. Cuando incluso los Celestiales por lo general se abstienen de pronosticar, no es extraño que alguien que aún está en el plano terrestre yerre en sus predicciones.
+[^1]: **N.d.T.:** Obviamente un vaticinio errado. Cuando incluso los Celestiales por lo general se abstienen de pronosticar, no es extraño que alguien que aún está en el plano terrestre yerre en sus predicciones.

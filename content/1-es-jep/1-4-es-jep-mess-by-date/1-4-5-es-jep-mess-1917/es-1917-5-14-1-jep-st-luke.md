@@ -35,6 +35,6 @@ Así pues, creedme y confiad en mí, y sabed sin lugar a dudas que os amo a ambo
 Orad, y orad, y creed. Buenas noches, vuestro hermano en Cristo, Lucas.
 <small>
 
-[^1]: N.d.T.: Aquí el texto inglés inserta el siguiente paréntesis: (una proscripción, maldición o excomunión eclesiástica formal)
+[^1]: **N.d.T.:** Aquí el texto inglés inserta el siguiente paréntesis: (una proscripción, maldición o excomunión eclesiástica formal)
 
-[^2]: N.d.T.: Aquí el texto inglés inserta el siguiente paréntesis: (hacer que algo sea de conocimiento general)
+[^2]: **N.d.T.:** Aquí el texto inglés inserta el siguiente paréntesis: (hacer que algo sea de conocimiento general)

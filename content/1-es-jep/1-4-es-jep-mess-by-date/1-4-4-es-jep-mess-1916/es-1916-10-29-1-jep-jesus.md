@@ -35,4 +35,4 @@ Pero algún día el conocimiento del alma superará a la creencia mental, y ento
 
 Ya he escrito suficiente por esta noche y debo detenerme, pero antes de hacerlo quiero decir que hoy estuve contigo y vi que estabas muy feliz en tus pensamientos y en tu experiencia del alma. Otros espíritus también estaban contigo, derramando a tu alrededor su amor e influencia. Persevera en tus esfuerzos por obtener este Amor Divino, y ora al Padre y te llegará con aumentada abundancia, y con ello una felicidad maravillosa. Vendré pronto y te escribiré otro mensaje. Así que con mi amor y bendiciones diré buenas noches y que Dios te bendiga.
 
-Tu hermano y amigo, Jesús
+Tu hermano y amigo, Jesús.

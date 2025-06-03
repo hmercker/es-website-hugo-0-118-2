@@ -20,10 +20,10 @@ Además de muchas otras cosas, ahora sabe y está convencido de que el hombre no
 
 Demostración científica de una vida futura se publicó en 1904. El autor había publicado anteriormente:
 
-     • La Ley de los fenómenos científicos
-     • El pedigrí divino del hombre
-     • La Ley de la medicina mental
-     • La evolución del alma.
+• La Ley de los fenómenos científicos
+• El pedigrí divino del hombre
+• La Ley de la medicina mental
+• La evolución del alma.
 
 Entre los seguidores de los Mensajes de Padgett no hay una aceptación universal acerca del papel de la evolución. [Una comunicación reciente](/9-es-var-top/9-4-es-life-earth-planets/9-4-2-es-creation-evolution/) nos ha advertido de que James Padgett era partidario de la noción de creación más que la de evolución en lo que respecta al cuerpo humano, pero no se sabe si este mensaje plasma su predisposición o la visión actual de este espíritu. Un vistazo rápido al contenido de ese libro sugiere que el autor creía en la evolución y que también creía que había habido una evolución del alma.
 

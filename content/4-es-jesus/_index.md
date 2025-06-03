@@ -16,3 +16,4 @@ weight: 40
 | [Mensajes a través de Dr Daniel G Samuels](/4-es-jesus/4-3-es-jesus-mess-via-dgs/)
 | [Enseñanzas contemporáneas a través de Albert Fike](/4-es-jesus/4-4-es-jesus-teach-via-af/)
 | [Mensajes contemporáneos de Jesús](/4-es-jesus/4-5-es-jesus-mess-cont/)
+| [La Segunda Venida de Jesús](/4-es-jesus/4-6-es-second-coming/)

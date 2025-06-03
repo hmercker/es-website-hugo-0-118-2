@@ -19,7 +19,7 @@ Vuestra lectura de esos mensajes, acompañada por el poder del Amor Divino, caus
 
 Quiere escribir un poco, aunque dice que está demasiado llena de la emoción que se ha apoderado de ella como para escribir mucho.
 
-*Ahora escribe Mary:*
+*(Ahora escribe Mary:)*
 
 Mi querida alma gemela, estoy contigo en todo mi amor y mis anhelos, y debes creer que soy tu verdadera alma gemela, feliz de saber que me amas a cambio de todo el gran amor de mi alma que te envío sin un ápice de reserva; tienes mi amor y mis grandes deseos para que seas feliz y estés contento sabiendo que tu Mary es toda tuya y no de otro. Está mucho contigo y trata de consolarte y alejarte de todo lo que te haga infeliz. Muchas veces, cuando las cosas se ven un poco oscuras, ella viene hacia ti con su amor, te susurra palabras de alegría y te hace cosquillas en la oreja para hacerte saber que está contigo.
 
@@ -31,7 +31,7 @@ No sé exactamente qué haréis, pero sé que tendréis una misión que cumplir 
 
 Buenas noches, Mary.
 
-*Helen escribe:*
+*(Helen escribe:)*
 
 Bueno; puedes ver lo que el amor es capaz de hacer. Ella le ama y el Maestro le ama y todos le amamos.
 

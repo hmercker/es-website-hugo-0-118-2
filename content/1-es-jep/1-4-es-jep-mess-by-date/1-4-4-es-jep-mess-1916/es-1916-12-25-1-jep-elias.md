@@ -20,6 +20,6 @@ Los hombres deben asimilar esta Verdad, y en sus oraciones deben pedir que aquel
 Tu hermano en Cristo, Elías.
 <small>
  
-Nota: Este mensaje es una combinación de dos que se publican en el Volumen I, página 237 y en el Volumen III, página 287. Para más detalles [consulta esta página](/1-es-jep/1-3-es-jesus-true-gosp/1-3-9-es-jep-mess-duplicates/).
+**Nota:** Este mensaje es una combinación de dos que se publican en el Volumen I, página 237 y en el Volumen III, página 287. Para más detalles [consulta esta página](/1-es-jep/1-3-es-jesus-true-gosp/1-3-9-es-jep-mess-duplicates/).
 
 [^1]: Las causas son, verbigracia, las causas del pecado. Un ejemplo: si alguien es alcohólico, Dios le ayudará a disminuir o eliminar el deseo de beber si el mortal realmente desea y ora por esta ayuda. Sin embargo no es probable que se eliminen los resultados del alcoholismo, ya que esto forma parte de la Ley de Compensación. Por lo tanto orar para que se restañen las relaciones que fueron dañadas como resultado del alcoholismo o para curar un hígado dañado, puede no ser efectivo, a menos que, y hasta que la causa principal se resuelva y disuelva del todo. E incluso entonces, es posible que no se resuelva si es parte de la compensación adeudada.

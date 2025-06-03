@@ -27,4 +27,4 @@ Este Amor es la vida de los Mundos Celestiales y la única llave que desbloquear
 
 Para terminar permíteme repetir que Él (el Amor Divino) es la cosa más grande en todo el universo de Dios y no sólo lo más grande, sino la suma de todas las cosas, porque de Él fluye cada otra cosa que trae paz y felicidad. No escribiré más esta noche, y con mi amor hacia ti y la bendición del Padre, te diré buenas noches.
 
-Tu hermano en Cristo, Juan
+Tu hermano en Cristo, Juan.

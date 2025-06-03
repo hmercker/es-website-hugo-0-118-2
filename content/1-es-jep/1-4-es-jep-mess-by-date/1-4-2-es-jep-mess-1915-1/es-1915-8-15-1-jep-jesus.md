@@ -30,6 +30,6 @@ Sé que tienes muchas ganas de hacer este trabajo y que tu alma está esforzánd
 Así que cree en mi amor y en mi deseo de que tengas éxito.
 
 Tu hermano en Cristo, Jesús.
- <small>
+<small>
  
 Este mensaje es una combinación de dos que se publican en el Volumen I, página 208 y en el Volumen III, página 104. Para más detalles [consulta esta página](/1-es-jep/1-3-es-jesus-true-gosp/1-3-9-es-jep-mess-duplicates/).

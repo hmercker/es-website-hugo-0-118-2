@@ -62,4 +62,4 @@ Puede que no haya compuesto mi mensaje tan clara y convincentemente como desear�
 Tu hermano en Cristo, Samuel.
 <small>
 
-[^1]: N.d.T.: Es la ley de la conservación de la energía o primera ley de la termodinámica: *“La energía ni se crea ni se destruye, sino que sólo (y en toda ocasión) se transforma”*.
+[^1]: **N.d.T.:** Es la ley de la conservación de la energía o primera ley de la termodinámica: *“La energía ni se crea ni se destruye, sino que sólo (y en toda ocasión) se transforma”*.

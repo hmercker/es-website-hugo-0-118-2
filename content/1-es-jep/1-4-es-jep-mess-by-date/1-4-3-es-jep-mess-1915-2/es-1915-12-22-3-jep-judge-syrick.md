@@ -22,4 +22,4 @@ Pero sus vestes son todos de un blanco resplandeciente, con un brillo que deslum
 Quiero venir pronto y escribirte una carta larga. Así pues, con mis mejores deseos diré
 Buenas noches.
 
-Tu amigo, Frank D. Syrick
+Tu amigo, Frank D. Syrick.

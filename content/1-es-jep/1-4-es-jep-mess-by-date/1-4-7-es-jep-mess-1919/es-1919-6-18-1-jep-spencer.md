@@ -28,4 +28,4 @@ Tu amigo, Spencer.
 Yo era científico cuando estaba en la tierra, y se suponía que era agnóstico, aunque ahora sé mejor.
 <small>
 
-N.d.T.: Esta expresión (can be made to the world) es un émulo de la marinera “hacerse a la mar”.
+**N.d.T.:** Esta expresión (can be made to the world) es un émulo de la marinera “hacerse a la mar”.

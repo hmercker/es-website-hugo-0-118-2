@@ -25,7 +25,7 @@ Sí, estaré con ella y la ayudaré y la protegeré del mal y trataré de hacerl
 
 No escribiré más esta noche.
 
-*Pregunta y respuesta.*
+*(Pregunta y respuesta.)*
 
 Sí; ella es muy mediúmnica y creo que es aconsejable llevarla a la sesión porque eso la convencerá de que hay verdad en el espiritismo, y luego empezará a pensar más en el tema y pronto quedará completamente convencida y el poder se desarrollará por sí solo en ella y obraremos para su bien.
 

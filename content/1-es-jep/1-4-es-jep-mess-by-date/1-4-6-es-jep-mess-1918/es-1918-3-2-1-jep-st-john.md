@@ -15,7 +15,7 @@ Estoy aquí, Juan.
 
 No escribiré ahora, excepto para decir que tu condición espiritual ha mejorado mucho y estás avanzando en las percepciones de tu alma de la verdad y de la realidad del Padre y Su Amor.
 
-*(pregunta)*
+*(Pregunta.)*
 
 Sí, lo sé, pero debes recordar dos cosas con referencia a los escritos de la Biblia que se me atribuyen, a saber: Primero, que muchos de los dichos allí contenidos yo no los escribí ni autoricé que se escribieran, y en segundo lugar, que en la época en que vivía en la tierra y escribía, mi conocimiento de la verdad y de Dios no era tan vasto ni tan correcto como lo es ahora.
 

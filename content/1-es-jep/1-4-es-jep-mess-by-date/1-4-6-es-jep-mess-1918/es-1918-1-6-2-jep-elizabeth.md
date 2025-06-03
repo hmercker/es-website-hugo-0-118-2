@@ -23,6 +23,6 @@ Pensé que debía escribir esto esta noche, porque vemos tu estado y muchos est�
 
 Tu hermana en Cristo, Isabel.
 
-*(pregunta)*
+*(Pregunta.)*
 
 Bueno, ha pasado tanto tiempo desde que escuché o usé el nombre que me resultó un tanto difícil recordarlo y formularlo. Los nombres son una de las cosas que olvidamos al poco tiempo de estar en nuestros hogares Celestiales, a menos que exista alguna razón especial para recordarlos.

@@ -27,7 +27,7 @@ Judas era el más joven de los discípulos y no tan fácilmente controlado en su
 
 Sí, lo sé; pero todos están basados en los mismos escritos erróneos, porque debes saber que estos Evangelios, tal como los tienes, no son los originales escritos por aquellos cuyos nombres llevan. No dejes que estas cosas perturben tu creencia en las verdades esenciales que la Biblia contiene.
 
-*(pregunta)*
+*(Pregunta.)*
 
 El problema es que es a Jesús como individuo a quien se le da la prominencia que se debería dar a sus enseñanzas. Está muy disgustado por esto, y uno de los grandes objetivos de escribir nuevamente sus verdades es corregir ese error y hacer que las cosas prominentes sean las verdades que recibió del Padre.
 
@@ -37,7 +37,7 @@ Bueno; te diré que estás en camino de recibir el Amor del Padre en mucha abund
 
 Veo que actualmente tienes algunas dificultades en tu camino, pero pronto desaparecerán y te dejarán libre para hacer este gran trabajo. Así que mi consejo es que creas en el Maestro y ores al Padre y pronto serás un hombre mucho más feliz.
 
-*(pregunta)*
+*(Pregunta.)*
 
 Cuando estuve en la tierra yo era un hombre casado, y en mi familia vivió la madre de Jesús hasta su muerte. Ella, María, vive cerca de mí. Ella es un espíritu hermoso y lleno del Amor del Padre. Pero no debes suponer que por ser la madre de Jesús tiene una posición más exaltada de la que habría tenido de otra manera. Los lazos familiares no determinan nada en las esferas superiores: el criterio es el desarrollo del alma. Muchos espíritus viven en esferas superiores a la de María.
 

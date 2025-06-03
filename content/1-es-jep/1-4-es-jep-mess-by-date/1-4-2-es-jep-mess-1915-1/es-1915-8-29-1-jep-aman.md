@@ -38,7 +38,7 @@ Tu hermano en Cristo, Amán.
 
 Se canalizaron seis mensajes sobre el tema de la creación de la especie humana. Los otros cinco son:
 
-**<small>Autor</small>** | **<small>Título del mensaj</small>e** | **<small>Fecha del mensaje</small>**  
+**<small>Autor</small>** | **<small>Título del mensaje</small>** | **<small>Fecha del mensaje</small>**  
 ---|---|---
 <small>Aman</small> | <small>[Amán, el primer progenitor, revela su tentación y su caída](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-29-1-jep-aman/)</small> | <small>29 de agosto de 1915</small>
 <small>Aman</small> | <small>[Aman hace una corrección](/1-es-jep/1-4-es-jep-mess-by-date/1-4-3-es-jep-mess-1915-2/es-1915-9-7-1-jep-aman/)</small> | <small>7 de septiembre de 1915</small>

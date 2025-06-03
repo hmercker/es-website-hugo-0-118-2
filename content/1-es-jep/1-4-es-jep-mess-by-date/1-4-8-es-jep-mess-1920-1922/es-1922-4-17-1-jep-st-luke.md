@@ -39,7 +39,7 @@ Bueno; pensé en escribirte este breve mensaje sobre la cuestión en la que tú 
 
 Me alegro de poder escribirte nuevamente y de que tu condición sea mucho mejor de lo que ha sido y permita establecer una buena compenetración. Ora más al Padre y cree, y estarás en la condición que tanto deseamos. No escribiré más. Buenas noches.
 
-Tu hermano en Cristo, Lucas
+Tu hermano en Cristo, Lucas.
 <small>
 
 [^1]: La fecha de este mensaje es el 17 de abril de 1922, lo cual sólo se sabe por referencia al documento manuscrito original.

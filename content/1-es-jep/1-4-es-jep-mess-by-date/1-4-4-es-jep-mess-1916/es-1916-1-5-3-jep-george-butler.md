@@ -52,6 +52,5 @@ G. H. B.
 
 Mi nombre es George H. Butler, y morí en 1899.
 
-
 Este espíritu volvió más tarde para [describir su hogar en la Tercera Esfera](/1-es-jep/1-4-es-jep-mess-by-date/1-4-7-es-jep-mess-1919/es-1919-3-15-1-jep-george-butler/).
 

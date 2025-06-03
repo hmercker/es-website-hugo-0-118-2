@@ -36,4 +36,4 @@ Veo a tu amigo contigo y debo decirle que estoy con él muy a menudo, que me ale
 Tu hermano y amigo, Jesús
 <small>
 
-[^1]: N.d.T.: En rigor ‘mental and soul equipoise’ debería traducirse *“equilibrio de la mente y del alma”*, pero creo sería oportuno recordar que alma –ánima en latín– es la raíz de expresiones como *“¡Ánimo!”, “sentirse animado”, “estado de ánimo o anímico”*, etc., y de ahí mi traducción.
+[^1]: **N.d.T.:** En rigor ‘mental and soul equipoise’ debería traducirse *“equilibrio de la mente y del alma”*, pero creo sería oportuno recordar que alma –ánima en latín– es la raíz de expresiones como *“¡Ánimo!”, “sentirse animado”, “estado de ánimo o anímico”*, etc., y de ahí mi traducción.

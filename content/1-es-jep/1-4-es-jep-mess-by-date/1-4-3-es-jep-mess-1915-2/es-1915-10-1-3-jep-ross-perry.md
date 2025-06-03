@@ -23,7 +23,7 @@ Amigo mío; por eso creo que lo eres, o no podrías interesarte por mí como lo 
 
 Pero ahora me doy cuenta de que debo seguir existiendo y sufriendo no sé durante cuánto tiempo, aunque me parece que por los siglos de los siglos. ¡Oh, por qué hice tal cosa! No tuve ocasión de conducir mi vida en lo que respecta a las cosas terrenales, porque para hacer una vida satisfactoria no necesitaba nada material.
 
-*¿Pregunta?*
+*(¿Pregunta?)*
 
 Bueno, te lo diré. Como tal vez sepas, yo era, según pensaba, una especie de filósofo en la tierra, y para mí la vida era algo que debía conservar o apagar según pudiera pensar que había cumplido o no su propósito, una vez sintiera que ya no podía hacer ningún bien especial al mundo ni a quienes estaban cerca de mí. Pensé que no había ninguna razón por la que continuar más con una vida que en cierto sentido era monótona. Y además sentí que había llegado a la cima de mis facultades mentales, y que estaban decayendo; y el pensamiento de que disminuiría en lo que tanto me había esforzado por cultivar y mostrar a mis conocidos me hizo creer que el objeto de mi creación se había cumplido, y que poco a poco me convertiría no sólo en un estorbo, sino en una persona a ser mirada con una especie de lástima, cosa que me causaría mucha infelicidad.
 
@@ -51,7 +51,7 @@ Le pediré que me cuente de su conversión y le escucharé atentamente, y tratar
 
 Dime entonces, ¿qué clase de hombre eres tú para saber todas estas cosas? No puedo entenderte. Cuando estaba en la tierra simplemente te consideraba como al resto de nosotros, pero ahora me dicen que sabes cosas que nunca pensé que ningún mortal pudiera saber.
 
-*Pregunta y Respuesta.*
+*(Pregunta y Respuesta.)*
 
 Pues asombro sobre asombro, y por todo lo que dices para ayudarme y llevarme hacia la luz. Sí, eso es lo que quiero, luz. Sólo espera hasta que haya tenido esas experiencias que me prometes y vendré a ti y te escribiré una carta que te cansarás de recibir. Debo parar ahora, porque tú debes estar cansado y yo también.
 

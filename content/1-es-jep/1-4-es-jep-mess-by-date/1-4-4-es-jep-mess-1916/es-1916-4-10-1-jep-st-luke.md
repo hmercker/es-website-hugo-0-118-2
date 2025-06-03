@@ -22,4 +22,5 @@ Hagamos que este punto quede claro para que el hombre no ponga objeciones menore
 Por lo demás el mensaje es correcto y, tal como lo pretendía, debería transmitir la verdad del significado del texto.
 
 No te voy a entretener más esta noche, sino que con mi amor y bendiciones diré:
+
 Soy tu hermano en Cristo, Lucas.

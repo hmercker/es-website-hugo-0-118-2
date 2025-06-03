@@ -11,7 +11,7 @@ weight:
 
 William T Sherman - recibido por James Padgett el 19 de octubre de 1915, Washington, DC, EE.UU.
 
-Estoy aquí, General S____*(no puedo escribir el nombre)*
+Estoy aquí, General S____. *(no puedo escribir el nombre)*
 
 No, parece que no; qué extraño.
 

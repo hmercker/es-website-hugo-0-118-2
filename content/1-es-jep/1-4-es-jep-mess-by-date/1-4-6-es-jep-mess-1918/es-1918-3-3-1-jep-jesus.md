@@ -25,7 +25,7 @@ Sería imposible que Jesús, el hombre, entrara o llegara a ser parte de cualqui
 
 Para muchos de los que escuchan las exhortaciones de los predicadores sobre este particular la expresión es sólo un misterio que aceptan meramente de manera intelectual, y sienten que mediante tal aceptación tienen la posesión de este Cristo, el cual es la única evidencia de la verdad del amor del Padre.
 
-Buenas noches. Tu amigo y hermano, Jesús
+Buenas noches. Tu amigo y hermano, Jesús.
 <small>
 
 Un mensaje de Helen en esta fecha indica que se perdió la compenetración y que el mensaje está incompleto.

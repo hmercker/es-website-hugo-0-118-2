@@ -27,7 +27,7 @@ Ahora me hallo en una condición tal que sé que el Amor del Padre es lo único 
 
 No escribiré más, pero volveré y os escribiré sobre la vida temprana de Jesús y sobre su desarrollo en el Amor tal como me fue mostrado, mientras era un niño en crecimiento y tras convertirse en hombre, antes de su ministerio público.
 
-*Pregunta - ¿Fue José el padre de Jesús?*
+*(Pregunta - ¿Fue José el padre de Jesús?)*
 
 Bueno, supongo que soy la única en todo el universo de Dios que conoce el hecho con referencia a esa pregunta, y yo como espíritu de las Esferas Celestiales, conociendo sólo la verdad, te digo a ti y a todo el mundo que José era el verdadero padre de Jesús, y que fue concebido y nacido como cualquier otro mortal fue concebido y nacido. El Espíritu Santo no lo engendró, y nunca fui informada de que tal cosa sucedería. José me conoció antes de la concepción de Jesús, y de él quedé embarazada de ese hijo bendito. Esta es la verdad, y todos los relatos y declaraciones en contrario son erróneos.
 

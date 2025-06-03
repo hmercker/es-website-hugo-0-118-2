@@ -24,6 +24,6 @@ Así que cuando los hombres creen y predican la resurrección general del cuerpo
 No deseo escribir más sobre este tema, porque muchos hombres que están familiarizados con las leyes de la naturaleza, y muchos más que se familiarizarán con estas leyes, saben y conocerán y comprenderán la imposibilidad de que la materia entre en el reino de lo espiritual. Así que, agradeciéndote tu amabilidad, te diré buenas noches.
 
 Tu hermano en Cristo, San Pablo.
- <small>
+<small>
  
 Este mensaje es una combinación de dos que se publican en el Volumen II, página 354 y en el Volumen III, página 183. Para más detalles [consulta esta página](/1-es-jep/1-3-es-jesus-true-gosp/1-3-9-es-jep-mess-duplicates/).

@@ -47,4 +47,4 @@ Y mientras escribo, viene otro hermoso espíritu y dice que ella anteriormente v
 
 Entonces, dado que te he escrito durante mucho tiempo esperando iluminarte yo, y no ser yo mismo el que queda iluminado, y porque ahora estoy tan ansioso por esa iluminación, te diré que me alegro de haber venido a ti, y te daré las buenas noches.
 
-Saelish
+Saelish.

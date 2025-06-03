@@ -9,7 +9,7 @@ weight:
 ---
 ### Cómo toda la humanidad puede convertirse en Ángeles Divinos y cómo creencias erróneas impiden esta consumación
 
-Ann Rollins - recibido por James Padgett el 28 de mayo de 1916, Washington, DC, EE.UU.
+Anne Rollins - recibido por James Padgett el 28 de mayo de 1916, Washington, DC, EE.UU.
 
 Estoy aquí, tu abuela.
 
@@ -51,4 +51,4 @@ Estoy contigo bastante a menudo y trato de ayudarte. Orad más al Padre y ejerci
 
 No escribiré más ahora.
 
-Así que, con todo mi amor y bendiciones, soy tu abuela, Ann Rollins.
+Así que, con todo mi amor y bendiciones, soy tu abuela, Anne Rollins.
