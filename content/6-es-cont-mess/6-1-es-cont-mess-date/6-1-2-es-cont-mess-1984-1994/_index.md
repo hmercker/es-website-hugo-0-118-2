@@ -13,3 +13,5 @@ weight:
 ---|---|---
 Jesús | [Una aclaración sobre Swedenborg](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-2-es-cont-mess-1984-1994/es-1984-2-1-1-vs-jesus/) | 1 febrero 1984
 Jesús | [Atlántida](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-2-es-cont-mess-1984-1994/es-1988-10-18-1-dl-jesus/) | 18 octubre 1988
+James Padgett | [Edición del Volumen II](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-2-es-cont-mess-1984-1994/es-1991-3-9-1-ks-james-padgett/) | 9 marzo 1991
+

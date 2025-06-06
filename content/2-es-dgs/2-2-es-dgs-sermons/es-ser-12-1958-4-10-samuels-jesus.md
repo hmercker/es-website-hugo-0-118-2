@@ -38,8 +38,8 @@ Como conclusión, permíteme afirmar que en su forma final, editada muchos siglo
 El Jesús de la Biblia, y Maestro de los Mundos Celestiales.
 <small>
 
-[^1]: N.d.T.: Los nombres propios de los personajes de esta historia al parecer entrañan significados reveladores (según Wikipedia), a saber: Noemí (“mi graciosa”), Mahlón (“languidez”), Quelión (“consunción”), Orfa (“la que vuelve la espalda”), Rut (“la compañera”) y Booz –o Boaz– (“ligero/ágil” y “en él está la fuerza”).
+[^1]: **N.d.T.:** Los nombres propios de los personajes de esta historia al parecer entrañan significados reveladores (según Wikipedia), a saber: Noemí (“mi graciosa”), Mahlón (“languidez”), Quelión (“consunción”), Orfa (“la que vuelve la espalda”), Rut (“la compañera”) y Booz –o Boaz– (“ligero/ágil” y “en él está la fuerza”).
 
-[^2]: N.d.T.: Viuda de Elimélec, que murió en Moab.
+[^2]: **N.d.T.:** Viuda de Elimélec, que murió en Moab.
 
-[^3]: N.d.T.: En la Biblia, Booz aparece en el libro de Rut y también es mencionado en el libro de Crónicas. Es un hombre realmente prominente y rico poseedor de tierras que se casa con Rut, con quien tuvo un hijo, Obed, padre de Isai (Jesé) y por tanto es –Booz– bisabuelo de David. Por su parte ‘espigar’ es *“recoger las espigas que han quedado en el rastrojo”* (Fuente DRAE) y, por extensión, cualesquiera restos de cosechas que hayan quedado abandonados en los campos tras la recolección del principal de los frutos.
+[^3]: **N.d.T.:** En la Biblia, Booz aparece en el libro de Rut y también es mencionado en el libro de Crónicas. Es un hombre realmente prominente y rico poseedor de tierras que se casa con Rut, con quien tuvo un hijo, Obed, padre de Isai (Jesé) y por tanto es –Booz– bisabuelo de David. Por su parte ‘espigar’ es *“recoger las espigas que han quedado en el rastrojo”* (Fuente DRAE) y, por extensión, cualesquiera restos de cosechas que hayan quedado abandonados en los campos tras la recolección del principal de los frutos.
