@@ -50,12 +50,12 @@ Judas | [José se casa con María en Nazaret y luego regresa a Belén](/6-es-con
 Judas | [Paralelismos entre Galilea en tiempos de Jesús y hoy](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-10-3-2-hr-judas/) | 3 octubre 2001
 Judas | [El nacimiento de Jesús en Belén](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-10-4-1-hr-judas/) | 4 octubre 2001
 Judas | [La huida a Egipto](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-10-5-1-hr-judas/) | 5 octubre 2001
-Judas | [Suicidio asistido – Símbolos cristianos](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-10-5-2-hr-judas/) | 5 octubre 2001
-Judas | [Violencia justificada – Almas gemelas](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-10-6-2-hr-judas/) | 6 octubre 2001
+Judas | [Suicidio asistido - Símbolos cristianos](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-10-5-2-hr-judas/) | 5 octubre 2001
+Judas | [Violencia justificada - Almas gemelas](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-10-6-2-hr-judas/) | 6 octubre 2001
 Judas | [La educación de Jesús en Egipto](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-10-8-1-hr-judas/) | 8 octubre 2001
 Judas | [José y María regresan a Nazaret](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-10-9-1-hr-judas/) | 9 octubre 2001
 Judas | [La situación política en Galilea](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-10-11-1-hr-judas/) | 11 octubre 2001
-Judas | [El libro de Urantia – La Trinidad – Canalización](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-10-12-1-hr-judas/) | 12 octubre 2001
+Judas | [El libro de Urantia - La Trinidad – Canalización](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-10-12-1-hr-judas/) | 12 octubre 2001
 Judas | [La singularidad de la percepción – La meta de la armonía](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-10-14-1-hr-judas/) | 14 octubre 2001
 Judas | [El joven Jesús, María y José llegan de nuevo a Nazaret](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-10-15-1-hr-judas/) | 15 octubre 2001
 Judas | [Realizar tus deseos – La Ley del Deseo](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-10-16-1-hr-judas/) | 16 octubre 2001
