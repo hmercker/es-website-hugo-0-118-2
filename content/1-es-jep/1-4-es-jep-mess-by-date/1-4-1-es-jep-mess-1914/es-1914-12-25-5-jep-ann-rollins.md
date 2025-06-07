@@ -19,4 +19,4 @@ Sí; escuché lo que dijo y él sabe que lo escuché. Debes creer, porque él nu
 
 Estas demasiado cansado para escribir más ahora.
 
-Tu amorosa abuela, Ann Rollins.
+Tu amorosa abuela, Anne Rollins.

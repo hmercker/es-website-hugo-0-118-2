@@ -9,6 +9,10 @@ weight: 10
 ---
 ### Revelaciones de Jesús sobre el Nuevo Testamento
 
+El Dr. Samuels recibió estas revelaciones durante el período de 1954 a 1966. Para obtener más detalles sobre el Dr. Samuels, [consulta esta página](/2-es-dgs/2-4-es-about-dgs/).
+
+La secuencia de numeración empleada aquí es la que originalmente utilizó la Iglesia del Nuevo Nacimiento en sus publicaciones. Una publicación más reciente de la Iglesia de la Verdad Divina, “Revelaciones del Nuevo Testamento de Jesús de Nazaret” (NTR), ha reenumerado estos mensajes. En muchos sentidos, su nueva secuencia de numeración es una mejora, pero para evitar confusiones durante las búsquedas en Internet he decidido conservar la secuencia anterior. La secuencia NTR también se establece dentro de cada mensaje.
+
 **Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---
 Jesús | [Revelación 1: La relación entre Jesús y su primo](/2-es-dgs/2-1-es-dgs-revelations/es-rev-1-1955-3-24-samuels-jesus/) | 24 de marzo de 1955
@@ -19,7 +23,7 @@ Jesús | [Revelación 5: Por qué no se le aceptó a Jesús como el Mesías](/2-
 Jesús | [Revelación 6: La creación del hombre](/2-es-dgs/2-1-es-dgs-revelations/es-rev-6-16-august-8-september-1955-samuels-jesus/) | 16 de agosto y 8 de septiembre de 1955
 Jesús | [Revelación 7: El Reino de Dios está dentro de ustedes](/2-es-dgs/2-1-es-dgs-revelations/es-rev-7-1955-11-7-samuels-jesus/) | 7 de noviembre de 1955
 Jesús | [Revelación 8: Jesús explica la omnipresencia de Dios](/2-es-dgs/2-1-es-dgs-revelations/es-rev-8-31-march-13-april-1955-samuels-jesus/) | 31 de marzo y 13 de abril de 1955
-Jesús | [Revelación 9: La niñez de Jesús en Egipto](/2-es-dgs/2-1-es-dgs-revelations/es-rev-9-1955-1-10-samuels-jesus/) | 10 de enero de 1955
+Jesús | [Revelación 9: La infancia de Jesús en Egipto](/2-es-dgs/2-1-es-dgs-revelations/es-rev-9-1955-1-10-samuels-jesus/) | 10 de enero de 1955
 Jesús | [Revelación 10: El encuentro de Jesús con Nicodemo](/2-es-dgs/2-1-es-dgs-revelations/es-rev-10-1960-7-12-samuels-jesus/) | 12 de julio de 1960
 Jesús | [Revelación 11: El sudario es una realidad](/2-es-dgs/2-1-es-dgs-revelations/es-rev-11-14-september-10-october-1955-samuels-jesus/) | 14 de septiembre y 10 de octubre de 1955
 Jesús | [Revelación 12: Jesús explica pasajes en el Evangelio según Juan](/2-es-dgs/2-1-es-dgs-revelations/es-rev-12-7-14-30-june-1955-samuels-jesus/) | 7, 14 y 30 de junio de 1955

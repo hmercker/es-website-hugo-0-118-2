@@ -25,7 +25,7 @@ Me gustaría escribirle una larga y amorosa carta esta noche, pero Helen dice qu
 
 Así que dile que iré a casa con él y que trataré de hacerle sentir mi presencia y el amor por él que ahora llena mi alma.
 
-Te doy gracias y diré “buenas noches”.
+Te doy gracias y diré *“buenas noches”*.
 
 Su única y por siempre alma gemela, Mary.
 <small>

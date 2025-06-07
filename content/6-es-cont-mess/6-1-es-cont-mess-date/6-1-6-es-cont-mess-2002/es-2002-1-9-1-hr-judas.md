@@ -1,10 +1,12 @@
 ---
-title: "La canalización y la influencia de las creencias arraigadas"
+title: "Canalización y la influencia de creencias arraigadas"
 menu_title: ""
-description: "La canalización y la influencia de las creencias arraigadas"
-date: 2025-04-01 00:00:00+00:00
+description: "Canalización y la influencia de creencias arraigadas"
+date: 2025-04-01 06:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
-### La canalización y la influencia de las creencias arraigadas
+### Canalización y la influencia de creencias arraigadas
+
+Judas - recibido por H___ el 9 de enero de 2002, Cuenca, Ecuador.

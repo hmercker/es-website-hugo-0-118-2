@@ -71,4 +71,4 @@ Mi querido hijo, te he escrito una comunicación larga aunque imperfecta, pero h
 
 Así que sin escribir más, diré que te amo con todo mi corazón y mi alma, y oraré al Padre para que te dé este Gran Amor en toda su abundancia.
 
-Tu querida abuela, Ann Rollins.
+Tu querida abuela, Anne Rollins.

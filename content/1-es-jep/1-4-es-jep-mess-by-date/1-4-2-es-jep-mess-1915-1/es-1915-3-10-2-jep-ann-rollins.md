@@ -51,4 +51,4 @@ No creo que esos mortales que afirman que dejaron sus cuerpos y entraron en las 
 
 Así, con todo mi amor, soy tu amorosa abuela.
 
-Ann Rollins.
+Anne Rollins.

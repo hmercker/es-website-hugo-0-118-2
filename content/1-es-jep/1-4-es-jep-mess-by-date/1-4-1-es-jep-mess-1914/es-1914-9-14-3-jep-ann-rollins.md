@@ -23,4 +23,4 @@ Dale mi amor a tu amigo y dile que estoy muy interesada en su bienestar espiritu
 
 Buenas noches, y que el amor de Dios yazca contigo y te guarde de todo pecado e infelicidad para siempre.
 
-Tu abuela, Ann Rollins.
+Tu abuela, Anne Rollins.

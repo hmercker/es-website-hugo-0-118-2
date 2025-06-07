@@ -19,4 +19,4 @@ Me impresionó bastante la seriedad con la que escribió, el gran esfuerzo de su
 
 No escribiré más esta noche porque estás considerablemente agotado por tu escritura.
 
-Entonces, con todo mi amor y mis mejores deseos para tu bienestar, soy tu amada abuela, Ann Rollins.
+Entonces, con todo mi amor y mis mejores deseos para tu bienestar, soy tu amada abuela, Anne Rollins.

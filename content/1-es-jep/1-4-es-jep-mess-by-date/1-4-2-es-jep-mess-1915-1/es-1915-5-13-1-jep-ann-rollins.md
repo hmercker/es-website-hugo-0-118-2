@@ -43,7 +43,7 @@ La puesta a prueba no se limita a la vida terrenal, sino que afecta tanto al hom
 
 A veces los hombres no intentan aprovechar todas las ventajas de esta puesta a prueba en la tierra y vienen al mundo de los espíritus con todos sus pensamientos y pecados materiales, con sus almas muertas, como dijo Jesús, y descubren que en tal condición, como espíritus, les resulta más difícil despertar de tal estado y progresar; y me informan de que algunos espíritus llevan muchos, muchos años en este mundo y aún no han tenido un despertar. Con lo cual debes ver la importancia de aprovechar la probación de la tierra.
 
-Bueno, querido hijo, he escrito mucho y debo parar ahora, aunque me gustaría escribirte por mucho más tiempo. Así que con todo mi amor cerraré y firmaré tu amorosa abuela, Ann Rollins.
+Bueno, querido hijo, he escrito mucho y debo parar ahora, aunque me gustaría escribirte por mucho más tiempo. Así que con todo mi amor cerraré y firmaré tu amorosa abuela, Anne Rollins.
 <small>
 
 Los retratos de los distintos seguidores de Jesús están [disponibles aquí](/3-es-judas/3-3-es-portraits-apostles/). El retrato de Jesús que te recomendamos está [aquí]( /portraits/es-jesus-lamb.jpg). Juan también da una descripción muy similar de Jesús [en este mensaje](/1-es-jep/1-4-es-jep-mess-by-date/1-4-5-es-jep-mess-1917/es-1917-6-3-1-jep-st-john/).

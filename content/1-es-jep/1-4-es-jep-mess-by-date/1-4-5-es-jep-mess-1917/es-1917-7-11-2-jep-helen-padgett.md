@@ -13,7 +13,7 @@ Helen Padgett - recibido por James Padgett el 11 de julio de 1917, Washington, D
  
 Estoy aquí, tu verdadera y amorosa Helen.
 
- Bueno, querido, vi que querías que te escribiera y, como estoy muy dispuesta y ansiosa, cumplo con tus deseos. Había aquí muchos más espíritus que buscaban ayuda, pero escucharon tus pensamientos y muchos de ellos se fueron con los espíritus brillantes que estaban esperando para mostrarles el camino hacia la luz. Tenía la intención de escribir mi carta esta noche, pero estás demasiado somnoliento y por eso no lo intentaré.
+Bueno, querido, vi que querías que te escribiera y, como estoy muy dispuesta y ansiosa, cumplo con tus deseos. Había aquí muchos más espíritus que buscaban ayuda, pero escucharon tus pensamientos y muchos de ellos se fueron con los espíritus brillantes que estaban esperando para mostrarles el camino hacia la luz. Tenía la intención de escribir mi carta esta noche, pero estás demasiado somnoliento y por eso no lo intentaré.
 
 Estaba con vosotros hoy cuando Harry estuvo en tu oficina, y me alegré mucho de veros a todos tan felices en vuestra reunión. Harry es un muchacho muy adorable y le amo mucho, y quiero que sea feliz como se merece. Tiene un corazón lleno de amor y bondad, y un profundo sentir hacia ti, su hermana y su hermano.
 

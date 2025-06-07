@@ -37,7 +37,7 @@ Así que dile al Sr. Colburn que no debe creer que durante toda la eternidad el 
 
 Estoy muy interesada en él, porque es un hombre de pensamiento profundo y busca la verdad con toda honestidad, y espero que deje que sus pensamientos se orienten en la dirección que traerá a su mente y conciencia las reales y verdaderas cosas de su Padre. Él no es muy dogmático ni es tozudo para captar la verdad si se presenta de manera razonable. No debe dejar que sus ideas preconcebidas, incluso si se basan en lo que la Biblia parece enseñarle, le impidan abrazar las verdaderas ideas sobre la relación del hombre con Dios y con su destino. Así que dale mi amor, y dile que busque, y encontrará, aunque a veces pueda ser sacudido ante algunas proposiciones que se le presenten, porque tengo la intención de decirle lo que sé sobre estos asuntos cuandoquiera que tenga la oportunidad. He escrito mucho más de lo que pretendía y debo parar. Así que buenas noches mi querido nieto.
 
-Tu amorosa abuela, Ann Rollins.
+Tu amorosa abuela, Anne Rollins.
 <small>
 
 [^1]: En este sitio web el Reino Celestial sobre el que Jesús enseñó es llamado *“El Reino de Dios”*.

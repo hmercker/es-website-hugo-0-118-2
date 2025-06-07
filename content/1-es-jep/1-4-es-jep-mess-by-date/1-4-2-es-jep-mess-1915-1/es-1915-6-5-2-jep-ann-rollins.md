@@ -79,7 +79,7 @@ Y así entenderás el gran dicho de la Biblia: *“Buscad ante todo el Reino de 
 
 En fin, te he escrito una larga carta y debo parar. Así que con todo el amor de una dedicada abuela, te diré buenas noches.
 
-Ann Rollins.
+Anne Rollins.
 <small>
 
 [^1]: Es decir, que para subir de la segunda a la cuarta se debe pasar por la tercera; y para ascender de la cuarta a la sexta, se ha de pasar por la quinta.

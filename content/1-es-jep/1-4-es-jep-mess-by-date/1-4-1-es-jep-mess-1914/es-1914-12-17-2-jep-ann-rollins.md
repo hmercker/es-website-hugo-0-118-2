@@ -29,4 +29,4 @@ Sí, maravilloso. Él (el Sr. Riddle) ahora está viendo que la oración es la �
 
 Así que deja que tu oración vaya hacia Dios por él, como lo estamos haciendo todos.
 
-Tu abuela Ann Rollins.
+Tu abuela Anne Rollins.

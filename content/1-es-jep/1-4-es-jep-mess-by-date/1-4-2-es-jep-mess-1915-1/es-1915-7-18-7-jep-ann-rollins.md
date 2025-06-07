@@ -29,4 +29,4 @@ Así que créelo. Estimo que será el grupo de espíritus más maravilloso que j
 
 Así, mi querido hijo, debo parar ahora y decir que soy tu auténtica y amorosa abuela.
 
-Ann Rollins.
+Anne Rollins.

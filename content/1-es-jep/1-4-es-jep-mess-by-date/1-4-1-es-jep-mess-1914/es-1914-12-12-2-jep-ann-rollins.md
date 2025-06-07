@@ -39,4 +39,4 @@ Pero a raíz de ésto no debes pensar que nosotros no amamos intensamente tambi�
 
 Mi querido muchacho, debemos dejar de escribir ahora porque no estás en condiciones de escribir más. Así que te diré buenas noches y que Dios te bendiga y te guarde en Su Amor y cuidado.
 
-Tu amorosa abuela, Ann Rollins.
+Tu amorosa abuela, Anne Rollins.

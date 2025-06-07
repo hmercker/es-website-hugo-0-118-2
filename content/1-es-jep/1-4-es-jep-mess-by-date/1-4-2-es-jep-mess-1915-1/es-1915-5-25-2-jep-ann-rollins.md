@@ -19,4 +19,4 @@ Cuanto más pienso en el gran trabajo para el que has sido seleccionado, más me
 
 Así que, con toda tu fe y seriedad, trata de alcanzar la condición espiritual más elevada posible para que puedas ser capaz de recibir y escribir las importantes y hasta ahora tapadas verdades que el Maestro te revelará. Él es tan serio en que estas verdades sean dadas a la humanidad que, al elegirte, te ha hecho el mayor honor posible.
 
-Tu amorosa abuela, Ann Rollins.
+Tu amorosa abuela, Anne Rollins.

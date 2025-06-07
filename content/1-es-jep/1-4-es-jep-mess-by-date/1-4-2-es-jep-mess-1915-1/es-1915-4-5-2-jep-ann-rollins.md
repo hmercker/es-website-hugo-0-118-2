@@ -35,7 +35,7 @@ Sé que nos amas a todos, y creo que también le amas a él, y cuando te digo qu
 
 Me gustaría escribir más esta noche, pero hay otros aquí que están muy ansiosos por escribirte y dejaré de hacerlo.
 
-Tu verdadera y amorosa abuela Ann Rollins.
+Tu verdadera y amorosa abuela Anne Rollins.
 <small>
 
 Este mensaje es una combinación de dos que se publican en el Volumen II, página 45 y en el Volumen III, página 267. Para más detalles, [consulta esta página](/1-es-jep/1-3-es-jesus-true-gosp/1-3-9-es-jep-mess-duplicates/).

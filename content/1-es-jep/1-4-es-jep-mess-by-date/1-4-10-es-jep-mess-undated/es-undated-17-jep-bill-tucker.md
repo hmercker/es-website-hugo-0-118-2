@@ -21,6 +21,6 @@ Quiero salir de este lugar y desearía poder volver a la tierra nuevamente y des
 
 Mi nombre era Bill Tucker, vivía en la ciudad de Nueva York y morí hace sólo unos años.
 
-Bueno; pregunté por él y me dice: "Vamos, Bill", y con él me voy, así que ahora debes disculparme.
+Bueno; pregunté por él y me dice: *"Vamos, Bill"*, y con él me voy, así que ahora debes disculparme.
 
 Buenas noches.

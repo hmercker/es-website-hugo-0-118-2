@@ -25,7 +25,7 @@ Los espíritus aquí son mucho más bellos que los de cualquier otra esfera. Son
 
 Sí, me encontré con algunos espíritus que conocí en la tierra, pero no muchos; algunos de los hombres y mujeres verdaderamente cristianos que vivieron, amaron y adoraron a Dios, y que fallecieron mucho antes que yo. Mis queridos padres han progresado a esta esfera y estaban listos para recibirme; ¡y qué contentos estaban de recibirme y llevarme a sus brazos de amor!
 
-Bueno, no debo escribir más esta noche porque no estás en condiciones de escribir más. Así pues, con todo mi amor, que es mucho más grande que la última vez que te escribí, soy tu verdadera y amorosa abuela. (Ann Rollins)
+Bueno, no debo escribir más esta noche porque no estás en condiciones de escribir más. Así pues, con todo mi amor, que es mucho más grande que la última vez que te escribí, soy tu verdadera y amorosa abuela. (Anne Rollins)
 <small>
 
 Este mensaje es una combinación de dos que se publican en el Volumen II, página 60 y en el Volumen III, página 107. Para más detalles, [consulta esta página](/1-es-jep/1-3-es-jesus-true-gosp/1-3-9-es-jep-mess-duplicates/).

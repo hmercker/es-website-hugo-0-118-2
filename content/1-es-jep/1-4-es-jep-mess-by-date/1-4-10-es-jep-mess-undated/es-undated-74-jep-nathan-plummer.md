@@ -32,5 +32,6 @@ No escribiré más ahora, pero nuevamente expreso mi gratitud, mi amor y mis bue
 Tu viejo amigo, Nathan Plummer.
 <small>
 
-P.D.: Estuve muy relacionado con Nathan y su esposa, y durante un tiempo viví en su casa en Washington, D.C. y hablé con la Sra. Plummer de que la sangre de Jesús no lavaría sus pecados ni le daría derecho a ir al Cielo. Le dije, cuando estaba en la tierra, que sólo el Amor Divino que entraba en su alma en respuesta a los anhelos de su alma en oración ferviente al Padre le daría derecho a entrar en los Cielos Divinos. – Dr. Leslie Stone.
+**P.D.:** Estuve muy relacionado con Nathan y su esposa, y durante un tiempo viví en su casa en Washington, D.C. y hablé con la Sra. Plummer de que la sangre de Jesús no lavaría sus pecados ni le daría derecho a ir al Cielo. Le dije, cuando estaba en la tierra, que sólo el Amor Divino que entraba en su alma en respuesta a los anhelos de su alma en oración ferviente al Padre le daría derecho a entrar en los Cielos Divinos. – Dr. Leslie Stone.
+
 Nathan Plummer escribió el [mensaje del Vol. I](/1-es-jep/1-4-es-jep-mess-by-date/1-4-5-es-jep-mess-1917/es-1917-1-8-1-jep-nathan-plummer/): *“Es difícil aprender sobre las cosas celestiales en el infierno”*, con una letra *“B”* para proteger su nombre en ese momento. – Leslie R. Stone.
