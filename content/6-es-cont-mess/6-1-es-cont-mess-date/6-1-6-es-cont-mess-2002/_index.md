@@ -62,6 +62,7 @@ Judas | [Ponte en pie y haz que cuentes (3)](/6-es-cont-mess/6-1-es-cont-mess-da
 Judas | [El mayordomo desleal](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-4-19-1-hr-judas/) | 19 abril 2002
 Judas | [¿Demonios arrojados a los cerdos? Jesús predica a los paganos](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-4-25-1-hr-judas/) | 25 abril 2002
 Judas | [La mediumnidad y el valor de los mensajes](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-4-28-1-hr-judas/) | 28 abril 2002
+Judas | [El Anticristo](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-4-29-1-hr-judas/) | 29 abril 2002
 Judas | [Los samaritanos, parte 1](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-4-30-1-hr-judas/) | 30 abril 2002
 Judas | [Los samaritanos, parte 2](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-5-1-1-hr-judas/) | 1 mayo 2002
 Judas | [Los samaritanos, parte 3](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-5-2-1-hr-judas/) | 2 mayo 2002

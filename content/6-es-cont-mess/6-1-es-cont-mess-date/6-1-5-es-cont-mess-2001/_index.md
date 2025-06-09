@@ -11,6 +11,7 @@ weight:
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
+Jesús | [Mensaje en trance de Jesús](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-6-24-1-ar-jesus/) | 24 junio 2001
 Jesús | [Escuchar tu voz interior](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-8-17-1-hr-jesus/) | 17 agosto 2001
 Anónimo | [El alma](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-8-19-1-hr-anonymous/) | 19 agosto 2001
 Judas | [Comunicación y mediumnidad](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-8-20-2-hr-judas/) | 20 agosto 2001
