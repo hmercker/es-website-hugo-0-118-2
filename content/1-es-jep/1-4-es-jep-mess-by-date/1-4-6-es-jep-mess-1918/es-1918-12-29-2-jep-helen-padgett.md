@@ -13,7 +13,7 @@ Helen Padgett - recibido por James Padgett el 29 de diciembre de 1918, Washingto
 
 Estoy aquí, tu verdadera y amorosa Helen.
 
-Bueno, querido, me alegra que hayas recibido el mensaje de Juan, porque veo que estás ansioso por recibir [una explicación detallada de la verdad de la segunda venida](/4-es-jesus/4-6-es-second-coming/) del Maestro, para que no sólo tú, sino el mundo que lee estos los mensajes pueda entender. Juan vendrá pronto; todo depende de ti.
+Bueno, querido, me alegra que hayas recibido el mensaje de Juan, porque veo que estás ansioso por recibir [una explicación detallada de la verdad de la segunda venida](/4-es-jesus/4-6-es-jesus-more-topics/4-6-1-es-second-coming/) del Maestro, para que no sólo tú, sino el mundo que lee estos los mensajes pueda entender. Juan vendrá pronto; todo depende de ti.
 
 Bueno, nuestra Baby estaba muy feliz de poder escribirte y decirte cuánto te ama, lo feliz que es y con qué rapidez está progresando. Quedó un poco decepcionada por no poder escribir, pero como comprende el motivo accedió y dijo que esperaría. Ella está progresando muy rápido y volviéndose muy hermosa a medida que el Amor llena su alma. Debes pensar en ella y amarla mucho.
 

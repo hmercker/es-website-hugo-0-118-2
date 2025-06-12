@@ -49,7 +49,7 @@ Entre ambos extremos hay una amplia gama de diferentes grados de disociación, c
 
 Ya he escrito cómo la información transmitida por los espíritus se transforma en pensamientos del mortal, sus propios pensamientos, y ahí radica el peligro, que los propios pensamientos e ideas del médium puedan colarse sin ser detectados.
 
-En este sentido, la escritura mediúmnica no es superior a otras formas de mediumnidad. Pero podemos intentarlo. Necesitarás tiempo y paciencia, y si tu poder disociativo es lo bastante fuerte, podrías recibir mensajes *«automáticamente»*; si no, recibirás mensajes por dictado, lo cual es igualmente bueno.
+En este sentido, la escritura mediúmnica no es superior a otras formas de mediumnidad. Pero podemos intentarlo. Necesitarás tiempo y paciencia, y si tu poder disociativo es lo bastante fuerte, podrías recibir mensajes «automáticamente»; si no, recibirás mensajes por dictado, lo cual es igualmente bueno.
 
 La recepción automática de mensajes tiene cierto efecto psicológico, dando al médium más confianza en el resultado obtenido. No te cuento todo esto para menguar tu confianza, sino para decirte que lo que hemos logrado hasta ahora es muy satisfactorio tal como es. Pero Alfredo tiene razón, porque puede ser una experiencia hermosa para ti. Y de hecho hay una gran ventaja: Todo queda explicado de inmediato. Simplemente no se te olvida nada. Aunque también me gusta tu costumbre de repetir toda la información obtenida antes de irme.
 

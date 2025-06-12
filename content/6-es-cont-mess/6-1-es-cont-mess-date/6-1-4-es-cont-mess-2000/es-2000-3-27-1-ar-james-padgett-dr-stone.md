@@ -9,7 +9,7 @@ weight:
 ---
 ### Promoviendo el Amor entre nosotros
 
-James E. Padgett & Dr Stone - Recibido por Amada Reza 27 de marzo de 2000, Santa Cruz, CA, EE.UU.
+James E. Padgett & Dr Stone - Recibido por Amada Reza el 27 de marzo de 2000, Santa Cruz, CA, EE.UU.
 
 Querido Dios, te pido una afluencia de Tu Amor Divino en este momento, para que pueda estar en sintonía con Tus Ángeles Celestiales que nos guían y protegen. Te pido fe en el poder de Tu Amor para transformarme en una nueva creación, nacida en Tu Amor Divino. Mediante este Amor en mi alma, que pueda yo ser más capaz de elevarme del plano terreno para establecer una sintonía con las mentes y almas de los Celestiales que están aquí con nosotros. Que estemos protegidos de la influencia de los espíritus inferiores, para que no interfieran con esta transmisión, y que ellos puedan aprender de Tu Don y Tu Misericordia. Te amo, mi querido Dios, y sólo quiero hacer Tu Voluntad. Si puedo ser un instrumento para que los ángeles transmitan sus pensamientos, por favor, úsame como tal. Gracias, Dios. Te amo. Amén.
 

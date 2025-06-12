@@ -11,3 +11,4 @@ weight:
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
+San Juan y María | [La visión del alma (continuación)](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-8-es-cont-mess-2004/es-2004-12-27-1-ar-john-mary/) | 27 diciembre 2004

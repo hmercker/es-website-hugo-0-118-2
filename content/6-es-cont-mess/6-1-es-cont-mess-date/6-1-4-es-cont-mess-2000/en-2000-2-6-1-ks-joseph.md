@@ -8,3 +8,5 @@ hidden: True
 weight:
 ---
 ### Sobre José de Arimatea
+
+José - recibido por Kathryn Stokes el 6 de febrero de 2000, Santa Cruz, CA, EE.UU.

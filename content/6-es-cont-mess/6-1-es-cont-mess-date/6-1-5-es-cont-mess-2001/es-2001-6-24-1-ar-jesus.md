@@ -9,5 +9,5 @@ weight:
 ---
 ### Mensaje en trance de Jesús
 
-Jesús - recibido por Amada Reza el 24 de junio de 2001, Santa Cruz, CA, UU.EE.
+Jesús - recibido por Amada Reza el 24 de junio de 2001, Santa Cruz, CA, EE.UU.
 

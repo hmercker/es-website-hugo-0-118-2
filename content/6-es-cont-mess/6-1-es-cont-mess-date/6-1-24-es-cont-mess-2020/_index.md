@@ -11,3 +11,4 @@ weight:
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
+Jesús | [La voluntad de Dios](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-24-es-cont-mess-2020/es-2020-10-13-2-af-jesus/) | 13 octubre 2020

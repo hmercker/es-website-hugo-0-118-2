@@ -11,9 +11,12 @@ weight:
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
+Jesús | [La curación continuó](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-1-23-1-ar-jesus/) | 23 enero 2001
 Jesús | [Mensaje en trance de Jesús](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-6-24-1-ar-jesus/) | 24 junio 2001
+San Juan | [Amor perfecto = resultados perfectos](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-7-15-1-ar-john-the-beloved/) | 15 julio 2001
 Jesús | [Escuchar tu voz interior](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-8-17-1-hr-jesus/) | 17 agosto 2001
 Anónimo | [El alma](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-8-19-1-hr-anonymous/) | 19 agosto 2001
+Judas | [Judas](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-8-20-1-hr-judas/) | 20 agosto 2001
 Judas | [Comunicación y mediumnidad](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-8-20-2-hr-judas/) | 20 agosto 2001
 Judas | [El incidente del templo](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-8-21-1-hr-judas/) | 21 agosto 2001
 Judas | [La eficacia de la oración](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-8-22-1-hr-judas/) | 22 agosto 2001
@@ -88,4 +91,5 @@ Judas | [Un solo grueso libro](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-co
 Judas | [La comunicación de la Verdad y el uso de parábolas](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-12-12-1-hr-judas/) | 12 diciembre 2001
 Judas | [El peso del Amor](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-12-14-1-hr-judas/) | 14 diciembre 2001
 Judas | [Fiestas religiosas](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-12-17-1-hr-judas/) | 17 diciembre 2001
+Judas | [Jesús y Judas, ¿amigos de la infancia?](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-12-26-1-hr-judas/) | 26 diciembre 2001
 Judas | [Estados de trance y mediumnidad](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-12-27-1-hr-judas/) | 27 diciembre 2001

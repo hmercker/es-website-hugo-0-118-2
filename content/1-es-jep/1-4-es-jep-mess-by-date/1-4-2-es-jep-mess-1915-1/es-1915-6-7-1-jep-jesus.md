@@ -55,4 +55,4 @@ Bueno, creo que ahora tienes demasiado sueño como para continuar bien, porque n
 Tu hermano y amigo, Jesús.
 <small>
 
-Nota: Un [mensaje contemporáneo de Judas](the-education-of-jesus-in-egypt-hr-8-oct-2001/****) afirma que Jesús tuvo en realidad cinco hermanos y dos hermanas, y de hecho da sus nombres.
+Nota: Un [mensaje contemporáneo de Judas](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-10-8-1-hr-judas/) afirma que Jesús tuvo en realidad cinco hermanos y dos hermanas, y de hecho da sus nombres.

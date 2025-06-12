@@ -20,6 +20,7 @@ Judas | [Confianza en Dios](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-7-es-cont-
 Judas | [La falta de esperanza que existe en los infiernos](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-7-es-cont-mess-2003/es-2003-2-5-1-hr-judas/) | 5 febrero 2003
 Judas | [Salir de los infiernos](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-7-es-cont-mess-2003/es-2003-2-6-1-hr-judas/) | 6 febrero 2003
 Judas | [Así es como es](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-7-es-cont-mess-2003/es-2003-2-25-1-hr-judas/) | 25 febrero 2003
+Rey David | [Participa al menos con tus oraciones](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-7-es-cont-mess-2003/es-2003-3-20-1-pjr-king-david/) | 20 marzo 2003
 Judas | [Las dinámicas de la vida 1: El mal](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-7-es-cont-mess-2003/es-2003-3-21-1-hr-judas/) | 21 marzo 2003
 Judas | [Las dinámicas de la vida 2: El Amor](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-7-es-cont-mess-2003/es-2003-3-21-2-hr-judas/) | 21 marzo 2003
 Judas | [Pilato toma el poder en el año 26](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-7-es-cont-mess-2003/es-2003-3-28-1-hr-judas/) | 28 marzo 2003

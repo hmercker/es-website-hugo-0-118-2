@@ -68,6 +68,11 @@ Judas | [Los samaritanos, parte 2](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-e
 Judas | [Los samaritanos, parte 3](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-5-2-1-hr-judas/) | 2 mayo 2002
 Judas | [El buen samaritano](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-5-3-1-hr-judas/) | 3 mayo 2002
 Judas | [Las diez tribus perdidas de Israel](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-5-5-1-hr-judas/) | 5 mayo 2002
+Judas | [El Alma de Dios](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-5-8-1-hr-judas/) | 8 mayo 2002
+Judas | [Dios según Saramago](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-5-10-1-hr-judas/) | 10 mayo 2002
+Judas | [Verdad y falsas creencias – Parte 1](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-5-13-1-hr-judas/) | 13 mayo 2002
+Judas | [Verdad y falsas creencias – Parte 2](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-5-16-1-hr-judas/) | 16 mayo 2002
+Judas | [Verdad y falsas creencias – Parte 3](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-5-17-1-hr-judas/) | 17 mayo 2002
 Judas | [Las mujeres en torno a Jesús](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-5-22-1-hr-judas/) | 22 mayo 2002
 Judas | [Salomé](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-5-28-1-hr-judas/) | 28 mayo 2002
 Judas | [Esclavitud](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-6-4-1-hr-judas/) | 4 junio 2002
