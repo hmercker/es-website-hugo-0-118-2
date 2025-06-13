@@ -118,6 +118,7 @@ Echa un vistazo al calendario de fiestas judías (consulta el último mes, el n�
 El calendario judío:
 
 **Año** | **Mes** | **Mes hebreo** | **Días** | **Mes gregoriano** | **Estación** | **Producción** | **Festivales**
+---|---|---|---|---|---|---|---
 1 | 7 | Nisan/Abib | 30 | marzo-abril  | Lluvias primaverales (Deut 11:14)/Inundaciones (Joshua 3:15) | Cebada madura | 10 Yom HaAliyah/14 La Pascua (Pésaj)/15-21 Pan ázimo (Jag Ha-Matsot)    
 2 | 8 | Iyyar/Ziv | 29 | abril-mayo | Se acerca el verano/no llueve de abril a septiembre (1 Sam 12:17) | Cosecha de la cebada (Ruth 1:22) | 14 Segunda Pascua (para aquellos que no pudieron celebrar la primera)
 3 | 9 | Sivan | 30 | mayo-junio |  |  | 6 Pentecostés (Shavuot)
@@ -131,7 +132,6 @@ El calendario judío:
 11 | 5 | Shebat | 30 | enero-febrero  | El clima gradualmente se templa |  | 15 Tu Bishvat ("Año Nuevo de los Árboles")
 12 | 6 | Adar/Adar Alef/Adar Rishón | 29 | febrero-marzo | Truenos y granizo frecuentes/Los almendros florecen |  | 13 Ayuno de Ester (Ta'anit Ester)/14-15 Purim  
 13 | Año bisiesto | Veadar/Adar Beth/Adar Sheni/Sheni - Mes intercalar | 29 |  marzo-abril  |  |  | 14-15 Purim
-<small>
 
 #### 4. Inconsistencias en el mensaje
 
