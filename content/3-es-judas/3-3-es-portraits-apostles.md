@@ -37,7 +37,7 @@ La Sábana Santa ha sido ampliamente estudiada y existen pruebas científicas de
 
 Si estás al día con la investigación científica, también sabrás que el Santo Sudario de Turín finalmente ha sido re-evaluado exhaustivamente, y que la evidencia científica es abrumadoramente favorable a su autenticidad. Por ello, nos complace incluir varias fotos derivadas de ella.
 
-![turin-face](/portraits/es-turin-face.jpg)
+<div style="text-align: center;">![turin-face](/portraits/es-turin-face.jpg)</div>
 
 Sin duda esta imagen está protegida por los derechos de autor de quien la creó. Pero el sitio web donde la encontré ha cerrado, y tenía pocos detalles sobre su posible propietario.
 
@@ -46,8 +46,8 @@ Sin duda esta imagen está protegida por los derechos de autor de quien la creó
 #### Otras personalidades
 
    
-![pilate](/portraits/es-pilate.jpg) |  ![machiventa](/portraits/es-machiventa.jpg)
+<div style="text-align: center;">![pilate](/portraits/es-pilate.jpg) |  <div style="text-align: center;">![machiventa](/portraits/es-machiventa.jpg)
 ---|---
-[Pilato](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-3-25-1-hr-judas/) | Melquisedec
+<div style="text-align: center;">[Pilato](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-3-25-1-hr-judas/) | <div style="text-align: center;">Melquisedec
 
 *Los derechos de autor de estas imágenes pertenecen a Geoff Cutler 2013.*
