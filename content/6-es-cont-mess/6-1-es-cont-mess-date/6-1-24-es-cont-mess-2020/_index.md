@@ -11,4 +11,5 @@ weight:
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
+Andrés | [Siembra las semillas del amor de Dios](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-24-es-cont-mess-2020/es-2020-8-29-1-jw-andrew/) | 29 agosto 2020
 Jesús | [La voluntad de Dios](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-24-es-cont-mess-2020/es-2020-10-13-2-af-jesus/) | 13 octubre 2020

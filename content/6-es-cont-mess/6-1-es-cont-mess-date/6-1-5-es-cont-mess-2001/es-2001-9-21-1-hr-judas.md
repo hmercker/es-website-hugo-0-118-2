@@ -11,7 +11,7 @@ weight:
 
 Judas - recibido por H___ el 21 de septiembre de 2001, Cuenca, Ecuador.
 
-Mi querido hermano H___, ha sido un enorme placer seguir el intercambio de ideas que has tenido con M___. Es un alma verdaderamente hermosa y el progreso que ha logrado en tan poco tiempo es admirable. Como recordarás, hemos hablado varias veces de la ampliación de la consciencia, y ella es un ejemplo típico de este proceso. Me gustaría aprovechar esta oportunidad para expresar mis comentarios al respecto.
+Mi querido hermano H___ , ha sido un enorme placer seguir el intercambio de ideas que has tenido con M___ . Es un alma verdaderamente hermosa y el progreso que ha logrado en tan poco tiempo es admirable. Como recordarás, hemos hablado varias veces de la ampliación de la consciencia, y ella es un ejemplo típico de este proceso. Me gustaría aprovechar esta oportunidad para expresar mis comentarios al respecto.
 
 Vuestra «conversación» versó sobre la voz interior. Y esto es excelente, porque demuestra que ambos habéis comprendido la inmensa importancia que esta voz tiene. Es la puerta de comunicación entre espíritus y mortales. Es la puerta para comunicarse con nuestro Padre Celestial; en otras palabras, para seguir un camino recto y seguro. Es absolutamente vital desarrollar esta voz, o mejor dicho, la percepción de esta voz.
 
@@ -87,7 +87,7 @@ Sí, Jesús está aquí; le has visto, ¿verdad? Está aquí porque el tema es m
 
 Primero, intenta alcanzar la armonía en tu «subconsciente», sintonizándote con las fuentes adecuadas. Lucas [escribió estas sabias palabras](/1-es-jep/1-4-es-jep-mess-by-date/1-4-4-es-jep-mess-1916/es-1916-11-30-1-jep-st-luke/):
 
-*«Si bien el Satanás personal no existe, la idea que transmite la necesidad de atarlo para que se produzca este milenio es verdadera, y se aplica a la relación real de los hombres con esos espíritus malvados, excepto que, en el caso de estos últimos, no es necesario o ni siquiera posible atarlos, sino desatarlos; es decir, romper su vínculo o influencia sobre los hombres, pues cuando esto se hace los hombres se vuelven, por así decirlo, libres, y es como si esos espíritus malvados no existieran».*
+> Si bien el Satanás personal no existe, la idea que transmite la necesidad de atarlo para que se produzca este milenio es verdadera, y se aplica a la relación real de los hombres con esos espíritus malvados, excepto que, en el caso de estos últimos, no es necesario o ni siquiera posible atarlos, sino desatarlos; es decir, romper su vínculo o influencia sobre los hombres, pues cuando esto se hace los hombres se vuelven, por así decirlo, libres, y es como si esos espíritus malvados no existieran.
 
 Para hacer esto hay que orar.
 

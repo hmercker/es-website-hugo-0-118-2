@@ -39,15 +39,15 @@ En definitiva, ha habido cambios radicales en mi vida, o mejor dicho, en mi acti
 
 Y ella te respondió, entre otras cosas, con un poema:
 
-[H.: M___ respondió:
+*H.: M___ respondió:*
 
-> Como el maestro es el sabio, que dice la verdad, 
-entre el habla y el pensamiento, entre el coraje y la debilidad, 
-el único fundamento que elegir, es la verdad. 
-Digo la verdad, dice el Coraje. 
-Rechazo la verdad, dice la Debilidad. Sigo mi camino persistente, dice el Habla. 
-Sigo enredado en mi rechazo, dice el Pensamiento. 
-Los pensadores son débiles atados a la mente. El sabio dice la verdad.]
+> *Como el maestro es el sabio, que dice la verdad,*  
+*entre el habla y el pensamiento, entre el coraje y la debilidad,*  
+*el único fundamento que elegir, es la verdad.*  
+*Digo la verdad, dice el Coraje.*  
+*Rechazo la verdad, dice la Debilidad. Sigo mi camino persistente, dice el Habla.*  
+*Sigo enredado en mi rechazo, dice el Pensamiento.*  
+*Los pensadores son débiles atados a la mente. El sabio dice la verdad.* 
 
 No simplemente leas esto; piénsalo. Es sabiduría.
 

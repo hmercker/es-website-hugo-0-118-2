@@ -45,7 +45,7 @@ A veces recibíamos la visita de espíritus luminosos, pero yo les evitaba y me 
 
 ¡Y nada que hacer! Sólo pensar, cavando en mis recuerdos. Llegué incluso al punto de culpar a Jesús de mi situación. ¿Por qué no había actuado como yo había previsto? ¿Acaso no era culpa suya? ¿Por qué no usó sus poderes? Pero estos pensamientos tampoco me aliviaban.
 
-Un día me morí de miedo al ver a Andrés, sí, [el apóstol Andrés, uno de mis antiguos compañeros](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-22-es-cont-mess-2018/es-2018-3-2-1-af-andrew/).1 Quise esconderme, pero él me vio. Esperaba un ataque verbal, insultos, pero no, Andrés me sonrió, me tomó de la mano y me condujo a un lugar tranquilo, donde me habló. Me habló de Jesús, de nuestra vida juntos, de los bellos momentos que pasamos durante nuestros viajes por Palestina. Me dio mucho alivio.
+Un día me morí de miedo al ver a Andrés, sí, [el apóstol Andrés, uno de mis antiguos compañeros](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-22-es-cont-mess-2018/es-2018-3-2-1-af-andrew/). [^1] Quise esconderme, pero él me vio. Esperaba un ataque verbal, insultos, pero no, Andrés me sonrió, me tomó de la mano y me condujo a un lugar tranquilo, donde me habló. Me habló de Jesús, de nuestra vida juntos, de los bellos momentos que pasamos durante nuestros viajes por Palestina. Me dio mucho alivio.
 
 Después de eso Andrés regresaba con frecuencia, y yo aguardaba lleno de ansias esos momentos de alegría en mi triste y negativo mundo. Estaba tan lleno de amor, sin reproches, que me hacía sentir bien, muy bien, casi podría decir feliz. Pero por otro lado mis recuerdos me dolían cada vez más.
 
@@ -75,3 +75,5 @@ Tu hermano en Cristo, Judas.
 <small>
 
 © Los derechos de autor se afirman en este mensaje por Geoff Cutler 2013
+
+[^1]: [En 2020](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-24-es-cont-mess-2020/es-2020-8-29-1-jw-andrew/) se recibió otra confirmación más de esto.
