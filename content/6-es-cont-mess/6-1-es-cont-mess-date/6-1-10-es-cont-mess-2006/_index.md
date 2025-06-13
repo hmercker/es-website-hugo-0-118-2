@@ -18,3 +18,4 @@ Emerson | [Emerson sigue sin creer en el Amor Divino](/6-es-cont-mess/6-1-es-con
 Socrates | [Nuestra brújula interior superior](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-10-es-cont-mess-2006/es-2006-7-19-1-fab-socrates/) | 19 julio 2006
 Jesús | [La ubicación de Dios](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-10-es-cont-mess-2006/es-2006-10-21-2-fab-jesus/) | 21 octubre 2006
 James Padgett | [Los primeros años de vida del señor Padgett](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-10-es-cont-mess-2006/es-2006-11-11-1-fab-james-padgett/) | 11 noviembre 2006
+Jesús | [La naturaleza exacta de los cargos en el juicio de Jesús](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-10-es-cont-mess-2006/es-2006-12-21-1-fab-jesus/) | 21 diciembre 2006
