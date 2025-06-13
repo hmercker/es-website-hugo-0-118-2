@@ -153,7 +153,7 @@ El calendario judío:
 
 Desafortunadamente, además de los problemas que plantean las reformas del calendario, existen inconsistencias en las canalizaciones del Dr. Samuels que hacen aún más difícil o problemático el establecimiento de fechas.
 
-En «*[Revelación 18: El primer milagro y otras absurdidades](/2-es-dgs/2-1-es-dgs-revelations/es-rev-18-6-9-13-22-december-1954-samuels-jesus/)*» leemos:
+En *«[Revelación 18: El primer milagro y otras absurdidades](/2-es-dgs/2-1-es-dgs-revelations/es-rev-18-6-9-13-22-december-1954-samuels-jesus/)»* leemos:
 
 *«También en los evangelios de Marcos y Mateo se menciona mi regreso de Betania a Jerusalén el lunes de la Semana Santa. Cuentan que, estando hambriento, me detuve junto a una higuera con hojas brotando, pero que al no encontrar ningún fruto maldije el árbol que, según el evangelio de Mateo, se secó al instante. Lo cierto es que acababa de regresar de casa de Lázaro, donde había disfrutado de un buen desayuno servido por Marta y preparado por María, y que no tenía hambre, sino simplemente curiosidad pues, al ser principios de abril, no era época de higos, y al ver hojas en el árbol, esperaba ver higos incipientes. Quiero dejar claro que nunca maldije a nada ni a nadie, ni a una higuera, ni a Corazín, ni a Cafarnaúm, la ciudad a orillas del lago Gennasaret, pues vine a salvar y no a destruir. Además, el árbol no empezó a marchitarse milagrosamente, y no fue Mateo quien escribió esas palabras, sino otro, muchos años después, interesado en demostrar mi divinidad mediante la única forma en que podía entender mi mesianismo: poderes sobrenaturales en lugar del desarrollo del alma».*
 

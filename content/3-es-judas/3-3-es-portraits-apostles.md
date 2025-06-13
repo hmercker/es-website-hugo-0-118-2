@@ -45,8 +45,9 @@ Sin duda esta imagen está protegida por los derechos de autor de quien la creó
 
 #### Otras personalidades
 
----|---|---     
-![pilate](/portraits/es-pilate.jpg) |  ![machiventa](/portraits/es-machiventa.jpg) |
-[Pilato](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-3-25-1-hr-judas/) | Melquisedec |
+   
+![pilate](/portraits/es-pilate.jpg) |  ![machiventa](/portraits/es-machiventa.jpg)
+---|---
+[Pilato](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-3-25-1-hr-judas/) | Melquisedec
 
 *Los derechos de autor de estas imágenes pertenecen a Geoff Cutler 2013.*
