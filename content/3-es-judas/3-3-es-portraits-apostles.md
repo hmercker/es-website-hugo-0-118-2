@@ -9,13 +9,21 @@ weight: 30
 ---
 ### Retratos de los Apóstoles
 
+Estos retratos son el resultado de la comunicación entre el médium H. y Judas. Él es capaz de transmitir una imagen de cada apóstol, que H. es capaz de reproducir. Esta sección fue concebida originalmente como: «Retratos de los Doce Apóstoles». Judas me reprendió amablemente en [este mensaje](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-9-29-1-hr-judas/), diciendo que nunca hubo sólo doce apóstoles. Supongo que yo debería haberlo presentido, puesto que por ejemplo María Magdalena fue una de las seguidoras cercanas de Jesús.
+
+Para construir estos retratos se usan técnicas informáticas modernas, a menudo a partir de un rostro similar, algo semejante al método del kit de identificación policial. H. recibió formación artística formal y, en su juventud, se ganaba la vida copiando a los grandes maestros, por lo que reproducir imágenes grabadas en la mente no es tan difícil para él.
+
+Los nombres mostrados con un hipervínculo conectan con algunos detalles de esa persona.
+
+En nuestra opinión, [aquí](/portraits/es-jesus-lamb.jpg) se encuentra un buen retrato artístico de Jesús. [Ann Rollins](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-5-13-1-jep-ann-rollins/) ha dado una descripción de Jesús. Juan también dio [una descripción muy similar](/1-es-jep/1-4-es-jep-mess-by-date/1-4-5-es-jep-mess-1917/es-1917-6-3-1-jep-st-john/). La imagen de Santiago el Menor también es notablemente similar a la de Jesús. Santiago era [tan parecido a Jesús que a menudo le confundían con él](/2-es-dgs/2-1-es-dgs-revelations/es-rev-41-1955-3-3-41-samuels-jesus/). En 2018, un médium contemporáneo recibió un mensaje de Jesús que también contenía [su descripción mientras estuvo en la Tierra](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-22-es-cont-mess-2018/es-2018-4-11-1-af-jesus/).
+
 ![judas](/portraits/es-judas.jpg) | ![andrew](/portraits/es-andrew.jpg) | ![joseph](/portraits/es-joseph.jpg)  
 ---|---|---  
-[Judas]() | [Andrés]() | Josef
+[Judas]() | [Andrés]() | José
 ![matthew](/portraits/es-matthew_small.jpg) | ![james](/portraits/es-james.jpg) | ![luke](/portraits/es-luke.jpg)  
-[San Mateo]() | Santiago el Joven | Luc  
+[San Mateo]() | Santiago el Menor | Lucas  
 ![john-mark](/portraits/es-john-marcus.jpg) | ![nathanael](/portraits/es-nathanael.jpg) | ![simon](/portraits/es-simon.jpg)  
-Jean Marc | [Nathanael]() | [Simón]()  
+Juan Marcos | [Natanael]() | [Simón]()  
 ![john-zebedaeus](/portraits/es-john-zebedaeus.jpg) |   |
 [Juan Zebedeo]() |   |
 
@@ -25,9 +33,13 @@ Un retrato aparentemente realista de Jesús se puede encontrar [aquí](http://ww
 
 La Sábana Santa ha sido ampliamente estudiada y existen pruebas científicas de que es auténtica.  Por lo tanto, también lo hemos incluido en esta lista.
 
-#### La Sábana Santa de Turín
+#### La imagen de la Sábana de Turín
+
+Si estás al día con la investigación científica, también sabrás que el Santo Sudario de Turín finalmente ha sido re-evaluado exhaustivamente, y que la evidencia científica es abrumadoramente favorable a su autenticidad. Por ello, nos complace incluir varias fotos derivadas de ella.
 
 ![turin-face](/portraits/es-turin-face.jpg)
+
+Sin duda esta imagen está protegida por los derechos de autor de quien la creó. Pero el sitio web donde la encontré ha cerrado, y tenía pocos detalles sobre su posible propietario.
 
 *Los derechos de autor de esta imagen pertenecen a la persona que la creó.*
 
@@ -35,6 +47,6 @@ La Sábana Santa ha sido ampliamente estudiada y existen pruebas científicas de
 
 ![pilate](/portraits/es-pilate.jpg) |  ![machiventa](/portraits/es-machiventa.jpg) |
 ---|---|---  
-[Pilato](************) | Melquisedek |
+[Pilato](************) | Melquisedec |
 
 *Los derechos de autor de estas imágenes pertenecen a Geoff Cutler 2013.*

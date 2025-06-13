@@ -30,7 +30,6 @@ Y luego está el problema del calendario hebreo. El calendario judío se basa ta
 Dado que un mes se define como un ciclo lunar (de luna nueva a luna nueva), esta diferencia de 11’25 días no se puede superar agregando días a un mes como en el calendario gregoriano, por lo que periódicamente se agrega un mes entero al año, lo que hace que algunos años tengan 13 meses de duración.
 
 Por razones astronómicas y ceremoniales, el inicio de un nuevo año puede retrasarse uno o dos días después de la luna nueva, lo que provoca variaciones en la duración de los años. Los años bisiestos pueden durar entre 383 y 385 días, y los años comunes, entre 353 y 355 días. Estos son los meses del año y sus posibles duraciones:
-<small>
 
 **Mes** |  | **Año común** |  |  | **Año bisiesto** |  | 
 ---|---|---|---|---|---|---|---
@@ -48,7 +47,6 @@ Por razones astronómicas y ceremoniales, el inicio de un nuevo año puede retra
 12 Av | 30 | 30 | 30 | 30 | 30 | 30 | 
 13 Elul | 29 | 29 | 29 | 29 | 29 | 29 | 
 Totals | 353 | 354 | 354 | 384 | 385 | 386 | 
-</small>
 
 Adar II (Veadar), el mes añadido para los años bisiestos, a veces se denomina el decimotercer mes, pero he optado por asignarle el número 7 para mantener el orden cronológico de los meses. Esto podría no ser coherente con otros esquemas de numeración.
 
@@ -133,12 +131,12 @@ Si la fecha dada es correcta, Jesús no habría muerto en Pascua, ¡¡¡sino en 
 Echa un vistazo al calendario de fiestas judías (consulta el último mes, el número 13, Veadar):
 
 El calendario judío:
-
 <small>
+
 **Año** | **Mes** | **Mes hebreo** | **Días** | **Mes gregoriano** | **Estación** | **Producción** | **Festivales**
 ---|---|---|---|---|---|---|---
-1 | 7 | Nisan/Abib | 30 | marzo-abril  | Lluvias primaverales (Deut 11:14)/Inundaciones (Joshua 3:15) | Cebada madura | 10 Yom HaAliyah/14 La Pascua (Pésaj)/15-21 Pan ázimo (Jag Ha-Matsot)    
-2 | 8 | Iyyar/Ziv | 29 | abril-mayo | Se acerca el verano/no llueve de abril a septiembre (1 Sam 12:17) | Cosecha de la cebada (Ruth 1:22) | 14 Segunda Pascua (para aquellos que no pudieron celebrar la primera)
+1 | 7 | Nisan/Abib | 30 | marzo-abril  | <small>Lluvias primaverales (Deut 11:14)/Inundaciones (Joshua 3:15) | <small>Cebada madura | 10 Yom HaAliyah/14 La Pascua (Pésaj)/15-21 Pan ázimo (Jag Ha-Matsot)    
+2 | 8 | Iyyar/Ziv | 29 | abril-mayo | <small>Se acerca el verano/no llueve de abril a septiembre (1 Sam 12:17) | <small>Cosecha de la cebada (Ruth 1:22) | 14 Segunda Pascua (para aquellos que no pudieron celebrar la primera)
 3 | 9 | Sivan | 30 | mayo-junio |  |  | 6 Pentecostés (Shavuot)
 4 | 10 | Tammuz | 29 |  junio-julio  | Temporada de calor |  | 17 Ayuno por la toma de Jerusalén
 5 | 11 | Ab/Av  | 30 | julio-agosto | Los arroyos se secan/Calor intenso | Vendimia (Lev 26:5) | 9 Ayuno por la destrucción del Templo  
