@@ -15,27 +15,27 @@ Judas - recibido por H___ el 5 de noviembre de 2001, Cuenca, Ecuador.
 
 Le escribiste que uno de los momentos clave de tu vida fue cuando te diste cuenta de que el conocimiento no lo era todo.
 
-[H.: Escribí: En Austria, los maestros de primaria son graduados de academias educativas. No tienen un título académico. Pero los maestros universitarios son graduados universitarios y tienen un máster o un doctorado.
+*H.: Escribí: En Austria, los maestros de primaria son graduados de academias educativas. No tienen un título académico. Pero los maestros universitarios son graduados universitarios y tienen un máster o un doctorado.*
 
-Bueno, antes llamábamos "Maestro" a los maestros de primaria y "Profesor" a los de universidad. Pero tras cuatro años de decir "Maestro", sucedió que uno de mis compañeros, en primer año, al comienzo de ese nuevo ciclo escolar, llamó "Maestro" al profesor. Y con eso él [aquí, en el original, viene una palabra de cuatro letras] explotó como una bomba: "¡Cómo te atreves!", vociferó. "¿Estás loco? La próxima vez, ¿por qué no me llamas basurero o ferroviario?".
+*Bueno, antes llamábamos "Maestro" a los maestros de primaria y "Profesor" a los de universidad. Pero tras cuatro años de decir "Maestro", sucedió que uno de mis compañeros, en primer año, al comienzo de ese nuevo ciclo escolar, llamó "Maestro" al profesor. Y con eso él [aquí, en el original, viene una palabra de cuatro letras] explotó como una bomba: "¡Cómo te atreves!", vociferó. "¿Estás loco? La próxima vez, ¿por qué no me llamas basurero o ferroviario?*".
 
-Mi padre era ferroviario. Y así me dieron a «entender» que él era basura, y por lo tanto, que yo también lo era.
+*Mi padre era ferroviario. Y así me dieron a «entender» que él era basura, y por lo tanto, que yo también lo era.*
 
-Y comprendí (instintivamente, porque a esa edad [de diez años] el razonamiento no está tan desarrollado, creo) que sólo a través de logros podría abrirme camino. Y así sucedió.
+*Y comprendí (instintivamente, porque a esa edad [de diez años] el razonamiento no está tan desarrollado, creo) que sólo a través de logros podría abrirme camino. Y así sucedió.*
 
-Por ejemplo, cuando el profesor (ese mismo) le hacía un examen oral a un alumno y este no sabía la respuesta, solía reprenderle con dureza [lo expresé más crudamente en mi carta]. Pero si el alumno era hijo de otro profesor, o de un miembro "distinguido" de la sociedad, simplemente decía: "Pero, hijo mío, ¿qué te pasa? Sé que sabes la respuesta; sé que estudias; he hablado con tus padres. ¿Estás nervioso? Bueno, cálmate, siéntate y mañana seguiremos".
+*Por ejemplo, cuando el profesor (ese mismo) le hacía un examen oral a un alumno y este no sabía la respuesta, solía reprenderle con dureza [lo expresé más crudamente en mi carta]. Pero si el alumno era hijo de otro profesor, o de un miembro "distinguido" de la sociedad, simplemente decía: "Pero, hijo mío, ¿qué te pasa? Sé que sabes la respuesta; sé que estudias; he hablado con tus padres. ¿Estás nervioso? Bueno, cálmate, siéntate y mañana seguiremos".*
 
-Me gradué como el mejor estudiante de mi curso; de hecho me gradué como uno de los mejores de la universidad. Era muy buen ajedrecista (lo cual era muy importante para mí), y a pesar de mi talento gráfico rechacé las artes, en parte porque estas incluían muy poco de lo intelectual, o eso creía yo.
+*Me gradué como el mejor estudiante de mi curso; de hecho me gradué como uno de los mejores de la universidad. Era muy buen ajedrecista (lo cual era muy importante para mí), y a pesar de mi talento gráfico rechacé las artes, en parte porque estas incluían muy poco de lo intelectual, o eso creía yo.*
 
-El intelecto era todo para mí, porque «sabía» que sólo a través de él podía desarrollarme, pues yo no pertenecía a la «sociedad».
+*El intelecto era todo para mí, porque «sabía» que sólo a través de él podía desarrollarme, pues yo no pertenecía a la «sociedad».*
 
-Ahora desprecio a la nobleza, a esos "ricos" con sus fiestas y fotos en las revistas, porque representan precisamente a quienes me obligaron a rendir más que ellos para lograr menos. Comprendí que yo nací con todas las puertas bien cerradas ante mí.
+*Ahora desprecio a la nobleza, a esos "ricos" con sus fiestas y fotos en las revistas, porque representan precisamente a quienes me obligaron a rendir más que ellos para lograr menos. Comprendí que yo nací con todas las puertas bien cerradas ante mí.*
 
-Ahora estoy experimentando algún cambio, y finalmente soy consciente de mis «desprecios», de mis deficiencias, y me doy cuenta de que ciertas puertas tal vez han estado y siguen estando cerradas para mí, pero que por lo mismo tengo la oportunidad de abrir otras puertas, más importantes, ante las que la gente pasa sin prestarles atención.
+*Ahora estoy experimentando algún cambio, y finalmente soy consciente de mis «desprecios», de mis deficiencias, y me doy cuenta de que ciertas puertas tal vez han estado y siguen estando cerradas para mí, pero que por lo mismo tengo la oportunidad de abrir otras puertas, más importantes, ante las que la gente pasa sin prestarles atención.*
 
-Esto es lo que estoy haciendo ahora.
+*Esto es lo que estoy haciendo ahora.*
 
-En definitiva, ha habido cambios radicales en mi vida, o mejor dicho, en mi actitud o apreciación de las cosas. ¡Qué pena que esto me haya llevado tanto tiempo!]
+*En definitiva, ha habido cambios radicales en mi vida, o mejor dicho, en mi actitud o apreciación de las cosas. ¡Qué pena que esto me haya llevado tanto tiempo!*
 
 Y ella te respondió, entre otras cosas, con un poema:
 

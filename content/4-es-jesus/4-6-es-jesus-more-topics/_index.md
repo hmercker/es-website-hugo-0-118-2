@@ -12,4 +12,4 @@ weight: 60
 | **Tema**
 |---
 | [La Segunda Venida de Jesús](/4-es-jesus/4-6-es-jesus-more-topics/4-6-1-es-second-coming/)
-| [Las fechas probables del nacimiento y la muerte de Jesús](/4-es-jesus/4-6-es-jesus-more-topics/4-6-2-es-jesus-dates-birth-death/)
+| [Las fechas probables del nacimiento y muerte de Jesús](/4-es-jesus/4-6-es-jesus-more-topics/4-6-2-es-jesus-dates-birth-death/)
