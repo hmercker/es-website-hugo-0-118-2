@@ -39,7 +39,7 @@ Por razones astronómicas y ceremoniales, el inicio de un nuevo año puede retra
 4 Tevet | 29 | 29 | 29 | 29 | 29 | 29 | 
 5 Shevat | 30 | 30 | 30 | 30 | 30 | 30 | 
 6 Adar | 29 | 29 | 29 | 30 | 30 | 30 | variable
-7 Adar II (=Veadar) |  |  |  | 30 | 30 | 30 | opcional
+7 Veadar |  |  |  | 30 | 30 | 30 | opcional
 8 Nisan | 30 | 30 | 30 | 30 | 30 | 30 | 
 9 Iyyar | 29 | 29 | 29 | 29 | 29 | 29 | 
 10 Sivan | 30 | 30 | 30 | 30 | 30 | 30 | 
@@ -131,24 +131,23 @@ Si la fecha dada es correcta, Jesús no habría muerto en Pascua, ¡¡¡sino en 
 Echa un vistazo al calendario de fiestas judías (consulta el último mes, el número 13, Veadar):
 
 El calendario judío:
-<small>
 
-**Año** | **Mes** | **Mes hebreo** | **Días** | **Mes gregoriano** | **Estación** | **Producción** | **Festivales**
+<small>**Año** | <small>**Mes** | <small>**Mes hebreo** | <small>**Días** | <small>**Mes gregoriano** | <small>**Estación** | <small>**Producción** | <small>**Festivales**
 ---|---|---|---|---|---|---|---
-1 | 7 | Nisan/Abib | 30 | marzo-abril  | <small>Lluvias primaverales (Deut 11:14)/Inundaciones (Joshua 3:15) | <small>Cebada madura | 10 Yom HaAliyah/14 La Pascua (Pésaj)/15-21 Pan ázimo (Jag Ha-Matsot)    
-2 | 8 | Iyyar/Ziv | 29 | abril-mayo | <small>Se acerca el verano/no llueve de abril a septiembre (1 Sam 12:17) | <small>Cosecha de la cebada (Ruth 1:22) | 14 Segunda Pascua (para aquellos que no pudieron celebrar la primera)
-3 | 9 | Sivan | 30 | mayo-junio |  |  | 6 Pentecostés (Shavuot)
-4 | 10 | Tammuz | 29 |  junio-julio  | Temporada de calor |  | 17 Ayuno por la toma de Jerusalén
-5 | 11 | Ab/Av  | 30 | julio-agosto | Los arroyos se secan/Calor intenso | Vendimia (Lev 26:5) | 9 Ayuno por la destrucción del Templo  
-6 | 12 | Elul | 29 | agosto-septiembre | Calor intenso (2 Kings 4:19) | Cosecha de la uva (Num 13:23) | Preparación para Rosh Hashaná y Yom Kipur (mes de Tishri)
-7 | 1 | Tishri/Tishrei/Ethanim | 30 | septiembre-octubre | Comienzan las lluvias tempranas (Joel 2:23) | Tiempo de siembra/Comienza el arado y la siembra | Año nuevo (Rosh Hashaná o ‘cabeza del año’)/Día del Toque de Trompeta (shofar)/Día del Juicio y Memorial (Num 29:1)/10 Día de expiación (Lev 16) o Yom Kipur/15-22 Fiesta de los Tabernáculos (Sucot)/21 (Lev 23:24)/22 Asamblea Solemne
-8 | 2 | Heshvan/Cheshvan/Marchesran/Bul | 29 | octubre-noviembre |  | Periodo de lluvias/Siembra de trigo y cebada | 
-9 | 3 | Chislev/Kislev  | 29 | noviembre-diciembre | Invierno - Comienza el frío/Nieva en las montañas |  | 25 Fiesta de la Dedicación (Hanukkah) (Juan 10:22, 29)
-10 | 4 | Tebeth | 29 | diciembre-enero | El mes más frío/Granizo, nieve y barro (Josh 10:11) |  | 10 Ayuno por el asedio de Jerusalén
-11 | 5 | Shebat | 30 | enero-febrero  | El clima gradualmente se templa |  | 15 Tu Bishvat ("Año Nuevo de los Árboles")
-12 | 6 | Adar/Adar Alef/Adar Rishón | 29 | febrero-marzo | Truenos y granizo frecuentes/Los almendros florecen |  | 13 Ayuno de Ester (Ta'anit Ester)/14-15 Purim  
-13 | Año bisiesto | Veadar/Adar Beth/Adar Sheni/Sheni - Mes intercalar | 29 |  marzo-abril  |  |  | 14-15 Purim
-</small>
+<small>1 | <small>7 | <small>Nisan | <small>30 | <small>marzo-abril  | <small>Lluvias primaverales (Deut 11:14)/Inundaciones (Joshua 3:15) | <small>Cebada madura | <small>10 Yom HaAliyah/14 La Pascua (Pésaj)/15-21 Pan ázimo (Jag Ha-Matsot)    
+<small>2 | <small>8 | <small>Iyyar | <small>29 | <small>abril-mayo | <small>Se acerca el verano (1 Sam 12:17) | <small>Cosecha de la cebada (Ruth 1:22) | <small>14 Segunda Pascua
+<small>3 | <small>9 | <small>Sivan | <small>30 | <small>mayo-junio |  |  | <small>6 Pentecostés (Shavuot)
+<small>4 | <small>10 | <small>Tammuz | <small>29 |  <small>junio-julio  | <small>Temporada de calor |  | <small>17 Ayuno por la toma de Jerusalén
+<small>5 | <small>11 | <small>Av  | <small>30 | <small>julio-agosto | <small>Los arroyos se secan/Calor intenso | <small>Vendimia (Lev 26:5) | <small>9 Ayuno por la destrucción del Templo  
+<small>6 | <small>12 | <small>Elul | <small>29 | <small>agosto-septiembre | <small>Calor intenso (2 Kings 4:19) | <small>Cosecha de la uva (Num 13:23) | <small>Preparación para Rosh Hashaná y Yom Kipur
+<small>7 | <small>1 | <small>Tishri | <small>30 | <small>septiembre-octubre | <small>Lluvias tempranas (Joel 2:23) | <small>Época de siembra | <small>Año nuevo (Rosh Hashaná o ‘cabeza del año’)/Día del Toque de Trompeta (shofar)/Día del Juicio y Memorial (Num 29:1)/10 Día de expiación (Lev 16) o Yom Kipur/15-22 Fiesta de los Tabernáculos (Sucot)/21 (Lev 23:24)/22 Asamblea Solemne
+<small>8 | <small>2 | <small>Heshvan | <small>29 | <small>octubre-noviembre |  | <small>Periodo de lluvias/Siembra de trigo y cebada | 
+<small>9 | <small>3 | <small>Kislev  | <small>29 | <small>noviembre-diciembre | <small>Invierno - Comienza el frío/Nieva en las montañas |  | <small>25 Fiesta de la Dedicación (Hanukkah) (Juan 10:22, 29)
+<small>10 | <small>4 | <small>Tebeth | <small>29 | <small>diciembre-enero | <small>El mes más frío/Granizo, nieve y barro (Josh 10:11) |  | <small>10 Ayuno por el asedio de Jerusalén
+<small>11 | <small>5 | <small>Shebat | <small>30 | <small>enero-febrero  | <small>El clima gradualmente se templa |  | <small>15 Tu Bishvat ("Año Nuevo de los Árboles")
+<small>12 | <small>6 | <small>Adar | <small>29 | <small>febrero-marzo | <small>Truenos y granizo frecuentes/Los almendros florecen |  | <small>13 Ayuno de Ester (Ta'anit Ester)/14-15 Purim  
+<small>13 | <small>Año bisiesto | <small>Veadar (Mes intercalar) | <small>29 |  <small>marzo-abril  |  |  | <small>14-15 Purim
+
 
 #### 4. Inconsistencias en el mensaje
 

@@ -19,13 +19,13 @@ En nuestra opinión, [aquí](/portraits/es-jesus-lamb.jpg) se encuentra un buen 
 
 ![judas](/portraits/es-judas.jpg) | ![andrew](/portraits/es-andrew.jpg) | ![joseph](/portraits/es-joseph.jpg)  
 ---|---|---  
-[Judas]() | [Andrés]() | José
+[Judas](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-8-20-1-hr-judas/) | [Andrés](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-2-5-1-hr-judas/) | [José](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-4-es-joseph/)
 ![matthew](/portraits/es-matthew_small.jpg) | ![james](/portraits/es-james.jpg) | ![luke](/portraits/es-luke.jpg)  
-[San Mateo]() | Santiago el Menor | Lucas  
+[Mateo](/11-es-teachers-truth/11-2-es-desciples-jesus/11-2-7-es-matthew/) | [Santiago el Menor](/11-es-teachers-truth/11-2-es-desciples-jesus/11-2-9-es-james-alpheus/) | [Lucas](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-6-es-luke/)  
 ![john-mark](/portraits/es-john-marcus.jpg) | ![nathanael](/portraits/es-nathanael.jpg) | ![simon](/portraits/es-simon.jpg)  
-Juan Marcos | [Natanael]() | [Simón]()  
+[Juan Marcos](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-3-es-mark/) | [Natanael](/11-es-teachers-truth/11-2-es-desciples-jesus/11-2-6-es-bartholomew/) | [Simón](/11-es-teachers-truth/11-2-es-desciples-jesus/11-2-11-es-simon/)  
 ![john-zebedaeus](/portraits/es-john-zebedaeus.jpg) |   |
-[Juan Zebedeo]() |   |
+[Juan Zebedeo](/11-es-teachers-truth/11-2-es-desciples-jesus/11-2-4-es-john-beloved/) |   |
 
 *Los derechos de autor de estas imágenes pertenecen a Geoff Cutler 2013.*
 
@@ -45,8 +45,8 @@ Sin duda esta imagen está protegida por los derechos de autor de quien la creó
 
 #### Otras personalidades
 
+---|---|---     
 ![pilate](/portraits/es-pilate.jpg) |  ![machiventa](/portraits/es-machiventa.jpg) |
----|---|---  
-[Pilato](************) | Melquisedec |
+[Pilato](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-6-es-cont-mess-2002/es-2002-3-25-1-hr-judas/) | Melquisedec |
 
 *Los derechos de autor de estas imágenes pertenecen a Geoff Cutler 2013.*
