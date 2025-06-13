@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-### Las fechas probables del nacimiento y muerte de Jesús
+## Las fechas probables del nacimiento y muerte de Jesús
 
 **Resumen:** Jesús probablemente nació el miércoles 7 de enero del año 7 a.C., y murió probablemente el viernes 18 de marzo del año 29 d.C., en la Pascua. A continuación se presenta una exposición detallada de este punto de vista.
 
@@ -30,8 +30,25 @@ Y luego está el problema del calendario hebreo. El calendario judío se basa ta
 Dado que un mes se define como un ciclo lunar (de luna nueva a luna nueva), esta diferencia de 11’25 días no se puede superar agregando días a un mes como en el calendario gregoriano, por lo que periódicamente se agrega un mes entero al año, lo que hace que algunos años tengan 13 meses de duración.
 
 Por razones astronómicas y ceremoniales, el inicio de un nuevo año puede retrasarse uno o dos días después de la luna nueva, lo que provoca variaciones en la duración de los años. Los años bisiestos pueden durar entre 383 y 385 días, y los años comunes, entre 353 y 355 días. Estos son los meses del año y sus posibles duraciones:
+<small>
 
-AÑO COMÚN AÑO BISIESTO 1-Tishri 30 30 30 30 30 30 2-Heshvan 29 29 30 29 29 30 variable 3-Kislev 29 30 30 29 30 30 variable 4-Tevet 29 29 29 29 29 29 5-Shevat 30 30 30 30 30 30 6-Adar I 29 29 29 30 30 30 variable 7-Adar II (=Veadar) - - - 29 29 29 opcional 8-Nisan 30 30 30 30 30 30 9-Iyyar 29 29 29 29 29 29 10-Sivan 30 30 30 30 30 30 11-Tamuz 29 29 29 29 29 29 12-Av 30 30 30 30 30 30 13-Elul 29 29 29 29 29 29 Totales: 353 354 355 383 384 385
+**Mes** |  | **Año común** |  |  | **Año bisiesto** |  | 
+---|---|---|---|---|---|---|---
+1 Tishri | 30 | 30 | 30 | 30 | 30 | 30 | 
+2 Heshvan | 29 | 29 | 29 | 29 | 29 | 30 | variable
+3 Kislev | 29 | 30 | 30 | 29 | 30 | 30 | variable
+4 Tevet | 29 | 29 | 29 | 29 | 29 | 29 | 
+5 Shevat | 30 | 30 | 30 | 30 | 30 | 30 | 
+6 Adar | 29 | 29 | 29 | 30 | 30 | 30 | variable
+7 Adar II (=Veadar) |  |  |  | 30 | 30 | 30 | opcional
+8 Nisan | 30 | 30 | 30 | 30 | 30 | 30 | 
+9 Iyyar | 29 | 29 | 29 | 29 | 29 | 29 | 
+10 Sivan | 30 | 30 | 30 | 30 | 30 | 30 | 
+11 Tammuz | 29 | 29 | 29 | 29 | 29 | 29 | 
+12 Av | 30 | 30 | 30 | 30 | 30 | 30 | 
+13 Elul | 29 | 29 | 29 | 29 | 29 | 29 | 
+Totals | 353 | 354 | 354 | 384 | 385 | 386 | 
+</small>
 
 Adar II (Veadar), el mes añadido para los años bisiestos, a veces se denomina el decimotercer mes, pero he optado por asignarle el número 7 para mantener el orden cronológico de los meses. Esto podría no ser coherente con otros esquemas de numeración.
 
@@ -117,6 +134,7 @@ Echa un vistazo al calendario de fiestas judías (consulta el último mes, el n�
 
 El calendario judío:
 
+<small>
 **Año** | **Mes** | **Mes hebreo** | **Días** | **Mes gregoriano** | **Estación** | **Producción** | **Festivales**
 ---|---|---|---|---|---|---|---
 1 | 7 | Nisan/Abib | 30 | marzo-abril  | Lluvias primaverales (Deut 11:14)/Inundaciones (Joshua 3:15) | Cebada madura | 10 Yom HaAliyah/14 La Pascua (Pésaj)/15-21 Pan ázimo (Jag Ha-Matsot)    
@@ -132,6 +150,7 @@ El calendario judío:
 11 | 5 | Shebat | 30 | enero-febrero  | El clima gradualmente se templa |  | 15 Tu Bishvat ("Año Nuevo de los Árboles")
 12 | 6 | Adar/Adar Alef/Adar Rishón | 29 | febrero-marzo | Truenos y granizo frecuentes/Los almendros florecen |  | 13 Ayuno de Ester (Ta'anit Ester)/14-15 Purim  
 13 | Año bisiesto | Veadar/Adar Beth/Adar Sheni/Sheni - Mes intercalar | 29 |  marzo-abril  |  |  | 14-15 Purim
+</small>
 
 #### 4. Inconsistencias en el mensaje
 
