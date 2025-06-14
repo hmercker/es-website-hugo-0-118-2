@@ -11,3 +11,4 @@ weight:
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
+Daniel Samuels | [Una aclaración del Nuevo Testamento](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-16-es-cont-mess-2012/es-2012-2-26-1-fab-daniel-samuels/) | 26 febrero 2012
