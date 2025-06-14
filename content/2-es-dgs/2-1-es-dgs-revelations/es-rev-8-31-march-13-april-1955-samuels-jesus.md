@@ -9,4 +9,6 @@ weight:
 ---
 ### Revelación 8: Jesús explica la omnipresencia de Dios
 
+(Este mensaje es referido como Revelación 24 en la página 64 de Revelaciones del Nuevo Testamento de Jesús de Nazaret)
+
 Jesús - recibido por el Dr Samuels el 31 de marzo y 13 de abril de 1955, Washington, DC, EEUU.
