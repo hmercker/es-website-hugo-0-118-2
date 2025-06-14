@@ -9,9 +9,9 @@ weight:
 ---
 ### Revelación 6: La creación del hombre
 
-Jesús - recibido por el Dr Samuels el 16 de agosto y 8 de septiembre de 1955, Washington, DC, EEUU.
-
 (Este mensaje es referido como Revelación 23 en la página 60 de Revelaciones del Nuevo Testamento de Jesús de Nazaret)
+
+Jesús - recibido por el Dr Samuels el 16 de agosto y 8 de septiembre de 1955, Washington, DC, EEUU.
 
 Aquí estoy, Jesús.
 
