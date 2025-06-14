@@ -9,6 +9,8 @@ weight:
 ---
 ### Mensajes de James E. Padgett posteriores a 1922
 
+El señor Padgett pasó al mundo de los espíritus el 17 de marzo de 1923; Este primer mensaje se recibió a través de Eugene Morgan cuatro días después. Y el segundo mensaje llegó aproximadamente un mes después. 
+
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
 James Padgett | [Este primer mensaje se recibió a través de Eugene Morgan cuatro días después](/1-es-jep/1-4-es-jep-mess-by-date/1-4-9-es-jep-mess-after-1922/es-1923-3-21-1-emo-james-padgett/) | 21 de marzo de 1923

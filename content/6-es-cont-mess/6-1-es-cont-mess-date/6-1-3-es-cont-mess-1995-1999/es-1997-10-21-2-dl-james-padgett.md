@@ -1,13 +1,13 @@
 ---
-title: ""
+title: "Mensaje personal"
 menu_title: ""
-description: ""
+description: "Mensaje personal"
 date: 2025-04-01 00:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
-### 
+### Mensaje personal
 
 James E. Padgett - recibido por David Lampron el 21 de octubre de 1997.
  
