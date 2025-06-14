@@ -38,7 +38,7 @@ La Sábana Santa ha sido ampliamente estudiada y existen pruebas científicas de
 
 Si estás al día con la investigación científica, también sabrás que el Santo Sudario de Turín finalmente ha sido re-evaluado exhaustivamente, y que la evidencia científica es abrumadoramente favorable a su autenticidad. Por ello, nos complace incluir varias fotos derivadas de ella.
 
-<div style="text-align: center;">![turin-face](/portraits/es-turin-face.jpg)
+<div style="text-align: center;">![turin-face](/portraits/es-turin-face.jpg)</div>
 
 Sin duda esta imagen está protegida por los derechos de autor de quien la creó. Pero el sitio web donde la encontré ha cerrado, y tenía pocos detalles sobre su posible propietario.
 
