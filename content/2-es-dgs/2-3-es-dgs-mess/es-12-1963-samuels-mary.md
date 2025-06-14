@@ -9,7 +9,7 @@ weight:
 ---
 ### El nacimiento y la juventud de Jesús según María, madre de Jesús
 
-María - recibido por el Dr Samuels el 1963, Washington, DC, EEUU.
+María - recibido por el Dr Samuels el 1963, Washington, DC, EE.UU.
 
 Estoy aquí, María.
 

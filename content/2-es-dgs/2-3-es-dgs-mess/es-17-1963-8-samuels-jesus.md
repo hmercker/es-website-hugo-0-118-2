@@ -9,5 +9,5 @@ weight:
 ---
 ### Sermón 1: El Camino hacia la Inmortalidad
 
-Jesús - recibido por el Dr Samuels el agosto de 1963, Washington, DC, EEUU.
+Jesús - recibido por el Dr Samuels el agosto de 1963, Washington, DC, EE.UU.
 
