@@ -62,3 +62,24 @@ Lee más sobre James Padgett [aquí](/1-es-padgett-messages/1-6-es-who-was-padge
 Las enseñanzas resumidas [aquí](/1-es-padgett-messages/1-1-es-summary-of-padgett-teachings/).
 
 También puedes leer más sobre El Camino del Amor Divino [aquí](/9-es-divine-love-path/).
+
+**Autor** | **Título del mensaje** | **Fecha del mensaje**  
+---|---|---
+Jesús | [Las razones dadas por Jesús en cuanto a por qué seleccionó al Sr. Padgett para hacer la labor de recibir los mensajes](/1-es-jep/1-4-es-jep-mess-by-date/1-4-6-es-jep-mess-1918/es-1918-10-25-1-jep-jesus/) | 25 de octubre de 1918
+Jesús | [Jesús dice que su misión al escribir estos mensajes es su segunda venida a la tierra](/1-es-jep/1-4-es-jep-mess-by-date/1-4-3-es-jep-mess-1915-2/es-1915-12-2-1-jep-jesus/) | 2 de diciembre de 1915
+Santiago el Menor | [Santiago el Menor desea añadir su testimonio a la Verdad de los mensajes que se reciben del Maestro y de los Espíritus Celestiales - afirma que era hijo de María y José, y hermano en la carne de Jesús](/1-es-jep/1-4-es-jep-mess-by-date/1-4-3-es-jep-mess-1915-2/es-1915-10-8-1-jep-james-the-lesser/) | 8 de octubre de 1915
+Jesús | [Jesús quiere que el mundo siga sus enseñanzas](/1-es-jep/1-4-es-jep-mess-by-date/1-4-1-es-jep-mess-1914/es-1914-9-12-1-jep-jesus/) | 12 de septiembre de 1914
+Jesús | [El Amor Divino está contactando con cada hombre](/1-es-jep/1-4-es-jep-mess-by-date/1-4-1-es-jep-mess-1914/es-1914-9-29-1-jep-jesus/) | 29 de septiembre de 1914
+Jesús | [Jesús dice 'Yo soy el Camino, la Verdad y la Vida' - Jesús dice que él no es Dios ni debe ser adorado como Dios](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-1-24-1-jep-jesus/) | 24 de enero de 1915
+Jesús | [El Sr. Padgett recibió el segundo mensaje formal de Jesús sólo unos días después, acerca la naturaleza de su Padre como mi Dios y tu Dios](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-1-31-1-jep-jesus/) | 31 de enero de 1915
+Anne Rollins | [Un mensaje de Ann Rollins](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-1-31-2-jep-ann-rollins/) | 31 de enero de 1915
+Jesús | [Jesús es el Camino, la Verdad y la Vida - él no es Dios, sino que fue enviado por el Padre para conducir a los hombres hacia Su favor y Su Amor](/1-es-jep/1-4-es-jep-mess-by-date/1-4-1-es-jep-mess-1914/es-1914-9-24-2-jep-jesus/) | 24 de septiembre de 1914
+Jesús | [Jesús asegura que es él mismo quien está escribiendo y se refiere a un espíritu que afirma haber perdido su alma](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-4-3-1-jep-jesus/) | 3 de abril de 1915
+Helen Padgett | [Helen comenta el mensaje anterior y confirma la identidad de Jesús](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-4-3-2-jep-helen-padgett/) | 3 de abril de 1915
+Anne Rollins | [Afirmando que Jesús escribe a través del Sr. Padgett, y no ningún impostor](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-4-5-2-jep-ann-rollins/) | 5 de abril de 1915
+Jesús | [El resultado de la declaración del Sr. Padgett](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-4-6-1-jep-jesus/) | 6 de abril de 1915
+Jesús | [Por qué los hombres deberían creer que él es el verdadero Jesús y por qué escribe a través del Sr. Padgett](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-6-15-1-jep-jesus/) | 15 de junio de 1915
+Helen Padgett | [Helen expresa la decepción de Jesús por no poder entregar un mensaje](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-6-15-2-jep-helen-padgett/) | 15 de junio de 1915
+Jesús | [Los esfuerzos de los espíritus por mostrar a los hombres las Verdades del Padre](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-7-8-4-jep-jesus/) | 8 de julio de 1915
+San Juan | [Juan corrobora que Jesús escribe a través del Sr. Padgett](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-6-27-1-jep-st-john/) | 27 de junio de 1915
+Juan el Bautista  | [Ha llegado el momento de que las Verdades sean dadas a conocer para que la humanidad pueda ser redimida de las falsas creencias](/1-es-jep/1-4-es-jep-mess-by-date/1-4-3-es-jep-mess-1915-2/es-1915-9-7-3-jep-john-the-baptist/) | 7 de septiembre de 1915

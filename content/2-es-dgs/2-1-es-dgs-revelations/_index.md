@@ -15,6 +15,7 @@ La secuencia de numeración empleada aquí es la que originalmente utilizó la I
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---
+Jesús | [Se le dice al Dr. Samuels que su trabajo actual resultará en un Evangelio nuevo y corregido para la humanidad](/2-es-dgs/2-1-es-dgs-revelations/es-rev-0-1954-12-22-samuels-jesus/) | 22 de diciembre de 1954
 Jesús | [Revelación 1: La relación entre Jesús y su primo](/2-es-dgs/2-1-es-dgs-revelations/es-rev-1-1955-3-24-samuels-jesus/) | 24 de marzo de 1955
 San Juan | [Revelación 2: Vida y ministerio de Juan Bautista](/2-es-dgs/2-1-es-dgs-revelations/es-rev-2-1955-3-3-samuels-st-john/) | 3 de marzo de 1955
 Jesús | [Revelación 3: El Amor Divino es un Don Privilegiado del Padre](/2-es-dgs/2-1-es-dgs-revelations/es-rev-3-21-april-und-3-may-1955-samuels-jesus/) | 21 de abril y 3 de mayo de 1955
