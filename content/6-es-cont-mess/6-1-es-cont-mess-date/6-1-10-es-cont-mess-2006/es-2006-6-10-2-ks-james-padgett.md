@@ -9,7 +9,7 @@ weight:
 ---
 ### El poder del amor para borrar el error
 
-James E. Padgett - Recibido por Kathryn Stokes 10 de junio de 2006, Santa Cruz, CA, EE.UU.
+James E. Padgett - Recibido por Kathryn Stokes el 10 de junio de 2006, Santa Cruz, CA, EE.UU.
 
 Mi querida hermana, sabes que siempre podemos compartir nuestros sentimientos y pensamientos con nuestros hermanos y hermanas mortales cada vez que estén dispuestos a permitirnos canalizar nuestros pensamientos a través de ellos. A menudo las canalizaciones se dan a una persona por una razón específica, para responder a su pregunta o para dar una guía de naturaleza personal. No todas las canalizaciones tienen que ser compartidas a menos que sea aceptable para el médium que otros las lean.
 

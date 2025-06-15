@@ -9,7 +9,7 @@ weight:
 ---
 ### La naturaleza exacta de los cargos en el juicio de Jesús
 
-Jesús - Recibido por FAB 21 de diciembre de 2006, Santa Cruz, CA, EE.UU.
+Jesús - Recibido por FAB el 21 de diciembre de 2006, Santa Cruz, CA, EE.UU.
 
 Aquí estoy, Jesús.
 

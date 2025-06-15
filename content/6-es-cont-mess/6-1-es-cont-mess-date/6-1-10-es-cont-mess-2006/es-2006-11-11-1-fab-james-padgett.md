@@ -9,7 +9,7 @@ weight:
 ---
 ### El poder del amor para borrar el error
 
-James E. Padgett - Recibido por FAB 11 de noviembre de 2006, Santa Cruz, CA, EE.UU.
+James E. Padgett - Recibido por FAB el 11 de noviembre de 2006, Santa Cruz, CA, EE.UU.
 
 Estoy aquí, James Padgett.
 

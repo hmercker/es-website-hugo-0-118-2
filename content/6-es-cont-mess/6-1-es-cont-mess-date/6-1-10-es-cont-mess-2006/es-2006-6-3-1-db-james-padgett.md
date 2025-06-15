@@ -9,7 +9,7 @@ weight:
 ---
 ### La Segunda Venida
 
-James E Padgett - Recibido por D.B. 3 de junio de 2006, Troup, TX, EE.UU.
+James E Padgett - Recibido por D.B. el 3 de junio de 2006, Troup, TX, EE.UU.
 
 Estás listo, Daniel, así que empecemos. Me gustaría responder a los comentarios de Geoff [^1] sobre cómo recibí los mensajes de mi hermano mayor en Cristo, Jesús. Geoff, tú dijiste que yo había *“obtenido el buen material”*, y es a este comentario al que *“también”* deseo referirme.
 

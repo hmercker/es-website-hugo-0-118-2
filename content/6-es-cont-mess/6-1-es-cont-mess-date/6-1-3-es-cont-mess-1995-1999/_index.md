@@ -17,5 +17,6 @@ María | [Sobre los medios que canalizan la falsedad](/6-es-cont-mess/6-1-es-con
 Jesús | [Mensaje anual de Trance](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-3-es-cont-mess-1995-1999/es-1999-6-1-1-ar-jesus/) | 1 junio 1999
 Jesús | [Sobre la autodefensa](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-3-es-cont-mess-1995-1999/es-1999-7-6-1-ks-jesus/) | 6 julio 1999
 María | [Sobre la autodefensa](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-3-es-cont-mess-1995-1999/es-1999-7-7-1-ar-mary/) | 7 julio 1999
+Jesús | [Las canalizaciones del Dr. Samuels](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-3-es-cont-mess-1995-1999/es-1999-8-1-1-ks-jesus/) | 1 agosto 1999
 Jesús | [Animando a Alfredo](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-3-es-cont-mess-1995-1999/es-1999-11-19-1-ks-jesus/) | 19 noviembre 1999
-
+Jesús | [Las canalizaciones del Dr. Samuels y la importancia de la capacidad del lector para usar las percepciones de su propia alma sobre estas verdades](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-3-es-cont-mess-1995-1999/es-1999-12-25-1-ar-jesus/) | 25 diciembre 1999

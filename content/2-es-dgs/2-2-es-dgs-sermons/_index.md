@@ -9,10 +9,13 @@ weight: 20
 ---
 ### Sermones sobre el Antiguo Testamento por Jesús
 
-Entregados por Jesús de Nazaret a través de Dr. Daniel G. Samuels.
+El Dr. Samuels recibió estos sermones entre 1957 y 1966. Cuando los encontré por primera vez no me interesaron lo más mínimo, ya que nunca había estudiado el Antiguo Testamento. Ahora encuentro que cada uno de ellos es interesante por sí mismo, pero lo que es mucho más interesante es el concepto general que transmite Jesús al llevarnos en este viaje a través del Antiguo Testamento. Por eso es útil leerlos en secuencia. Se hace evidente cómo evolucionó la fe judía, por qué los tiempos eran propicios para un Mesías y cómo el cristianismo adoptó ritos y creencias paganas para hacer que las doctrinas cristianas fueran más atractivas para los paganos, su principal mercado-diana. También nos lleva a través del viaje espiritual que Jesús mismo emprendió, al identificar, siglos antes de su nacimiento, la promesa del Amor Divino.
+
+Si deseas un PDF de estos mensajes en inglés o en francés, [prueba esta página]( https://new-birth.net/other-stuff/books-we-love/the-padgett-messages-1914-free-downloads/).
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---
+ | [Introducción a los 76 sermones del Dr. Samuels sobre el Antiguo Testamento dados por Jesús](/2-es-dgs/2-1-es-sermons/es-ser-0-introduction/) | 
 Jesús | [Sermón 1: El Camino hacia la Inmortalidad](/2-es-dgs/2-2-es-dgs-sermons/es-ser-1-1957-7-16-samuels-jesus/) | 16 de julio de 1957
 Jesús | [Sermón 2: La falta de la Cristiandad al no predicar el Amor del Padre](/2-es-dgs/2-2-es-dgs-sermons/es-ser-2-1957-8-24-samuels-jesus/) | 24 de agosto de 1957
 Jesús | [Sermón 3: La falta de la verdadera Gracia de Dios en la Cristiandad hoy en día.](/2-es-dgs/2-2-es-dgs-sermons/es-ser-3-1957-8-25-samuels-jesus/) | 25 de agosto de 1957

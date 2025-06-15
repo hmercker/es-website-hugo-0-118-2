@@ -9,7 +9,7 @@ weight:
 ---
 ### La Segunda Venida
 
-James E Padgett - Recibido por D.B. 21 de mayo de 2006, Troup, TX, EE.UU.
+James E Padgett - Recibido por D.B. el 21 de mayo de 2006, Troup, TX, EE.UU.
 
 De entrada, Daniel, hay otras personas aquí que querrían formar un grupo de luz a tu alrededor y quiero que visualices eso. Soy tu amigo y hermano en Cristo, James Padgett, a quien el Maestro eligió como su médium de la verdad en 1914. Hay muchos a quienes les gustaría desafiar y desacreditar esta obra que Jesús y yo logramos con éxito, ya que es parte de la naturaleza de la mente tener dudas y especulaciones sobre estas cosas.
 
