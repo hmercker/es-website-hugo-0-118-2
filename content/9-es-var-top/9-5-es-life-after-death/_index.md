@@ -14,7 +14,7 @@ weight: 50
 | [La muerte y el tránsito](/9-es-var-top/9-5-es-life-after-death/9-5-1-es-death-pass-over/)
 | [¿Qué les ocurre a la mayoría de almas humanas tras la muerte?](/9-es-var-top/9-5-es-life-after-death/9-5-2-es-after-death/)
 | [Los cielos espirituales y el Reino cristiano de Dios](/7-es-dl-path/7-8-es-celestial-heav/)
-| [Los infiernos, los juicios, el perdón y la resurrección](/9-es-var-top/9-5-es-life-after-death/9-5-4-es-hells/)
+| [Los infiernos, los juicios, el perdón y la resurrección](/9-es-var-top/9-5-es-life-after-death/9-5-4-es-hells-judgement-forgiv-ressur/)
 | [El estado de sueño](/9-es-var-top/9-5-es-life-after-death/9-5-5-es-sleep-state/)
 | [¿La reencarnación es verdadera o falsa?](/9-es-var-top/9-5-es-life-after-death/9-5-6-es-reincarnation/)
 | [Suicidio y suicidio asistido](/9-es-var-top/9-5-es-life-after-death/9-5-7-es-suicide/)

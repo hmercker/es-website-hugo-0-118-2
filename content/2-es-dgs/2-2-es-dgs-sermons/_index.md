@@ -15,7 +15,7 @@ Si deseas un PDF de estos mensajes en inglés o en francés, [prueba esta págin
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---
- | [Introducción a los 76 sermones del Dr. Samuels sobre el Antiguo Testamento dados por Jesús](/2-es-dgs/2-1-es-sermons/es-ser-0-introduction/) | 
+ | [Introducción a los 76 sermones del Dr. Samuels sobre el Antiguo Testamento dados por Jesús](/2-es-dgs/2-2-es-dgs-sermons/es-ser-0-introduction/) | 
 Jesús | [Sermón 1: El Camino hacia la Inmortalidad](/2-es-dgs/2-2-es-dgs-sermons/es-ser-1-1957-7-16-samuels-jesus/) | 16 de julio de 1957
 Jesús | [Sermón 2: La falta de la Cristiandad al no predicar el Amor del Padre](/2-es-dgs/2-2-es-dgs-sermons/es-ser-2-1957-8-24-samuels-jesus/) | 24 de agosto de 1957
 Jesús | [Sermón 3: La falta de la verdadera Gracia de Dios en la Cristiandad hoy en día.](/2-es-dgs/2-2-es-dgs-sermons/es-ser-3-1957-8-25-samuels-jesus/) | 25 de agosto de 1957
