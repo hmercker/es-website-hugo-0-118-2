@@ -41,10 +41,10 @@ El Jesús de la Biblia y Líder de los Mundos Celestiales.
 <small>
 
 [^1]: He recibido información que cuestiona que este nombre sea correcto, y parece que probablemente no lo sea. En mediumnidad la recepción exacta de nombres y fechas es muy difícil. Aquí está el comentario en su totalidad:
-    >Cuando intenté buscar al rey de Judea mencionado (Rekah de Judea), no pude hallar a nadie con ese nombre o ni siquiera con un nombre parecido. Además, si se tiene en cuenta la primera frase del párrafo siguiente, en la que se lee:
+    > Cuando intenté buscar al rey de Judea mencionado (Rekah de Judea), no pude hallar a nadie con ese nombre o ni siquiera con un nombre parecido. Además, si se tiene en cuenta la primera frase del párrafo siguiente, en la que se lee:
     <br><br>
-    >«De hecho, estos principados estaban tan irritados por la pasividad de Judea en ese momento (alrededor del 738 a.C.) que decidieron atacar Jerusalén. Como mencioné en mi primer sermón sobre Isaías, Acaz, hijo de Jotam, estaba en el trono de Judea.»
+    > «De hecho, estos principados estaban tan irritados por la pasividad de Judea en ese momento (alrededor del 738 a.C.) que decidieron atacar Jerusalén. Como mencioné en mi primer sermón sobre Isaías, Acaz, hijo de Jotam, estaba en el trono de Judea.»
     <br><br>
-    >Por tanto parece que Acaz era el rey de Judea en ese momento, y no un rey llamado Rekah. Y lo que es más: es muy improbable que Rezín de Siria conspirara con un rey de Judea del que se piensa que era pasivo.
+    > Por tanto parece que Acaz era el rey de Judea en ese momento, y no un rey llamado Rekah. Y lo que es más: es muy improbable que Rezín de Siria conspirara con un rey de Judea del que se piensa que era pasivo.
     <br><br>
-    >Así que empecé a investigar, y lo que encontré fue que Rezín sí conspiró contra Judá poniéndose del lado de Egipto, y lo hizo con un rey israelita llamado Pekah, un nombre que se parece mucho al de Rekah. Por tanto concluyo que la mención de Rekah de Judea me parece un lapsus y debería decir: Rekah de Israel. (Fuente: jvsjohn)
+    > Así que empecé a investigar, y lo que encontré fue que Rezín sí conspiró contra Judá poniéndose del lado de Egipto, y lo hizo con un rey israelita llamado Pekah, un nombre que se parece mucho al de Rekah. Por tanto concluyo que la mención de Rekah de Judea me parece un lapsus y debería decir: Rekah de Israel. (Fuente: jvsjohn)
