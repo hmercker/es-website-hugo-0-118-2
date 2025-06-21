@@ -11,3 +11,4 @@ weight:
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
+Josefo | [Nos aporta una mayor comprensión de quiénes somos](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-27-es-cont-mess-2023/es-2023-1-8-2-af-josephus/) | 8 enero 2023

@@ -27,7 +27,7 @@ Jesús nos abre los ojos y el corazón para que valoremos a su pueblo, a sus ant
 
 Los fideicomisarios, Fundación Iglesia de la Verdad Divina
 
->He aquí, vienen los días, dice el Señor, en que haré. 
+> He aquí, vienen los días, dice el Señor, en que haré. 
 un nuevo pacto con la casa de Israel y con la casa de Judá;  
 pondré mi ley en sus interiores, y en sus corazones la escribiré;  
 y yo seré su Dios, y ellos serán mi pueblo.  
