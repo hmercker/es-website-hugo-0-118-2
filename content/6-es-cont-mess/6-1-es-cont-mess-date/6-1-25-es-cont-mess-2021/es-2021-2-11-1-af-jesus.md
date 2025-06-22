@@ -81,5 +81,6 @@ Que vivas una vida llena de amor. Que llegues a conocer la gran alegría que es 
 Tened fe en vosotros mismos, amados. Tened una verdadera comprensión de vuestra naturaleza, de quién y qué sois. Venid a conocer a Dios. Vengan a ver a Dios como el gran y amoroso Padre que es, que viene cada día a sostenerlos, a elevarlos, a nutrirlos, y a guiarlos en ese viaje de despertar, de reconciliación, de expresar verdaderamente los potenciales que han sido puestos dentro de ustedes desde el principio.
 
 Dios os bendiga, amadas almas. Os agradezco por escuchar mis palabras, por estar conmigo en este viaje que hemos emprendido juntos, para estar dentro de este gran flujo de luz, amor y verdad. Que nos encontremos de nuevo, amados, y que verdaderamente comulguemos y consideremos los caminos de Dios. Dios os bendiga, amados. Estoy con vosotros siempre. Nunca me iré. Tú eres mi hermano. Tú eres mi hermana. Estamos juntos en el viaje hacia la reconciliación con Dios. Que Dios te bendiga. Dios te bendiga.
+<small>
 
 [^1]: Como consideré esta declaración muy engañosa y el médium no, pedí a Jesús que la aclarara. [Así lo ha hecho.](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-25-es-cont-mess-2021/es-2021-2-18-1-af-jesus.md#2021-2-11-1) En realidad, debería decir *"Una conciencia de Dios permanece en el alma"* y no *"La"*.

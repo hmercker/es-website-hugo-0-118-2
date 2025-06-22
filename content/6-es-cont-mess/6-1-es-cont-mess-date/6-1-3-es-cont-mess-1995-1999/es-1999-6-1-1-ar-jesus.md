@@ -8,3 +8,5 @@ hidden: True
 weight:
 ---
 ### Mensaje anual de Trance
+
+Jesús - recibido por Amada Reza el junio de 1999, Santa Cruz, CA, EE.UU.

@@ -20,4 +20,5 @@ Jesús | [Lección 20: Ha llegado la hora del despertar del alma de la humanidad
 Jesús | [Sesión de preguntas y respuestas #1 El alma](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-25-es-cont-mess-2021/es-2021-2-18-1-af-jesus/) | 18 febrero 2021
 Jesús | [Sesión de preguntas y respuestas #2 El alma](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-25-es-cont-mess-2021/es-2021-2-25-1-af-jesus/) | 25 febrero 2021
 Jesús | [Sesión de preguntas y respuestas #3 La oración](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-25-es-cont-mess-2021/es-2021-3-4-1-af-jesus/) | 4 marzo 2021
+Jesús | [Sesión de preguntas y respuestas #4 Cambios en la Tierra](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-25-es-cont-mess-2021/es-2021-3-11-1-af-jesus/) | 11 marzo 2021
 Jesús | [Mensaje final de Jesús al mundo](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-25-es-cont-mess-2021/es-2021-3-18-1-af-jesus/) | 18 marzo 2021

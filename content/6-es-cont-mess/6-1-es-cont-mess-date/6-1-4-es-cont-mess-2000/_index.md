@@ -11,6 +11,7 @@ weight:
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
+Jesús | [Sobre el suicidio](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-4-es-cont-mess-2000/es-2000-1-16-1-ar-jesus/) | 16 enero 2000
 José | [Sobre José de Arimatea](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-4-es-cont-mess-2000/es-2000-2-6-1-ks-joseph/) | 6 febrero 2000
 José | [El papá de Jesús y José de Arimatea son la misma persona](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-4-es-cont-mess-2000/es-2000-2-9-1-ar-joseph/) | 9 febrero 2000
 Jesús | [Caminando sobre las aguas](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-4-es-cont-mess-2000/es-2000-3-5-2-ks-jesus/) | 5 marzo 2000
