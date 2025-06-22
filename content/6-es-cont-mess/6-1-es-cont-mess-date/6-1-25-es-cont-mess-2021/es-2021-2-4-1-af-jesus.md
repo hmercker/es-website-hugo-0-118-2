@@ -96,6 +96,6 @@ Dios los bendiga, mis queridos amigos. Soy vuestro hermano y amigo, Jesús. Mi a
 
 [Goldie y visitantes de otra galaxia](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-1-es-cont-mess-1963-1970/es-40-1969-12-3-anonymous-goldie-visitors-from-another-galaxy/)
 
-[Kentor -Visitas de otra Galaxia](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-1-es-cont-mess-1963-1970/es-1969-8-12-1-eg-kentor-of-another-galaxy/)
+[Kentor -Visitas de otra Galaxia](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-1-es-cont-mess-1963-1970/es-41-1969-12-8-anonymous-kentor-of-another-galaxy/)
 
 [Shandor’s comenta sobre la voz directa](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-22-es-cont-mess-2018/es-2018-3-8-4-af-shandor/)

@@ -13,7 +13,7 @@ Jesús - recibido por Al Fike el 25 de febrero de 2021, Gibsons, BC, Canadá.
 
 Así que venimos una vez más, amados hermanos y hermanas a nuestro tiempo de conversación y comunicación. Estoy feliz de estar con ustedes hoy para compartir la sabiduría de mi alma y que pueda ser un claro canal para la verdad a través de este instrumento porque esta es siempre nuestra meta, traer la verdad a la humanidad, traer amor a todos, elevar y bendecir a nuestros hermanos y hermanas en esta Tierra. Así que podemos empezar.
 
-***Pregunta 8, 9 y 10:*** *Gracias, Jesús. Nos quedan cuatro preguntas sobre el alma y luego muchas más sobre la oración y los cambios en la Tierra. Empezaré leyendo tres preguntas. Número 8, ¿es aceptable el aborto en cualquier etapa después de la concepción por razones puramente personales? ¿En qué etapa de las semanas entra el alma en el feto y cómo se logra esto? Número 9, ¿se puede abortar sin las mismas consecuencias antes de que el alma entre en el feto que después de que el alma haya entrado? Número 10, ¿qué impacto tendrá el hecho de abortar para la mujer en la próxima vida? [^1]*
+**Pregunta 8, 9 y 10:** *Gracias, Jesús. Nos quedan cuatro preguntas sobre el alma y luego muchas más sobre la oración y los cambios en la Tierra. Empezaré leyendo tres preguntas. Número 8, ¿es aceptable el aborto en cualquier etapa después de la concepción por razones puramente personales? ¿En qué etapa de las semanas entra el alma en el feto y cómo se logra esto? Número 9, ¿se puede abortar sin las mismas consecuencias antes de que el alma entre en el feto que después de que el alma haya entrado? Número 10, ¿qué impacto tendrá el hecho de abortar para la mujer en la próxima vida? [^1]*
 
 Se trata de cuestiones morales, ¿no? Me inclino más por hablar del alma y de la interacción del alma con Dios. Sin embargo, sé que en este plano material muchos tienen preguntas relacionadas con la vida aquí. Pero en lugar de responder a estas preguntas directamente, deseo abordar la moralidad y el comportamiento de la humanidad en este mundo. Más específicamente, me gustaría abordar la vida en el mundo moderno, en el mundo occidental, ya que es una vida muy diferente a la de aquellos que viven de manera más tradicional y dentro de las religiones más tradicionales.
 
@@ -55,7 +55,7 @@ Espero haber respondido a estas preguntas hasta cierto punto y que todos entend�
 
 Que todos ustedes continúen rezando por esto y busquen el amor y la compasión de Dios sobre esas queridas almas que están realmente perdidas. Gracias.
 
-***Pregunta 11:*** *Gracias, Jesús. Nuestra última pregunta relacionada con el alma, la número 11, ¿hay alguna circunstancia en la que una muerte médicamente asistida por inyección letal esté en armonía con la Voluntad de Dios? [^2]*
+**Pregunta 11:** *Gracias, Jesús. Nuestra última pregunta relacionada con el alma, la número 11, ¿hay alguna circunstancia en la que una muerte médicamente asistida por inyección letal esté en armonía con la Voluntad de Dios? [^2]*
 
 Hay muchas maneras en su mundo en que una persona puede hacer la transición de la vida material a la vida espiritual. Son muy pocos los casos en los que el individuo decide reducir esa vida, pero de hecho esto ocurre. Aquellos que se suicidan como forma de resolver sus problemas saben muy bien que cuando llegan al mundo del espíritu y liberan su cuerpo no hay diferencia en su estado mental y condición. Por lo tanto, han desperdiciado una oportunidad de vida en el mundo material y han decidido que no hay o no había otra solución a su dilema. Sin embargo, esa solución no se ha manifestado en el momento de la muerte.
 
@@ -89,10 +89,15 @@ Gracias, amadas almas. Que Dios os bendiga profundamente con Su Amor. Mi amor es
 <small>
 
 [^1]: Estas preguntas han sido hechas antes con información fraccionadamente diferente. ¿Quizá la diferencia sea la aportación humana de los médiums? ¿O quizás el tema es simplemente un poco fluido?
+
     [Jesús habla del aborto y del abandono de niños](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-11-es-cont-mess-2007/es-2007-3-4-1-fab-jesus/)
+
     [Jesús habla del aborto](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-2-es-cont-mess-1984-1994/es-1985-6-30-1-ar-jesus/)
+
     [¿Cuándo se encarna el alma?](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-3-es-cont-mess-1995-1999/es-1999-6-1-1-ar-jesus/)
 
 [^2]: De nuevo otros médiums han tenido un sabor algo diferente a la muerte asistida. Otros mensajes sobre el suicidio y la muerte asistida están aquí:
+
     [El suicidio asistido y los símbolos cristianos](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-10-5-2-hr-judas/)
+
     [Sobre el suicidio](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-4-es-cont-mess-2000/es-2000-1-16-1-ar-jesus/)
