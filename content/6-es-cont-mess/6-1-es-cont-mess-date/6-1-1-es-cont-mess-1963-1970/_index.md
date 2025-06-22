@@ -11,3 +11,4 @@ weight:
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
+Kentor de otra galaxia | [Kentor - Visitante de otra galaxia](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-1-es-cont-mess-1963-1970/es-41-1969-12-8-anonymous-kentor-of-another-galaxy/) | 8 diciembre 1969

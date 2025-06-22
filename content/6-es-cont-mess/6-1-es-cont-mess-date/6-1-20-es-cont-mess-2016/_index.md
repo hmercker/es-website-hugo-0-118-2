@@ -11,3 +11,4 @@ weight:
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
+James Reid | [El valor de conocer vuestras almas](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-20-es-cont-mess-2016/es-2016-11-27-3-af-james-reid/) | 27 noviembre 2016
