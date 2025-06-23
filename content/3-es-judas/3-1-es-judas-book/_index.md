@@ -9,6 +9,18 @@ weight: 10
 ---
 ### El libro de Judas de Keriot
 
+Conversaciones con Judas Iscariote
+
+En 2001, de forma bastante inesperada, un buen amigo mío comenzó a recibir comunicaciones espirituales. La fuente resultó ser nada menos que Judas Iscariote, también conocido como Judas de Keriot. Cabe imaginar que este no es un nombre que cualquiera adoptaría, ya que probablemente es el ser humano más vilipendiado de todos los tiempos. Por tanto nunca dudamos de que era quien decía ser. ¡Ningún impostor se haría pasar por Judas! Y estos mensajes lo confirman. Aquí tenemos a un individuo sumamente avanzado y amoroso. Es aún más fascinante escucharle usar conceptos modernos de programación informática para explicar conceptos espirituales complejos. Si alguna vez alguien se ha preguntado qué podríamos hacer tras la muerte, es casi seguro que no nos quedamos de brazos cruzados. No; progresamos, por supuesto, y no importa cuán mal se comience, uno puede ascender con paso firme por el camino espiritual para entrar en el Reino de Dios.
+
+![judas](/portraits/es-judas.jpg)
+
+Un boceto de cómo era Judas.
+
+Esta serie no se completó, y los mensajes terminan en el año 26 d.C., aunque se dieron algunas ideas sobre eventos que sucedieron después. (Jesús murió en el año 29 d.C.) Este libro tiene más de 650 páginas. Aquí está el [libro electrónico de Amazon Kindle](https://www.amazon.com/Judas-Kerioth-ebook/dp/B0076R7UYO) (en inglés), y aquí [el libro impreso en Lulu](https://www.lulu.com/shop/anonymous/judas-of-kerioth/paperback/product-23858667.html?page=1&pageSize=4) (en inglés).
+
+Todos los mensajes se enumeran a continuación:
+
 **Autor** | **Título del mensaje** | **Fecha del mensaje**
 ---|---|---
 Jesús | [Escuchar tu voz interior](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-8-17-1-hr-jesus/) | 17 agosto 2001

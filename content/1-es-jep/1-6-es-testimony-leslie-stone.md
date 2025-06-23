@@ -142,7 +142,7 @@ Los mensajes adicionales de Jesús incluyen uno recibido el 25 de diciembre de 1
 
 Dr. Leslie R. Stone
 
-Ver un mensaje actual del [Dr. Stone](/4-es-contemporary-messages/4-1-es-cont-messages-by-date/4-1-26-es-messages-2022/es-2022-1-10-1-jw-leslie-stone/) y un mensaje anterior está aquí: [Leslie Stone está muy arriba](/4-es-contemporary-messages/4-1-es-cont-messages-by-date/4-1-9-es-messages-2005/es-2005-11-7-2-fab-leslie-stone/).
+Ver un mensaje actual del [Dr. Stone](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-26-es-cont-mess-2022/es-2022-1-10-1-jw-leslie-stone/) y un mensaje anterior está aquí: [Leslie Stone está muy arriba](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-9-es-cont-mess-2005/es-2005-11-7-2-fab-leslie-stone/).
 <small>
 
 [^1]: Este título no se utilizó hasta 1956 y, de hecho, el primer volumen se publicó en 1941.

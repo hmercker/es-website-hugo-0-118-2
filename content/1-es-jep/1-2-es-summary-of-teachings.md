@@ -21,11 +21,11 @@ La transformación que provoca este Amor Divino es lo que llamamos el "Nuevo Nac
 
 Jesús, durante su vida aquí en la tierra, fue el primero en realizar esto; se convirtió en Cristo. Con su ejemplo abrió el camino para todos, y a todos nos muestra cómo podemos llegar a ser uno con Dios y cómo nuestras almas pueden nacer de nuevo. El Nuevo Nacimiento no es fruto de especulaciones o de razonamientos que provienen de la mente; es una experiencia del alma.
 
-Todos nosotros podemos tener las mismas experiencias y percepciones si estamos dispuestos a intentar el ["gran experimento"](/9-es-divine-love-path/9-4-es-divine-love/9-4-3-es-experiencing-gods-love/) de pedir sinceramente el amor de Dios.
+Todos nosotros podemos tener las mismas experiencias y percepciones si estamos dispuestos a intentar el ["gran experimento"](/7-es-dl-path/7-4-es-dl/7-4-3-es-experience-dl/) de pedir sinceramente el amor de Dios.
 
 Lo que sigue muestra un más extenso resumen de las enseñanzas de la Segunda Venida de Jesús: El difunto pastor R. B. Caddle dio una serie de conferencias que han sido editadas en forma de recapitulación y que se presentan aquí. Es algo extenso, pero tiene la virtud de darle cierta profundidad a cada tema.
 
-Otro acercamiento a lo mismo es leer lo que se presenta en [El Camino del Amor Divino](/9-es-divine-love-path/). Es extenso y va a fondo en cada asunto.
+Otro acercamiento a lo mismo es leer lo que se presenta en [El Camino del Amor Divino](/7-es-dl-path/7-4-es-dl/). Es extenso y va a fondo en cada asunto.
 
 #### La vida y enseñanzas de Jesús de Nazaret
 
@@ -89,9 +89,9 @@ A partir de estas Escrituras inspiradas, Jesús se dio cuenta de que el Amor que
 
 Ya espiritualmente puro y, para entonces, en abundante posesión de la Divina Esencia de Amor del Padre dentro de su alma, fácilmente discernió la Divina Voluntad del Padre para la humanidad y Su Plan para la salvación de Sus hijos mediante el re-otorgamiento a sus almas de Su vera Esencia y Sustancia. Cuando tenía 20 años, se preguntaba si él podía ser el Mesías prometido que fue profetizado en las Escrituras para mostrar a su pueblo el Camino hacia la liberación del pecado.
 
-A través de su segundo elegido instrumento mortal –el Dr. Daniel G. Samuels– Jesús nos ha dado una explicación completa de la transformación de su alma en la Naturaleza Divina del Padre. Sus [sermones sobre el Antiguo Testamento](/2-es-samuels-messages/2-2-es-sermons/) de la Biblia, escritos a través del Dr. Samuels, exponen las profecías que predicen la venida del Mesías así como el nuevo otorgamiento al hombre del Amor Divino de Dios, relatando históricamente el progreso espiritual realizado por sus gentes a lo largo de los siglos, el cual le permitió al Padre, en Su momento señalado, volver a otorgar este Gran Obsequio.
+A través de su segundo elegido instrumento mortal –el Dr. Daniel G. Samuels– Jesús nos ha dado una explicación completa de la transformación de su alma en la Naturaleza Divina del Padre. Sus [sermones sobre el Antiguo Testamento](/2-es-dgs/2-2-es-dgs-sermons/) de la Biblia, escritos a través del Dr. Samuels, exponen las profecías que predicen la venida del Mesías así como el nuevo otorgamiento al hombre del Amor Divino de Dios, relatando históricamente el progreso espiritual realizado por sus gentes a lo largo de los siglos, el cual le permitió al Padre, en Su momento señalado, volver a otorgar este Gran Obsequio.
 
-En sus propias palabras, [Jesús escribió a través del Dr. Samuels](/2-es-samuels-messages/2-2-es-sermons/es-ser-26-1959-7-21-samuels-jesus/):
+En sus propias palabras, [Jesús escribió a través del Dr. Samuels](/2-es-dgs/2-2-es-dgs-sermons/es-ser-26-1959-7-21-samuels-jesus/):
 
 > …Quiero que veas y sepas con total convicción en tu alma que yo no vine como el Mesías para traer a la humanidad algo nuevo y revolucionario, sino como el cumplimiento del Antiguo Testamento. Vine a hacer del Amor Divino –ya conocido por Oseas como desbordante en Dios más de 750 años antes de mi venida– el gran instrumento de salvación y una realidad disponible para todos los hombres, tanto judíos como gentiles, y ésto a través de la oración al Padre en pos del Amor Divino.<br><br>
 
@@ -179,11 +179,11 @@ Incluso sus discípulos, hasta poco antes de su muerte, le consideraban simpleme
 
 A Juan, Jesús le explicó su verdadera misión y le instruyó en las Verdades espirituales que vino a enseñar y en la única Vía por la que los mortales podían recibir el Amor del Padre, necesario para hacerles uno con Él y partícipes de Su Divinidad.
 
-Por lo tanto, sólo en el Evangelio de Juan está escrito el único requisito necesario para una plena salvación y redención de la humanidad: [“Que los hombres deben nacer de nuevo para entrar en el Reino de los Cielos”](/1-es-padgett-messages/1-4-es-padgett-messages-by-date/1-4-2-es-padgett-messages-1915-1/es-1915-5-25-1-jep-jesus/).
+Por lo tanto, sólo en el Evangelio de Juan está escrito el único requisito necesario para una plena salvación y redención de la humanidad: [“Que los hombres deben nacer de nuevo para entrar en el Reino de los Cielos”](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-5-25-1-jep-jesus/).
 
 Jesús escribió a través del Sr. Padgett que los otros discípulos tenían más o menos una concepción de esta Verdad necesaria, pero no la plena comprensión de lo que implicaba. Pedro estaba más poseído del Amor Divino que los demás discípulos salvo Juan, y con esta posesión comprendió también que Jesús era el verdadero hijo del Padre. Pero nunca entendió ni declaró que Jesús era Dios. Era un hombre lleno de celo y ambición, pero el desarrollo de su Amor no fue suficiente para permitirle comprender plenamente, hasta después de la muerte de Jesús, que el Reino de Jesús no iba a ser terrenal. Cuando la convicción le llegó en toda su Verdad y plenitud, se convirtió en el más poderoso e influyente de los discípulos de Jesús.
 
-A través del Sr. Padgett, el discípulo Juan nos ha dado una idea de las mentes y los corazones de él y de sus compañeros discípulos [en las siguientes palabras citadas](/1-es-padgett-messages/1-4-es-padgett-messages-by-date/1-4-3-es-padgett-messages-1915-2/es-1915-10-5-1-jep-st-john/):
+A través del Sr. Padgett, el discípulo Juan nos ha dado una idea de las mentes y los corazones de él y de sus compañeros discípulos [en las siguientes palabras citadas](/1-es-jep/1-4-es-jep-mess-by-date/1-4-3-es-jep-mess-1915-2/es-1915-10-5-1-jep-st-john/):
 
 > …La gente, lo sé, piensa que nosotros en aquella época estábamos muy desarrollados espiritualmente y que teníamos una comprensión de las grandes verdades enseñadas por el Maestro que eran superiores a las que tienen los hombres ahora: pero os digo que eso es un error. Éramos hombres comparativamente ignorantes, pescadores de profesión, y no teníamos educación superior a la del trabajador común de esa época. Y cuando Jesús nos llamó a ser sus apóstoles nos sorprendimos y dudamos tanto como tú cuando se te declaró una misión similar.<br><br>
 
@@ -323,7 +323,7 @@ El Reino de Dios puede residir dentro de nosotros, pero sólo si seguimos el Cam
 
 ##### El amor de Dios volverá a serle retirado a la humanidad.
 
-Según Jesús, el Amor Divino es la sola gran cosa en la Economía de la Existencia Real de Dios. Sin Él todo sería caos e infelicidad; pero donde Él existe, también existen la armonía y la felicidad. [Él escribió a través de James Padgett](/1-es-padgett-messages/1-4-es-padgett-messages-by-date/1-4-2-es-padgett-messages-1915-1/es-1915-3-3-2-jep-jesus/):
+Según Jesús, el Amor Divino es la sola gran cosa en la Economía de la Existencia Real de Dios. Sin Él todo sería caos e infelicidad; pero donde Él existe, también existen la armonía y la felicidad. [Él escribió a través de James Padgett](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-3-3-2-jep-jesus/):
 
 > …Digo esto porque sé por experiencia personal que es verdad. Que no crean los hombres que Dios es un Dios que quiere su adoración con las meras facultades intelectuales; eso no es verdad. Su Amor es la única cosa que posiblemente es capaz de unir a Él y a ellos. Este Amor no es el amor que forma parte de la existencia natural del hombre. El amor que tienen los hombres que no han recibido una parte del Amor Divino no basta para hacerles uno con el Padre. Tampoco es ese amor el que les permitirá entrar en las Esferas Celestiales y volverse como los ángeles que están llenos de este Amor Divino y que hacen siempre la Voluntad del Padre. Este Amor se encuentra únicamente en las almas de quienes lo han recibido a través de los ministerios del Espíritu Santo, que es el único instrumento de los Mecanismos de Dios que es usado para dar lugar a la salvación de los hombres.<br><br>
 
@@ -339,7 +339,7 @@ Jesús vio su misión en tanto que maestro de las buenas nuevas de que el Creado
 
 Usó muchas historias para explicar el Amor Divino y Su funcionamiento: por ejemplo, la levadura en la masa; el aceite en las lámparas; las vírgenes insensatas. Además del Amor Divino, enseñó otras verdades como la creación del hombre; el Reino del Hombre Natural Perfecto (el Paraíso de los Hebreos); el desarrollo del alma; el perdón de los pecados; la resurrección; el empleo del amor. Fue capaz de sanar a los que tenían fe y también realizó muchos actos que fueron llamados milagros; no obstante, algunos actos que se le atribuyen no se llevaron a cabo.
 
-A través del Sr. Padgett, [el apóstol Pedro escribió sobre la exageración en los relatos bíblicos](/1-es-padgett-messages/1-4-es-padgett-messages-by-date/1-4-5-es-padgett-messages-1917/es-1917-5-30-1-jep-st-peter/) de algunos de los actos realizados por Jesús:
+A través del Sr. Padgett, [el apóstol Pedro escribió sobre la exageración en los relatos bíblicos](/1-es-jep/1-4-es-jep-mess-by-date/1-4-5-es-jep-mess-1917/es-1917-5-30-1-jep-st-peter/) de algunos de los actos realizados por Jesús:
 
 > …He visto lo que estabas leyendo (el Evangelio de Lucas) y debo informarte de que muchos de los supuestos milagros de curación y resurrección de los muertos, y del control de las leyes o expresiones de la naturaleza, nunca ocurrieron. No; esos relatos no son ciertos y son fruto de la imaginación de hombres que intentaron agregar algo al libro que escribió Lucas. Por supuesto, hay un verdadero fundamento para algunos de estos supuestos milagros, pero en cuanto a otros, no hay ningún fundamento real.<br><br>
 
@@ -349,23 +349,23 @@ A través del Sr. Padgett, [el apóstol Pedro escribió sobre la exageración en
 
 > Bueno; ese incidente nunca ocurrió, porque al expulsar a los espíritus malignos Jesús no habría tenido autoridad ni poder para permitirles entrar en los cerdos. Y no habría estado en consonancia ni con su amor ni con sus ideas de lo que era justo el haber permitido que los cerdos recibieran a esos espíritus y así perecieran, como dice el relato. Y además, el resultado de tal suceso habría sido que la propiedad de los inocentes dueños de los cerdos les habría sido quitada y perdida. En todos los milagros que Jesús realizó, o en cualquiera de sus enseñanzas, nunca hizo o dijo algo que obrara un mal para un ser humano. Para él todos los hombres eran el objeto de su amor y de la salvación, para mostrar el camino a la cual vino a la tierra.
 
-Uno de los mitos más prevalentes en la actualidad fue [disipado por Pedro](/1-es-padgett-messages/1-4-es-padgett-messages-by-date/1-4-5-es-padgett-messages-1917/es-1917-5-30-1-jep-st-peter/) con el siguiente comentario:
+Uno de los mitos más prevalentes en la actualidad fue [disipado por Pedro](/1-es-jep/1-4-es-jep-mess-by-date/1-4-5-es-jep-mess-1917/es-1917-5-30-1-jep-st-peter/) con el siguiente comentario:
 
 > …(El Sr. Padgett hizo una segunda pregunta.)<br><br>
 
 > Hay algo de verdad en eso, porque estábamos en medio de una tormenta y teníamos miedo. Él se había dormido y le despertamos, pero él no reprendió a la tormenta ni a las olas, ni hizo que amainaran. Más bien disipó nuestros temores con su charla y su ejemplo y, para nosotros, vino a ser como si no hubiera tormenta. Porque cuando el miedo nos abandonó fue como si no fuéramos sensibles a la tormenta en lo que respecta al miedo a ahogarnos o a perecer. Así que no; esta es otra interpolación, y no se debe creer.
 
-[El Dr. Samuels ha señalado otras interpolaciones](/2-es-samuels-messages/2-1-es-revelations/es-rev-18-6-9-13-22-december-1954-samuels-jesus/) de eventos del Nuevo Testamento. Jesús nos ha dado un relato preciso del llamado milagro de los panes y los peces, de la siguiente manera:
+[El Dr. Samuels ha señalado otras interpolaciones](/2-es-dgs/2-1-es-dgs-revelations/es-rev-18-6-9-13-22-december-1954-samuels-jesus/) de eventos del Nuevo Testamento. Jesús nos ha dado un relato preciso del llamado milagro de los panes y los peces, de la siguiente manera:
 
 > …El primer supuesto milagro es el de haber alimentado a miles de oyentes hambrientos que estaban sin comida y que simplemente, por mis supuestos poderes, recibieron pan y agua con ocasión de mi predicación a ellos en las colinas de Transjordania. Bueno, debo decir que muchas personas que comieron conmigo esa cena comieron pescado y pan y vino, e incluso higos y dátiles también, de los cuales el Nuevo Testamento nada menciona. Pero esta comida la habían traído consigo o, como en el caso del pescado, la habían pescado en el barco pesquero de mis discípulos y luego la habían cocinado algunas de las mujeres que estaban presentes en ese momento. En otras palabras, la comida que todos disfrutamos en ese momento fue sustancial y fue conservada en el registro de mis actividades en Transjordania por escritores posteriores, quienes la recibieron de mis discípulos. Pero esa comida no tenía nada de milagroso, excepto que todo alimento es milagroso, ya que proviene del Padre Celestial para el sustento de Sus hijos; sin embargo no fue un milagro en el sentido en que lo interpreta y concibe el Nuevo Testamento.
 
-Quizá uno de los más controvertidos “milagros” atribuidos a Jesús fue su así llamado acto de caminar sobre el agua, otra interpolación que ha aclarado en la siguiente explicación [dada a través del Dr. Samuels](/2-es-samuels-messages/2-1-es-revelations/es-rev-18-6-9-13-22-december-1954-samuels-jesus/):
+Quizá uno de los más controvertidos “milagros” atribuidos a Jesús fue su así llamado acto de caminar sobre el agua, otra interpolación que ha aclarado en la siguiente explicación [dada a través del Dr. Samuels](/2-es-dgs/2-1-es-dgs-revelations/es-rev-18-6-9-13-22-december-1954-samuels-jesus/):
 
 > …Quiero añadir que, aquella tarde, mis discípulos tomaron su barca de pesca y regresaron a Galilea, cerca de Capernaúm, y yo me quedé atrás para despedir a la multitud, que no eran cuatro ni cinco mil, sino bastantes menos, y luego me retiré a orar. Después tomé una de las barquitas de entre las muchas que estaban ancladas cerca de la orilla y en ella hice mi viaje esa noche. Como el viento era fuerte, finalmente pude alcanzarles. Se alegraron de verme y me subieron a su barco pesquero, pero con la luz de la luna brillando sobre mi túnica blanca, parecía, según me dijeron más tarde, que tenía el aspecto de un fantasma y que, de pie cerca del mástil del barco, parecía que caminaba sobre las olas. De este episodio ha surgido la desacertada historia de haber caminado sobre las aguas; y digo que esto, también esto, ha tenido un efecto disuasorio sobre mi misión como Mesías de todos los hombres.<br><br>
 
 > El Amor Divino que poseía a su alma hacía sentir que él era el más querido hermano de todos los hombres y mujeres. Enseñó la verdad de que el Gran Amor de Dios estaba igualmente disponible para las mujeres como para los hombres, y enfatizó que ningún hombre debería imponer a una mujer ninguna condición o ley que él mismo no estuviera preparado para, bajo ella, vivir. La historia de la mujer sorprendida en adulterio realmente tuvo lugar, y él habló a sus acusadores tal como se describe en el Nuevo Testamento.<br><br>
 
-> En cuanto a su [conversión del agua en vino en las bodas de Caná](/2-es-samuels-messages/2-1-es-revelations/es-rev-18-6-9-13-22-december-1954-samuels-jesus/), se trata de otra tergiversación de los hechos, ya que simplemente usó cántaros de agua que estaban disponibles para, tras pagarlo, conseguir vino de un comerciante de vinos cercano.<br><br>
+> En cuanto a su [conversión del agua en vino en las bodas de Caná](/2-es-dgs/2-1-es-dgs-revelations/es-rev-18-6-9-13-22-december-1954-samuels-jesus/), se trata de otra tergiversación de los hechos, ya que simplemente usó cántaros de agua que estaban disponibles para, tras pagarlo, conseguir vino de un comerciante de vinos cercano.<br><br>
 
 > Jamás maldijo nada ni a nadie, en ningún momento –ni una higuera, ni las ciudades de Corazín o Cafarnaum– porque vino a salvar y no a destruir. La historia de la higuera sin frutos fue escrita, muchos años después del evento, por alguien interesado en mostrar la divinidad de Jesús a través de la única manera en que ese alguien podía entender el Mesianismo: como un ser en posesión de poderes sobrenaturales, en lugar de un gran desarrollo del alma.
 
@@ -377,13 +377,13 @@ Cuanto más exitoso fue en su misión, tanto más decididos a eliminarle se torn
 
 ##### Muerte por crucifixión.
 
-Fue en vísperas de su arresto por Pilato cuando Jesús dio a sus discípulos el undécimo mandamiento: Amaos unos a otros como yo os he amado. El significado del Mandamiento, que es primordial para la religión predicada por la [Iglesia Base de la Verdad Divina](https://fcdt.org/), fue [explicado por nuestro hermano mayor](/2-es-samuels-messages/2-3-es-diverse-messages/es-18-sep-oct-1955-aug-oct-1962-may-june-1965-samuels-jesus/) con las siguientes palabras:
+Fue en vísperas de su arresto por Pilato cuando Jesús dio a sus discípulos el undécimo mandamiento: Amaos unos a otros como yo os he amado. El significado del Mandamiento, que es primordial para la religión predicada por la [Iglesia Base de la Verdad Divina](https://fcdt.org/), fue [explicado por nuestro hermano mayor](/2-es-dgs/2-1-es-dgs-revelations/es-rev-18-6-9-13-22-december-1954-samuels-jesus/) con las siguientes palabras:
 
 > …Quise decir que desde que yo amé a la humanidad, y especialmente a mis seguidores, con el Amor que vino a mí desde la Esencia del Padre, los discípulos se pusieron a buscar el Amor Divino en oración al Padre y a amarse unos a otros con este Amor Divino. Así, todos íbamos a ser uno en el Amor del Padre. Este era el Mandamiento a ser obedecido por mis seguidores y que les uniría, igual que los Diez Mandamientos eran unitivos para con todos los judíos de aquella época, e incluso de hoy, en tanto que preceptos morales dados a la humanidad por Dios a través de Moisés.
 
 Mientras oraba en el Monte de los Olivos, fue arrestado y llevado a la Asamblea Judía, el Sanedrín, donde fue declarado un enemigo y potencial destructor de la fe divina y de las enseñanzas de la nación israelita y un seductor de gentes.
 
-Pero Judas, el más joven de sus discípulos, no le había traicionado por dinero; y no estaba ordenado que Judas le traicionara, como afirma la Biblia. Ahora conocemos la verdadera motivación detrás del acto de Judas a través del apóstol Juan, [en las siguientes palabras](/1-es-padgett-messages/1-4-es-padgett-messages-by-date/1-4-2-es-padgett-messages-1915-1/es-1915-8-15-2-jep-st-john/) pronunciadas a través de James Padgett:
+Pero Judas, el más joven de sus discípulos, no le había traicionado por dinero; y no estaba ordenado que Judas le traicionara, como afirma la Biblia. Ahora conocemos la verdadera motivación detrás del acto de Judas a través del apóstol Juan, [en las siguientes palabras](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-8-15-2-jep-st-john/) pronunciadas a través de James Padgett:
 
 > …Él (Jesús) nunca enseñó que Dios había ordenado que Judas le traicionara. De hecho, la muerte de Jesús jamás fue parte de lo que el Padre consideraba necesario para el desempeño de su misión.<br><br>
 
@@ -425,7 +425,7 @@ El fin de la dispensación judía, o el fin del mundo hebreo, llegó con Penteco
 
 Quizá la descripción más conmovedora del alma de Jesús cuando vivió en la tierra y ministró amorosamente a sus semejantes nos la haya dado su madre. En sus palabras podemos apreciar y valorar verdaderamente los finos rasgos amorosos del carácter inherentes a Jesús como resultado del desarrollo de su alma en el Amor Divino de Dios.
 
-[María escribe](/2-es-samuels-messages/2-3-es-diverse-messages/es-12-1963-samuels-mary/):
+[María escribe](/2-es-dgs/2-3-es-dgs-mess/es-12-1963-samuels-mary/):
 
 > …Su amor natural, que en tanto que hombre joven le habría llevado a pensamientos de amor y matrimonio, se ahondó en el Amor Divino y, absorbido por Éste, tenía un sentimiento maravilloso de devoción filial y fraterna, y hacía que él fuese sentido como el hermano más querido de todos los hombres y mujeres –de toda la humanidad– quitándole el pensamiento de las mujeres y de la vida en familia.<br><br>
 
@@ -445,7 +445,7 @@ Jesús ha explicado que el gran hecho convincente de la crucifixión es que, si 
 
 Porque es el Amor Divino el que da la vida eterna, y no cualquier ritual misterioso de supuestamente comer su cuerpo y beber su sangre mediante el uso simbólico de pan y vino, como se practica entre algunas organizaciones religiosas.
 
-A través del Sr. Padgett, Juan, el apóstol, ha asegurado a todos los mortales que aman a Jesús y anhelan su presencia que, tarde o temprano, según lo permitan las leyes de sus limitaciones, él estará con ellos y les consolará y ayudará si le permiten establecer la relación. Esto es lo que significa que él está a la puerta y llamando. Cuando la puerta se abre, se establece la relación y entonces su amor e influencia se sentirán. En las siguientes entrañables palabras, [Juan escribió](/1-es-padgett-messages/1-4-es-padgett-messages-by-date/1-4-5-es-padgett-messages-1917/es-1917-6-3-1-jep-st-john/):
+A través del Sr. Padgett, Juan, el apóstol, ha asegurado a todos los mortales que aman a Jesús y anhelan su presencia que, tarde o temprano, según lo permitan las leyes de sus limitaciones, él estará con ellos y les consolará y ayudará si le permiten establecer la relación. Esto es lo que significa que él está a la puerta y llamando. Cuando la puerta se abre, se establece la relación y entonces su amor e influencia se sentirán. En las siguientes entrañables palabras, [Juan escribió](/1-es-jep/1-4-es-jep-mess-by-date/1-4-5-es-jep-mess-1917/es-1917-6-3-1-jep-st-john/):
 
 > …Así pues, que todos los mortales amen a Jesús con el fervor y la totalidad de su alma, y que anhelen su amor; pero al hacerlo, que no olviden ni dejen de saber que, al amar así, para llegar a ser como Jesús, deben buscar el más grande Amor del Padre y entregarle a Él todos los anhelos y deseos de sus almas en pos de la afluencia de este amor al seno de sus almas. Y cuanto más reciban de este gran amor divino, tanto más capaces serán de amar a su gran hermano, Jesús.
 

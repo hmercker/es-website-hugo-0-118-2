@@ -11,6 +11,7 @@ weight:
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
+Leslie Stone | [No te distraigas con asuntos secundarios](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-26-es-cont-mess-2022/es-2022-1-10-1-jw-leslie-stone/) | 10 enero 2022
 Orión | [Charla seria sobre el colapso económico y la elevación de la conciencia en la Tierra](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-26-es-cont-mess-2022/es-2022-4-20-1-af-orion/) | 20 abril 2022
 Jesús | [Lección 1: Jesús anuncia una nueva serie de lecciones sobre los cambios en la Tierra y su impacto en nosotros](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-26-es-cont-mess-2022/es-2022-6-21-1-af-jesus/) | 21 junio 2022
 Jesús | [Lección 2: Jesús habla del fallo masivo de los recursos eléctricos que llegan a la Tierra](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-26-es-cont-mess-2022/es-2022-6-23-1-af-jesus/) | 23 junio 2022
