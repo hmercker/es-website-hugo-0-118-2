@@ -1,5 +1,5 @@
 ---
-title: Lección 4: El amor se abrirá paso en la conciencia de la humanidad"
+title: "Lección 4: El amor se abrirá paso en la conciencia de la humanidad"
 menu_title: ""
 description: "Lección 4: El amor se abrirá paso en la conciencia de la humanidad"
 date: 2025-04-01 06:00:00+00:00
