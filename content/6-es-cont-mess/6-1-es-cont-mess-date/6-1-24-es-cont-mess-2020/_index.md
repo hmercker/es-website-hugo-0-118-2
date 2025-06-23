@@ -12,6 +12,7 @@ weight:
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
 Andrés | [Siembra las semillas del amor de Dios](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-24-es-cont-mess-2020/es-2020-8-29-1-jw-andrew/) | 29 agosto 2020
+Jesús | [Instrucciones a Seguir Para Recibir Enseñanzas Especiales](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-24-es-cont-mess-2020/es-2020-9-28-1-af-jesus/) | 28 septiembre 2020
 Jesús | [Lección 1 – El Primer Hito en el Viaje del Alma - Expiación](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-24-es-cont-mess-2020/es-2020-10-1-1-af-jesus/) | 1 octubre 2020
 Jesús | [Lección 2: Elijan Cambiar sus Formas y su Comprensión del Mundo](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-24-es-cont-mess-2020/es-2020-10-8-1-af-jesus/) | 8 octubre 2020
 Jesús | [La voluntad de Dios](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-24-es-cont-mess-2020/es-2020-10-13-2-af-jesus/) | 13 octubre 2020
