@@ -141,8 +141,8 @@ Antes de concluir quiero escribir sobre mi alma gemela, Mary Kennedy, y sobre al
 Los mensajes adicionales de Jesús incluyen uno recibido el 25 de diciembre de 1914, justo antes de la redacción de los grandes escritos formales. Otro, fechado el 15 de diciembre de 1915, afirma que, debido al Amor que había obtenido y mi deseo de ayudar a promover las Verdades del Padre, Jesús me había seleccionado para hacer una obra para el Reino. Esto finalmente resultó ser el trabajo de publicar los mensajes de Padgett. Desde entonces he dedicado toda mi vida a ellos y a promover la tarea del Maestro de difundir las Verdades a la humanidad. Siento que he hecho un comienzo en mi vida y que mis asociados y amigos de todas partes continuarán el trabajo.
 
 Dr. Leslie R. Stone
+<small>
 
 Ver un mensaje actual del [Dr. Stone](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-26-es-cont-mess-2022/es-2022-1-10-1-jw-leslie-stone/) y un mensaje anterior está aquí: [Leslie Stone está muy arriba](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-9-es-cont-mess-2005/es-2005-11-7-2-fab-leslie-stone/).
-<small>
 
 [^1]: Este título no se utilizó hasta 1956 y, de hecho, el primer volumen se publicó en 1941.
