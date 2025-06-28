@@ -11,7 +11,7 @@ weight:
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
-Jesús | [La curación continuó](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-1-23-1-ar-jesus/) | 23 enero 2001
+Jesús | [Curación – continuación](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-1-23-1-ar-jesus/) | 23 enero 2001
 Jesús | [Mensaje en trance de Jesús](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-6-24-1-ar-jesus/) | 24 junio 2001
 San Juan | [Amor perfecto = resultados perfectos](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-7-15-1-ar-john-the-beloved/) | 15 julio 2001
 Jesús | [Escuchar tu voz interior](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-8-17-1-hr-jesus/) | 17 agosto 2001
