@@ -1,12 +1,36 @@
 ---
-title: "He viajado mucho"
+title: "He viajado lejos"
 menu_title: ""
-description: "He viajado mucho"
+description: "He viajado lejos"
 date: 2025-04-01 06:00:00+00:00
 draft: False
 hidden: True
 weight:
 ---
-### He viajado mucho
+### He viajado lejos
 
 Tristiana - recibido por Nicholas Arnold el 17 de enero de 2008, Melbourne, Australia.
+
+Vengo de un mundo habitado por individuos, un mundo llamado Ovana, y mi nombre es Tristiana.
+
+El Alma del Padre no es una superficie plana, sino redondeada, como una esfera alargada. Mi mundo proviene de un lugar que se consideraría justo lo opuesto a donde se halla el vuestro en relación con el Alma del Padre. (Nota del editor: Aparentemente, el lado opuesto del Universo de Universos). He viajado una gran distancia, porque sí, soy un espíritu, y estoy muy avanzada en mi nexo-alma con el Padre. Soy libre de viajar por la Esfera que el Alma del Padre constituye, libre de aprender sobre las diferentes naturalezas de Sus Reinos materiales y espirituales habitados. Se me ha permitido hablar en esta ocasión, aunque no domino el idioma inglés. Me estoy comunicando con la ayuda de otro espíritu Celestial que conocí al adentrarme en los Mundos Celestiales, a los que me acerqué desde más allá de esos Cielos. Soy una invitada en vuestro ámbito.
+
+Es hermoso –según la belleza es universalmente conocida– ver almas viviendo con el Padre a todo lo largo y ancho de estos Cielos, y sin embargo, al descender para llegar a la vertiente mortal junto con mi guía Celestial, me resulta asombroso ver un mundo que se halla en el proceso de despertar hacia la viviente consciencia del Padre. En mi mundo cada alma creció bajo la realidad del Padre Universal, y recibimos el Amor que vosotros recibís, el cual se os ha revelado para que lo personalicéis como el Amor Divino del Padre.
+
+Ovana es ligeramente más grande que la Tierra (Tierra es el nombre que este espíritu Celestial, que es mi guía, ha dado como el nombre de este planeta), y nuestra masa continental es ligeramente mayor. También tenemos agua en forma de océanos. Al igual que el vuestro, Ovana gira alrededor de un Sol, y tenemos estaciones. Estas estaciones son más prolongadas que las vuestras, pues nuestro mundo tarda más en girar en torno a nuestro único Sol, que brilla intensamente y es similar al vuestro, sólo que un poco más grande. No tenemos una Luna, pero hay un planeta muy pequeño, deshabitado, que podría considerarse como una Luna, el cual influye en nuestro planeta de forma muy similar, según me han dicho.
+
+Tenemos relaciones, pero nosotros somos conscientes de nuestra alma gemela mientras aún estamos viviendo en la carne, y sí que tenemos cuerpos, pero el Amor del Padre es una prioridad y ello genera y determina nuestra manera de vivir, por lo cual nuestra apariencia es más luminosa, pues nuestra alma ha crecido bajo la influencia del Amor y nuestro cuerpo espiritual refleja esta condición.
+
+Tuvimos un maestro que reveló el Camino del Padre. Este individuo vivió mucho, muchísimo tiempo. Nosotros respetamos y apreciamos su conocimiento y su presencia, y en nuestra compañía nos enseñaba sobre las obras y operaciones del Padre y se comunicaba abiertamente con nuestros antepasados que residían en el espíritu. Conocemos la vida en espíritu, así que no hay separación entre quienes viven en Ovana y quienes viven en los Reinos del espíritu. Vivimos por encima de lo que serían 100 años terrestres y nuestra condición se mantiene bastante bien. Cuando nos llega el momento de pasar a la vida como espíritus, hemos aprendido a interactuar con la Ley que libera nuestro cuerpo material, y nuestro cuerpo espiritual pasa a ser el vehículo de nuestra existencia.
+
+Soy muy alta, y femenina en esencia, tal como era femenina cuando vivía en Ovana. Tuve dos hijos y un esposo alma gemela, de manera muy parecida a como vosotros hacéis, sólo que nosotros somos conscientes de nuestra pareja y del lugar que cada uno ocupa en la creación de nuestras vidas, dada por la creación de Nuestro Padre. Obviamente nuestro nombre para el Padre no es pronunciado en inglés, y las letras que pueden formar el sonido son Urah. Todos los pueblos de Ovana comprendieron que los países formaban una entente colectiva, que todos vivíamos bajo la luz, la vida y el Amor de Urah. Aunque realizamos obras materiales para celebrar nuestros atributos, la belleza de nuestro mundo residía en que ninguna creación hecha por un individuo se convertía jamás en objeto de adoración que reemplazara o llegara a considerarse más grande que el amor de nuestra alma por Urah. Al espíritu con el que estoy le gusta este nombre, y a mí me gusta el nombre al que él se refiere como el Padre. Yo era, según vuestra comprensión, de tez clara, ojos azules y rasgos bien definidos. La competencia no es nuestra forma de vida, porque no tenemos nada por lo que competir ni contra lo que competir. Todos tenemos el Amor de [sonrisa] el Padre en nuestras almas, y con ello, cada individuo se siente realizado. Nuestras respectivas voluntades reconocen que los reinos del espíritu son conocidos, y así podemos dirigir nuestros esfuerzos en dirección a descubrir la relación del espíritu con nuestra alma, y esto fue y es omniabarcante y muy convincente.
+
+Tuvimos nuestros dramas, pero nuestro Tribunal es un Tribunal de escucha, y cuando esos individuos elegidos han escuchado, piden entonces a la persona o personas presentes que determinen su propio recurso, el cual es justo y razonable y, bajo esto, equitativo. La presencia ahí en nuestras resoluciones era nuestra capacidad de actuar en el presente, sabiendo al instante qué compensación se necesitaba a fin de restablecer la armonía.
+
+Tenemos fuentes y amamos el agua… la energía de la vida. Nunca nadamos con ropa, pues nuestro cuerpo físico es visto como un atributo creado por el Padre, y por ello, bajo el Amor del Padre, nuestra forma y nuestro sexo son respetados, y la belleza de nuestro cuerpo se conserva. Nosotros no enterramos a nadie, pues cuando nuestro cuerpo material es ‘traducido’ por la operación de la Ley de Traslación, que desmaterializa nuestro atributo físico, ello implica que no queda materia orgánica. Sí que tenemos una imagen creada de nosotros, con nuestro nombre y una marca que define la esencia de lo que nuestra vida aportó a los demás, a la sociedad y a nuestra cultura.
+
+Cada individuo es apreciado por su individualidad en forma mortal, ya que el alma es una creación del Padre y, por lo tanto, ante todo y sobre todo, nuestro propio amor es celebrado bajo el Amor del Padre. Tenemos edificios y pequeñas ciudades iluminadas por la energía de nuestro Sol, y tenemos fuego y otras fuentes de energía naturales para mantener nuestro bienestar. Nos alimentamos principalmente de frutas y verduras, y la vida silvestre no es muy numerosa ni abundante, pues hay más montañas que llanuras. Tenemos nuestras ciudades en valles cerca del océano y los ríos, como vosotros. Nos casamos cuando el conocimiento en nuestra alma se une bajo el conocimiento en el alma de ambos individuos, y esto suele ocurrir alrededor de nuestros 30 años, lo cual es una edad un poco mayor que vuestros 30 años. Tenemos una moneda, pero ésta sigue perdurando sólo como una moneda para todos, y es casi redundante. Las Leyes del Padre están tan presentes en nuestros estilos de vida que nuestra historia ha evolucionado a través de años y años de aprendizaje y aceptación, y ahora somos un pueblo de luz.
+
+Este encuentro ha sido un placer, y bastante único, ya que ni tú, Nicholas, ni tu amigo sabíais que esto iba a suceder. Vi a la persona que escribió el mensaje anterior, y es un alma hermosa. Me gustaría agradecerle a mi amigo y guía Celestial por traerme aquí para hablar, ya que esta ha sido una oportunidad única. El Padre –Urah– Ama toda vida que ha sido creada.
+
+En palabras vuestras, que os vaya bien, Tristiana.

@@ -69,7 +69,7 @@ Judas | [La revuelta fiscal en el año 6 d.C.](/6-es-cont-mess/6-1-es-cont-mess-
 Marcos | [Juan Marcos habla sobre la fe y sobre la introspección](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-10-29-1-hr-mark/) | 29 octubre 2001
 Judas | [El Amor – El corazón de carne](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-10-30-1-hr-judas/) | 30 octubre 2001
 Judas | [Mente material versus mente del alma – Modelos actuales de la mente](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-11-4-1-hr-judas/) | 4 noviembre 2001
-María Magdalena | [El rostro del amor](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-11-4-2-ar-mary-magdalene/) | 4 noviembre 2001
+María Magdalena | [El semblante del Amor](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-11-4-2-ar-mary-magdalene/) | 4 noviembre 2001
 Judas | [Después de la revuelta fiscal del año 6 d.C.](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-11-5-1-hr-judas/) | 5 noviembre 2001
 Judas | [Perdón y olvido](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-11-6-1-hr-judas/) | 6 noviembre 2001
 Judas | [Arcángeles – Satanás](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-11-8-1-hr-judas/) | 8 noviembre 2001
