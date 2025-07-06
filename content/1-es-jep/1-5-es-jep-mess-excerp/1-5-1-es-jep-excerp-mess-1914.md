@@ -7,17 +7,17 @@ draft: False
 hidden: True
 weight:
 ---
-#### Extractos de la obra de James E. Padgett del año 1914
+## Extractos de la obra de James E. Padgett del año 1914
 
 
 
-##### El nuevo nacimiento no es obra de tu propia voluntad
+# El nuevo nacimiento no es obra de tu propia voluntad
 
 El Nuevo Nacimiento es el fluir del Espíritu de Dios al interior de tu alma y la desaparición de todo lo que tiende a apartar tu corazón de la verdad y el Amor de Dios. Viene mediante las obras del Espíritu Santo, que transmite la Gracia de Dios. No es una obra de tu propio querer o poder; es el Amor de Dios lo que causa el cambio. No puedes por ti mismo cambiar las malas obras de tu corazón, pero pue-des orar, y el Espíritu Santo entrará en tu alma, y entonces te darás cuenta del cam-bio.
 
 [Ann Rollins – 15 de septiembre de 1914](/1-es-jep/1-4-es-jep-mess-by-date/1-4-1-es-jep-mess-1914/es-1914-9-15-1-jep-ann-rollins/)
 
-##### Acude a Dios en oración
+## Acude a Dios en oración
 
 No debes estar demasiado ansioso de que te explique todos los misterios de la creación de Dios. No debo enseñártelos todos ahora, aunque lo haré más adelante, cuando te hayas purificado y estés aunado con Él.
 
@@ -27,7 +27,7 @@ Acude a Dios en oración y él quitará de tu alma todo lo que tiende a contamin
 
 [Jesús – 5 de octubre de 1914](/1-es-jep/1-4-es-jep-mess-by-date/1-4-1-es-jep-mess-1914/es-1914-10-5-1-jep-jesus/)
 
-##### Confirmación de la fe
+### Confirmación de la fe
 
 Siento que Dios está llenando mi alma con Su Amor. Creo que Él es mi Padre y yo Su hija. Él está muy cerca de mí, y el Espíritu Santo está llegando más y más al inte-rior de mi alma. He empezado a tener más fe en Su Amor y Gracia, y creo que Él está aguardando a poder llenar mi alma con Su Amor, tal como me has dicho. ¡Estoy tan feliz de poder darme cuenta de que Él es mi verdadero Padre de Amor! Él está con-migo ahora tanto, que sé que he nacido de nuevo, tal como tu abuela me dijo que ocurriría si tan sólo creyera y dejara que Su Espíritu Santo entrara en mi alma. Pronto estaré en la Tercera Esfera.
 
@@ -35,7 +35,7 @@ Cuando empieces a realmente asimilar cuál es el verdadero significado del Amor 
 
 [Helen – 16 de noviembre de 1914](/1-es-jep/1-4-es-jep-mess-by-date/1-4-1-es-jep-mess-1914/es-1914-11-16-1-jep-helen-padgett/)
 
-##### Puedes progresar en la tierra
+#### Puedes progresar en la tierra
 
 Puedes progresar en la tierra tan rápidamente como yo puedo aquí, si haces posible que el Amor de Dios entre en tu corazón tan plena y abundantemente como lo hago yo; y puedes hacerlo con no más que rezar al Padre. Él no requiere que el hijo de Sus cuidados se halle en el mundo del espíritu para desarrollar su alma. Tienes ahora la misma alma que tendrás cuando vengas aquí, y si dejas que Dios la llene con Su Amor mientras estás en la tierra, ¿por qué no habría de progresar tanto co-mo aquí? Dios no tiene la intención de esperar hasta que vengas aquí para darte el pleno disfrute de Su Espíritu Santo; todo depende de ti. Si buscas verdadera y sin-ceramente Su Amor, lo obtendrás en la tierra tan fácilmente como lo puedes obte-ner tras haberte despojado del cuerpo. El Amor de Dios que llegue al alma de un hombre no depende de si está en la carne o en el espíritu.
 
