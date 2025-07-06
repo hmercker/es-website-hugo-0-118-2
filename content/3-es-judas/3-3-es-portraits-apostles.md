@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 30
 ---
-### Retratos de los Apóstoles
+## Retratos de los Apóstoles
 
 Estos retratos son el resultado de la comunicación entre el médium H. y Judas. Él es capaz de transmitir una imagen de cada apóstol, que H. es capaz de reproducir. Esta sección fue concebida originalmente como: «Retratos de los Doce Apóstoles». Judas me reprendió amablemente en [este mensaje](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-5-es-cont-mess-2001/es-2001-9-29-1-hr-judas/), diciendo que nunca hubo sólo doce apóstoles. Supongo que yo debería haberlo presentido, puesto que por ejemplo María Magdalena fue una de las seguidoras cercanas de Jesús.
 

@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 60
 ---
-### El testimonio del Dr. Leslie Rippon Stone
+## El testimonio del Dr. Leslie Rippon Stone
 
 *El editor original de Los Mensajes de Padgett.*
 

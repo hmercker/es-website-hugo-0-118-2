@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 20
 ---
-### Sermones sobre el Antiguo Testamento por Jesús
+## Sermones sobre el Antiguo Testamento por Jesús
 
 El Dr. Samuels recibió estos sermones entre 1957 y 1966. Cuando los encontré por primera vez no me interesaron lo más mínimo, ya que nunca había estudiado el Antiguo Testamento. Ahora encuentro que cada uno de ellos es interesante por sí mismo, pero lo que es mucho más interesante es el concepto general que transmite Jesús al llevarnos en este viaje a través del Antiguo Testamento. Por eso es útil leerlos en secuencia. Se hace evidente cómo evolucionó la fe judía, por qué los tiempos eran propicios para un Mesías y cómo el cristianismo adoptó ritos y creencias paganas para hacer que las doctrinas cristianas fueran más atractivas para los paganos, su principal mercado-diana. También nos lleva a través del viaje espiritual que Jesús mismo emprendió, al identificar, siglos antes de su nacimiento, la promesa del Amor Divino.
 

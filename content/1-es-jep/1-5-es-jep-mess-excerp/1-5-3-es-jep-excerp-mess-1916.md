@@ -656,3 +656,5 @@ Cada Verdad que alguna vez fue pronunciada entraña en ella un elemento que mues
 Los hombres deben aprender esta Verdad, y en sus oraciones deben pedir que esas cosas o causas –que en cumplimiento de la Ley de Compensación producen resultados que son adversos para ellos– sean removidas o eliminadas de sus actos y obras, así como de sus deseos.
 
 *[Elías – 25 de diciembre de 1916](/1-es-jep/1-4-es-jep-mess-by-date/1-4-4-es-jep-mess-1916/es-1916-12-25-1-jep-elias/)*
+
+*[Volver al menú principal](/1-es-jep/1-5-es-jep-mess-excerp/)*

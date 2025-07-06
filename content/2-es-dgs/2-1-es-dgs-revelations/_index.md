@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 10
 ---
-### Revelaciones de Jesús sobre el Nuevo Testamento
+## Revelaciones de Jesús sobre el Nuevo Testamento
 
 El Dr. Samuels recibió estas revelaciones durante el período de 1954 a 1966. Para obtener más detalles sobre el Dr. Samuels, [consulta esta página](/2-es-dgs/2-4-es-about-dgs/).
 

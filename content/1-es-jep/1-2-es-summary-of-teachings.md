@@ -7,9 +7,9 @@ draft: False
 hidden: False
 weight: 20
 ---
-### Resumen de las enseñanzas sobre la Segunda Venida
+## Resumen de las enseñanzas sobre la Segunda Venida
 
-#### Un breve resumen de las enseñanzas
+### Un breve resumen de las enseñanzas
 
 Las renovadas revelaciones de Jesús, según fueron recibidas a través de James Padgett, nos muestran el camino hacia Dios y hacia la vida eterna en Su Divino Reino del Cielo.
 
@@ -27,11 +27,11 @@ Lo que sigue muestra un más extenso resumen de las enseñanzas de la Segunda Ve
 
 Otro acercamiento a lo mismo es leer lo que se presenta en [El Camino del Amor Divino](/7-es-dl-path/7-4-es-dl/). Es extenso y va a fondo en cada asunto.
 
-#### La vida y enseñanzas de Jesús de Nazaret
+### La vida y enseñanzas de Jesús de Nazaret
 
 Basado en una conferencia del Rev. R. B. Caddle, de Barbados. (Ya fallecido).
 
-##### Él descendía de la casa de David.
+#### Él descendía de la casa de David.
 
 Jesús de Nazaret, amado hermano mayor y líder divino para muchos, nació como Jeshua ben Yusef. Cuando se traduce al idioma inglés, su nombre se convierte en Josué hijo de José.
 
@@ -51,7 +51,7 @@ La luz de la estrella parecía apuntar en dirección oeste. Esto determinó que 
 
 Es de interés mencionar que la estrella, la Estrella de Belén como hoy se la llama (hoy día una estrella así se llamaría supernova), que inicialmente había captado la atención de los Magos, había desaparecido de los cielos orientales varias semanas después de su aparición, y que en los cielos de Judea o de Israel no había sido vista en absoluto.
 
-##### La huida a Egipto y el regreso a Galilea.
+#### La huida a Egipto y el regreso a Galilea.
 
 Cuando Jesús nació las condiciones en la tierra eran inestables y peligrosas. El rey Herodes estaba en su peor momento, y muchas personas inocentes, tanto adultos como niños, fueron asesinados sin motivo. Cuando escuchó el contenido de las profecías de las Escrituras hebreas sobre el nacimiento de un Mesías, un “rey de los judíos”, Herodes determinó la fecha de la aparición de la estrella brillante y las edades de los niños hebreos de Belén, tal que habría dado muerte a aquellos de dos años o menos.
 
@@ -73,7 +73,7 @@ Al nacer, el alma de Jesús se hallaba sin el estorbo de las heredadas tendencia
 
 A lo largo de su niñez y mocedad, debido a sus constantes anhelos de aunamiento con Dios, su alma experimentó una continua transformación de su naturaleza en la Divinidad del Padre. Se dio cuenta de que esta transformación estaba teniendo lugar a medida que crecía hasta la edad adulta y disfrutaba de comuniones cada vez más íntimas con el Padre y de una unificación cada vez mayor con Él.
 
-##### Sus años de formación los dedicó a estudiar las Escrituras y recibir el amor divino del Padre.
+#### Sus años de formación los dedicó a estudiar las Escrituras y recibir el amor divino del Padre.
 
 A través del Sr. Padgett, la madre de Jesús escribió que en su juventud Jesús era considerado serio y estudioso, alguien que bebía con entusiasmo de la fuente de las Escrituras y del Talmud, mostrando continuamente su amor hacia su familia trabajando duro para ellos y ayudando a José en su oficio de carpintería. Era amable y gentil, pero poseía un cierto misticismo que a sus padres les resultó difícil entender a medida que se hacía adulto.
 
@@ -111,7 +111,7 @@ Dentro de sí mismo Jesús sintió la Gloria del Padre y reconoció aquellas cua
 
 El Nuevo Corazón dentro de él, nacido de la Esencia de Amor del Padre en su alma, le bendijo con una comprensión compasiva de las dificultades y luchas soportadas por su pueblo a lo largo de su larga historia. Él era plenamente consciente del tierno Amor que fluía de nuestro Padre Celestial, y sabía que Él estaba ansioso por liberar a Sus hijos del pecado y del sufrimiento, y que deseaba únicamente otorgarles felicidad suprema y vida eterna.
 
-##### Su ministerio público.
+#### Su ministerio público.
 
 Por extraño que pueda parecerles a algunos, no fue hasta su trigésimo tercer año, en el año 26 d.C., cuando Jesús comenzó su ministerio público con la ayuda de su primo Juan, a quien conocía bien desde el regreso de la familia desde Egipto.
 
@@ -133,7 +133,7 @@ Cuando Jesús dijo: “No he venido a llamar al justo sino al pecador al arrepen
 
 Por “Reino de Dios”, Jesús no se refería al Paraíso –que era el único Reino Celestial conocido por los hebreos y el único Reino disponible para la humanidad antes de que Jesús revelara la disponibilidad del Amor Divino del Padre–. Se refería al Divino Reino de los Cielos, que sería habitado por aquellas almas redimidas –por el Amor Divino del Padre– del pecado y el error, y completamente transformadas en la Naturaleza Divina de Dios. El Reino Divino también se conoce como los Mundos Celestiales o el Reino Celestial.
 
-##### Proclamó ser el Mesías en la sinagoga de Nazaret.
+#### Proclamó ser el Mesías en la sinagoga de Nazaret.
 
 Poco después de haber sido bautizado por Juan y ungido por Dios como el Cristo, Jesús se presentó en la sinagoga de Nazaret como aquel a quien Dios había enviado para declarar el nuevo otorgamiento de la inmortalidad a través del Amor Divino a todos los que buscaran Su redención del pecado y un renacimiento en el seno de Sus cualidades eternas.
 
@@ -157,7 +157,7 @@ Así pues, él había venido como el Mesías para proclamar la inmortalidad para
 
 Jesús se proclamó el Mesías tan esperado por los hebreos. Pero en ese entonces no pudo realizar ningún milagro notable debido a la peculiar situación en que se hallaba, pues habiendo vivido durante veinte años o más en Nazaret, a quienes le habían conocido durante tanto tiempo ahora de pronto se les pedía que creyeran que era el Mesías. Esto les resultó muy difícil de hacer, porque no se trataba de pedir a extraños que le aceptaran a él y a sus enseñanzas y curaciones, sino más bien, hacer que la gente cambiara de opinión acerca de él tras veinte años de formación de esa opinión. Se requiere fe por parte del destinatario del don sanador; y como nunca había sanado en su ciudad natal antes de su ministerio público, la gente se mostró escéptica de que de repente pudiera realizar lo que no había hecho durante los últimos veinte años. Y así fue como esta extraña corriente de incredulidad le impidió ejercer sus poderes curativos al comienzo de su ministerio público.
 
-##### La condición espiritual del mundo cuando vivió en la Tierra.
+#### La condición espiritual del mundo cuando vivió en la Tierra.
 
 La historia de la nación hebrea que se halla en el Antiguo Testamento de la Biblia proporciona evidencia clara de que el alma humana siempre ha sido la verdadera registradora del progreso de la humanidad en el proceso de recuperación de su estado original de pureza y bondad en el amor natural.
 
@@ -199,7 +199,7 @@ Los tres discípulos quedaron estupefactos y cayeron de bruces ante el brillo ex
 
 La voz que se escuchó en ese momento, interpretada como la voz de Dios proclamando que Jesús era su hijo amado, “Escuchadle a él”, era en realidad la voz de uno de los espíritus divinos cuya misión era hacer el anuncio.
 
-##### Aconsejó la paz con Roma.
+#### Aconsejó la paz con Roma.
 
 Los hebreos en general sentían una profunda ira, así como una creciente determinación por parte de muchos de deshacerse de los opresores romanos y recuperar la independencia de la nación judía. Pero Jesús conocía la Voluntad de Dios para Sus hijos y predicó contra la guerra y los levantamientos, aconsejando firmemente la paz con Roma, tal como los profetas de la antigüedad habían aconsejado en sus días la paz con los reinos vecinos que sin cesar amenazaban el modo de vida judío.
 
@@ -213,7 +213,7 @@ A través de Jesús, Dios había dado Su Ley Espiritual más elevada hasta enton
 
 El amor humano no estaba a la altura de la inmensa tarea de hacer frente al mayor que él mal humano que era la antigua Roma, tal como se hizo evidente más tarde, cuando los rebeldes judíos vieron la destrucción de su Templo.
 
-##### “A través del poder de Dios sanará y será glorificado el Hijo de Dios”.
+#### “A través del poder de Dios sanará y será glorificado el Hijo de Dios”.
 
 La brutalidad de los romanos la sintieron con mayor intensidad los pobres, que quedaron indefensos ante la injusticia romana debido a los perjuicios morales que también sufrieron a manos de la clase dominante hebrea. Estos aristócratas descuidaron defender las enseñanzas caritativas de la religión hebrea: no oprimir al desconocido, al huérfano ni a la viuda; no derramar sangre inocente; y no ir tras de otros dioses. Las enseñanzas morales de los Diez Mandamientos –la Ley– fueron deliberadamente dejadas de lado por los sacerdotes hebreos, cuya ambición mundana les cegó, sin ver la grave situación de sus hermanos menos afortunados.
 
@@ -231,7 +231,7 @@ Todos los que le escucharon con el corazón abierto supieron interiormente que D
 
 Como consumación de su misión Divina, el Principio Crístico dentro de su alma irradió hacia afuera en Sus cualidades eternas de amor inagotable, compasión, ternura y amorosa bondad. Él demostró incansablemente los poderes restauradores de la Naturaleza del Padre a todos los que tenían fe en el Poder de Dios curando, instantáneamente, aflicciones corporales para las cuales no existía cura conocida.
 
-##### “Vine por los pobres y los mansos”.
+#### “Vine por los pobres y los mansos”.
 
 Ni las angustias ni las enfermedades no tratadas de los oprimidos escaparon a la conciencia de Jesús, de tan grande como era su amor por los pobres y tan finamente sintonizado en corazón y alma con sus necesidades, tanto espirituales como materiales. En medio de ellos vino, trayendo una Nueva Promesa de nuestro Padre Celestial, una Nueva Esperanza fundada en el Amor que el Padre estaba ofreciendo a Sus hijos para liberarles no sólo de sus cargas de pecado y enfermedad, sino también para elevarles por encima de los sufrimientos infligidos por las duras injusticias de la vida.
 
@@ -251,7 +251,7 @@ Y sin embargo, en la profunda humildad del gran Amor que poseía su alma, él nu
 
 Nuestro hermano recorrió los caminos y senderos de Palestina como ejemplo vivo de la Nueva Alianza del Corazón que Dios había prometido a Sus hijos muchos siglos antes a través de Sus profetas. El Amor Divino, percibido a través de la visión espiritual de Oseas, Isaías, Jeremías y Ezequiel, ahora se había convertido en una realidad para el corazón y el alma humana y estaba ejemplificado, en todo su Divino Esplendor y Belleza, en la persona de Jesús de Nazaret.
 
-##### Por qué los principales sacerdotes y gobernantes de la religión hebrea rechazaron su afirmación de mesianismo.
+#### Por qué los principales sacerdotes y gobernantes de la religión hebrea rechazaron su afirmación de mesianismo.
 
 Fue durante el otoño del año 28 d.C. cuando Jesús tuvo la ocasión de presentar sus alegaciones como Mesías ante los principales sacerdotes y gobernantes, y los más eruditos del pueblo hebreo en asuntos relacionados con la religión. Hizo saber que su misión era proclamar el Nuevo Pacto entre el Padre Celestial y los hijos de Israel, y que el Amor Divino del Padre Celestial ahora estaba presente y podía ser obtenido por todos los que lo buscaran mediante el anhelo ferviente del alma. Y, además, que él era el signo visible de Su presencia, porque en su alma reposaba la Naturaleza y Esencia del Padre en la forma del Amor Divino; y que ella, su alma, siendo de esta Naturaleza y Esencia del Padre, era por consiguiente inmortal.
 
@@ -291,7 +291,7 @@ Jesús nunca dijo que él era el Buen Pastor, porque eso se refería al Padre; y
 
 Es el Padre el que da vida eterna a Sus ovejas, y él, Jesús, es el Camino, la puerta por la que Sus ovejas pueden entrar al redil de la vida eterna. En los Salmos se señaló que Dios, el Buen Pastor, usaría a David, o a una raíz de David, como ayuda para llevar al redil las ovejas.
 
-##### “El Reino de Dios está en medio de vosotros”.
+#### “El Reino de Dios está en medio de vosotros”.
 
 Cuando ciertos portavoces de los fariseos preguntaron a Jesús cuándo vendría el Reino de Dios, él respondió que en su persona ya había llegado; porque dondequiera que él iba, llevaba consigo el Reino de Dios. Este es el verdadero significado del versículo: “Y cuando le preguntaron a los fariseos cuándo vendría el Reino de Dios, él les respondió diciendo: El Reino de Dios no vendrá por observación (es decir, como una manifestación visible para contemplar el Reino a través de los ojos del hombre mortal) pues mirad, que el Reino de Dios está dentro (en medio) de vosotros”.
 
@@ -305,7 +305,7 @@ La condición del alma que corresponde al Paraíso –el alma purificada– es e
 
 Y hay algunos que señalan a 1 Corintios 3:16: “¿Acaso no sabéis que sois templo de Dios, y que el Espíritu de Dios mora en vosotros?” Pero estos individuos no entienden que el templo de Dios al que se refieren es el alma y no el cuerpo, porque el cuerpo no entra en la salvación, ni fue formado a imagen de Dios, como lo fue el alma. Jesús nos enseña que toda alma que busca la rectitud del Padre se vuelve como un templo de Dios en pureza; pero cada alma que busca el Amor Divino de Dios se vuelve como un templo lleno de la Esencia de Dios Mismo; porque el alma está entonces aunada con Dios.
 
-##### Tener a Cristo en ti.
+#### Tener a Cristo en ti.
 
 Además, hay quienes erróneamente creen que el Reino de Dios está dentro de ellos porque Cristo está dentro de ellos –según las enseñanzas de la iglesia– y, sin entender ni saber qué es el Cristo, sienten que poseen el aunamiento con Dios mediante la fe en el nombre de Jesús y en la “eficacia” de su sangre derramada y del sacramento de la Eucaristía.
 
@@ -321,7 +321,7 @@ Juan dejó claro que cuando hablaba de amor se refería al Amor de Dios –el Am
 
 El Reino de Dios puede residir dentro de nosotros, pero sólo si seguimos el Camino mostrado por Jesús y buscamos el Reino de Dios a través del ferviente anhelo y la oración al Padre en pos del Don de Su Divino Amor. Y con Su Divino Amor vendrá la vida eterna y las cosas necesarias para sostenerla, en este mundo y en el próximo.
 
-##### El amor de Dios volverá a serle retirado a la humanidad.
+#### El amor de Dios volverá a serle retirado a la humanidad.
 
 Según Jesús, el Amor Divino es la sola gran cosa en la Economía de la Existencia Real de Dios. Sin Él todo sería caos e infelicidad; pero donde Él existe, también existen la armonía y la felicidad. [Él escribió a través de James Padgett](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-3-3-2-jep-jesus/):
 
@@ -375,7 +375,7 @@ Al principio, su gozo al enseñar la liberación del alma y su resurrección de 
 
 Cuanto más exitoso fue en su misión, tanto más decididos a eliminarle se tornaron los líderes y sacerdotes, sintiendo que estaba socavando su influencia y la religión hebrea.
 
-##### Muerte por crucifixión.
+#### Muerte por crucifixión.
 
 Fue en vísperas de su arresto por Pilato cuando Jesús dio a sus discípulos el undécimo mandamiento: Amaos unos a otros como yo os he amado. El significado del Mandamiento, que es primordial para la religión predicada por la [Iglesia Base de la Verdad Divina](https://fcdt.org/), fue [explicado por nuestro hermano mayor](/2-es-dgs/2-1-es-dgs-revelations/es-rev-18-6-9-13-22-december-1954-samuels-jesus/) con las siguientes palabras:
 
@@ -407,7 +407,7 @@ Jesús dejó la cueva, pero no antes de materializarse en un cuerpo semejante a 
 
 Jesús explicó a través del Sr. Padgett que era necesario que se materializara de esta manera para demostrar que todavía estaba vivo incluso tras la muerte física por crucifixión. En ese momento de su desarrollo espiritual, esto era una prueba a los ojos de sus discípulos de que él era el Mesías. Sin embargo, la verdadera comprensión de su Mesianismo les llegó a todos en Pentecostés, cuando el conocimiento les sobrevino con una convicción abrumadora de que Jesús había sacado a la luz el Amor del Padre y Sus cualidades Divinas.
 
-##### El Cumplimiento del Undécimo Mandamiento - Pentecostés.
+#### El Cumplimiento del Undécimo Mandamiento - Pentecostés.
 
 El Mandamiento que Jesús dio a sus discípulos en la cena de Pascua –amarse unos a otros con el Amor Divino con el que amó a los hombres y a sus discípulos– se cumplió 50 días después de su muerte, cuando el concepto mental de su misión fue reemplazado por las emociones de amor y gran tristeza en sus seguidores.
 
@@ -421,7 +421,7 @@ Este influjo del Amor Divino más tarde se conoció como “recibir el Espíritu
 
 El fin de la dispensación judía, o el fin del mundo hebreo, llegó con Pentecostés, porque fue en ese momento cuando el Amor Divino del Padre, que por vez primera fue otorgado a Jesús, fue concedido en abundancia a sus seguidores, y las leyes mosaicas, las leyes más elevadas disponibles para la humanidad antes de la venida de Jesús, fueron sustituidas por el Nuevo Pacto del Corazón y el Nuevo Nacimiento del alma.
 
-##### Epílogo.
+#### Epílogo.
 
 Quizá la descripción más conmovedora del alma de Jesús cuando vivió en la tierra y ministró amorosamente a sus semejantes nos la haya dado su madre. En sus palabras podemos apreciar y valorar verdaderamente los finos rasgos amorosos del carácter inherentes a Jesús como resultado del desarrollo de su alma en el Amor Divino de Dios.
 

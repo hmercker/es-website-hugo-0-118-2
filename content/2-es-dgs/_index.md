@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 20
 ---
-## Dr. Daniel G. Samuels
+# Dr. Daniel G. Samuels
 
 1. [Revelaciones de Jesús sobre el Nuevo Testamento](/2-es-dgs/2-1-es-dgs-revelations/)
 2. [Sermones sobre el Antiguo Testamento por Jesús](/2-es-dgs/2-2-es-dgs-sermons/)

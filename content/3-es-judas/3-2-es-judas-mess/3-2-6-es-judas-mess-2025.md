@@ -7,7 +7,7 @@ draft: False
 hidden: True
 weight:
 ---
-#### Mensajes de Judas para el año 2025
+### Mensajes de Judas para el año 2025
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---

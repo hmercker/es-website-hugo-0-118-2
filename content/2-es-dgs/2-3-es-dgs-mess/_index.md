@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 30
 ---
-### Mensajes diversos del Dr. Daniel G. Samuels
+## Mensajes diversos del Dr. Daniel G. Samuels
 
 El Dr. Samuels recibió una serie de mensajes, que se derivan del trabajo de James Padgett, durante el período de 1954 a 1966. Hasta donde puedo discernir, recibió predominantemente mensajes de Jesús, y éstos se listan en dos páginas, las llamadas [revelaciones](/2-es-dgs/2-1-es-dgs-revelations/) y los llamados [sermones](/2-es-dgs/2-2-es-dgs-sermons/).
 
@@ -40,3 +40,8 @@ Jesús | [Creación y desarrollo de las almas – Desmaterialización](/2-es-dgs
 Jesús | [El alma de un niño – Las fuentes de las calamidades](/2-es-dgs/2-3-es-dgs-mess/es-11-undated-samuels-jesus/) | sin fecha
 María | [El nacimiento y la juventud de Jesús según María, madre de Jesús](/2-es-dgs/2-3-es-dgs-mess/es-12-1963-samuels-mary/) | 1963
 Jesús | [Matrimonios legales, divorcio, adulterio, control de la natalidad y aborto](/2-es-dgs/2-3-es-dgs-mess/es-13-1961-4-1-samuels-jesus/) | 1 de abril de 1961
+José | [El padre de Jesús fue llamado Alfeo por algunos de los escritores del Evangelio](/2-es-dgs/2-3-es-dgs-mess/es-14-1954-11-2-samuels-joseph/) | 2 de noviembre de 1954
+Jesús | [Shavuoth (Pentecostés), la Cuarta Observancia; el domingo más cercano al día 50 tras el segundo sábado de abril](/2-es-dgs/2-3-es-dgs-mess/es-15-1963-8-samuels-jesus/) | agosto de 1963
+Jesús | [Janucá, Navidad, Epifanía, la segunda observancia, 17 y 18 de diciembre; 24 y 25 de diciembre; 6 de enero](/2-es-dgs/2-3-es-dgs-mess/es-16-1963-8-samuels-jesus/) | agosto de 1964
+Jesús | [Yom Kippur, Día del Arrepentimiento, Juan el Bautista, Primera Observancia, Último sábado de septiembre](dgs/2-3-es-dgs-mess/es-17-1963-8-samuels-jesus/) | agosto de 1963
+Jesús | [Pascua judía – Pascua de Resurrección – la tercera observancia, noche del segundo sábado y domingo de abril](/2-es-dgs/2-3-es-dgs-mess/es-18-sep-oct-1955-aug-oct-1962-may-june-1965-samuels-jesus/) | septiembre y octubre de 1955, agosto y octubre de 1962, mayo y junio de 1965

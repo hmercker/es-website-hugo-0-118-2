@@ -7,7 +7,7 @@ draft: False
 hidden: False
 weight: 50
 ---
-### Extractos de la obra de James E. Padgett
+## Extractos de la obra de James E. Padgett
 
 Esta colección se basa en parte en la maravillosa obra "El Pequeño Libro de las Verdades", de nuestro querido y difunto hermano Joseph Babinsky. Con estos extractos queremos rendirle homenaje y honrar su obra, así como su excepcional conocimiento de los mensajes de Padgett. Joseph Babinsky poseía el don especial de resaltar los aspectos más importantes de entre un vasto conjunto de mensajes. Por ello, aquí se reproduce el contenido del Pequeño Libro de las Verdades. Se han añadido algunos extractos más.
 
