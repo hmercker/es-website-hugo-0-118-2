@@ -43,5 +43,5 @@ Jesús | [Matrimonios legales, divorcio, adulterio, control de la natalidad y ab
 José | [El padre de Jesús fue llamado Alfeo por algunos de los escritores del Evangelio](/2-es-dgs/2-3-es-dgs-mess/es-14-1954-11-2-samuels-joseph/) | 2 de noviembre de 1954
 Jesús | [Shavuoth (Pentecostés), la Cuarta Observancia; el domingo más cercano al día 50 tras el segundo sábado de abril](/2-es-dgs/2-3-es-dgs-mess/es-15-1963-8-samuels-jesus/) | agosto de 1963
 Jesús | [Janucá, Navidad, Epifanía, la segunda observancia, 17 y 18 de diciembre; 24 y 25 de diciembre; 6 de enero](/2-es-dgs/2-3-es-dgs-mess/es-16-1963-8-samuels-jesus/) | agosto de 1964
-Jesús | [Yom Kippur, Día del Arrepentimiento, Juan el Bautista, Primera Observancia, Último sábado de septiembre](dgs/2-3-es-dgs-mess/es-17-1963-8-samuels-jesus/) | agosto de 1963
+Jesús | [Yom Kippur, Día del Arrepentimiento, Juan el Bautista, Primera Observancia, Último sábado de septiembre](/2-es-dgs/2-3-es-dgs-mess/es-17-1963-8-samuels-jesus/) | agosto de 1963
 Jesús | [Pascua judía – Pascua de Resurrección – la tercera observancia, noche del segundo sábado y domingo de abril](/2-es-dgs/2-3-es-dgs-mess/es-18-sep-oct-1955-aug-oct-1962-may-june-1965-samuels-jesus/) | septiembre y octubre de 1955, agosto y octubre de 1962, mayo y junio de 1965
