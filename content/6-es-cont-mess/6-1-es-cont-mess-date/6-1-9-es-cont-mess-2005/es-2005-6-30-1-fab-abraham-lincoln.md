@@ -9,7 +9,7 @@ weight:
 ---
 ### Abraham Lincoln y la guerra
 
-Abraham Lincoln - recibido por FAB el 30 de junio de 2005, Santa Cruz, CA, EE.UU.
+Abraham Lincoln - recibido por Arthur Finmann el 30 de junio de 2005, Santa Cruz, CA, EE.UU.
 
 Estoy aquí, Abraham Lincoln.
 

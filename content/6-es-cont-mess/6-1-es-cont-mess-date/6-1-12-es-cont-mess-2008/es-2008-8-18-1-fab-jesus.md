@@ -9,7 +9,7 @@ weight:
 ---
 ### Los primeros años de vida de Jesús
 
-Jesús - recibido por FAB el 18 de agosto de 2008, Santa Cruz, CA, EE.UU.
+Jesús - recibido por Arthur Finmann el 18 de agosto de 2008, Santa Cruz, CA, EE.UU.
 
 Estoy aquí, Jesús.
 

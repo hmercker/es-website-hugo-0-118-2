@@ -9,4 +9,4 @@ weight:
 ---
 ### Jesús habla del aborto y del abandono de niños
 
-Jesús - recibido por FAB el 4 de marzo de 2007, Santa Cruz, CA, EE.UU.
+Jesús - recibido por Arthur Finmann el 4 de marzo de 2007, Santa Cruz, CA, EE.UU.

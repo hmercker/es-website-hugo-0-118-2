@@ -9,7 +9,7 @@ weight:
 ---
 ### El idealismo de un presidente estadounidense
 
-[Woodrow Wilson](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-2-es-politics/12-2-2-45-es-wilsonthomaswoodrow/) - Recibido por FAB el 20 de diciembre de 2006, Santa Cruz, CA, EE.UU.
+[Woodrow Wilson](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-2-es-politics/12-2-2-45-es-wilsonthomaswoodrow/) - Recibido por Arthur Finmann el 20 de diciembre de 2006, Santa Cruz, CA, EE.UU.
 
 Estoy aquí, Woodrow Wilson.
 

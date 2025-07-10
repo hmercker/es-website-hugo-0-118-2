@@ -9,4 +9,4 @@ weight:
 ---
 ### Leslie Stone está muy arriba
 
-Buda - recibido por FAB el 7 de noviembre de 2005, Santa Cruz, CA, EE.UU.
+Buda - recibido por Arthur Finmann el 7 de noviembre de 2005, Santa Cruz, CA, EE.UU.

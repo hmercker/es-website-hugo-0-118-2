@@ -9,7 +9,7 @@ weight:
 ---
 ### Una aclaración del Nuevo Testamento con respecto a la frase: «El reino de Dios está dentro de vosotros»
 
-Daniel Samuels - recibido por FAB el 26 de febrero de 2012, Berkeley, CA, EE.UU.
+Daniel Samuels - recibido por Arthur Finmann el 26 de febrero de 2012, Berkeley, CA, EE.UU.
 
 Estoy aquí, Daniel Samuels. [^1]
 

@@ -9,7 +9,7 @@ weight:
 ---
 ### Nuestra superior brújula interna
 
-[Sócrates](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-1-es-philosophy/12-2-1-14-es-socrates/) - Recibido por FAB el 19 de julio de 2006, Santa Cruz, CA, EE.UU.
+[Sócrates](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-1-es-philosophy/12-2-1-14-es-socrates/) - Recibido por Arthur Finmann el 19 de julio de 2006, Santa Cruz, CA, EE.UU.
 
 Estoy aquí, Sócrates.
 

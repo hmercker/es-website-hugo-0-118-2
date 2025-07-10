@@ -9,7 +9,7 @@ weight:
 ---
 ### Un diálogo acerca del médium y la guerra de independencia de EE.UU.
 
-[Thomas Paine](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-1-es-philosophy/12-2-1-17-es-painethomas/) - recibido por FAB el 16 de marzo de 2007, Santa Cruz, CA, EE.UU.
+[Thomas Paine](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-1-es-philosophy/12-2-1-17-es-painethomas/) - recibido por Arthur Finmann el 16 de marzo de 2007, Santa Cruz, CA, EE.UU.
 
 Estoy aquí, [Thomas Paine](/1-es-jep/1-4-es-jep-mess-by-date/1-4-2-es-jep-mess-1915-1/es-1915-6-20-1-jep-thomas-paine/).
 

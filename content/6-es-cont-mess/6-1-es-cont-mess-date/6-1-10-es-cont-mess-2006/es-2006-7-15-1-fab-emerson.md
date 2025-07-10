@@ -9,7 +9,7 @@ weight:
 ---
 ### Ralph Waldo Emerson aún no cree en el Amor Divino
 
-[Ralph Waldo Emerson](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-1-es-philosophy/12-2-1-7-es-emersonralphwaldo/) - Recibido por FAB el 15 de julio de 2006, Santa Cruz, CA, EE.UU.
+[Ralph Waldo Emerson](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-1-es-philosophy/12-2-1-7-es-emersonralphwaldo/) - Recibido por Arthur Finmann el 15 de julio de 2006, Santa Cruz, CA, EE.UU.
 
 Aquí estoy, Ralph Waldo Emerson.
 

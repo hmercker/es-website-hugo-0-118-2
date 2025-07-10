@@ -9,7 +9,7 @@ weight:
 ---
 ### Una verdad sobre Job
 
-Jesús - recibido por FAB el 26 de septiembre de 2008, Santa Cruz, CA, EE.UU.
+Jesús - recibido por Arthur Finmann el 26 de septiembre de 2008, Santa Cruz, CA, EE.UU.
 
 Aquí estoy, Jesús.
 

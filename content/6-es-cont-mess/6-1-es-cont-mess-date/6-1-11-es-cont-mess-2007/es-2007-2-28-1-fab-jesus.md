@@ -9,7 +9,7 @@ weight:
 ---
 ### Los conceptos de justicia y amor
 
-Jesús - recibido por FAB el 28 de febrero de 2007, Santa Cruz, CA, EE.UU.
+Jesús - recibido por Arthur Finmann el 28 de febrero de 2007, Santa Cruz, CA, EE.UU.
 
 Estoy aquí, Jesús.
 

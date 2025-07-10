@@ -9,7 +9,7 @@ weight:
 ---
 ### Por qué Jesús estaba libre de pecado
 
-San Juan - recibido por FAB el 28 de noviembre de 2014, Amberes.
+San Juan - recibido por Werner Voets el 28 de noviembre de 2014, Amberes.
 
 Hola de nuevo amigo mío.
 

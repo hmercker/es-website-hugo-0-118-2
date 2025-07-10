@@ -9,4 +9,4 @@ weight:
 ---
 ### Los sufrimientos de un gobernante inglés
 
-[Oliver Cromwell](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-2-es-politics/12-2-2-46-es-cromwelloliver/) - recibido por FAB el 12 de marzo de 2007, Santa Cruz, CA, EE.UU.
+[Oliver Cromwell](/12-es-spirit-comtion/12-2-es-wellknown-person/12-2-2-es-politics/12-2-2-46-es-cromwelloliver/) - recibido por Arthur Finmann el 12 de marzo de 2007, Santa Cruz, CA, EE.UU.

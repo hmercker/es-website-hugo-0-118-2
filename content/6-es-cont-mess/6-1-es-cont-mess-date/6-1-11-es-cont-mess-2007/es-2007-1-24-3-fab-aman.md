@@ -9,7 +9,7 @@ weight:
 ---
 ### Las necesidades nutricionales de los primeros progenitores y del Maestro
 
-Jesús - recibido por FAB el 24 de enero de 2007, Santa Cruz, CA, EE.UU.
+Jesús - recibido por Arthur Finmann el 24 de enero de 2007, Santa Cruz, CA, EE.UU.
 
 Estoy aquí, Amán, el primer padre progenitor.
 

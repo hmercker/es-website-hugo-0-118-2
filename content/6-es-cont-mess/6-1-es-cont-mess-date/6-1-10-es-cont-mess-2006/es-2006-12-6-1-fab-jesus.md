@@ -9,4 +9,4 @@ weight:
 ---
 ### El Libro de Job y el problema del mal
 
-Jesús - Recibido por FAB el 6 de diciembre de 2006, Santa Cruz, CA, EE.UU.
+Jesús - Recibido por Arthur Finmann el 6 de diciembre de 2006, Santa Cruz, CA, EE.UU.
