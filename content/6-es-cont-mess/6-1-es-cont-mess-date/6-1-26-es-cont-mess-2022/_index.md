@@ -11,8 +11,10 @@ weight:
 
 **Autor** | **Título del mensaje** | **Fecha del mensaje**  
 ---|---|---
-Leslie Stone | [No te distraigas con asuntos secundarios](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-26-es-cont-mess-2022/es-2022-1-10-1-jw-leslie-stone/) | 10 enero 2022
+Leslie Stone | [No os dejéis distraer con asuntos periféricos](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-26-es-cont-mess-2022/es-2022-1-10-1-jw-leslie-stone/) | 10 enero 2022
+Robert Hugh Benson | [Gracias por explorar](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-25-es-cont-mess-2021/es-2022-1-13-1-jw-robert-hugh-benson/) | 13 enero 2022
 Orión | [Charla seria sobre el colapso económico y la elevación de la conciencia en la Tierra](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-26-es-cont-mess-2022/es-2022-4-20-1-af-orion/) | 20 abril 2022
+Orión | [Todos somos hermanos y hermanas porque poseemos un alma](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-26-es-cont-mess-2022/es-2022-5-14-2-af-orion/) | 14 mayo 2022
 Jesús | [Lección 1: Jesús anuncia una nueva serie de lecciones sobre los cambios en la Tierra y su impacto en nosotros](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-26-es-cont-mess-2022/es-2022-6-21-1-af-jesus/) | 21 junio 2022
 Jesús | [Lección 2: Jesús habla del fallo masivo de los recursos eléctricos que llegan a la Tierra](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-26-es-cont-mess-2022/es-2022-6-23-1-af-jesus/) | 23 junio 2022
 Jesús | [Lección 3: No permitas que el miedo se apodere de tu fe](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-26-es-cont-mess-2022/es-2022-6-24-2-af-jesus/) | 24 junio 2022
@@ -37,3 +39,6 @@ Jesús | [Lección 21: Las profundas alegrías del despertar del alma](/6-es-con
 Jesús | [Lección 22: La fe puede eliminar los impedimentos para conocer a Dios](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-26-es-cont-mess-2022/es-2022-8-22-1-af-jesus/) | 22 agosto 2022
 Jesús | [Lección 23: El camino hacia la verdad](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-26-es-cont-mess-2022/es-2022-8-24-1-af-jesus/) | 24 agosto 2022
 Jesús | [Lección 24: Conclusión de la serie sobre Nuestro mundo en transición](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-26-es-cont-mess-2022/es-2022-8-26-1-af-jesus/) | 26 agosto 2022
+Seretta Kem | [Eliminar acoplamientos de entidades espirituales](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-26-es-cont-mess-2022/es-2022-8-31-1-af-seretta-kem/) | 31 agosto 2022
+Lorna Scott | [Lorna Scott se comunica seis años después de su fallecimiento](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-26-es-cont-mess-2022/es-2022-11-24-1-af-lorna-scott/) | 24 noviembre 2022
+Robert James Lees | [Una sincronicidad de la Verdad](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-26-es-cont-mess-2022/es-2022-12-1-1-jw-robert-james-lees/) | 1 diciembre 2022
