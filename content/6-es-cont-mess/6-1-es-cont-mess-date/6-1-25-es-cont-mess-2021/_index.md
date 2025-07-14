@@ -34,6 +34,7 @@ Jesús | [Lección 7: Acepta tus dificultades](/6-es-cont-mess/6-1-es-cont-mess-
 Jesús | [Lección 8: La vida en otros planetas podría ayudarnos en la Tierra](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-25-es-cont-mess-2021/es-2021-5-19-1-af-jesus/) | 19 mayo 2021
 Jesús | [Lección 9: Jesús aborda la falsa doctrina de la reencarnación](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-25-es-cont-mess-2021/es-2021-5-20-1-af-jesus/) | 20 mayo 2021
 Jesús | [Lección 10: El viaje hacia un alma despierta](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-25-es-cont-mess-2021/es-2021-5-28-1-af-jesus/) | 28 mayo 2021
+Jesús | [Lección 12: Descripción de las tres mentes](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-25-es-cont-mess-2021/es-2021-6-16-1-af-jesus/) | 16 junio 2021
 Jesús | [Lección 13: Futuros cambios en la Tierra](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-25-es-cont-mess-2021/es-2021-6-25-1-af-jesus/) | 25 junio 2021
 Arameo | [El Amor Divino no hace que eludáis vuestras lecciones](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-25-es-cont-mess-2021/es-2021-9-5-1-af-aramaeus/) | 5 septiembre 2021
 Mylora | [La ley de dar y recibir](/6-es-cont-mess/6-1-es-cont-mess-date/6-1-25-es-cont-mess-2021/es-2021-9-16-4-mc-mylora/) | 16 septiembre 2021
