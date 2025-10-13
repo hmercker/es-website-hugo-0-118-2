@@ -1,3 +1,8 @@
-# Redirects from what the browser requests to what we serve
-/example-redirect /to-here
+# Redirects from what the browser requests to what we serve<!-- Path relative to assets/; move your CSV to assets/redirects.csv if in data/ -->  <!-- Fallback empty array -->
+
+  
+  
+
+
+/example-redirect /to-here  <!-- from to; defaults to 302 in Netlify -->
 

@@ -1,9 +1,22 @@
-baseURL = ""
+baseURL = "https://elcaminodelaverdad.es/"  # Set to your actual site URL; was empty, causing potential relative link issues
 languageCode = "es-ES"
 title = "el camino de la verdad"
 theme = "newbirth"
 enableRobotsTXT = true
-googleAnalytics = "UA-xxxxx-1"
+# googleAnalytics = "UA-xxxxx-1"  # Update to "G-XXXXXXX" for GA4 if using Analytics (suppresses the UA warning); otherwise, remove this line
+ignoreLogs = ['warning-goldmark-raw-html']  # Suppresses raw HTML omission warnings from Goldmark
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Enables raw HTML in Markdown (fixes footnote/image rendering from your 0.51 Blackfriday setup)
+    [markup.goldmark.parser]
+      autoHeadingIDType = "github"  # Matches old Blackfriday heading anchors for internal links
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = false
 
 [outputs]
 home = [ "HTML", "HEADERS" ]
@@ -38,5 +51,4 @@ delimiter = ""
     meta_og_url = "https://elcaminodelaverdad.es/"
     meta_og_image = "https://elcaminodelaverdad.es/images/social.png"
     meta_og_description = ""
-    meta_og_site_name = "elcamino de la verdad"
-
+    meta_og_site_name = "el camino de la verdad"  # Fixed spacing typo from "elcamino de la verdad"
