@@ -1,49 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Profesora de la verdad on el camino de la verdad</title><link>https://elcaminodelaverdad.es/11-es-teachers-truth/</link><description>Recent content in Profesora de la verdad on el camino de la verdad</description><generator>Hugo</generator><language>es-ES</language><lastBuildDate>Fri, 04 Apr 2025 15:43:52 +0000</lastBuildDate><atom:link href="https://elcaminodelaverdad.es/11-es-teachers-truth/index.xml" rel="self" type="application/rss+xml"/><item><title>Maestro Josefo</title><link>https://elcaminodelaverdad.es/11-es-teachers-truth/11-6-es-jesephus/</link><pubDate>Fri, 04 Apr 2025 15:43:52 +0000</pubDate><guid>https://elcaminodelaverdad.es/11-es-teachers-truth/11-6-es-jesephus/</guid><description>&lt;h3 id="maestro-josefo"&gt;Maestro Josefo&lt;/h3&gt;
-&lt;h4 id="mensajes-de-josefo"&gt;Mensajes de Josefo&lt;/h4&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;&lt;strong&gt;Autor&lt;/strong&gt;&lt;/th&gt;
- &lt;th&gt;&lt;strong&gt;Título del mensaje&lt;/strong&gt;&lt;/th&gt;
- &lt;th&gt;&lt;strong&gt;Fecha del mensaje&lt;/strong&gt;&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>Enseñanzas de Martin Lutero</title><link>https://elcaminodelaverdad.es/11-es-teachers-truth/11-8-es-luther/</link><pubDate>Fri, 04 Apr 2025 15:43:52 +0000</pubDate><guid>https://elcaminodelaverdad.es/11-es-teachers-truth/11-8-es-luther/</guid><description>&lt;h3 id="enseñanzas-de-martin-lutero"&gt;Enseñanzas de Martin Lutero&lt;/h3&gt;
-&lt;h4 id="mensajes-de-martin-lutero"&gt;Mensajes de Martin Lutero&lt;/h4&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;&lt;strong&gt;Autor&lt;/strong&gt;&lt;/th&gt;
- &lt;th&gt;&lt;strong&gt;Título del mensaje&lt;/strong&gt;&lt;/th&gt;
- &lt;th&gt;&lt;strong&gt;Fecha del mensaje&lt;/strong&gt;&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>Sabiduría de Confucio</title><link>https://elcaminodelaverdad.es/11-es-teachers-truth/11-9-es-confucius/</link><pubDate>Fri, 04 Apr 2025 15:43:52 +0000</pubDate><guid>https://elcaminodelaverdad.es/11-es-teachers-truth/11-9-es-confucius/</guid><description>&lt;h3 id="sabiduría-de-confucio"&gt;Sabiduría de Confucio&lt;/h3&gt;
-&lt;h4 id="mensajes-de-confucio"&gt;Mensajes de Confucio&lt;/h4&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;&lt;strong&gt;Autor&lt;/strong&gt;&lt;/th&gt;
- &lt;th&gt;&lt;strong&gt;Título del mensaje&lt;/strong&gt;&lt;/th&gt;
- &lt;th&gt;&lt;strong&gt;Fecha del mensaje&lt;/strong&gt;&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>Flor de Loto</title><link>https://elcaminodelaverdad.es/11-es-teachers-truth/11-12-es-lotus/</link><pubDate>Fri, 04 Apr 2025 15:43:52 +0000</pubDate><guid>https://elcaminodelaverdad.es/11-es-teachers-truth/11-12-es-lotus/</guid><description>&lt;h3 id="flor-de-loto"&gt;Flor de Loto&lt;/h3&gt;
-&lt;h4 id="mensajes-de-flor-de-loto"&gt;Mensajes de Flor de Loto&lt;/h4&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;&lt;strong&gt;Autor&lt;/strong&gt;&lt;/th&gt;
- &lt;th&gt;&lt;strong&gt;Título del mensaje&lt;/strong&gt;&lt;/th&gt;
- &lt;th&gt;&lt;strong&gt;Fecha del mensaje&lt;/strong&gt;&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Profesora de la verdad on el camino de la verdad</title>
+    <link>http://localhost:1313/11-es-teachers-truth/</link>
+    <description>Recent content in Profesora de la verdad on el camino de la verdad</description>
+    <generator>Hugo</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Fri, 04 Apr 2025 15:43:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/11-es-teachers-truth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maestro Josefo</title>
+      <link>http://localhost:1313/11-es-teachers-truth/11-6-es-jesephus/</link>
+      <pubDate>Fri, 04 Apr 2025 15:43:52 +0000</pubDate>
+      <guid>http://localhost:1313/11-es-teachers-truth/11-6-es-jesephus/</guid>
+      <description>&lt;h3 id=&#34;maestro-josefo&#34;&gt;Maestro Josefo&lt;/h3&gt;&#xA;&lt;h4 id=&#34;mensajes-de-josefo&#34;&gt;Mensajes de Josefo&lt;/h4&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Autor&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Título del mensaje&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Fecha del mensaje&lt;/strong&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Enseñanzas de Martin Lutero</title>
+      <link>http://localhost:1313/11-es-teachers-truth/11-8-es-luther/</link>
+      <pubDate>Fri, 04 Apr 2025 15:43:52 +0000</pubDate>
+      <guid>http://localhost:1313/11-es-teachers-truth/11-8-es-luther/</guid>
+      <description>&lt;h3 id=&#34;enseñanzas-de-martin-lutero&#34;&gt;Enseñanzas de Martin Lutero&lt;/h3&gt;&#xA;&lt;h4 id=&#34;mensajes-de-martin-lutero&#34;&gt;Mensajes de Martin Lutero&lt;/h4&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Autor&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Título del mensaje&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Fecha del mensaje&lt;/strong&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Sabiduría de Confucio</title>
+      <link>http://localhost:1313/11-es-teachers-truth/11-9-es-confucius/</link>
+      <pubDate>Fri, 04 Apr 2025 15:43:52 +0000</pubDate>
+      <guid>http://localhost:1313/11-es-teachers-truth/11-9-es-confucius/</guid>
+      <description>&lt;h3 id=&#34;sabiduría-de-confucio&#34;&gt;Sabiduría de Confucio&lt;/h3&gt;&#xA;&lt;h4 id=&#34;mensajes-de-confucio&#34;&gt;Mensajes de Confucio&lt;/h4&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Autor&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Título del mensaje&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Fecha del mensaje&lt;/strong&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Flor de Loto</title>
+      <link>http://localhost:1313/11-es-teachers-truth/11-12-es-lotus/</link>
+      <pubDate>Fri, 04 Apr 2025 15:43:52 +0000</pubDate>
+      <guid>http://localhost:1313/11-es-teachers-truth/11-12-es-lotus/</guid>
+      <description>&lt;h3 id=&#34;flor-de-loto&#34;&gt;Flor de Loto&lt;/h3&gt;&#xA;&lt;h4 id=&#34;mensajes-de-flor-de-loto&#34;&gt;Mensajes de Flor de Loto&lt;/h4&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Autor&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Título del mensaje&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Fecha del mensaje&lt;/strong&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>

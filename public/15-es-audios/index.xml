@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Audios on el camino de la verdad</title><link>https://elcaminodelaverdad.es/15-es-audios/</link><description>Recent content in Audios on el camino de la verdad</description><generator>Hugo</generator><language>es-ES</language><lastBuildDate/><atom:link href="https://elcaminodelaverdad.es/15-es-audios/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audios on el camino de la verdad</title>
+    <link>http://localhost:1313/15-es-audios/</link>
+    <description>Recent content in Audios on el camino de la verdad</description>
+    <generator>Hugo</generator>
+    <language>es-ES</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/15-es-audios/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

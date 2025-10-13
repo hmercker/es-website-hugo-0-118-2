@@ -1,12 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jesús de Nazaret on el camino de la verdad</title><link>https://elcaminodelaverdad.es/4-es-jesus/</link><description>Recent content in Jesús de Nazaret on el camino de la verdad</description><generator>Hugo</generator><language>es-ES</language><lastBuildDate>Wed, 02 Apr 2025 15:43:52 +0000</lastBuildDate><atom:link href="https://elcaminodelaverdad.es/4-es-jesus/index.xml" rel="self" type="application/rss+xml"/><item><title>Mensajes a través de Dr Daniel G Samuels</title><link>https://elcaminodelaverdad.es/4-es-jesus/4-3-es-jesus-mess-via-dgs/</link><pubDate>Wed, 02 Apr 2025 15:43:52 +0000</pubDate><guid>https://elcaminodelaverdad.es/4-es-jesus/4-3-es-jesus-mess-via-dgs/</guid><description>&lt;h3 id="mensajes-a-través-de-dr-daniel-g-samuels"&gt;Mensajes a través de Dr Daniel G Samuels&lt;/h3&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;&lt;strong&gt;Autor&lt;/strong&gt;&lt;/th&gt;
- &lt;th&gt;&lt;strong&gt;Título del mensaje&lt;/strong&gt;&lt;/th&gt;
- &lt;th&gt;&lt;strong&gt;Fecha del mensaje&lt;/strong&gt;&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jesús de Nazaret on el camino de la verdad</title>
+    <link>http://localhost:1313/4-es-jesus/</link>
+    <description>Recent content in Jesús de Nazaret on el camino de la verdad</description>
+    <generator>Hugo</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Wed, 02 Apr 2025 15:43:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/4-es-jesus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mensajes a través de Dr Daniel G Samuels</title>
+      <link>http://localhost:1313/4-es-jesus/4-3-es-jesus-mess-via-dgs/</link>
+      <pubDate>Wed, 02 Apr 2025 15:43:52 +0000</pubDate>
+      <guid>http://localhost:1313/4-es-jesus/4-3-es-jesus-mess-via-dgs/</guid>
+      <description>&lt;h3 id=&#34;mensajes-a-través-de-dr-daniel-g-samuels&#34;&gt;Mensajes a través de Dr Daniel G Samuels&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Autor&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Título del mensaje&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Fecha del mensaje&lt;/strong&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>
