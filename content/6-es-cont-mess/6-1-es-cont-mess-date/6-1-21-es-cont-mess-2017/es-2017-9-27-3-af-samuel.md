@@ -1,0 +1,38 @@
+---
+title: "Los dones y el propósito de cada alma"
+menu_title: ""
+description: "Los dones y el propósito de cada alma"
+date: 2025-08-10 06:00:00+00:00
+draft: False
+hidden: True
+weight:
+---
+# Los dones y el propósito de cada alma
+
+Samuel - recibido por Al Fike op 27 de septiembre de 2017, Gibsons, BC, Canadá.
+
+Que Dios os bendiga, amadas almas. Soy Samuel. He venido a hablaros sobre un tema importante: la importancia de conocer el propósito que Dios ha infundido en vuestras almas.
+
+La razón principal por la que un alma encarna en el mundo es establecer su identidad, una individualidad que surge con la experiencia del mundo material y el revestirse de carne. Este es el propósito que cada alma tiene al encarnar.
+
+Así y todo, Dios le da a cada alma otro propósito, un propósito que implica servicio, expresar un don particular en este mundo. Pues cada alma está imbuida de un don particular. Si bien el alma puede tener muchos dones, un don particular que se puede expresar en la vida de uno cumple un deseo específico de Dios: que exprese su propósito de esta manera. Cada uno de vosotros, amadas almas, está empezando a despertar a su propósito, a comprender qué se supone que debe hacer en este mundo, a comprender esos dones particulares dentro de su alma que anhelan manifestarse y cumplir la Voluntad de Dios. Estos dones siempre se expresan para el beneficio de otros. Por tanto, uno podría desear expresarlos en consecuencia.
+
+Dentro de cada alma hay un propósito en este sentido, aunque muy pocas llegan a comprenderlo. Con la afluencia del Amor Divino, el despertar de este propósito es inevitable a medida que crecéis en este Amor y la consciencia de vuestra alma se convierte en vuestra consciencia. Con ello la importancia de esta expresión, de este don, cobra mayor relevancia.
+
+Cada uno de vosotros ha sentido durante toda su vida que tenía algo importante que hacer en este mundo. Por eso Dios os ha reunido, para que os apoyéis mutuamente en estas expresiones, en estos hermosos dones que han de fluir hacia la humanidad. En esto se cumple el Plan de Dios, y en esto se cumple el deseo de vuestra propia alma de servir a Dios. A medida que estos dones con propósito se despliegan en vuestro interior, lo que debe ser se vuelve claro y seguro, y la expresión ni complicada ni enrevesada. Hay una expresión clara, algo que os resulta natural. Porque esta es la naturaleza de los dones, ¿no es así?, que hay un talento, una habilidad, algo dentro de vosotros que fluye con facilidad. Este don es como agua que brota de vuestra alma, las aguas de la Verdad, de la Luz, las aguas que tocan a otros. Y ellos sienten este toque. Saben que hay algo que es hermoso y que es de Dios.
+
+Así, esa parte de vosotros que Dios ha infundido en vuestras almas se manifestará y conmoverá a muchas almas. Para algunos la expresión de su propósito es obvia e innegable en sus mentes, mientras que para otros es más sutil y leve. A medida que vivís vuestra vida este propósito se despliega y se expresa de maneras de las que a menudo no sois conscientes. Pero sigue siendo una función natural de vuestra alma única. Según vuestra alma despierta en el Amor Divino, esto realza esos dones y trae una expresión poderosa. A medida que vuestras almas despiertan y se vuelven más conscientes la consciencia de estos dones y su propósito se hace más fuerte y clara.
+
+Así que os digo esto, mis amadas almas, que al acercaros a estos dones y propósito únicos en vuestras vidas, Dios tiene un plan para cada uno de vosotros. Dios os mostrará el camino. Vosotros os sentís atraídos porque reconocéis que tenéis algo en común en cuanto a lo que tenéis para aportar al mundo y cómo estas aportaciones se complementan. Estas expresiones son resonantes, se funden en un hermoso círculo de Luz, una hermosa expresión que completa el círculo y canaliza intensamente la Luz procedente de Dios a través de vosotros.
+
+Cada uno de vosotros tiene mucho trabajo por delante para traer Luz a este mundo, para ayudar a otros a descubrir su verdadero ser, su alma, a conocer a Dios y Su Amor. Lo hacéis a vuestra manera, con vuestros dones únicos, y al expresarlos juntos surge una gran armonía, una afiliación natural y un afecto que crece. A medida que sigáis en este trabajo, busquéis las verdaderas expresiones de vuestras almas y comprendáis la Voluntad de Dios, se os guiará hacia muchas otras almas que se unirán a vosotros con sus dones especiales, creando un recurso maravilloso para este mundo, un recurso para traer mayor Luz, cambio y sanación a este mundo. Este también es el Plan de Dios.
+
+Mucho está por venir, mis amadas almas, a medida que seguís progresando hacia el futuro. Se desarrollarán mayores despertares, entendimientos más profundos de vosotros mismos y de vuestro propósito. Esto traerá alegría, un profundo sentido de realización, un profundo entendimiento de la preciosidad que es vuestra propia alma y los dones que Dios ha puesto en vosotros.
+
+Yo sugeriría, amadas almas, que es hora de dejar de lado cualquier obstrucción que pueda inhibir el florecimiento de vuestros esfuerzos colectivos para expresar Amor y armonía juntos, para reconocer que cada uno es único. Esto es hermoso. Hay un lugar para que cada uno sirva en unión para el beneficio de la humanidad. Porque es el Amor dentro de vuestras almas lo que trae el poder de esta Luz que os guiará a medida que Dios continúa trayendo Su Guía, Su Inspiración y Su amoroso Toque sobre vosotros. ¿Veis cómo todo esto funciona en conjunto, amadas almas; cómo lo que tenéis para dar beneficia a vuestros hermanos y hermanas y lo que ellos tienen para dar os beneficia a vosotros?
+
+Al reconocer la belleza de cada uno, reconocéis la belleza de la Creación de Dios. Cuanto más poderosos sean vuestros sentimientos de Amor y reconocimiento, más efectivos seréis como canales de Amor y Luz en este mundo. Seguid orando juntos, almas amadas, para trabajar juntos, para reconocer la inspiración que Dios tiene para dar a cada uno y cómo esto funciona para el todo y trae armonía y propósito, para que no haya dudas ni confusión, sino simplemente el gozoso reconocimiento del trabajo que se debe hacer. Tanto trabajo por hacer, porque este mundo necesita Luces preciosas como vosotros, ejemplos poderosos de Amor y armonía. Al permanecer juntos en amorosa armonía con aquellos que también son parte de vuestro círculo, hacéis una poderosa declaración al mundo de que el poder del Amor es mayor que cualquier otra cosa. El poder del Amor es lo que sanará este mundo, el poder del Amor es lo que debe ser reconocido por la humanidad, y esta Verdad necesita ser vivida. Porque sin el componente del Amor este mundo es un lugar lúgubre y todos los maravillosos potenciales que Dios ha infundido en este mundo y dentro de cada alma en este mundo a menudo se pierden porque el Amor no enciende esos potenciales.
+
+¡Qué importante es para vosotros, amadas almas, reconocer el don del Amor de Dios en vuestras almas y expresarlo en todo lo que hacéis, en todo lo que sois! Mucho se puede lograr cuando se basa en el Amor, el Amor del Padre Celestial, el Amor que llega a través de la oración, mediante el toque sagrado del Espíritu Santo. Este es el Amor que cambiará el mundo, porque este es el Amor que transformará a cada alma que desee este Amor, esta maravillosa bendición, y que lo exprese en su vida y descubra, mediante esta experiencia y comunión con Dios, el gran propósito que Él ha infundido en vuestras almas.
+
+Que Dios os bendiga, amados. Soy Samuel y me alegra hablar con vosotros. Os amo. Sigo observando vuestro progreso y ayudándoos cuando puedo en este gran viaje del despertar del alma. Estoy con vosotros. Estoy junto a vosotros. Que Dios os bendiga, amados.

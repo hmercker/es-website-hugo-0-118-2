@@ -1,0 +1,26 @@
+---
+title: "Expiación y armonización con las leyes de Dios"
+menu_title: ""
+description: "Expiación y armonización con las leyes de Dios"
+date: 2025-08-10 06:00:00+00:00
+draft: False
+hidden: True
+weight:
+---
+# Expiación y armonización con las leyes de Dios
+
+Keea Atta Kem - recibido por Maureen Cardoso op 5 de octubre de 2019, Burnaby, BC, Canadá.
+
+Soy Keea Atta Kem, una de las maestras de los Mundos Celestiales, una cuya alma ha sido transformada por la Esencia misma del Amor Divino. Y sí, soy un ser Celestial. Es la terminología correcta. Es un regalo precioso para nosotros en los Reinos Celestiales, y para quienes están en espíritu, presenciar a las almas que residen en el Plano Terrenal y que inician el despertar de su alma mediante el gran don del Amor Divino. Es un regalo que trae gran alegría, armonía y paz, y es el gran regalo que purifica el alma. Y así, vuestro trabajo comienza, por así decir, con el despertar de vuestra alma. Y al continuar con esto, con vuestras sinceras oraciones a Dios, la sinceridad de la petición de vuestro corazón y la apertura de vuestra alma, este regalo de Amor os transforma.
+
+Llegará un momento en vuestro despertar en el que algunos habréis tenido muchas experiencias de expiación, mientras que otros, que son nuevos en este camino, quizá aún no hayan experimentado lo que llamamos expiación. Es la liberación de una condición que no está en armonía con el Amor y las Leyes de Dios, porque existe una relación de causa y efecto. Anheláis que este Amor bendiga vuestra alma, y al escuchar vuestra sinceridad, Dios trae este gran Amor a vuestra alma mediante el don del Espíritu Santo. Y así, como dos cosas no pueden residir en un mismo lugar al mismo tiempo y el don superior prevalece sobre el de la esencia inferior, la condición que reside en vuestra alma, ahora reemplazada por el don del Amor Divino, es levantada y desaparece. Y entonces, en vuestra hermosa alma, reside este Amor para siempre. Y con la acumulación de este Amor prosigue el ciclo continuo de recibir y liberar.
+
+Queridas almas, sois inmensamente bendecidas al conocer este obsequio del Amor Divino. Y lo que Dios os pide, vuestra mayor obra, es despertar vuestra propia alma. Y a medida que vuestra alma despierte, los preciosos dones que Dios ha depositado en ella también despertarán y serán utilizados en vuestra vida para el bien de la humanidad.
+
+Puede existir la necesidad o el deseo de guiar a otros hacia este camino. Y aunque, por supuesto, es un deseo y un acto inocentes, cuando habláis con vuestra mente a la de otro, vuestro mensaje no tiene sentido. Sin embargo, a lo largo de vuestro camino de progreso y despertar del alma, estos cambios que ocurren dentro y alrededor de vosotros tienen un efecto más poderoso en otros. Por eso es importante que despertéis, amados. Vuestro trabajo es despertaros vosotros. Esto no significa que no compartáis esta gran bendición del Amor Divino. No, no es eso lo que digo. Lo que digo es que, al acercaros a Dios, le entregáis vuestra alma y vuestros deseos, y deseáis recorrer el camino que os está destinado. Todo llegará a vuestros pies. Todas las almas que estáis destinados a tocar vendrán a vosotros. No es algo que tengáis que forzar. El Amor Divino es cosa de permitir, de permitir que vuestra alma sea bendecida por el Amor, de permitir que vuestra alma se exprese en su gracia en la medida en que haya sido transformada y estas condiciones disipadas. La expresión de vuestra alma conmoverá a muchos. La obra de vuestra alma será usada por Dios y vosotros, en vuestra mente, puede que ni siquiera sepáis cómo estáis siendo usados.
+
+Así que este camino es diferente, ya que no se trata de cuántas almas podáis traer a Dios. Se trata de traer vuestra alma a Dios y alinearla con el Alma y la Voluntad de Dios. Y a medida que vuestra alma se expande y crece bajo esta Luz y este Amor, todo llegará a vosotros y se os mostrará qué decir, cómo tocar, cómo mirar y, lo más importante, simplemente cómo ser. Porque es en vuestro ser, en la esencia de vuestra alma, donde existe la vida. Y vuestro ser es un poderoso atractor. Y las almas que sean guiadas por Dios para que conozcan este Amor serán traídas a vosotros. Y podréis ver, con los ojos de vuestra alma, la luz que portan quienes están ante vosotros. Y seréis usados como un gran instrumento para Dios, derramando muchas bendiciones, trayendo la verdad y realizando el trabajo de vuestra alma. Esta es la existencia más gratificante y significativa que podéis tener en vuestra Tierra. Mis queridos y amados amigos, todos vosotros sois instrumentos de Dios, y a todos se os está pidiendo que despertéis, que os alineéis y lleguéis a conocer a vuestro amado Creador.
+
+Os agradezco que prestéis atención a mis palabras, pues siento que estáis muy interesados en escuchar con los oídos de vuestra alma. Existe una condición radiante, hermosa y llena de gracia. Vuestras almas están iluminadas e irradian una hermosa frecuencia, pues escuchan esta Verdad, están escuchando el llamado de Dios y desean alinearse con este Amor, un alma despierta.
+
+Soy Keea Atta Kem, una de vuestras maestras Celestiales. Mi amor está con vosotros. Que Dios os bendiga a todos y cada uno de vosotros. Dios os bendiga.
