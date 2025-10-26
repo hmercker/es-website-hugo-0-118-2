@@ -14,8 +14,7 @@ Helen Padgett - recibido por James Padgett el 7 de junio de 1915, Washington, DC
 Estoy aquí, Helen.
 
 Bueno, cariño, tienes demasiado sueño como para escribir, así que será mejor que te vayas a la cama y tengas un buen descanso nocturno.
-
-El Maestro no se ofendió en absoluto, pues comprendió que no podías estar lo bastante despierto para escribir. Él terminará la próxima vez y el discurso te interesará.
+El Maestro no se ofendió en absoluto, pues comprendió que no podías estar lo bastante despierto como para escribir. Él terminará la próxima vez, y el discurso te interesará.
 
 Con todo mi cariño te diré buenas noches.
 
