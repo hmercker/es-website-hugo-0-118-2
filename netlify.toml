@@ -1,3 +1,4 @@
+# netlify.toml — Hugo site
 [build]
   publish = "public"
   command = "hugo"
@@ -5,20 +6,15 @@
 [build.environment]
   HUGO_VERSION = "0.118.2"
   HUGO_ENV = "production"
-  TZ = "UTC"
+  TZ = "UTC"                 # or "Africa/Windhoek" if you prefer local time
 
+# Use the deploy URL as the base for preview/branch builds so links resolve correctly
 [context.deploy-preview]
-  command = "hugo -b $DEPLOY_URL"
-
-[context.deploy-preview.environment]
-  HUGO_VERSION = "0.118.2"
+  command = "hugo -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy]
   command = "hugo -b $DEPLOY_PRIME_URL"
 
-[context.branch-deploy.environment]
-  HUGO_VERSION = "0.118.2"
-
-[context.production.environment]
-  HUGO_VERSION = "0.118.2"
-
+# Production: enable minification on the final site
+[context.production]
+  command = "hugo --minify"
