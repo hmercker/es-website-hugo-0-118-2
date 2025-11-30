@@ -11,7 +11,7 @@
 
   {{ $styles := resources.Get "scss/style.scss" | toCSS (dict "targetPath" "css/style.css" "enableSourceMap" true) }}
   
-  {{ if .Site.IsServer }}
+  {{ if hugo.IsServer }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}">
   {{ else }}
   <link rel="stylesheet" href="{{ ($styles | minify | fingerprint).Permalink }}">
@@ -92,7 +92,7 @@
   {{ $scripts := resources.Get "js/scripts.js" }}
   {{ $js := slice $scripts | resources.Concat "js/bundle.js" }}
 
-  {{ if .Site.IsServer }}
+  {{ if hugo.IsServer }}
   <script type="text/javascript" src="{{ $js.Permalink }}"></script>
   {{ else }}
   <script type="text/javascript" src="{{ ($js | minify | fingerprint).Permalink }}"></script>

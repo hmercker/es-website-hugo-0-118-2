@@ -3,7 +3,7 @@
   {{ range site.Sections }}  <!-- Updated from .Site.Home.Sections for modern Hugo -->
     <!-- Include sections only if they are NOT drafts -->
     {{ if not .Draft }}
-      {{ template "menu" dict "sect" . "currentnode" $currentNode }}
+      {{ template "menu" (dict "sect" . "currentnode" $currentNode) }}
     {{ end }}
   {{ end }}
 </ul>
@@ -24,7 +24,7 @@
           {{ range $pages.ByWeight }}
             <!-- Include pages only if they are NOT drafts -->
             {{ if not .Draft }}
-              {{ template "menu" dict "sect" . "currentnode" $currentNode }}
+              {{ template "menu" (dict "sect" . "currentnode" $currentNode) }}
             {{ end }}
           {{ end }}
         </ul>

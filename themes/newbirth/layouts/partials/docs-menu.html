@@ -1,7 +1,7 @@
 {{$currentNode := .}}
 <ul>
   {{ range .Site.Home.Sections }}
-  {{ template "menu" dict "sect" . "currentnode" $currentNode}}
+  {{ template "menu" (dict "sect" . "currentnode" $currentNode) }}
   {{ end }}
 </ul>
 
@@ -25,7 +25,7 @@
       {{- range $pages.ByWeight -}}
       {{- if and .Params.hidden (not $.showhidden) -}}
       {{- else -}}
-      {{template "menu" dict "sect" . "currentnode" $currentNode}}
+      {{template "menu" (dict "sect" . "currentnode" $currentNode) }}
       {{- end -}}
       {{- end -}}
 
