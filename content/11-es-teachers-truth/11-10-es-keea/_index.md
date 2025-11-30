@@ -9,6 +9,6 @@ weight: 100
 ---
 ### Keea Atta Kem - hija de Ramsés II
 
- | <div style="text-align: center;"> **Año**</div> | 
+ |  **Año** | 
 ---|---|---
-<div style="text-align: center;">[1963 - 2020](/11-es-teachers-truth/11-10-es-keea/11-10-1-es-keea-1963-2020/)</div> | <div style="text-align: center;">[2021 - 2025](/11-es-teachers-truth/11-10-es-keea/11-10-2-es-keea-2021-2025/)</div> | 
+[1963 - 2020](/11-es-teachers-truth/11-10-es-keea/11-10-1-es-keea-1963-2020/) | [2021 - 2025](/11-es-teachers-truth/11-10-es-keea/11-10-2-es-keea-2021-2025/) | 

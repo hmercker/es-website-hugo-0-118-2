@@ -9,9 +9,9 @@ weight: 40
 ---
 ### Personalidades del Nuevo Testamento
 
- | <div style="text-align: center;">**Nombre**</div> | 
+ | **Nombre** | 
 ---|---|---
-<div style="text-align: center;">[Bernabé (Apóstol)](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-1-es-barnabas/)</div> | <div style="text-align: center;">[José (padre de Jesús)](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-4-es-joseph/)</div> | <div style="text-align: center;">[Juan (el Bautista)](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-2-es-john-baptist/)</div>
-<div style="text-align: center;">[(Juan) Marcos](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-3-es-mark/)</div> | <div style="text-align: center;">[Lázaro (de Betania)](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-5-es-lazarus/)</div> | <div style="text-align: center;">[María (madre de Jesús)](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-7-es-mary/)</div>
-<div style="text-align: center;">[María Magdalena](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-8-es-mary-magdalene/)</div> | <div style="text-align: center;">[Nicodemo](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-9-es-nicodemus/)</div> | <div style="text-align: center;">[Pablo (de Tarso)](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-10-es-paul-tarsus/)</div>
-<div style="text-align: center;">[San Esteban](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-11-es-stephen/)</div> | <div style="text-align: center;">[San Lucas (el médico) el Evangelista](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-6-es-luke/)</div> | 
+[Bernabé (Apóstol)](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-1-es-barnabas/) | [José (padre de Jesús)](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-4-es-joseph/) | [Juan (el Bautista)](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-2-es-john-baptist/)
+[(Juan) Marcos](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-3-es-mark/) | [Lázaro (de Betania)](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-5-es-lazarus/) | [María (madre de Jesús)](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-7-es-mary/)
+[María Magdalena](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-8-es-mary-magdalene/) | [Nicodemo](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-9-es-nicodemus/) | [Pablo (de Tarso)](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-10-es-paul-tarsus/)
+[San Esteban](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-11-es-stephen/) | [San Lucas (el médico) el Evangelista](/11-es-teachers-truth/11-4-es-pers-new-test/11-4-6-es-luke/) | 
