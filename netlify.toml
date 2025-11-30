@@ -18,3 +18,12 @@
 # Production: enable minification on the final site
 [context.production]
   command = "hugo --minify"
+
+[context.production.environment]
+  HUGO_IS_SERVER = "false"
+
+[context.deploy-preview.environment]
+  HUGO_IS_SERVER = "true"
+
+[context.branch-deploy.environment]
+  HUGO_IS_SERVER = "true"
